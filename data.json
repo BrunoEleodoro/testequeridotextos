@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYw9TF7uAsEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYwYujueEsEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "1029053637842238076",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2018-11-03T20:57:00-03:00",
+   "updated": "2018-11-03T20:57:26-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQxMjg5NDQ2OTAzCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2018/11/voce-merece-ser-feliz.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1029053637842238076",
+   "title": "Você merece ser feliz,.",
+   "content": "\u003cspan style=\"font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif;\"\u003eEsqueça tudo o que te faz mal, você precisa se recuperar e ir atrás da sua felicidade. Não vale a pena ficar remoendo o passado, você precisa seguir em frente em busca de mais harmonia em sua vida. Dê espaço para o novo, pois você merece ser feliz!\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-ONabMWl-7aI/Ws_HeyLYztI/AAAAAAAAtXg/jzJISY_H1EonZ8VCTBpwZCUsXhemP2FagCLcBGAs/s1600/m000455990.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"425\" data-original-width=\"638\" height=\"213\" src=\"https://1.bp.blogspot.com/-ONabMWl-7aI/Ws_HeyLYztI/AAAAAAAAtXg/jzJISY_H1EonZ8VCTBpwZCUsXhemP2FagCLcBGAs/s320/m000455990.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://1.bp.blogspot.com/-ONabMWl-7aI/Ws_HeyLYztI/AAAAAAAAtXg/jzJISY_H1EonZ8VCTBpwZCUsXhemP2FagCLcBGAs/s320/m000455990.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1029053637842238076/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "6129364270430347609",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2018-11-03T20:56:00-03:00",
+   "updated": "2018-11-03T20:56:49-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQxMjg5NDA5NDUxCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2018/11/com-pressa-dos-dias.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6129364270430347609",
+   "title": "Com a pressa dos dias.",
+   "content": "\u003cspan style=\"font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif;\"\u003eCom os ventos fortes do tempo, muitos corações se vão, muitas histórias terminam e laços fracos se rompem. Com a pressa dos dias, muitos de nós nem vemos o calendário, sequer aproveitamos a vida e apenas existimos.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-OYbJScWZiyo/Ws52JKmvNlI/AAAAAAAAtXQ/_aAoG8SqPWclpdrQcnMwnpt70aaK9tTtQCLcBGAs/s1600/m000456078.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"425\" data-original-width=\"638\" height=\"213\" src=\"https://1.bp.blogspot.com/-OYbJScWZiyo/Ws52JKmvNlI/AAAAAAAAtXQ/_aAoG8SqPWclpdrQcnMwnpt70aaK9tTtQCLcBGAs/s320/m000456078.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://1.bp.blogspot.com/-OYbJScWZiyo/Ws52JKmvNlI/AAAAAAAAtXQ/_aAoG8SqPWclpdrQcnMwnpt70aaK9tTtQCLcBGAs/s320/m000456078.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6129364270430347609/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5725481686853589744",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2018-11-03T20:55:00-03:00",
+   "updated": "2018-11-03T20:55:50-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQxMjg5MzUwNzI5Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2018/11/cada-guerra-no-seu-tempo.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5725481686853589744",
+   "title": "Cada guerra no seu tempo.",
+   "content": "\u003cspan style=\"font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif;\"\u003eExistem conflitos que são inevitáveis. Mas cada um deles deve acontecer no seu próprio tempo. Não adianta ficar remoendo uma batalha que já ficou para trás. Agora é o momento de olhar para frente.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"font-family: &quot;roboto&quot; , &quot;arial&quot; , sans-serif; font-size: 20px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://2.bp.blogspot.com/-TemreNHKeME/Ws0lTX-wyQI/AAAAAAAAtTg/bDSSvsT95qMbmriykFbkIhniNnAQVx25ACLcBGAs/s1600/large.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"640\" data-original-width=\"640\" height=\"320\" src=\"https://2.bp.blogspot.com/-TemreNHKeME/Ws0lTX-wyQI/AAAAAAAAtTg/bDSSvsT95qMbmriykFbkIhniNnAQVx25ACLcBGAs/s320/large.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://2.bp.blogspot.com/-TemreNHKeME/Ws0lTX-wyQI/AAAAAAAAtTg/bDSSvsT95qMbmriykFbkIhniNnAQVx25ACLcBGAs/s320/large.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5725481686853589744/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "1928703112119423224",
@@ -5335,85 +5428,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6539654715024056122/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4382762751178326092",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-09-24T20:11:00-03:00",
-   "updated": "2018-09-24T20:11:23-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTM3ODMwNjgzNTc2Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2018/09/ah-vida-fez-eu-ficar-pra-baixo-fez-eu.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4382762751178326092",
-   "title": "",
-   "content": "\u003cspan style=\"background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif;\"\u003eAh vida fez eu ficar pra baixo, fez eu pensar em desistir, fez eu me magoar por nada, fez meu coração ficar em pedaços, mais eu sempre acreditei que dias melhores iriam chegar... Mais sabe? Minha vida só melhorou quando você chegou, você chegou eh foi ah solução pra todos os meus problemas, eu prometo que nunca vou desisti de nós, eu prometo estar com você até meu último suspiro, eu prometo que irei te irritar pra sempre... Cara você chegou eh mudou ah minha vida q era toda sem graça, hoje é você q faz dos meus dias os melhores do mundo, quando eu estou com você eu quero q o momento pare naquele lugar, naquele abraço, naquele beijo, naquele instante...&nbsp;\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #222222; font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #222222; font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cb\u003eTaniwaki\u003c/b\u003e\u003c/span\u003e\u003c/span\u003e",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4382762751178326092/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4602405846124851816",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-09-24T20:07:00-03:00",
-   "updated": "2018-09-24T20:07:58-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTM3ODMwNDc4NDAzCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2018/09/respeite-voce-mais-do-que-aos-outros.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4602405846124851816",
-   "title": "",
-   "content": "\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eRespeite a Você Mais do que aos Outros\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eNão pense que a pessoa tem tanta força assim a ponto de levar qualquer espécie de vida e continuar a mesma. (...) Nem sei como lhe explicar minha alma. Mas o que eu queria dizer é que a gente é muito preciosa, e que é somente até um certo ponto que a gente pode desistir de si própria e se dar aos outros e às circunstâncias. (...) Pretendia apenas lhe contar o meu novo carácter, ou falta de carácter. (...) Querida, quase quatro anos me transformaram muito. Do momento em que me resignei, perdi toda a vivacidade e todo interesse pelas coisas. Você já viu como um touro castrado se transforma num boi? Assim fiquei eu... em que pese a dura comparação... Para me adaptar ao que era inadaptável, para vencer minhas repulsas e meus sonhos, tive que cortar meus grilhões - cortei em mim a forma que poderia fazer mal aos outros e a mim. E com isso cortei também minha força. Espero que você nunca me veja assim resignada, porque é quase repugnante. (...) Uma amiga, um dia desses, encheu-se de coragem, como ela disse, e me perguntou: você era muito diferente, não era? Ela disse que me achava ardente e vibrante, e que quando me encontrou agora se disse: ou essa calma excessiva é uma atitude ou então ela mudou tanto que parece quase irreconhecível. Uma outra pessoa disse que eu me movo com lassidão de mulher de cinquenta anos. (...) o que pode acontecer com uma pessoa que fez pacto com todos, e que se esqueceu de que o nó vital de uma pessoa deve ser respeitado. Ouça: respeite a você mais do que aos outros, respeite suas exigências, respeite mesmo o que é ruim em você - respeite sobretudo o que você imagina que é ruim em você - pelo amor de Deus, não queira fazer de você uma pessoa perfeita - não copie uma pessoa ideal, copie você mesma - é esse o único meio de viver.&nbsp;\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/span\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cb\u003eClarice Lispector, in 'Carta a Tânia [irmã de Clarice] (1947)'&nbsp;\u003c/b\u003e\u003c/span\u003e",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4602405846124851816/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4986416255342628667",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-09-24T20:02:00-03:00",
-   "updated": "2018-09-24T20:02:40-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTM3ODMwMTYwNjc1Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2018/09/autopsicografia-o-poeta-e-um-fingidor.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4986416255342628667",
-   "title": "",
-   "content": "\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eAUTOPSICOGRAFIA\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eO poeta é um fingidor.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eFinge tão completamente\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eQue chega a fingir que é dor\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eA dor que deveras sente.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eE os que lêem o que escreve,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eNa dor lida sentem bem,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eNão as duas que ele teve,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eMas só a que eles não têm.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eE assim nas calhas da roda\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eGira, a entreter a razão,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eEsse comboio de corda\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eQue se chama o coração.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cb\u003e\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eFernando Pessoa\u003c/span\u003e\u003c/b\u003e\u003c/div\u003e\n",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4986416255342628667/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOC0xMS0wM1QyMDozNjoxMy44MDFa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOC0xMS0wM1QyMzo1NzoyNi45MDNa\""
 }
