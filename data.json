@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYw9TF7uAsEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYo_zX7uAsEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "6548245664942859476",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2018-11-03T16:37:00-03:00",
+   "updated": "2018-11-03T16:37:42-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQxMjczODYyMjgzCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2018/11/teste-do-aplicativo.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6548245664942859476",
+   "title": "Teste do aplicativo",
+   "content": "\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\nteste&nbsp;\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003cspan style=\"background-color: #f5f8fa; color: #14171a; font-family: &quot;Segoe UI&quot;, Arial, sans-serif; font-size: 14px; text-align: start; white-space: pre-wrap;\"\u003eCoisas que amo fazer:\n\n— Dormir.\n— Descansar os olhos.\n— Cochilar.\n— Tirar uma soneca.\n— Puxar um ronco.\n— Capotar na cama.\n— Nanar...\u003c/span\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003cspan style=\"background-color: #f5f8fa; color: #14171a; font-family: &quot;Segoe UI&quot;, Arial, sans-serif; font-size: 14px; text-align: start; white-space: pre-wrap;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003cspan style=\"background-color: white; color: #14171a; font-family: &quot;Segoe UI&quot;, Arial, sans-serif; font-size: 14px; text-align: start; white-space: pre-wrap;\"\u003eAmor é apenas uma palavra, até você encontrar alguém que dê um verdadeiro sentido a ela.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://3.bp.blogspot.com/-aoM7WQkDKaA/W934hZBVifI/AAAAAAAAvWU/WcXCN5pdRRkLvTRKfRft2bMQRpZO-Ta9gCLcBGAs/s1600/_png_brush_flying_birds__by_bitcheslovesunicorns-d6jb1fc.png\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"500\" data-original-width=\"500\" height=\"320\" src=\"https://3.bp.blogspot.com/-aoM7WQkDKaA/W934hZBVifI/AAAAAAAAvWU/WcXCN5pdRRkLvTRKfRft2bMQRpZO-Ta9gCLcBGAs/s320/_png_brush_flying_birds__by_bitcheslovesunicorns-d6jb1fc.png\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cbr /\u003e",
+   "images": [
+    {
+     "url": "https://3.bp.blogspot.com/-aoM7WQkDKaA/W934hZBVifI/AAAAAAAAvWU/WcXCN5pdRRkLvTRKfRft2bMQRpZO-Ta9gCLcBGAs/s320/_png_brush_flying_birds__by_bitcheslovesunicorns-d6jb1fc.png"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6548245664942859476/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "1928703112119423224",
@@ -5387,33 +5418,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4602405846124851816/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4986416255342628667",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-09-24T20:02:00-03:00",
-   "updated": "2018-09-24T20:02:40-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTM3ODMwMTYwNjc1Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2018/09/autopsicografia-o-poeta-e-um-fingidor.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4986416255342628667",
-   "title": "",
-   "content": "\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eAUTOPSICOGRAFIA\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eO poeta é um fingidor.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eFinge tão completamente\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eQue chega a fingir que é dor\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eA dor que deveras sente.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eE os que lêem o que escreve,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eNa dor lida sentem bem,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eNão as duas que ele teve,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eMas só a que eles não têm.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eE assim nas calhas da roda\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eGira, a entreter a razão,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eEsse comboio de corda\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eQue se chama o coração.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cb\u003e\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eFernando Pessoa\u003c/span\u003e\u003c/b\u003e\u003c/div\u003e\n",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4986416255342628667/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOC0xMS0wMVQxODo1MzoxNS41NDRa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOC0xMS0wM1QxOTozNzo0Mi4yODNa\""
 }
