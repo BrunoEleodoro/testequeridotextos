@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEY4ZjO5eosEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYwu3R5eosEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "4993310405511375344",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2018-11-21T15:22:00-02:00",
+   "updated": "2018-11-21T15:22:47-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQyODIwOTY3MTc2Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2018/11/recado-querido-textos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4993310405511375344",
+   "title": "RECADO QUERIDO TEXTOS!",
+   "content": "Olá, boa tarde!\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\nHá alguns dias sofremos uma onda forte de baixa classificação por conta das atualizações recente. Nós do Querido Textos estamos trabalhando todos os dias para que o aplicativo de vocês funcionem da melhor maneira possível e que seja um dos melhores aplicativos, mas infelizmente passamos por momentos difíceis, em que poucas pessoas que não reconhecem o nosso esforço.&nbsp;\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\nNós do Querido Textos, estamos pedindo para você que gosta muito do nosso aplicativo, avaliem na Google Play, assim, podemos juntos ajudar milhares de pessoas e com isso crescer essa comunidade ainda mais.\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\nPara avaliar na Google Play entre em Querido Textos e deixe sua classificação e comentário.&nbsp;\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\nObrigado à todos!\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\nAtt Equipe Querido Textos.\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-7zdANY8_kUE/W_WUXT2s6MI/AAAAAAAAvmU/wwqZRuDPtWUnY1553YWuOlJjueQoeOGDwCLcBGAs/s1600/WhatsApp%2BImage%2B2018-11-21%2Bat%2B15.21.46.jpeg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"1280\" data-original-width=\"720\" height=\"320\" src=\"https://1.bp.blogspot.com/-7zdANY8_kUE/W_WUXT2s6MI/AAAAAAAAvmU/wwqZRuDPtWUnY1553YWuOlJjueQoeOGDwCLcBGAs/s320/WhatsApp%2BImage%2B2018-11-21%2Bat%2B15.21.46.jpeg\" width=\"180\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n&nbsp;\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://1.bp.blogspot.com/-7zdANY8_kUE/W_WUXT2s6MI/AAAAAAAAvmU/wwqZRuDPtWUnY1553YWuOlJjueQoeOGDwCLcBGAs/s320/WhatsApp%2BImage%2B2018-11-21%2Bat%2B15.21.46.jpeg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4993310405511375344/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "6012858375578698505",
@@ -5680,38 +5711,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1936550805163810927/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8049026821586258597",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-10-25T16:29:00-03:00",
-   "updated": "2018-11-20T22:03:44-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQyNzU4NjI0MzYyCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/10/eu-tenho-medo-de-nao-encontrar-ninguem.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8049026821586258597",
-   "title": "Eu tenho medo de não encontrar ninguém.",
-   "content": "\u003cdiv dir=\"ltr\" style=\"background-color: white; color: #222222; font-family: arial, sans-serif; line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;\"\u003e\n\u003cspan style=\"font-family: &quot;arial&quot;; vertical-align: baseline; white-space: pre-wrap;\"\u003eMesmo que eu tente me convencer de que eu consigo viver sozinha e comigo mesma, eu sinto falta de ter alguém. Sinto falta de conversar com alguém todos os dias sobre como foi meu dia ou me sentir amada. Não sentir que tô sozinha nesse mundo. \u003c/span\u003e\u003c/div\u003e\n\u003cdiv dir=\"ltr\" style=\"background-color: white; color: #222222; font-family: arial, sans-serif; line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;\"\u003e\n\u003cspan style=\"font-family: &quot;arial&quot;; vertical-align: baseline; white-space: pre-wrap;\"\u003eEu me engano todos os dias falando para mim mesma que eu não preciso de ninguém pra ser feliz ou que eu posso ser feliz apenas comigo mesma e eu me basto, mas no fundo, eu sei o que eu sinto. Me sinto sozinha, sinto que falta uma parte, e eu não gosto disso. Sei que é impossível se sentir 100% completa, mas eu gostava de ter alguém disponível pra mim 99% do tempo. \u003c/span\u003e\u003c/div\u003e\n\u003cdiv dir=\"ltr\" style=\"background-color: white; color: #222222; font-family: arial, sans-serif; line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;\"\u003e\n\u003cspan style=\"font-family: &quot;arial&quot;; vertical-align: baseline; white-space: pre-wrap;\"\u003eEu tenho medo. \u003c/span\u003e\u003c/div\u003e\n\u003cdiv dir=\"ltr\" style=\"background-color: white; color: #222222; font-family: arial, sans-serif; line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;\"\u003e\n\u003cspan style=\"font-family: &quot;arial&quot;; vertical-align: baseline; white-space: pre-wrap;\"\u003eEu tenho medo de não encontrar ninguém, mesmo que eu saiba que existem 7 bilhões de pessoas no mundo, eu tenho medo de ficar solitária. Eu não gosto de sentir isso, sinto que é errado. Eu deveria me sentir o suficiente comigo mesma e não me sentir sozinha e sentir que tá faltando alguma parte… \u003c/span\u003e\u003c/div\u003e\n\u003cdiv dir=\"ltr\" style=\"background-color: white; color: #222222; font-family: arial, sans-serif; line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;\"\u003e\n\u003cspan style=\"font-family: &quot;arial&quot;; vertical-align: baseline; white-space: pre-wrap;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv dir=\"ltr\" style=\"background-color: white; color: #222222; font-family: arial, sans-serif; line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;\"\u003e\n\u003cspan style=\"font-family: &quot;arial&quot;; vertical-align: baseline; white-space: pre-wrap;\"\u003e\u003cspan style=\"font-family: &quot;arial&quot; , sans-serif; font-weight: 700; white-space: nowrap;\"\u003eVivian Tenorio\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"font-family: &quot;arial&quot;; vertical-align: baseline; white-space: pre-wrap;\"\u003e\u003cspan style=\"font-family: &quot;arial&quot; , sans-serif; white-space: nowrap;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cspan style=\"font-family: &quot;arial&quot;; vertical-align: baseline; white-space: pre-wrap;\"\u003e\u003cspan style=\"font-family: &quot;arial&quot; , sans-serif; white-space: nowrap;\"\u003e#Reflexao\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"font-family: &quot;arial&quot;; vertical-align: baseline; white-space: pre-wrap;\"\u003e\u003cspan style=\"font-family: &quot;arial&quot; , sans-serif; font-weight: 700; white-space: nowrap;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv dir=\"ltr\" style=\"background-color: white; color: #222222; font-family: arial, sans-serif; line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;\"\u003e\n\u003cspan style=\"font-family: &quot;arial&quot;; vertical-align: baseline; white-space: pre-wrap;\"\u003e\u003cspan style=\"font-family: &quot;arial&quot; , sans-serif; font-weight: 700; white-space: nowrap;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://2.bp.blogspot.com/-ZybQyRZ_oVo/Wp7Ps7gDPZI/AAAAAAAAtDw/BAmUq6WMb3sKEY8C0eojQz14WTZkdbo_QCLcBGAs/s1600/tumblr_lwlsmoy9HP1qhjssmo1_500.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"375\" data-original-width=\"500\" height=\"240\" src=\"https://2.bp.blogspot.com/-ZybQyRZ_oVo/Wp7Ps7gDPZI/AAAAAAAAtDw/BAmUq6WMb3sKEY8C0eojQz14WTZkdbo_QCLcBGAs/s320/tumblr_lwlsmoy9HP1qhjssmo1_500.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://2.bp.blogspot.com/-ZybQyRZ_oVo/Wp7Ps7gDPZI/AAAAAAAAtDw/BAmUq6WMb3sKEY8C0eojQz14WTZkdbo_QCLcBGAs/s320/tumblr_lwlsmoy9HP1qhjssmo1_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8049026821586258597/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOC0xMS0yMVQxNjoxNzo1MS4zNDFa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOC0xMS0yMVQxNzoyMjo0Ny4xNzZa\""
 }
