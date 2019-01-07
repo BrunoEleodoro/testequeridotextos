@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEY4pKr6PssEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYoo_B6PssEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "4346094189811486785",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-07T20:10:00-02:00",
+   "updated": "2019-01-07T20:10:26-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ2ODk5MDI2ODA4Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/feliz-dia-do-leitor.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4346094189811486785",
+   "title": "Feliz dia do leitor.",
+   "content": "\u003cspan style=\"font-family: Roboto, Arial, sans-serif; font-size: 20px;\"\u003eParabéns a você, leitor, responsável por inspirar cada vez mais criações, mais mundos inventados e histórias que necessitam ser contadas. Por ser criativo o suficiente para imaginar as páginas de um livro e, em um enredo, conseguir sentir-se tão parte da história quanto o personagem principal. Além de necessário, ler é abrir uma porta para conhecer universos completamente novos, mesmo que eles tenham acontecido no mundo real, a depender do gênero favorito ou escolhido da vez.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"font-family: Roboto, Arial, sans-serif; font-size: 20px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://2.bp.blogspot.com/-IrGLUkW3O7c/XDPOSS465aI/AAAAAAAAwUM/yznytlgUQ6QlI-Scp9CE0db8jbfPlDfFgCLcBGAs/s1600/3d025119c64643bb6b1a7e383c0afedd.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"640\" data-original-width=\"640\" height=\"320\" src=\"https://2.bp.blogspot.com/-IrGLUkW3O7c/XDPOSS465aI/AAAAAAAAwUM/yznytlgUQ6QlI-Scp9CE0db8jbfPlDfFgCLcBGAs/s320/3d025119c64643bb6b1a7e383c0afedd.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"font-family: Roboto, Arial, sans-serif; font-size: 20px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://2.bp.blogspot.com/-IrGLUkW3O7c/XDPOSS465aI/AAAAAAAAwUM/yznytlgUQ6QlI-Scp9CE0db8jbfPlDfFgCLcBGAs/s320/3d025119c64643bb6b1a7e383c0afedd.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4346094189811486785/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "2582726434536212259",
@@ -5865,38 +5896,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1752667095872553701/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8146115261123732483",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-17T14:41:00-02:00",
-   "updated": "2018-12-17T20:53:23-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1MDg3MjAzMDk3Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/estrelas-como-pessoas.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8146115261123732483",
-   "title": "Estrelas como pessoas.",
-   "content": "\u003cspan style=\"background-color: white; color: #24292e;\"\u003eEu já cansei de tentar capturar as estrelas.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eQuando era menor costumava achar que ela viviam na terra durante o dia, e de noite subiam ao céu para seu espetáculo noturno diário.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eMas então eu cresci, e aprendi que elas não passam de meras ilusões.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eQue já foram enormes bolas de gás, mas que agora são apenas o brilho cintilante que restou de suas explosões.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eCustei a acreditar que eu não conseguiria as tocar dia.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eEu tinha amado tanto uma coisa que na verdade nem era real.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eA mesma coisa acontece com pessoas, que são totalmente reais.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eNós nos sentimos totalmente apaixonados e que queremos capturar aquilo a todo custo, mas as vezes os sentimentos não são reais.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eSão apenas sentimentos fantasmas ou pequenas cintilações de coisas que já foram reais, mas que deixaram de existir.,\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eMariah Romero\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e#reflexão\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://3.bp.blogspot.com/-NUu-AP3JaiY/XBgo1Y5zrWI/AAAAAAAAv9I/jyEgpK_qZ9QL85_rjAXHurmzNze_joFRwCLcBGAs/s1600/tumblr_oyl404S55u1qaf9imo1_250.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"313\" data-original-width=\"251\" src=\"https://3.bp.blogspot.com/-NUu-AP3JaiY/XBgo1Y5zrWI/AAAAAAAAv9I/jyEgpK_qZ9QL85_rjAXHurmzNze_joFRwCLcBGAs/s1600/tumblr_oyl404S55u1qaf9imo1_250.jpg\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://3.bp.blogspot.com/-NUu-AP3JaiY/XBgo1Y5zrWI/AAAAAAAAv9I/jyEgpK_qZ9QL85_rjAXHurmzNze_joFRwCLcBGAs/s1600/tumblr_oyl404S55u1qaf9imo1_250.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8146115261123732483/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0wN1QyMDo1NDo1MS44NDda\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0wN1QyMjoxMDoyNi44MDha\""
 }
