@@ -1,7 +1,95 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYhL_c8vssEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYxeuCkvwsEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "7263658906264099802",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-09T22:40:00-02:00",
+   "updated": "2019-01-09T22:40:31-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3MDgwODMxMjM5Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/quero-ser-crianca-novavente.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7263658906264099802",
+   "title": "Quero ser criança novavente ",
+   "content": "As vezes eu paro e observo as crianças correndo e brincando com se não \nhouvesse amanhã e ao mesmo tempo fico pensando: uau como era maravilhoso\n ser criança ser uma pessoa que não entender o mundo que não sabe que o \nmundo é ruim que não faz a mínima ideia o\u003cbr /\u003e\né depressão ou ansiedade ela só sorriem e brincam.\u003cbr /\u003e\nE quando elas cresceram vão ver como é perder a inocência perder aquele \nsorriso lindo que dava por causa de bobeira agora nós ainda temos esse \nsorriso mas não é mais o mesmo sorriso esse sorriso que temos é aquele \nsorriso falso aquele sorriso que damos quando queremos esconder as \nlágrimas e o vazio dentro de nós e eu daria tudo para ter esse sorriso \nsincero de novo ou poder simplesmente esquecer de tudo do mal que o \nmundo pode fazer.\u003cbr /\u003e\n\u003cbr /\u003e\nGabriela Canito\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para criança tumblr\" class=\"irc_mi\" height=\"408\" src=\"https://66.media.tumblr.com/a188445bd42a6169d589843e3fe672bc/tumblr_inline_mj0p8yVX7W1qz4rgp.jpg\" style=\"margin-top: 0px;\" width=\"404\" /\u003e ",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/a188445bd42a6169d589843e3fe672bc/tumblr_inline_mj0p8yVX7W1qz4rgp.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7263658906264099802/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "9116053666747740447",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-09T22:39:00-02:00",
+   "updated": "2019-01-09T22:39:17-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3MDgwNzU3MjA2Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/as-definicoes-do-amor.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9116053666747740447",
+   "title": "As definições do amor.",
+   "content": "\u003cbr /\u003e\nPossível sentimento do apaixonado\u003cbr /\u003e\nA dor do insensato\u003cbr /\u003e\nA tristeza do não correspondido\u003cbr /\u003e\nA felicidade do amado\u003cbr /\u003e\nA sabedoria do casado\u003cbr /\u003e\nA intensidade do amante\u003cbr /\u003e\nA verdade dos batimentos\u003cbr /\u003e\nA vontade do que ama\u003cbr /\u003e\nA chegada do que luta\u003cbr /\u003e\nA largada do que se entrega\u003cbr /\u003e\nA vida do que assume\u003cbr /\u003e\nA falta do que se ausenta\u003cbr /\u003e\nA liberdade do que n sente\u003cbr /\u003e\nA ira do que se esconde\u003cbr /\u003e\nA lágrima do que o perde\u003cbr /\u003e\nA sinceridade do que o declara\u003cbr /\u003e\n\"O poema da alma amada\".\u003cbr /\u003e\n\u003cbr /\u003e\nRhayanne Galvão",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9116053666747740447/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3743974002319031455",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-09T22:35:00-02:00",
+   "updated": "2019-01-09T22:35:42-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3MDgwNTQyNDg0Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/foda-se.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3743974002319031455",
+   "title": "Foda-se",
+   "content": "Incógnita\u003cbr /\u003e\nCara, que merda é essa?\u003cbr /\u003e\nComo assim?\u003cbr /\u003e\nPor que você está fazendo isso?\u003cbr /\u003e\nPor que está se escondendo?\u003cbr /\u003e\nFingindo ser alguém que você não é,\u003cbr /\u003e\nE tudo porquê?\u003cbr /\u003e\nPor medo do que a sociedade vai pensar?\u003cbr /\u003e\nCara, quem liga?\u003cbr /\u003e\nFODA-SE a sociedade e toda essa merda de padrões que ela impõe sobre todos!!\u003cbr /\u003e\nSe vc é gay, lésbica, bissexual, transexual, unicórnio,fada, borboleta, \nou se simplesmente está cansado(a) de toda essa porra de injustiça ou de\n pessoas bisbilhoteiras que não cuidam da própria vida.\u003cbr /\u003e\nEntenda bem uma coisa, a vida éq SUA e SOMENTE SUA.\u003cbr /\u003e\nNinguém, absolutamente ninguém tem nada que ver o que você faz ou deixa de fazer.\u003cbr /\u003e\nEntão solte-se mais, viva mais, ame mais, beije mais, coma mais...\u003cbr /\u003e\nEnfim seja você, seja quem você sempre quis ser, sem limites para a felicidade.\u003cbr /\u003e\nFaça o que sentir vontade, não se apegue a imagem.\u003cbr /\u003e\nAme o próximo com o coração,ame a si mesmo com adoração.\u003cbr /\u003e\nE não esqueça ninguém tem de opinar sobre seu coração.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para revoltado tumblr\" class=\"irc_mi\" height=\"357\" src=\"https://najanelablog.files.wordpress.com/2012/09/tumblr_lm3ihb7jnt1qkb4zeo1_500_large.jpg\" style=\"margin-top: 26px;\" width=\"500\" /\u003e ",
+   "images": [
+    {
+     "url": "https://najanelablog.files.wordpress.com/2012/09/tumblr_lm3ihb7jnt1qkb4zeo1_500_large.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3743974002319031455/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "3343522982466417752",
@@ -5798,100 +5886,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5338430512160971410/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8705377714231248398",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-18T14:57:00-02:00",
-   "updated": "2018-12-18T20:28:31-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1MTcyMTExOTQ5Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/a-solidao.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8705377714231248398",
-   "title": "A solidão",
-   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eVocê já tentou descreve-la, explicá-la, já sim todos nós tentamos pelo menos uma vez na vida ou várias como eu já tentei... Aquele vácuo, aquele desanimo, aquela sensação de estar só, nesse mundo tão superficial onde todos fingem se importar com os outros, mas na verdade só pensam em si mesmos. Talvez seja simples ou complicado depende da intensidade da sua solidão, se você já teve amigos imaginários saiba que sim você sabe muito bem o que estar só, sem ninguém pra conversar, chorar, rir, comer, dormir...\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eSimplesmente aceite que a solidão pode chegar a qualquer momento. Você pode estar sorrindo com vários amigos e ela chega sem avisar somente chega e naquele momento tudo muda, você já não sorrir, mas com vontade só sorrir pelo simples fato de não querer demonstrar fragilidade. Talvez a solidão passe a te acompanhar e te consumir aos poucos e você não vai perceber. Porem quando chegar aos estágios da solidão você rapidamente sentirá uma força de consumir aos poucos, te levar pra um buraco fundo escuro e quase sem escapatória.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eTalvez você desista e a deixe te levar ou simplesmente te acompanhar por toda a sua vida, mas ai só depende de você. Você pode lutar, se levantar e se recuperar.... Nunca a deixe simplesmente ganhar sem ao menos lutar, por exemplo muitas pessoas as vezes percebem que são fortes quando se encontram em um estado de solidão, buscam forcas e retornam melhor, já outras se esquecem de si mesmas e passam apenas a viver ou só a existir e ocupar um lugar a mais no mundo.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://2.bp.blogspot.com/-h7wgbrIti1o/XBl0dTRdW2I/AAAAAAAAv-g/zKGNi37_cSAsO5sz5Hv5kkYSxMWNpubVACLcBGAs/s1600/images.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"183\" data-original-width=\"275\" height=\"266\" src=\"https://2.bp.blogspot.com/-h7wgbrIti1o/XBl0dTRdW2I/AAAAAAAAv-g/zKGNi37_cSAsO5sz5Hv5kkYSxMWNpubVACLcBGAs/s400/images.jpg\" width=\"400\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n",
-   "images": [
-    {
-     "url": "https://2.bp.blogspot.com/-h7wgbrIti1o/XBl0dTRdW2I/AAAAAAAAv-g/zKGNi37_cSAsO5sz5Hv5kkYSxMWNpubVACLcBGAs/s400/images.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8705377714231248398/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5147995036435788509",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-18T14:56:00-02:00",
-   "updated": "2018-12-18T20:27:14-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1MTcyMDM0NjE5Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/sociedade.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5147995036435788509",
-   "title": "Sociedade.",
-   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nSociedade não valente\u003cbr /\u003e\nSó rouba e mente\u003cbr /\u003e\nA tristeza e pobreza prevalece\u003cbr /\u003e\nE agora? Como cresce?\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nMas quem me dera, poder ajudar\u003cbr /\u003e\nQuantos desafios mais teremos q solucionar?\u003cbr /\u003e\nEu estou fasta e desanimada\u003cbr /\u003e\nQuantas pessoas terão que ser assassinadas?\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nQuantas mulheres deram que ser estrupadas?\u003cbr /\u003e\nAah, mas ela foi a culpada!\u003cbr /\u003e\nEla é mulher!\u003cbr /\u003e\nNinguém liga se ela foi esfaqueada\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nA sociedade continua muda e cega\u003cbr /\u003e\nAfinal, estamos mesmos em guerra?\u003cbr /\u003e\nEu não acho eu tenho certeza,\u003cbr /\u003e\nEnquanto isso, cadê a comida na mesa?\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nE agora?\u003cbr /\u003e\nDe quem será a culpa?\u003cbr /\u003e\nDa mulher denominada prostituta\u003cbr /\u003e\nOu do cara que insulta\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\nO homem é valente\u003cbr /\u003e\nA mulher indecente\u003cbr /\u003e\nQue sociedade burra\u003cbr /\u003e\nDe dá a mão e depois empurra\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n#Reflexão\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr style=\"box-sizing: border-box;\" /\u003e\nAlba.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-JlSGzQiG0KE/XBl0OZZK_bI/AAAAAAAAv-c/j2-kbTwy7ZEo_DA_JakX8e3K0Z4pUaaLACLcBGAs/s1600/tumblr_mw5ok86Del1qld6meo1_500.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"326\" data-original-width=\"470\" height=\"221\" src=\"https://1.bp.blogspot.com/-JlSGzQiG0KE/XBl0OZZK_bI/AAAAAAAAv-c/j2-kbTwy7ZEo_DA_JakX8e3K0Z4pUaaLACLcBGAs/s320/tumblr_mw5ok86Del1qld6meo1_500.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://1.bp.blogspot.com/-JlSGzQiG0KE/XBl0OZZK_bI/AAAAAAAAv-c/j2-kbTwy7ZEo_DA_JakX8e3K0Z4pUaaLACLcBGAs/s320/tumblr_mw5ok86Del1qld6meo1_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5147995036435788509/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2362142364398633658",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-17T20:44:00-02:00",
-   "updated": "2018-12-17T21:00:58-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1MDg3NjU4ODc5Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/a-perda-de-uma-amizade.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2362142364398633658",
-   "title": "A perda de uma amizade! ",
-   "content": "\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003eNunca estamos preparados para perder alguém. Seja na morte ou no simples \"acabamos por aqui\". Nunca queremos aceitar que a qualquer momento podemos perder aquela pessoa que sempre esteve com você, hoje, eu conto para vocês, a experiência de ter perdido meu melhor amigo. A pessoa que mais me entendia era ele, a pessoa que me ouvia quando ninguém&nbsp;mais queria era ele, ele era meu tudo, meu melhor amigo. Nossa amizade era incrível, tínhamos barreiras, mas nada abalava aquela amizade... até eu começar a ter crise de ciúmes e conseguir estragar tudo. Isso mesmo, eu acabei com a amizade por um motivo fútil e besta. Nesse momento, não encontro saídas... a não ser chorar e pensar em desistir. Eu faria de tudo para ter ele de volta; mas o orgulho fala mais alto e eu acho que o melhor é manter a distância. Hoje, eu perdi o meu melhor, perdi um pedaço de mim e sei que não vai voltar.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eJúlia\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e#Amizade\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://2.bp.blogspot.com/-DoN0WO9cUSo/XBgqphKtTTI/AAAAAAAAv9s/w13Dbci4BFEEtDxHkdHwVSoPm_qhDbNRwCLcBGAs/s1600/tumblr_nnqa7b7BNR1r0i3f7o1_250.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"246\" data-original-width=\"250\" src=\"https://2.bp.blogspot.com/-DoN0WO9cUSo/XBgqphKtTTI/AAAAAAAAv9s/w13Dbci4BFEEtDxHkdHwVSoPm_qhDbNRwCLcBGAs/s1600/tumblr_nnqa7b7BNR1r0i3f7o1_250.jpg\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://2.bp.blogspot.com/-DoN0WO9cUSo/XBgqphKtTTI/AAAAAAAAv9s/w13Dbci4BFEEtDxHkdHwVSoPm_qhDbNRwCLcBGAs/s1600/tumblr_nnqa7b7BNR1r0i3f7o1_250.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2362142364398633658/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0xMFQwMDoyMzo1NS40ODFa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0xMFQwMDo0MDozMS4yMzla\""
 }
