@@ -1,7 +1,59 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEY4Jux3P4sEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYwMPD3P4sEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "990859937701315255",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-18T20:00:00-02:00",
+   "updated": "2019-01-18T20:00:49-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3ODQ4ODQ5NTY2Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/deveriamos-tentar-novamente.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/990859937701315255",
+   "title": "Deveriamos tentar novamente.",
+   "content": "Vamos tentar de novo? Mas sem pressa, sem cobranças, sem atitudes \ncondicionas pelo ciúme... vamos tentar de novo? Recomeçar devagar, sem \nnenhum tipo de urgência, sem nenhum tipo de exigência que não seja de \namor. Vamos tentar de novo? Vamos começar do zero? Nos conhecer \nnovamente, até porque o tempo nos mudou tanto que eu já nem sei mais \nquem é você, mas gostaria muito de saber, então, vamos tentar de novo? \nNão posso te prometer nada, mas te garanto que amor não vai faltar e que\n de felicidade você vai transbordar. Vamos tentar de novo? A gente tenta\n colocar uma pedra no passado, faremos o possível para sermos felizes no\n presente e construiremos um futuro. Vamos tentar de novo? O tempo anda \ntão de pressa e afasta as pessoas tão rapidamente, então me ajuda a não \ndeixar isso acontecer, até porque já ficamos distantes por tanto \ntempo... vamos tentar de novo? Eu não quero saber quantas bocas você \nbeijou desde que nos distanciamos mas sei que ninguém te beijou com o \namor que você merece. Vamos tentar de novo? Eu não quero saber quantos \nabraços quentes você já recebeu depois do meu mas tenho certeza que \nnenhum desses abraços foram com a alma. Então, vamos sair pra tomar um \ncafé? Pra nos conhecermos melhor? Você nem precisa dizer nada, pode \napenas ficar ao meu lado e sorrir sem timidez e sem colocar as mãos para\n esconder o que há de mais bonito em você, gosto de admirar. Sabe, não \nprecisa ter medo, dessa vez vou fazer dar certo! Então o que você acha, \nvamos tentar de novo? Acho que já tentamos até demais, né? Então é \nmelhor pararmos por aqui, ou não. Boa noite!\u003cbr /\u003e\n\u003cbr /\u003e\nGaby d. ",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/990859937701315255/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "2316954243908872032",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-18T19:59:00-02:00",
+   "updated": "2019-01-18T19:59:08-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3ODQ4NzQ4NTM4Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/doi-ne.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2316954243908872032",
+   "title": "Dói, né?",
+   "content": "\u003cbr /\u003e\nDói, né? lembrar que me perdeu? lembrar que eu me doei 100%. lembra de \ntodas as vezes que liguei pra falar que tava com saudade? lembra sempre \nque eu te abraçava e falava que te amava? pois é! essa dor que você \nsente eu senti e eu senti muito cada lágrima derramada,lembro que no \nlugar que você deveria está pra me consolar só o meu travesseiro estava.\u003cbr /\u003e\ncara você não tem noção do quanto doia saber que eu estava em casa \nsentindo sua falta e você estava nas festas,eu chorei, é eu chorei!\u003cbr /\u003e\nmais eu te superei, sabe a garota que chorava ao ouvir tua voz? hoje ela\n agradece pois não sente mais nada,você não deu valor e você me perdeu.\u003cbr /\u003e\n\u003cbr /\u003e\nBrubs ",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2316954243908872032/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "5940817548934094732",
@@ -5744,69 +5796,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7849663645412427631/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "449128984965168347",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-26T15:28:00-02:00",
-   "updated": "2018-12-26T15:43:31-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1ODQ2MjExODE3Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/evolucao-de-autoestima.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/449128984965168347",
-   "title": "Evolução de autoestima.",
-   "content": "\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e;\" /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eOntem eu era apenas uma menina que não sabia argumentar, que não sabia se defender, que chorava pra tudo, que deixava as pessoas me criticar, que não ligava para o que as pessoas dizia.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eOntem me sentia insegura, tinha medo de enfrentar qualquer coisa que estava ao meu alcance. tinha medo de falar as minhas opiniões e tinha medo das pessoas.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eHoje vejo tudo diferente, hoje eu sei argumentar,hoje eu sei me defender sozinha,hoje eu sei o momento certo de chorar e sorrir, hoje eu sei que jamais devo ficar calada pra nada, hoje eu sei o que é sentimentos, hoje eu sei qual o caminho certo e errado.Hoje eu sei como a vida nos ensina ser uma pessoa cada vez melhor.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e#Reflexao\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eLorenna\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-XQMF-E7BASg/XCO6IfDNtkI/AAAAAAAAwGk/EAO9LHd4P6EdlVfsQULpJ2os6LmVAG-5gCLcBGAs/s1600/c7592fa7217faf8d11f67f54a1fbf8ee.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"981\" data-original-width=\"736\" height=\"320\" src=\"https://1.bp.blogspot.com/-XQMF-E7BASg/XCO6IfDNtkI/AAAAAAAAwGk/EAO9LHd4P6EdlVfsQULpJ2os6LmVAG-5gCLcBGAs/s320/c7592fa7217faf8d11f67f54a1fbf8ee.jpg\" width=\"238\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://1.bp.blogspot.com/-XQMF-E7BASg/XCO6IfDNtkI/AAAAAAAAwGk/EAO9LHd4P6EdlVfsQULpJ2os6LmVAG-5gCLcBGAs/s320/c7592fa7217faf8d11f67f54a1fbf8ee.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/449128984965168347/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "6063026370908399685",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-26T15:25:00-02:00",
-   "updated": "2018-12-26T15:43:57-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1ODQ2MjM3ODA0Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/a-vida-que-cabe-mim.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6063026370908399685",
-   "title": "A vida que cabe a mim.",
-   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eTodos os dias eu me pego a pensar que estou vivendo uma fachada, um teatro criado por eu mesmo. Um ato em que há falhas e nessas falhas eu me sinto falhando no meu próprio teatro da vida. A cada momento que eu respiro eu penso se eu estiver certo, tudo realmente em minha volta é errado?! Ou eu estou errado perante um mundo altamente correto e corrosivo?! Temos tantas coisas em nossas mãos, mas o mais importante é a vida que cabe a a mim, a vida que cabe a você, as nossas vidas. Às vezes sofremos tanto por não achar ninguém que nos ame, que nos entenda e corresponda, mas essa pessoa também tem a vida dela que cabe a ela, serão trocas de momentos e junções de vida. Não estou pensando errado, não posso ser tão teimoso e cego. Só quero tocar o meu teatro e receber flores a cada fim de ato.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e#Felicidade\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eDavid Beltrão\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://3.bp.blogspot.com/-q62M8CnABTE/XCO5bbMVLrI/AAAAAAAAwGc/zOd23W103bEkTPbvoHO0PjfDxnOfHxfmQCLcBGAs/s1600/download%2B%25282%2529.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"225\" data-original-width=\"225\" src=\"https://3.bp.blogspot.com/-q62M8CnABTE/XCO5bbMVLrI/AAAAAAAAwGc/zOd23W103bEkTPbvoHO0PjfDxnOfHxfmQCLcBGAs/s1600/download%2B%25282%2529.jpg\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://3.bp.blogspot.com/-q62M8CnABTE/XCO5bbMVLrI/AAAAAAAAwGc/zOd23W103bEkTPbvoHO0PjfDxnOfHxfmQCLcBGAs/s1600/download%2B%25282%2529.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6063026370908399685/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0xOFQyMToyMjoyMS44MDNa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0xOFQyMjowMDo0OS41NjZa\""
 }
