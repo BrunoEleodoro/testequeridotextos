@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYwMPD3P4sEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYoJjH3P4sEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "8934286772265171851",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-18T20:06:00-02:00",
+   "updated": "2019-01-18T20:06:19-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3ODQ5MTc5MDc2Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/code-issues-3550-pull-requests-0.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8934286772265171851",
+   "title": " Code Issues 3,550 Pull requests 0 Projects 0 Wiki Insights Disposição",
+   "content": "Com o tempo comecei a  entender que tem um componente essencial que é o \namor e a aceitação, muitas das vezes as pessoas as quais convivemos na \nnossa maior intimidade são aquelas que conhece todos os nossos defeitos,\n e nós conhecemos os defeitos delas, mas a partir quando a gente se \ndescobre na nossa família, naquele vínculo, a gente escolhe fazer da \nnossa família uma família perfeita, o que não significa que não tenha \nataque de raiva, que não tenha ai que vontade de esganar você desgraça, \ntem tbm, mais lembro  que vida seria bem pior sem eles. Nenhum \nrelacionamento familiar e é fácil, porque são pessoas diferentes tendo a\n obrigação de viverem em harmonia e a gente tenta escolher fazendo com \nque ela de certo, respeitando aquilo que não podemos mudar e acolhendo \ncom amor  aquilo que a gente já tem.\u003cbr /\u003e\n\u003cbr /\u003e\nErica Cândido\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mut\" height=\"200\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLwiZdmZ33K2pS-0i96tD5c_lssVznnCms94ZudjQXNeLt_BfU\" style=\"margin-top: 0px;\" width=\"133\" /\u003e ",
+   "images": [
+    {
+     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLwiZdmZ33K2pS-0i96tD5c_lssVznnCms94ZudjQXNeLt_BfU"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8934286772265171851/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "990859937701315255",
@@ -5765,38 +5796,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4371085421482629355/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7849663645412427631",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-26T15:30:00-02:00",
-   "updated": "2018-12-26T15:43:10-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1ODQ2MTkwODM5Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/tuas-marcas.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7849663645412427631",
-   "title": "Tuas marcas",
-   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nTu deixou marcas, marcas no meu lençol, marcas na cozinha da minha casa, no meu guarda-roupas, marcas na minha cama, marcas na minha boca, marca no meu corpo, marca na minha vida que ninguém deixou.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nDeixa eu te falar, deixa eu te mostrar o quanto tu deixou marcas em mim!\u003cbr /\u003e\nMarcas, lembranças do que nós fomos, feridas que o tempo talvez pode cicatrizar, marcas que eu não consigo esquecer, marcas na minha memória.\u003cbr /\u003e\nMemória seletiva, selecionando tudo que tu passou pra minha vida!\u003cbr /\u003e\nTudo que você passou pro meu verdadeiro eu.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nEu cometi erros incuráveis que nos trouxeram dor e a tua indiferença, mas tu habitou de uma forma tão fixa em mim que eu enxerguei todos os meus erros querendo corrigi - los, talvez a minha ansiedade de ter você não me deixa fazer as coisas serem mais fáceis pra tu, a minha cobrança te sufoca, o meu amor te assusta.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nTu deixou tudo aqui uma desordem total, é difícil dizer, ainda mais explicar essas marcas que tu deixou.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\nTu alojou tão perfeitamente em mim que eu não consigo pensar na minha vida sem tu do meu lado,\u003cbr /\u003e\nAs palavras choram, o sentimento me sufoca, a ausência me machuca.\u003cbr /\u003e\nQualquer dor que eu pudesse sentir agora seria banal pro quanto estou sentindo, o meu sentimento, a minha expressão passou a ser drama pra você!\u003cbr /\u003e\nLá fora é tudo imenso, mas será que não há espaço pra nós ?\u003cbr /\u003e\nTransforma as tuas marcas em caminhos e deixa eu te mostrar que podemos percorrer juntas!\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\nSantyla\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://4.bp.blogspot.com/-t60Rix2_c_g/XCO6jqqgDJI/AAAAAAAAwGw/WtwicbdBVw4pW5sPwV7IlTLScN4_5_hYwCLcBGAs/s1600/tumblr_nwhvshmW0b1tai2xno1_1280.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"1080\" data-original-width=\"1080\" height=\"320\" src=\"https://4.bp.blogspot.com/-t60Rix2_c_g/XCO6jqqgDJI/AAAAAAAAwGw/WtwicbdBVw4pW5sPwV7IlTLScN4_5_hYwCLcBGAs/s320/tumblr_nwhvshmW0b1tai2xno1_1280.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://4.bp.blogspot.com/-t60Rix2_c_g/XCO6jqqgDJI/AAAAAAAAwGw/WtwicbdBVw4pW5sPwV7IlTLScN4_5_hYwCLcBGAs/s320/tumblr_nwhvshmW0b1tai2xno1_1280.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7849663645412427631/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0xOFQyMjowMDo0OS41NjZa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0xOFQyMjowNjoxOS4wNzZa\""
 }
