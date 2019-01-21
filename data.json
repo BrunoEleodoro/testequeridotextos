@@ -1,7 +1,354 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEY4tqehf8sEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEY4sz2hf8sEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "6383253139128523633",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-21T21:37:00-02:00",
+   "updated": "2019-01-21T21:37:35-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MTEzODU1MTA1Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/estavel.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6383253139128523633",
+   "title": "Estável.",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eEu parei uma vez para perceber o som das coisas e uma delas foi o som que o metrô fazia, engraçado a situação em que você mais quer se distrair pra não pensar nos problemas aparecem coisas simples que podem ser competente cheias de complexidades. Enfim como eu dizia, o som do metrô... o ferro com atrito no ferro causando um som bem próprio que causa até gastura ao ouvido de alguns ... mas logo em seguida no embalo da velocidade tudo se torna estável e o silêncio dos trilhos é como flutuar sobre eles. A leveza algo lírico e assim é a vida com os seus momentos insuportáveis para alguns e o momento de paz que realmente valem a pena de serem lembrados.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eOdisseu\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para trem tumblr\" height=\"211\" src=\"https://gustavolacombe.files.wordpress.com/2014/02/tumblr_m7s214jpm61qem7n3o1_500.jpg\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://gustavolacombe.files.wordpress.com/2014/02/tumblr_m7s214jpm61qem7n3o1_500.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6383253139128523633/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4555204850020156288",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-21T21:36:00-02:00",
+   "updated": "2019-01-21T21:36:23-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MTEzNzgzNjU2Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/nao-espere-de-ninguem.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4555204850020156288",
+   "title": "Não espere de ninguém.",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eEsperamos demais por alguém, por alguém que nos faça sair da zona de conforto, alguém que nos faça sentir aquelas borboletas no estômago só por notar uma voz semelhante nos chamando, alguém que nos livre dessa escuridão, alguém que nos deixe a vontade e nos faça esquecer os problemas. O problema é que esperamos tudo isso como um sinal de fumaça, algo diferente, algo além de tudo que já sentimos, e muitas vezes nem é assim que acontece, pode acontecer aos poucos ou em apenas um segundo, é algo muito contraditório, esperar uma eternidade pelo\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eiasmyn\u003c/span\u003e",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4555204850020156288/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "6731580606326619143",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-21T21:35:00-02:00",
+   "updated": "2019-01-21T21:35:27-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MTEzNzI3NTMzCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/um-amor.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6731580606326619143",
+   "title": "Um amor.",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eTalvez nossa história juntos não tenha dado certo por que não passava de um delírio meu sabe?\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eEu achei que ia ser diferente mais não é bem assim.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eAcho que tudo não passou de um teatro, Por quê as pessoas são assim cheias de expectativas, As pessoas gostam de ouvir ou ver mensagens bonitas não importa a hora nem o local que esteja, as pessoas gostam de reciprocidade.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eQuando não são correspondidas na mesma forma ou sintonia, elas ficam si perguntando o que eu fiz pra tal pessoa está com raiva ou tão seca comigo?\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eSabe as vezes é como você enxergar a situação, simples a outra pessoa pode só esta sendo educada com você, Por favor tentem não enxergar amor onde não têm, por que quem vai ter que cuidar de você é você mesma, dói enxergar o amor onde não têm, você se machuca, você si enche de perguntas, perguntas essa que são muitas das vezes sem respostas...\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eDesconhecida\u003c/span\u003e",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6731580606326619143/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4758651625706498896",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-21T21:35:00-02:00",
+   "updated": "2019-01-21T21:35:06-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MTEzNzA2Mjg2Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/sobre-o-amor.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4758651625706498896",
+   "title": "Sobre o amor?",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nSobre o amor? O que falar, há muitas definições quando ao mesmo tempo não se tem nenhuma deturpado pela relação. Acho que oq podemos levar pra vida é que coisas podem ser monopolizadas, pessoas, não. O segredo é se jogar, se arriscar, mergulhar, viver, ir em frente, se fortalecer para enfrentar os balanços das marés que é a vida e tentar sempre dar o melhor, ser o melhor e não esquecer de ir embora de forma gentil e sutil (não precisamos machucar que nos machuca, a necessidade é a da cura) quando tudo isso não for dado em troca.\u003cbr style=\"box-sizing: border-box;\" /\u003eÉ não se perder, lembrar que a vida é fluidez, todas as amarras serão inúteis e só servirão para ferir, o outro e a ti.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\nTalvez, conheças o amor da tua vida e ele fique pra sempre ai, ou vá embora e nunca mais volte, ou conheças outros amores da tua vida. Porque viver é uma eterna incerteza, um caminhar em corda bamba. E mesmo que o amor de teu amante não te bastares, lembre se que o amor está em tudo, e o viva, em outras esferas, porque, meu caro, a vida é grande e coisas te esperam...\u003c/div\u003e\n",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4758651625706498896/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "8170200113277385036",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-21T21:31:00-02:00",
+   "updated": "2019-01-21T21:31:29-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MTEzNDg5MzIzCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/pra-que-indireta.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8170200113277385036",
+   "title": "Pra que indireta?",
+   "content": "\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003ePra que indireta? Se eu ou você podemos conversar e tentar esclarecer as coisas. pra que postar indiretas pelas rede sócias? Você sabe muito bem oque faz, sabe das tuas atitudes assim como eu também sei das minhas, então pra que isso? É tão fácil pedir desculpas por mais que doa, o mais difícil é perdoar.. é eu sei disso mas para nos resolvermos não precisa de indiretas ok?\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003ePorque não adiantaria exatamente nada, metade dos pensamentos e ações são motivadas pelo ORGULHO, mais então me diga se eu lhe mandasse uma indireta dizendo \"Você se foi por motivos idiotas\" oque você iria fazer? Nada! porque o teu orgulho fala por si mesmo ou talvez por nós.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eLuana Mayara\u003c/span\u003e",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8170200113277385036/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4807787130932389709",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-21T21:23:00-02:00",
+   "updated": "2019-01-21T21:23:23-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MTEzMDAzMjUxCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/infinitas-formas-e-formulas.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4807787130932389709",
+   "title": "Infinitas formas e fórmulas",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eDentro de cada instante poderá ser encontradas milhares de formulas secretas com outros milhares de objetivos afim de resolver os problemas do universo. Nem todas essas formas são válidas. Algumas são falhas. Vi diversas fórmulas e nenhuma me atraiu. Nenhuma pode me ajudar a resolver os problemas do meu pequeno universo. Até encontrar essa galáxia. Galáxia onde eu não precisava mais resolver os meus problemas. Eles são tão pequenos diante dessa galáxia que se sentem intimidados e simplesmente desaparecem. Cheguei incompleta aqui e hoje nada mais me faz falta. Encontrei a fórmula perfeita da perfeição da maneira mais imperfeita possível. E isso só a galáxia existente em você me permitiu isso.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eGeicy Rodrigues\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para formulas tumblr\" height=\"240\" src=\"https://casamento.culturamix.com/blog/wp-content/gallery/formula-do-amor1/formula-do-amor-1.png\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://casamento.culturamix.com/blog/wp-content/gallery/formula-do-amor1/formula-do-amor-1.png"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4807787130932389709/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "2185401701124609040",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-21T21:20:00-02:00",
+   "updated": "2019-01-21T21:20:11-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MTEyODExMjkyCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/eu-te-amo.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2185401701124609040",
+   "title": "Eu te amo",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\"Eu ainda quero te pedir desculpas por ontem\", eu disse como uma pessoa doce que sou, ou melhor, era.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\"Eu não&nbsp;quero suas desculpas\", ele disse com frieza, é eu mais uma vez magoei a pessoa que amo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\"Mas eu quero me desculpar!\", Falei um pouco mais alto que ele tentando demonstrar que eu realmente havia me arrependido pelo feito.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\"Garota....\", ele disse com paixão na voz, eu o conhecia bem o suficiente para saber o que ele estava sentindo.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eAntes que eu falasse alguma coisa ele me abraçou forte me impedindo de falar o que queria, ele sabia, ele sabia que o abraço dele me fazia desmoronar, ele sabia o poder que o abraço dele tinha sobre mim, ele sabia... ele apenas me abraçou e não disse nada, naquele momento eu tive vontade de mata-lo por ter me abraçado ali e no meio de uma discussão, mas não consegui, apenas fiquei ali, parada igual pedra sem saber o que fazer, até que senti a chama do amor passando meu corpo me fazendo abraça-lo forte.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\"Você me perdoa, Lucas?\", disse com certa vontade de chorar.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\"Eu te perdoou,princesa. Agora fica quieta um pouco vai..\", dei risada baixo e voltei a abraça-lo, naquele momento eu ja estava imersa em lágrimas, naquele momento entendi o amor, o amor realmente arde sem se ver, na semana anterior eu só briguei com ele, descontando na pessoa que mais amo toda a minha raiva do mundo, mas me esquecendo que ele me fazia&nbsp;esquecer o mundo e o mal do mesmo, eu gritei com ele inúmeras&nbsp;vezes em tantas as discussões que tivemos e ele insistia em falar mais baixo que eu, mas, nesse momento eu só conseguia sentir amor e paz que o abraço dele me trazia, eu havia esquecido da raiva que eu estava sentindo durante a semana, naquele exato momento vi que ele realmente era o homem perfeito pra mim, vi que ele me entendia, vi tudo oq eu ja sabia mais insistia em fingir que não sabia, percebi que ele na verdade era a minha felicidade, percebi que eu tinha ali um abrigo, eu tinha ali um amor, naquele momento, eu esqueci tudo, a toalha molhada em cima da cama, as vezes que ele tomou banho e deixou o banheiro molhado, as vezes que ele comeu a MINHA comida, esqueci tudo...so conseguia pensar no quanto eu o amava e o quanto ele era o ideal pra mim.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\"Lucas...\" eu disse com voz de choro.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\"Pode falar meu amor..\" ele disse também com voz de choro.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\"Essa semana a louca é sua\", eu ri, e peguei sua mão,entrelaçando nossos dedos.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\"Te amo idiota.\" Eu disse.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\"Também te amo,baixinha\"\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\"O que&nbsp;você disse, Lucas?\"\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\"Disse que também te amo amor da minha vida\" ele riu me pegando no colo e indo em direção a cozinha comigo no colo.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\"Você vai fazer a comida e eu vou lavar a louça,ok?\" Ele disse.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\"Okay\" sorrio e olho no fundo dos seus olhos.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\"Anda logo que eu tô com fome.\"\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eFizemos o combinado, e tivemos a noite mais perfeita de nossas vidas, ali, eu tive certeza que ele era quem eu queria pro resto da minha vida.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eEduarda\u003c/span\u003e",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2185401701124609040/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1395673762086823375",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-21T21:14:00-02:00",
+   "updated": "2019-01-21T21:14:29-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MTEyNDY5MzgzCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/a-paixao-ou-quase.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1395673762086823375",
+   "title": "A paixão... Ou quase.",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eEu sempre fui uma pessoa difícil de me apaixonar é, ate certo momento, eu me apaixonei por um garoto um ano mais novo que eu, meu amigo, ele era uma pessoa muito especial até certo tempo. Eu decidi contar a ele que estava apaixonada por ele, no momento ele disse que me amava, fiquei feliz, mas um tempo depois ele parou de puxar assunto, parou de me dar a mesma atenção, logo estranhei, mas tentei fingir que não estava perdendo, todos meus amigos estavam dizendo que ele só tava me iludindo, não acreditei... Até que vi ele com uma garota, aquilo me desabou, hoje não consigo nem conversar com ele direito, meu coração virou uma pedra de gelo, mas com o tempo eu percebi que se apaixonar é uma coisa muito complicada, entendi mais sobre isso, hoje sei que não devo abaixar a cabeça por um garoto, temos que aprender a nos amar em primeiro lugar, depois a gente ver oque vamos fazer...\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"background-color: white; font-size: 14px;\"\u003eD.M\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"background-color: white; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"background-color: white; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para paixÃ£o tumblr\" height=\"200\" src=\"https://66.media.tumblr.com/0a3364d036ea9c92fb272b5cb30b59bc/tumblr_ofsdbwel6y1tqd0nao1_400.png\" width=\"200\" /\u003e",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/0a3364d036ea9c92fb272b5cb30b59bc/tumblr_ofsdbwel6y1tqd0nao1_400.png"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1395673762086823375/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5768770353271919853",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-21T21:07:00-02:00",
+   "updated": "2019-01-21T21:16:44-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MTEyNjA0MDMzCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/agora-enxergo-os-verdadeiros.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5768770353271919853",
+   "title": "Agora enxergo os verdadeiros!",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eMudei bastante de uns dias pra cá, não estou me reconhecendo mais, apesar de tá gostando desse meu novo eu, mas meu pressentimento diz que magoarei muita gente. Mudei por conta delas, dava o meu melhor, mas não recebia nada, tinha um coração enorme, mas hoje em dia tá do tamanho de uma semente de mostarda. O que fizeram comigo, me mudaram, mas também cansei de ser aquela menina boba, dava flores e recebia pedradas,estou me acostumando com a nova pessoa que sou, e estou gostando, a verdade é que sempre tive cega, agora posso enxergar quem são as verdadeiras pessoas...\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eUma pessoa sem destino.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e#Amizade\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para amizade falsa tumblr\" height=\"200\" src=\"https://66.media.tumblr.com/11b18d2ee568cc21b1ab30094f65b540/tumblr_oahgdhIyZA1ub8y6bo1_400.jpg\" width=\"200\" /\u003e",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/11b18d2ee568cc21b1ab30094f65b540/tumblr_oahgdhIyZA1ub8y6bo1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5768770353271919853/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3641356977170720341",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-21T21:04:00-02:00",
+   "updated": "2019-01-21T21:16:27-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MTEyNTg3NTI4Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/aquela-amiga.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3641356977170720341",
+   "title": "Aquela amiga... ",
+   "content": "\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003eEstive aqui a pensar o que seria de mim sem ti... Tem momentos que eu não&nbsp;aguento a pressão das coisas mas contigo a meu lado torna-se bem mais fácil. És aquela amiga de que cada amizade precisa para sobreviver. Um porto seguro que orienta todos os bons caminhos. Tendo uma pessoa de bom coração, de bom humor como tu tem-se tudo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eAgradeçam a Deus se tem aquela amiga...&nbsp;\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eBarbara\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e#Amizade\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Imagem relacionada\" height=\"213\" src=\"https://cantinhodetudoblog.files.wordpress.com/2017/01/tumblr_mkeeymfgvd1rnjdkso1_5001.jpg\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://cantinhodetudoblog.files.wordpress.com/2017/01/tumblr_mkeeymfgvd1rnjdkso1_5001.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3641356977170720341/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4950057094883487526",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-21T21:01:00-02:00",
+   "updated": "2019-01-21T21:01:16-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MTExNjc2MjQ0Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/borboletas.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4950057094883487526",
+   "title": "Borboletas.",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eEi, t\u003c/span\u003e\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003ealvez tenha sido apenas a curiosidade que tenha juntado vocês dois . Nenhum se conhecia , e você era colecionadora de casos novos , você queria saber mais sobre ele , você foi atrás. É , um dia você decidiu mandar um \"oi\" o problema que era pequeno foi aumentando , aumentando . Ele ganhou espaço nos dias chuvosos e nas tardes de filme , você apresentou ele aos seus sonhos e aos seus ídolos , sua realidade . Ele te mostrou os sonhos dele , as músicas favoritas, as fotos de família, as artes que tanto o fascinavam . Você se fascinou com o novo , até que um novo dia nasceu e você que era uma borboleta voou de suas mãos para longe , pois ele sabia que não&nbsp;podia te prender para sempre aquela realidade .\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cimg alt=\"Imagem relacionada\" height=\"213\" src=\"https://data.whicdn.com/images/20404714/tumblr_lwxoqeVoIg1qjuevro1_500_large.jpg\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://data.whicdn.com/images/20404714/tumblr_lwxoqeVoIg1qjuevro1_500_large.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4950057094883487526/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7811117435971987682",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-21T20:54:00-02:00",
+   "updated": "2019-01-21T20:54:02-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MTExMjQyMDM1Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/calma-isso-vai-passar.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7811117435971987682",
+   "title": "Calma, isso vai passar...",
+   "content": "\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003eBom,eu sei que é difícil ter várias pessoas ao seu lado dizendo ser seu amigo(a),quanto na verdade eles nem ligam pra você....Você chega perto deles e eles se afastam,você pergunta do que eles estavam falando e eles dessem,nada não! Mais você insiste neles,vai atrás desses todos os dias,sendo que eles não dão um passo pra chegar em você... aaa,sem conta que só vão atrás de você quando precisam.......Calma relaxa,você não nasceu grudado com eles,se afasta&nbsp;se você vê que eles só te procuram quando precisam...Caso eles seja assim desse jeito,eles não são verdadeiros,mais se depois de algum tempo eles vierem atrás de você se desculpando,aceite pra não demostrar que você é igual a eles....Se eles te procuraram eles sim te amam,mais não aceite ficar excluído.E se eles não te procuraram,bom segue enfrente...Deus prepara tudo...\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para vai passar tumblr\" height=\"200\" src=\"https://66.media.tumblr.com/033d0ac6000270c8384dc6617f0cff07/tumblr_oh09bxsoAt1snzs0bo1_1280.png\" width=\"200\" /\u003e",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/033d0ac6000270c8384dc6617f0cff07/tumblr_oh09bxsoAt1snzs0bo1_1280.png"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7811117435971987682/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "5442054933588429388",
@@ -5474,344 +5821,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4950510564778581409/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3671388453405225124",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-27T15:36:00-02:00",
-   "updated": "2018-12-27T15:36:39-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1OTMyMTk5OTI4Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/voce.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3671388453405225124",
-   "title": "Você.",
-   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\n\u003cbr style=\"box-sizing: border-box;\" /\u003eVocê cresceu.\u003cbr style=\"box-sizing: border-box;\" /\u003eVocê começou a ver que não era tudo um mar de rosas.\u003cbr style=\"box-sizing: border-box;\" /\u003eVocê superou cada detalhe.\u003cbr style=\"box-sizing: border-box;\" /\u003eVocê sorriu.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nE agora vai estragar tudo isso.\u003cbr style=\"box-sizing: border-box;\" /\u003ePor conta de uma fase difícil?\u003cbr style=\"box-sizing: border-box;\" /\u003eNão! Eu não vou deixar!\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nVocê é linda.\u003cbr style=\"box-sizing: border-box;\" /\u003eVocê é perfeita em cada detalhe.\u003cbr style=\"box-sizing: border-box;\" /\u003eVocê é suficiente n importa o que te digam.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nE a cima de tudo.\u003cbr style=\"box-sizing: border-box;\" /\u003eVocê é forte.\u003cbr style=\"box-sizing: border-box;\" /\u003eVocê vai vencer tudo.\u003cbr style=\"box-sizing: border-box;\" /\u003eVocê é capacitada.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nVocê é suficiente.\u003cbr style=\"box-sizing: border-box;\" /\u003eVocê é suficiente.\u003cbr style=\"box-sizing: border-box;\" /\u003eVocê é suficiente.\u003cbr style=\"box-sizing: border-box;\" /\u003eVocê é suficiente.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\njuh\u003c/div\u003e\n",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3671388453405225124/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3999347602896407740",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-27T15:33:00-02:00",
-   "updated": "2018-12-27T16:24:11-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1OTM1MDUxMDcwCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/a-droga-de-ter-que-superar.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3999347602896407740",
-   "title": "A droga de ter que superar ",
-   "content": "\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eMuitos casais por aí são felizes, e eu realmente não julgo, pelo ao contrário eu admiro muito, e acho lindo um amor recíproco, mas é difícil ver casais \"prefeitos\" depois que você passou por algo que fez você perder as esperanças no amor, sofremos tantos por um amor, como se não fossemos encontrar um outro alguém novamente, mas nos esquecemos que nada é pra sempre, tudo tem um fim, por mais complicado que eja tudo passa, pode ser complicado mas devemos sempre nos arriscar, e não sofrer por isso.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eNão estou falando que vai ser fácil, esquecer alguém que você realmente se apaixonou, vai ser muito complicado você ver ele com outro alguém, mas eu falo por experiência própria, vai ser triste, você vai sofrer,chorar e ficar mal, mais você deve estar sempre disposta para novas coisas, pessoas e novos momentos, a nossa vida não para, e não devemos tentar parar nossa vida, por um único alguém.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eVitória Gabrielly\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-XVwttGEbrBg/XCUYxkNV59I/AAAAAAAAwI4/Xd88VhlmavY7Vitza10taFj9IxIhdjBPACLcBGAs/s1600/namoro-a-distancia-4.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"477\" data-original-width=\"775\" height=\"195\" src=\"https://1.bp.blogspot.com/-XVwttGEbrBg/XCUYxkNV59I/AAAAAAAAwI4/Xd88VhlmavY7Vitza10taFj9IxIhdjBPACLcBGAs/s320/namoro-a-distancia-4.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://1.bp.blogspot.com/-XVwttGEbrBg/XCUYxkNV59I/AAAAAAAAwI4/Xd88VhlmavY7Vitza10taFj9IxIhdjBPACLcBGAs/s320/namoro-a-distancia-4.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3999347602896407740/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7545095969588082008",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-27T15:31:00-02:00",
-   "updated": "2018-12-27T16:25:07-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1OTM1MTA3MzY5Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/amor-e-paixao.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7545095969588082008",
-   "title": "Amor e paixão.",
-   "content": "\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eAmor e paixão, no ponto de vista de algumas pessoas literalmente é a mesma coisa, mais não, paixão é algo do momento, é aquilo que dura alguns meses, é aquele drama de medo de perder, não é medo de verdade sabe? Aquele dengo, aquela chatice isso é paixão, aquela que chama de amor toda hora, não tem momentos ruins, no primeiro mês corre comprar uma aliança pra dizer que tem dono, corre apresentar pra família, corre comprar presentes, diz que esta ali pra tudo, dizendo eu te amo de cinco em cinco minutos, achando as birras o ciumes os dramas enfim tudo fofo, tudo meigo, tudo perfeito, cara isso é paixão, eu acho que amor vai além de tudo isso sabe? Amor é enfrentar seus medos, ultrapassar todas barreiras de mãos dadas com a pessoa, derrotar a inveja alheia, e não se importar com o que os outros dizem, é respeitar, amar de verdade, brigar, se estressar um com o outro, sentir ciumes, apresentar aos amigos, e não ter vergonha da pessoa, por mais largada (o) que ela seja, eu acho que amar vai além de 1 2 3 meses de namoro, vai além de anos, leva uma vida inteira pra conhecer a pessoa, amar é ir até o fim da sua vida com a pessoa, é estar do lado da pessoa nas suas decisões, nas suas escolhas, nos seus momentos de fraquezas, dividir seu sorriso e sua tristeza com a pessoa, abraçar a pessoa quando ela sente medo, ser rude quando a pessoa fizer algo de errado, amar vai além de um status no facebook, de uma aliança no dedo, de uma foto no instagram, amar é muito mas que dar presentes, amar é muito mais do que dizer \"eu te amo\" quando se ama não se planeja o futuro, não se planeja casar, ter filhos, uma casa, um carro uma família, amar é viver o presente e esquecer o passado, e esperar pelo futuro com os dedos cruzados pra tudo dar certo e pedir pra Deus dar forças para o relacionamento de ambos, amar é desejar o bem do seu relacionamento sem cobiçar o dos outros, chorar com seu parceiro (a) sorrir com seu parceiro, amar não é só tomar sorvete, se beijar na chuva, pegar um cinema, andar no shopping e gastar dinheiro, amar é ajudar seu parceiro (a) a fazer suas&nbsp;economias, amar é se preocupar não só com ele mais com você também, não se largar no meio da relação porque namorado nenhum vai querer uma namorada, descabelada, com mal Hálito, de mal humor, amar é aguentar o estresse do seu parceiro (a) amar é respeitar os limites do seu parceiro (a), respeitar o tempo do seu parceiro (a) amar é estar sempre do lado, aconselhando, ajudando, e acima de tudo amando e respeitando, sendo fiel, sendo sincero. Já vi o caso de algumas paixão de trair a pessoa pra viver um amor verdadeiro mais agora me diz uma coisa, se ele traiu a pessoa com quem estava antes, quem pode garantir que ele não vá trair a mesma pra ficar com outra? Paixão é aquilo que não dura mais de um ano, porque? Porque a pessoa pensa em apenas momentos bons, momentos de alegrias, alianças no dedo, status em redes sociais, fotos e blá blá blá, paixão é aquela que liga de madrugada pra dizer que ta com saudades, amor não amor já pensa antes de ligar, porque sabe que você pode ter tido um dia difícil e esta querendo mais que tudo dormir, ou até mesmo ficar no seu cantos, amar vai além de mensagens, ligações, recados, amar é gestos, carinhos,&nbsp;símbolos, amar é ir até o fim da sua vida com a pessoa enfrentando tudo e todos, sem medo, sem dor alguma, esquecer o passado é essencial guarde oque foi bom, mais não traga pro seu presente oque pode acabar com seu futuro, fale pro seu atual amor, do seu ex, conte seus piores segredos, faça ele ser seu melhor amigos acima de tudo, desabafe com ele (a) antes de desabafar com qualquer pessoa, ganhe a confiança dele (a), quando fizer algo de errado não tenha medo de contar, não tenha medo, conte sem medo das consequências, conte. Quando a relação estiver te sufocando ou algo estiver te incomodando conversem e tentem mudar isso, mais não saia xingando, gritando, falando que vai jogar tudo pro ar, porque isso machuca, e é nessas crises de um relacionamento que a pessoa vê que realmente gosta da pessoa porque ela esta tentando consertar algo que esta fazendo mal pros dois, antes de acreditar no que os outros dizem, escute oque ele tem pra te dizer, escute os argumentos dele, mesmo que não seja&nbsp;convincente&nbsp;acredite ao menos que tenha provas que prove que ele (a) esta mentindo, que ele (a) esta lhe enganando, a inveja alheia consegue&nbsp;destruir muitos relacionamentos e causar dores em ambos, e a dor de um fim de um relacionamento é uma cicatriz que demora a ser fechada, que demora a cicatrizar, então pense muito bem antes de magoar a pessoa que esta do seu lado, pois ela pode ser seu futuro .\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e#Amor\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eB.L\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://2.bp.blogspot.com/-ELumjMT6kko/XCUY9onthvI/AAAAAAAAwI8/8MrtVIW3GOcs5Mtzbt2qEcygenpJHWlMgCLcBGAs/s1600/blogt4.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"640\" data-original-width=\"426\" height=\"320\" src=\"https://2.bp.blogspot.com/-ELumjMT6kko/XCUY9onthvI/AAAAAAAAwI8/8MrtVIW3GOcs5Mtzbt2qEcygenpJHWlMgCLcBGAs/s320/blogt4.jpg\" width=\"212\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://2.bp.blogspot.com/-ELumjMT6kko/XCUY9onthvI/AAAAAAAAwI8/8MrtVIW3GOcs5Mtzbt2qEcygenpJHWlMgCLcBGAs/s320/blogt4.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7545095969588082008/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "1207661169870544468",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-27T15:30:00-02:00",
-   "updated": "2018-12-27T15:31:24-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1OTMxODg0NjY0Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/o-amor.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1207661169870544468",
-   "title": "O amor.",
-   "content": "\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eO amor pra todos significa muito mas poucos saber amar .\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eO amor é igual a lua sempre tem sua fases mas sempre é lindo amar.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eO amor muitos fala que sabem o que é mas nunca sobem amar.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eO amor é universal mas o mundo não sabe amar.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eO amor é a igualdade que ninguém sabe dar quando se fala de amar.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eDesconhecido.\u003c/span\u003e",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1207661169870544468/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5041129885786536807",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-27T15:29:00-02:00",
-   "updated": "2018-12-27T15:29:45-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1OTMxNzg1MzU3Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/a-princesa-que-se-libertou.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5041129885786536807",
-   "title": "A princesa que se libertou",
-   "content": "\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eCresci achando que precisava de um príncipe pra me salvar de todos os perigos, cresci pensando em que se eu não tivesse o príncipe eu não seria alguém... Mas ao crescer percebi que posso matar meus dragões, fugir da torre e detonar a coisa toda apenas sendo eu! Sendo o suficiente pra mim, é forte o bastante para enfrentar meus maiores medos e receios sem isso do tal príncipe encantado que talvez nunca venha!Agora só você pode decidir se isso é ser independente ou solitária!\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eLuiza Lanna\u003c/span\u003e",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5041129885786536807/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5404054639444223822",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-27T15:28:00-02:00",
-   "updated": "2018-12-27T15:28:47-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1OTMxNzI3MTgxCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/um-texto-tristeque-virou-uma-musica.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5404054639444223822",
-   "title": "Um texto triste,que virou uma música triste. ",
-   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nTudo isso é demais pra mim,não pensei que chegaria ao fim,talvez fosse só uma experiência,mas a real é que foi a sua ausência.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nAmar sozinha dói demais e de me amar você não foi capaz,me desculpe, te amei verdadeiramente,mas ninguém controla oque sente.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\nEu te amei demais,me importei demais e ainda sou a errada pra você.\u003cbr style=\"box-sizing: border-box;\" /\u003eEu mereço mais\u003cbr style=\"box-sizing: border-box;\" /\u003eEu quero mais\u003cbr style=\"box-sizing: border-box;\" /\u003ee você não é capaz de me dar.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\nHellen\u003c/div\u003e\n",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5404054639444223822/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "32040997281887160",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-27T15:28:00-02:00",
-   "updated": "2018-12-27T15:28:12-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1OTMxNjkyNzQwCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/quando-se-sabe-hora-certa-de-desistir.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/32040997281887160",
-   "title": "Quando se sabe a hora certa de desistir?",
-   "content": "\u003ch1 class=\"gh-header-title\" style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-weight: 400; line-height: 1.125; margin: 0px 150px 0px 0px; overflow-wrap: break-word;\"\u003e\n\u003cspan style=\"font-size: small;\"\u003eQuando você sabe que é demais? quando sabe que chegou a hora certa de desistir? deixar as coisas que te machucaram pra trás? Quando machuca, machuca muito, está na hora de desistir! quando não consegue mais sentir a mesma coisa, tá na hora de desistir? Quando te machuca muito, quando não se consegue respirar, essa é a hora de desistir. ....... se não te faz bem, desista.\u003c/span\u003e\u003c/h1\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-size: small;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003ch1 class=\"gh-header-title\" style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-weight: 400; line-height: 1.125; margin: 0px 150px 0px 0px; overflow-wrap: break-word;\"\u003e\n\u003cspan style=\"font-size: small;\"\u003eEmilly Figueiredo\u003c/span\u003e\u003c/h1\u003e\n\u003c/div\u003e\n",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/32040997281887160/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "9039083356662367687",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-27T15:23:00-02:00",
-   "updated": "2018-12-27T16:22:02-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1OTM0OTIyNDY2Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/meu-mundo.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9039083356662367687",
-   "title": "Meu mundo",
-   "content": "\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e;\" /\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eEu só&nbsp;queria ganhar o mundo quando criança e hoje alguns anos depois a única coisa que eu quero ganhar é você, eu sempre me pergunto quando que o meu mundo se tornou apenas você, o mundo é tão grande mas ai de repente ele se torna apenas um ser e tudo se tornar você, isso é revoltante eu quero ganhar o mundo andar por ele livre mas sempre que penso nisso eu acabo pensando em você e me prendendo ao um mundo tão pequeno que se baseia apenas em dois ser eu e você eu to disposta a viver esse mundo mas e você ta? eu quero ganhar o mundo mas parece que o meu mundo é você nada que eu faça vai mudar eu quero viajar e ganhar esse mundo que é você. parece ser um mundo tão pequeno mas é tão grande tantas coisas a se descobrir agora tenho certeza que o meu mundo ta aqui meu mundo é você\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e#Felicidade\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eCamilly\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://3.bp.blogspot.com/-k09HncS7quc/XCUYIn771gI/AAAAAAAAwIs/rK8zzSFIqyEvJXyEcvQiJYr9BqlnayMugCLcBGAs/s1600/tumblr_lgb4rnmE4S1qd0m5eo1_500_large.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"300\" data-original-width=\"500\" height=\"192\" src=\"https://3.bp.blogspot.com/-k09HncS7quc/XCUYIn771gI/AAAAAAAAwIs/rK8zzSFIqyEvJXyEcvQiJYr9BqlnayMugCLcBGAs/s320/tumblr_lgb4rnmE4S1qd0m5eo1_500_large.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://3.bp.blogspot.com/-k09HncS7quc/XCUYIn771gI/AAAAAAAAwIs/rK8zzSFIqyEvJXyEcvQiJYr9BqlnayMugCLcBGAs/s320/tumblr_lgb4rnmE4S1qd0m5eo1_500_large.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9039083356662367687/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "1318948019034614039",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-27T15:17:00-02:00",
-   "updated": "2018-12-27T16:20:11-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1OTM0ODExMTY2Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/te-agradecer.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1318948019034614039",
-   "title": " Te agradecer ",
-   "content": "\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e;\" /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eÉ eu sei que estou te enjoando mais uma vez e mas uma vez estou bêbada, drogada e com muita saudade, realmente eu estou com muita saudade, você deve achar que estou falando de boca pra fora, mas só eu sei a dor que foi te perde e dessa vez não vou pedir pra ficar, nem pra que você me retribua esse mesmo amor, eu só vim te agradece por tudo que você vez pra mim e a pesar de todas as mágoas que estou sentindo por esse amor não resolvido te agradeço por me fazer acreditar que o amor existe mesmo ele machucando as vezes.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eFoi bom te amar, foi bom te sentir, te abraça, te beijar, foi bom tudo que passamos juntos e eu sou grata por isso, agora você está feliz com outro alguém mas te desejo toda felicidade.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eE quando minha amiga me pergunta, como sabe que eu te amei, a única resposta que vou dizer é 'Eu amei ele ao ponto de deixar ele livre pra amar outra pessoa' mesmo que isso me magoe as vezes mas a única coisa que eu quero ver é sua felicidade.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eJá faz dias, semanas, meses que não te vejo e isso me dói mais ainda, porém quem sabe um dia a gente se encontra como a primeira vez, não te peço&nbsp;reciprocidade, só te desejo toda a felicidade já enquanto a mim eu vou me acostumar com tudo isso, vou apagar e tenta fingir que te esquecer, sabendo que isso vai ser difícil de acontece, mas eu vou lembra que você está feliz e vou tentar ser feliz também.\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eObrigada por me fazer te amar de verdade.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e#Amor\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eC.Sants\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://4.bp.blogspot.com/-AaYcexMQWQs/XCUXwdNg1FI/AAAAAAAAwIg/9me8fojbgHY59MTh4FhWb4C-r-ilxt6gwCLcBGAs/s1600/3aca00a9e1d177aea4cc89b5c32505da.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"810\" data-original-width=\"540\" height=\"320\" src=\"https://4.bp.blogspot.com/-AaYcexMQWQs/XCUXwdNg1FI/AAAAAAAAwIg/9me8fojbgHY59MTh4FhWb4C-r-ilxt6gwCLcBGAs/s320/3aca00a9e1d177aea4cc89b5c32505da.jpg\" width=\"213\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://4.bp.blogspot.com/-AaYcexMQWQs/XCUXwdNg1FI/AAAAAAAAwIg/9me8fojbgHY59MTh4FhWb4C-r-ilxt6gwCLcBGAs/s320/3aca00a9e1d177aea4cc89b5c32505da.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1318948019034614039/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3845731245612515251",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-27T15:15:00-02:00",
-   "updated": "2018-12-27T15:15:08-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1OTMwOTA4NzU4Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/a-ultima-vez.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3845731245612515251",
-   "title": "A última vez ",
-   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nApenas uma mente confusa\u003cbr style=\"box-sizing: border-box;\" /\u003eSão 02:38 ele ainda não voltou\u003cbr style=\"box-sizing: border-box;\" /\u003eMeu coração gela,ao pensar que algo tenha acontecido\u003cbr style=\"box-sizing: border-box;\" /\u003eEu escuto as batidas do meu coração\u003cbr style=\"box-sizing: border-box;\" /\u003eEu não quero o perder.\u003cbr style=\"box-sizing: border-box;\" /\u003eEle deve estar com os amigos\u003cbr style=\"box-sizing: border-box;\" /\u003eTalvez não seja nada\u003cbr style=\"box-sizing: border-box;\" /\u003eTalvez ele perdeu a hora\u003cbr style=\"box-sizing: border-box;\" /\u003eTente não pensar no pior...\u003cbr style=\"box-sizing: border-box;\" /\u003eTente não pensar no pior...\u003cbr style=\"box-sizing: border-box;\" /\u003eRepetidas vezes fico falando falando para mim mesma.\u003cbr style=\"box-sizing: border-box;\" /\u003ePolicias batem na minha porta\u003cbr style=\"box-sizing: border-box;\" /\u003ePor favor não seja nada\u003cbr style=\"box-sizing: border-box;\" /\u003ePor favor...\u003cbr style=\"box-sizing: border-box;\" /\u003eEntão eles ficam parados me olhando\u003cbr style=\"box-sizing: border-box;\" /\u003eAté que um começa a falar\u003cbr style=\"box-sizing: border-box;\" /\u003e\"Sinto muito moça o seu namorado não resistiu\"\u003cbr style=\"box-sizing: border-box;\" /\u003eMeu mundo se despedaça\u003cbr style=\"box-sizing: border-box;\" /\u003eMeu coração se quebra\u003cbr style=\"box-sizing: border-box;\" /\u003eSe eu o impedisse não teria acontecido\u003cbr style=\"box-sizing: border-box;\" /\u003eSerá que eu poderia ter impedido ?\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\nApenas uma mente confusa.\u003c/div\u003e\n",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3845731245612515251/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4790696234825788163",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-27T15:14:00-02:00",
-   "updated": "2018-12-27T15:14:14-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1OTMwODU0MjkxCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/stay-strong.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4790696234825788163",
-   "title": "Stay Strong",
-   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eVocê se lembra, a alguns anos atrás, quando você era feliz de verdade? Lembra daquela menininha que você era, que contagiava a todos com a sua alegria? Sabe essa menininha, que a alguns anos atrás era tão feliz, até pegar numa lâmina pela primeira vez, e esquecer do quanto era bom viver antes disso? Sabe o sorriso dela? É o mais lindo do mundo, né? Você se lembra da ultima vez que ele foi verdadeiro? Não? Faz tempo, né? Pois é, você se lembra de quando esse sorriso era verdadeiro todos os dias? Lembra também de quando ela acordava todos os dias e dava um pulo da cama com aquela vontade de viver? Quando ela se amava? Quando ela tinha muitos amigos? Você lembra quando essa garotinha acreditava em si mesma? Tudo parecia ser tão perfeito, né? Mas ai, o que aconteceu? Ela conheceu o outro lado da vida, o que não é tão feliz assim, né? Ela cresceu.. Ela cresceu e passou por dificuldades, como todos passam.. Mas ai ela ouviu falar sobre uma coisa chamada lâmina, diziam que aquilo poderia aliviar as suas dores, e ela, tão pequena, sem saber o que fazer, acreditou nisso, porque não viu mais outra saída, não é mesmo? E ela via pessoas se cortando e falando que aquilo aliviava, mas mal sabia ela que era tudo uma ilusão, que aquele alívio era falso e momentâneo, e que aquilo só ia deixar cicatrizes para sempre, por dentro e por fora. E assim ela pensou “o que pode acontecer? tanta gente faz, vai ser só um corte, só pra saber qual é a sensação, e eu nunca mais vou fazer isso!” E assim ela cometeu o maior erro da sua vida… Lembra daquele dia? Lembra daquele dia que você rasgou a sua pele, pela primeira vez, voluntariamente? E naquele corte, a menininha que era tão feliz, mas em um momento difícil não sabia o que fazer, acabou indo pela cabeça dos outros. E a partir daquele momento, sentiu como se toda a sua dor saísse por aquele pequeno corte. Mas o que ela não sabia, era que depois tudo voltaria pior, e viria o sentimento de culpa por aquele corte.. Ela não sabia que aquilo era um ciclo vicioso, que aquilo na verdade destruiria o seu sorriso, acabaria com aquela alegria, com aquela disposição, com aquela vontade de viver. E se passou um dia, dois, uma semana, um mês, e ela se via viciada naquilo, numa lâmina, ela se via cheia de cicatrizes e não conseguia mais enxergar aquela garotinha feliz que ela era, ela se olhava no espelho e se sentia um lixo, ela se sentia a pior pessoa do mundo, e não conseguia mais se amar, ela se odiava por ter feito aquele primeiro corte e não conseguir parar, e as pessoas julgavam, e ela sentia vontade de morrer a cada minuto que se passava, por causa daquele primeiro corte, ela não suportava mais a própria vida. Mais de um ano se passou, e essa garotinha não se via livre disso. Então, acho que foi mais ou menos assim com você, né pequena? Mas eu estou aqui para te dizer que isso pode mudar. Sabe, eu sei como você se sente, eu sei como é se sentir sozinha em meio a uma multidão, eu sei como é não conseguir explicar o que está acontecendo com si mesmo, ou até mesmo o que eu estou sentindo, eu sei como é sentir como se ninguém conseguisse te entender, mas você não está sozinha, volte lá do zero se for preciso, mas seja feliz de novo, porque eu sei que você consegue. Sabe, parece que as forças acabaram, parece que nada nunca vai dar certo… Mas feche os olhos princesa, lembra daquele sorriso, daquela garotinha feliz… Não sei se você pode sentir, mas ela ainda está ai, viva, dentro de você, sabe o que falta pra ela voltar? Você acreditar que ela pode voltar. Pequena, não se machuque mais, acredite que você é capaz, ninguém pode ser forte por você, ninguém pode acreditar por você, seja forte, se olhe no espelho, arrume esse cabelo, enxugue essas lágrimas e tire esse preto dos olhos, veja como você é linda pequena, você não precisa disso, você não precisa parar de comer, não precisa vomitar e nem se cortar, você pode ser feliz sem isso. Princesa, existe um Deus que quer te ver feliz, Ele quer aquele sorriso sincero, e aquele brilho nos seus olhos de volta. O que? Deus te abandonou? Não pequena, Ele nunca te abandonou, Ele quer te ajudar, fale com Ele agora, Ele te ouve, Ele só quer ouvir a sua voz, grite o nome dEle, peça ajuda a Ele, conte pra Ele como você se sente, desabafe com Ele, Ele quer te ajudar, conta pra Ele tudo que te machuca, tudo que você guarda ai dentro esse tempo todo, mostre o quanto você precisa dEle, e se não conseguir falar, se não souber o que falar, só chore, desabe aos pés dEle pequena, Ele entende cada lágrima que cai dos teus olhos. Eu já me cortei, sim, eu ja fiz isso, eu sei o que é querer morrer e continuar parado no mesmo lugar, eu sei exatamente como está se sentindo, sei como é esse vazio que parece que vai te consumindo até te devorar por inteiro, sei como é se sentir um peso para todos ao seu redor, sei como é se sentir absolutamente sozinha, como é ter que colocar um sorriso no rosto toda vez que vai sair. Sei como é ver os carros e ter vontade de sair correndo bem na frente do que parece que vai fazer o maior estrago, sei como é guardar as lâminas pra que de uma hora pra outra acabar logo com tudo. Sei como é se sentir assim, com toda certeza do mundo, e parece que por alguns momentos, isso tudo volta, eu sinto isso toda vez que eu olho pra os meus braços, parece que tudo está voltando. Mas com uma certeza ainda maior, sei que isso tem saída, sei que não vai ser assim para sempre, sei que por mais difícil de acreditar, esse vazio PODE SIM ser preenchido, Deus pode preencher esse vazio princesa, é só você pedir, é só você deixar. E eu resolvi fazer isso, resolvi parar de me cortar, de uma vez por todas, resolvi acreditar que aquela menininha feliz que eu era pode voltar, que só depende de mim pra isso, ninguém vai poder ser forte por mim, ninguém vai poder acreditar por mim, só depende de mim, assim como só depende de você. Olha bem pra essa garotinha, você sabe que ela está ai, você sabe que ela pode voltar, você sabe que esse sorriso, o sorriso mais lindo do mundo, ele pode ser verdadeiro de novo, só depende de você. A dor tá insuportável, né? Mas eu sei que você pode suportar, a vida ta ai pra isso, te derrubar, só cabe a nós conseguirmos ser mais forte. As forças acabaram? Você sabe que não, tudo pode dizer que sim, mas eu sei que você sabe que não, busque forças lá de dentro, no mais profundo, lá dentro de você, só coloque essa força pra fora. Você não quer morrer, você sabe que não é o melhor pra você, você sabe que ainda tem amor próprio ai dentro, você sabe que pode vencer, você sabe que tem a vida inteira pela frente, assume pra você mesmo que você não quer morrer, que você só quer vencer a depressão, que só quer ser feliz, e você sabe que consegue, vamos voltar lá atrás, lá do zero, você sabe que é capaz de tudo, agora toma essa posição, você quer que essa menininha feliz de verdade volte, né? Eu também quero, e to lutando por isso, agora acredite em você e me mostre o seu sorriso verdadeiro, só tem vitória quando a gente vai a luta, eu estou disposta a começar tudo de novo, e vencer, e você? Pensa bem nisso, aquela garotinha feliz vai voltar, você sabe que vai, não deixa a vida te derrubar, não vamos deixar a depressão e a automutilação vencerem, você não pode se entregar assim, você sabe que é mais forte, agora coloque isso em prática, você não está sozinha pequena, agora vem comigo, vamos a luta, eu quero ver aquela menininha feliz de alguns anos atrás, eu sei que ela vai voltar.. Vamos princesa, sorria, alguém precisa do seu sorriso, mas que ele seja verdadeiro como antes, que aquele brilho nos seus olhos volte, vamos ser fortes a partir de agora, você sabe que é capaz, agora princesa, me mostre o seu sorriso, o mais verdadeiro e mais raro, agora faça ele aparecer todos os dias.. Aquela princesinha não morreu, ela só cresceu, aquela princesinha, é você. Eu sei que cada princesa que se corta pode superar, eu sei o que vocês passam, eu realmente sei, mas eu sei mais ainda que vocês conseguem ser mais fortes do que isso. Foi Deus que te colocou nesse mundo pequena, Ele não te dá um cargo que você não possa suportar, seja o que for, Ele está do seu lado. O suicídio, os cortes, a bulimia, a anorexia, nunca serão solução. Você é linda, é perfeita do jeito que você é, não acredite no que a sociedade insiste em dizer, Deus te fez assim, e Ele te fez perfeita. Acredite em você, seja forte, eu acredito em cada uma de vocês! Vocês são mais fortes do que imaginam, agora coloquem essa força em prática, vocês são guerreiras, vocês conseguem e não estão sozinhas! Stay Strong princesas!\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eEmily\u003c/span\u003e",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4790696234825788163/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "293405175127819672",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2018-12-27T15:13:00-02:00",
-   "updated": "2018-12-27T16:18:40-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ1OTM0NzIwODE4Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2018/12/onde-estas.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/293405175127819672",
-   "title": " Onde estás ",
-   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003ePoesia escrita\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eRima montada\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eCoração em pedaços\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eCoração maltratado\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eAma demais\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eQuer demais\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eMas não tem nada a mais\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eQue um abraço onde se perde\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eAbraço verdadeiro\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eQue bate o sentimento\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eCoração dispara\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eQuando me tocas\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eEstás aqui\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eMas estas tão longe de mim\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eMe das esperanças\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eEsperanças falsas\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eEsperanças confusas\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eMe das esperanças\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eMas onde estás as esperanças\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eEstou confusa\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eEstou perdida\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eEscrevo esta rima\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eCom o coração perdido em palavras é momentos já vividos\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eMenina menina onde estás você em minha vida\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eEstás no presente no passado? Ou no futuro\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eEu não te vejo o menina\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eOnde estás que aqui em mim tu habitas\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eOnde estás que em mim tu faz tua morada o menina\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eEntão me digas\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eOnde estás menina\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eEu não há vejo mas te sinto\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eO menina me diga\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eQuero te ter menina\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eAqui agora\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eNão some não menina\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eEu preciso de ti\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003ePreciso viver com ti\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003ePreciso amar apenas a ti\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e#Amor\u003c/span\u003e\u003cbr /\u003e\n\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eGabriela Tavares\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://4.bp.blogspot.com/-u6HLGptZVUI/XCUXfCrlw0I/AAAAAAAAwIU/sNZHbmn91VYMOC1u6FRoJqPONzDl9-MGwCLcBGAs/s1600/tumblr_o9ddafl6KV1qhx1b5o1_r1_640.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"426\" data-original-width=\"640\" height=\"212\" src=\"https://4.bp.blogspot.com/-u6HLGptZVUI/XCUXfCrlw0I/AAAAAAAAwIU/sNZHbmn91VYMOC1u6FRoJqPONzDl9-MGwCLcBGAs/s320/tumblr_o9ddafl6KV1qhx1b5o1_r1_640.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://4.bp.blogspot.com/-u6HLGptZVUI/XCUXfCrlw0I/AAAAAAAAwIU/sNZHbmn91VYMOC1u6FRoJqPONzDl9-MGwCLcBGAs/s320/tumblr_o9ddafl6KV1qhx1b5o1_r1_640.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/293405175127819672/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0yMFQyMTozMjozMC43MDJa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0yMVQyMzozNzozNS4xMDVa\""
 }
