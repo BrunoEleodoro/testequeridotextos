@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYgd7Np4ItEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYoa_np4ItEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "1404415320065898735",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-31T20:53:00-02:00",
+   "updated": "2019-01-31T20:53:54-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4OTc1MjM0MjMyCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/o-que-nos-tornamos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1404415320065898735",
+   "title": "O que nos tornamos ? ",
+   "content": "O que nos tornamos? nos tornamos tudo aquilo que não queríamos , \ncrescemos , se afastamos , tudo o que prometemos não foi cumprido . Hoje \nlembro de quando sentavam todos juntos e planejávamos o nosso futuro , \nsempre falando em \" nunca se afastar \" mais quem diria que o mundo ia \ndar uma volta dessa capaz de nos separa ? Pq nos separa ? Sinto muita \nsaudade da aquela época onde não tínhamos maldade , que só queríamos nos\n divertir , bagunça , correr contra o tempo e enganar o destino , mais \nno final de tudo o destino que nos pregou uma peça . Espero que àqueles \nque andou ao meu lado tenha conseguido tudo aquilo que planejamos em uma\n mesa de escola .\u003cbr /\u003e\n\u003cbr /\u003e\nRayane Nascimento\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para amizade perdida tumblr\" class=\"irc_mi\" height=\"212\" src=\"https://meuhoroscopo.net/wp-content/uploads/2015/08/amizade-perdida.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
+   "images": [
+    {
+     "url": "https://meuhoroscopo.net/wp-content/uploads/2015/08/amizade-perdida.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1404415320065898735/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "1344902219898912669",
@@ -5780,38 +5811,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7779977519827060551/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7127284149844351591",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-06T18:56:00-02:00",
-   "updated": "2019-01-06T18:56:46-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ2ODA4MjA2NTg5Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/coracao.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7127284149844351591",
-   "title": "Coração.",
-   "content": "\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003eAh, como eu amava deitar em teu peito e sentir a doce combinação da melodia da sua respiração com os batimentos do seu coração. Ouvir a cada batimento cardíaco teu me acalmava, me trazia paz, me fazia pegar no sono. Você também pode ouvir os lindos sons dos meus batimentos cardíacos. Mas a diferença entre nós dois é que cada batida do meu coração era dedicada&nbsp;a ti, cada batimento cardíaco meu era um \"eu te amo\" para seus ouvidos. Mas meu amor, você nunca se dedicou, você nunca demonstrou o amor que dizia sentir por mim, você só falava \"Eu te amo\" rasos e sem sentimentos, enquanto o meu coração sentia até o teu lamento. Na primeira vez que você deleitou sobre meu peito imediatamente meu coração acelerou e dizia que era você, mas quando eu me deitei sobre teu peito seus batimentos não me convenciam de nada mas ainda sim me acalmavam. Mas hoje meu coração cansou, você não é mais a razão pela qual meu coração dispara, minha respiração acelera. Não, não é você, e eu sinto muito em te dizer. Eu te amei até onde pude, até onde meu coração aguentava, mas hoje ele não aguenta mais, não é que ele esteja parando, mas é porquê ele não aguenta mais você e seus fracos batimentos falsos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eMaria Eduarda\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://4.bp.blogspot.com/-gA51GRnoL8A/XDJrZHt_3tI/AAAAAAAAwSY/6VgjB7AwrB063HF5BIAE_rZe0oHMIxsBgCLcBGAs/s1600/df7da5ed31bd884e15ea322acc1565de.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"750\" data-original-width=\"422\" height=\"320\" src=\"https://4.bp.blogspot.com/-gA51GRnoL8A/XDJrZHt_3tI/AAAAAAAAwSY/6VgjB7AwrB063HF5BIAE_rZe0oHMIxsBgCLcBGAs/s320/df7da5ed31bd884e15ea322acc1565de.jpg\" width=\"180\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://4.bp.blogspot.com/-gA51GRnoL8A/XDJrZHt_3tI/AAAAAAAAwSY/6VgjB7AwrB063HF5BIAE_rZe0oHMIxsBgCLcBGAs/s320/df7da5ed31bd884e15ea322acc1565de.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7127284149844351591/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0zMVQyMjoxNzo1NC4zMDZa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0zMVQyMjo1Mzo1NC4yMzJa\""
 }
