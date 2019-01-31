@@ -1,7 +1,162 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYgcbYpoItEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYgd7Np4ItEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "1344902219898912669",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-31T20:17:00-02:00",
+   "updated": "2019-01-31T20:17:54-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4OTczMDc0MzA2Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/nao-eu-nao-deveria.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1344902219898912669",
+   "title": "Não! eu não deveria.",
+   "content": "\"- ah mais você é tão jovem, deveria partir para outra\".\u003cbr /\u003e\nNão! Eu não deveria. E eu tenho inúmeras razões para isso, e você \ninúmeros motivos para começar a respeitar minhas escolhas, afinal, elas \nsão minhas.\u003cbr /\u003e\nPartir para outra, só seria possível se eu não estivesse completamente nessa.. entende? Pra que me machucar mais?\u003cbr /\u003e\nQuando eu ouço comentários estúpidos dizendo que eu deveria estar com um\n outro alguém, alguém que me amasse de verdade, eu penso, \"WHAT?\"\u003cbr /\u003e\nEu já estive em uma relação onde eu estava fisicamente, mas não emocionalmente, e só eu sei a dor que isso tudo me causou.\u003cbr /\u003e\nEstar por estar? Jamais!\u003cbr /\u003e\nRelacionamentos não é brincadeira, o coração das pessoas não é \nbrincadeira. E eu sinceramente não entendo esses amores de hoje em dia..\n e é por esses e outros motivos que eu não me identifico neste século.. \nEu sou mesmo é das antigas, onde o amor existia, onde o amor era \nconquistado e preservado! Onde ele não era descartável como algumas \nrelações.\u003cbr /\u003e\nMe apaixonei aos dezesseis por um homem mais velho, no começo achei que \nera apenas fogo de palha e que logo apagaria.. e cá estamos nós, 6 anos \ndepois, e o sentimento cada vez mais forte. Loucura não? Amar alguém por\n tanto tempo.. mas não deveria ser loucura.\u003cbr /\u003e\nEu já tive o seguinte pensamento,  \"só irei esquece-lo se \nestiver/conhecer um outro alguém\".. se pra você é válido, tudo bem, mas \ncomigo não funcionou. Eu tentei e acabei machucando pessoas que não \ntinham nada haver, eu acabei me machucando mais, e será que isso \nrealmente vale a pena?!\u003cbr /\u003e\nHoje, eu não me imagino com alguém que não seja ele, talvez, daqui \nalguns anos isso mude. Mas hoje, não, afinal, que tipo de mulher eu \nseria se estiver com alguém e depois passa-se minhas madrugadas \nescrevendo sobre um outro alguém, alguém esse que eu fui e sou \ncompletamente apaixonada?\u003cbr /\u003e\nEu não mereço metades.. assim como também não posso oferecer metades.\u003cbr /\u003e\nOu eu entro em uma relação por completo, ou eu me curo completamente e depois me arrisco como fiz há seis anos atrás.\u003cbr /\u003e\nE sim, eu sou jovem e tenho a vida inteira pela frente para encontrar o \nmeu príncipe encantado, ou não, mas seja o que for, eu prefiro assim.. \numa consciência limpa de que não estou brincando com os sentimentos de \nninguém.\u003cbr /\u003e\nE numa próxima relação poderei entrar por completo, sem feridas abertas, sem madrugadas escrevendo sobre aquele alguém..\u003cbr /\u003e\nEu sou por completo, não nasci para ser metade na vida de ninguém, muito menos, receber.\u003cbr /\u003e\n\u003cbr /\u003e\nCami\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para anotando tumblr\" class=\"irc_mi\" height=\"250\" src=\"https://66.media.tumblr.com/683c94aba1917379dd873f02f7f17361/tumblr_pc5h2w2cwR1wer2glo1_250.jpg\" style=\"margin-top: 79px;\" width=\"250\" /\u003e ",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/683c94aba1917379dd873f02f7f17361/tumblr_pc5h2w2cwR1wer2glo1_250.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1344902219898912669/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4387764615522607391",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-31T20:15:00-02:00",
+   "updated": "2019-01-31T20:15:23-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4OTcyOTIzMzAwCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/note-os-detalhes.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4387764615522607391",
+   "title": "Note os detalhes",
+   "content": "O barulho da noite nos meus ouvidos, canções mortais de desespero. Lua \ncom seu brilho tão intenso que chego a pensar que podes iluminar o \nmundo, o céu negro como a estrada que percorro; sinto a brisa da noite \nentão penso, poderia eu passar minha mera vida assim, abaixo da mais \nmagnífica lua e orvalho para todo o sempre.\u003cbr /\u003e\n&nbsp; Seria eu merecedora de te contemplar todas as noites, me sustendo com as estrelas.\u003cbr /\u003e&nbsp;\nEspero andar com teu brilho e me maravilhar com sua beleza, para que eu possa ser digna de tal resplendor.\u003cbr /\u003e&nbsp;\nDe forma que minha vida não seja apenas o acaso.\u003cbr /\u003e\n&nbsp; Luzes da cidade mostre-me a sua calamidade, de forma que eu possa \nsair de tua presença e rastejar até onde não possa mais te ver.\u003cbr /\u003e\n\u003cbr /\u003e\nEstrela.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para anotando tumblr\" class=\"irc_mi\" height=\"187\" src=\"https://todateen.com.br/wp-content/uploads/2017/08/como-tirar-fotos-tumblr-17.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e \u003cbr /\u003e\n\u003cbr /\u003e\n",
+   "images": [
+    {
+     "url": "https://todateen.com.br/wp-content/uploads/2017/08/como-tirar-fotos-tumblr-17.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4387764615522607391/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1080375245039571172",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-31T20:12:00-02:00",
+   "updated": "2019-01-31T20:12:11-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4OTcyNzMxOTU3Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/de-todas-as-formas.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1080375245039571172",
+   "title": "De todas as formas.",
+   "content": "Amor que contagia, amor que supera, amor que dá saudades, amor que \nsorri, amor que ajuda, amor que tem prazer, amor que é amor, e de todos \nos amores o nosso, completo. \u003cem\u003eDistância\u003c/em\u003e, que por ser amor não muda nada além de presença. \u003cem\u003eMedo\u003c/em\u003e, do futuro que é imprevisível. \u003cem\u003eSonho\u003c/em\u003e, estar ao seu lado por toda minha vida. \u003cem\u003eSaudade\u003c/em\u003e, dos momentos, abraços, beijos, carinhos, você. \u003cem\u003eDor\u003c/em\u003e, que dói e dilacera o peito, com uma lâmina que acabou de ser aberta, sem dó. \u003cem\u003eVida\u003c/em\u003e, que era pra ser um presente de Deus, mas sem você não faz sentido. \u003cem\u003eCoração\u003c/em\u003e, que ainda bate na esperança de ter você de volta. \u003cem\u003eEu te amo\u003c/em\u003e só tem significado se for dito pra você.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nIsabella Tomé\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para flor tumblr\" class=\"irc_mi\" height=\"320\" src=\"https://i.pinimg.com/originals/4c/0a/98/4c0a98759a781214988abb392f4813be.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e \u003cbr /\u003e\n\u003cbr /\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/4c/0a/98/4c0a98759a781214988abb392f4813be.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1080375245039571172/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7006091653782849725",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-31T20:09:00-02:00",
+   "updated": "2019-01-31T20:09:12-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4OTcyNTUyNDcwCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/sua-falta.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7006091653782849725",
+   "title": "Sua falta",
+   "content": "É tão comum ouvir por aí sobre saudade, saudade disso e daquilo, saudade\n de fulano e fulana. Tem vários tipos de saudade, e olha só que má sorte\n a minha, acabei sentindo a mais intensa, aquela que dói, que dilacera o\n coração profundamente sem risco de cicatrização. Sinto falta dos mais \nsimples momentos, de ficar horas conversando, olhando seus lindos olhos,\n observando suas expressões impulsivas e me apaixonando cada vez mais \nquando olhava as curvinhas que seu sorriso maravilhoso produzia. Me faz \nfalta os abraços esperados e inesperados, os olhares trocados, dos \nsimples gestos de amor, sinto falta do eu te amo tão esperado no momento\n que a gente estava ali no melhor encontro, no melhor encaixe, na mais \nperfeita ligação. Só queria dizer que sinto, sinto muita, muita saudade \nsua.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nIsabella Tomé\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" height=\"320\" src=\"https://i.pinimg.com/originals/85/10/41/851041484b6b1bfaf3283fa5340ca9a2.jpg\" style=\"margin-top: 0px;\" width=\"240\" /\u003e \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/85/10/41/851041484b6b1bfaf3283fa5340ca9a2.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7006091653782849725/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1564257906024777098",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-01-31T20:08:00-02:00",
+   "updated": "2019-01-31T20:08:15-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4OTcyNDk1OTY5Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/01/tudo-se-foi_31.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1564257906024777098",
+   "title": "Tudo se foi.",
+   "content": "Mas se tem uma coisa que eu aprendi é que eu não posso obrigar ninguém a\n ficar em minha vida, você foi especial, ela foi, ele foi, a professora \nda quarta série foi, o primeiro menino que eu gostei foi,o segundo, o \nterceiro, o quarto, minhas melhores amigas do pré foram, meus antigos \ncolegas foram, tudo foi especial, mas “foram”, o que significa que não \nestão mais comigo. Ainda ontem eu ficava chateada, pensava que o \nproblema era eu, era eu a única culpada por elas se afastarem, eu não \nera o suficiente para ninguém ficar. Mas hoje posso ver, as coisas são \nassim por que tem que ser assim, não adianta chorar, me espernear e \npedir para você voltar para mim simplesmente porque te tive por muito \ntempo e achei que duraria para sempre, eu tenho que aceitar que as \ncoisas acabam, tudo tem um fim, eu não posso te prender a mim pois já \nnão lhe agrado mais, nossos papos já não são mais divertidos igual a \ndois anos atrás, ou até mesmo como ontem, você não acha graça mais das \nminhas piadas e já não existe mais assunto entre nós, eu olho para você e\n já não me desperta aquela vontade de te contar algum babado ou até \ndesabafar, já não vejo em você aquela pessoa que um dia quis amizade ou \nque me apaixonei. Mas existem outras pessoas, pessoas que talvez queiram\n me conhecer, que talvez irá rir mais alto das minhas piadas, que irá \npuxar assunto quando eu não tiver, vou confiar minha vida a ela e ela à \nmim, talvez vamos criar uma enorme amizade ou até se apaixonar.A questão\n é essa, eu te deixo ir por que sei que se você não está disposto (a) a \nterminar o que começou, outra pessoa estará.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nRita Gonçalves\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para seguir tumblr\" class=\"irc_mi\" height=\"320\" src=\"https://i.pinimg.com/originals/29/35/7f/29357f4084c62272550ceccbd8b9d25c.jpg\" style=\"margin-top: 0px;\" width=\"180\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/29/35/7f/29357f4084c62272550ceccbd8b9d25c.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1564257906024777098/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "5414952344595738099",
@@ -5656,162 +5811,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7127284149844351591/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4028409397486856743",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-06T18:43:00-02:00",
-   "updated": "2019-01-06T18:43:09-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ2ODA3Mzg5NzQwCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/pulso-com-sangue.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4028409397486856743",
-   "title": "Pulso com sangue.",
-   "content": "\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003eE então você decidiu que está na hora. Ninguém em casa é o momento perfeito. Tem uma faca, a mais afiada que você&nbsp;encontrou, diante dos seus olhos. Agora ela está em suas mãos. Antes de terminar com tudo você pega uma folha. Procura uma caneta. Começa a escrever palavras e mais palavras. Tenta se explicar. Pede desculpa, diz que sente muito. As lágrimas escorrem pelo seu rosto sem parar. Caem sobre a folha e borram algumas palavras. Seu coração se aperta, pois não quer dar adeus a tudo aquilo que você mais ama. Você obriga a si mesmo a se desgarrar desses pensamentos. Está na hora de ir. A carta está terminada. Você a lê e chora ainda mais. Deixa a folha de papel sobre sua cama. Senta-se no chão. Ele está frio. Assim como você também está congelando. Lágrimas ainda caem pelo seu rosto, e dessa vez você não consegue controlá-las. Agora sua mente está voltada em decidir aonde vai ser. Duas escolhas ficam em sua mente. Mas você se decidiu pelo mais comum, pelo mais fácil. Ergue a blusa e vê sua veia pulsando. Sorri, tão ironicamente, mas sorri. Nesse momento milhares de coisas passam pela sua mente. Menos a ideia de desistir. Porque você não vai. A lâmina esta na sua mão outra vez. A coragem que muitas vezes havia sumido aparece. A veia ainda pulsa, e é como se lhe convidasse a perfurá-la. Mais alguns segundos de tensão, mais alguns minutos de quase-vida e você quer logo dar um basta. Pega o objeto cortante que tem em mãos e o passa sobre seu pulso, com toda a sua força. No principio nada. Mas então uma dor latejante toma conta de todo seu corpo. Sangue. Numa quantidade que você nunca tinha visto. Não para de escorrer. Então você sabe que dessa vez deu certo. Que era o fim. Sente a morte se aproximando, e não tem um pingo de medo. Aquilo era o esperado. Despede-se de todos. E mesmo com toda aquela dor flamejante, sorri. Sorri porque sabe ser o fim de toda a sua dor, de todo seu sofrimento. Acabou. Agora era hora de ser feliz. Mesmo que fosse bem longe de onde ele sonhara ser. Seus olhos se fecham lentamente. Sua alma se desprende. E dentro de ti sobre apenas um vazio. O sangue para de escorrer. Mas essa historia não acaba por ai. Sua mãe chega em casa. Grita pelo seu nome. Não obtém resposta é claro. Então vai te procurar. Vai direto ao seu quarto. Abre a porta e grita. Aquela cena jamais sairia da mente dela. O corpo da sua filha caído no chão. O pulso cortado. Sangue espalhado pelo chão. Então ela chora, desesperadamente. Se joga no chão e começa a sacudir seu corpo. Implora pra que ainda esteja viva, mas você não está. Com lágrimas nos olhos ela diz que você está morta. Ela sai correndo. Para onde nem ela sabe, apenas corre. Sai de casa e vai pra longe, chorar. No dia seguinte a noticia já se espalhou. No seu velório apareceram inúmeras pessoas. A maioria foi apenas para dizer que sentiam muito. Uma grande parte eram de curiosos. E mesmo que essa fosse pequena, havia uma quantidade de pessoas que realmente estavam ali por realmente se importarem. Sua melhor amiga entra e vê seu corpo num caixão. Gritos e mais gritos. É um choro sem fim. O seu melhor amigo a ampara, mas nem ele mesmo consegue ser forte. A pose de durão dele sumiu. Sua mãe está lá a base de calmantes. Seu pai apareceu, mas não conseguiu ficar. Seu enterro aconteceu. Mas as pessoas não iriam esquecer tão fácil assim. Um mês se passa. Sua mãe entrou em depressão. Toma milhares de remédios, mas nada faz com que aquele vazio se preencha. Ela tenta se manter forte, pois ela tem que ser, mesmo que muitas vezes ela desmorone e chore pelos cantos. A família não é a mesma sem você. E pensar que você achava que não faria diferença. Sabe aquele professor que pegava no seu pé? Que só implicava contigo nas aulas? Se despediu. Não aguentou ficar no serviço nem uma semana a mais. Ele também se culpa. Aquelas meninas que te zoavam na escola, que te chamavam de feia, de vadia e tudo mais, elas choram todos os dias. Se sentem culpadas até o ultimo fio de cabelo. Aquele garoto que você gostava está internado numa clinica para viciados. A culpa foi tão grande que não aguentou e se iniciou no mundo das drogas. Ele gostava de você, mas não quis ficar contigo por vergonha. Sua melhor amiga aquela que chorou e gritou no seu velório, ela se corta todas as noites. Seu melhor amigo perdeu o sono e tem que tomar remédios fortes para conseguir dormir apenas três horas por noite. Os dois se sentem imensamente culpados por não terem conseguido te ajudar. Se sentem inúteis. O seu quarto ainda está lá. A carta ainda em cima da cama. Sua mãe não teve coragem de lê-la. E mesmo com todas as recordações que isto pode causar, depois desse um mês passado, ela resolve entrar no seu quarto. O sangue ainda está no chão. Ela ainda consegue ver você estirada ali, sem vida. Passa pela poça e vai até sua cama, se senta e chora. Pega seu travesseiro e sente sue cheiro. Chora ainda mais. Então ela pega a carta, agora meio velha, devido ao tempo que ficou presa naquele quarto. Ela vê as letras borradas e deduz que são por causa de lágrimas, e nisso está certa. Toma coragem, e lê suas ultimas palavras. Mais lágrimas caem sobre o papel. Ela tenta te entender. Mas não consegue. Ela nota que todos erraram com relação a você. Principalmente ela, que não percebeu tudo que estava acontecendo com sua própria filha. Termina, joga o papel na cama. Sai e pega um balde com água. Joga no quarto e limpa seu sangue. Ela não consegue parar de chorar. Mas faz o que você pediu na carta. Segue em frente. Um ano se passou, e as coisas não mudaram muito. A depressão de sua mãe se foi. Sua melhor amiga não pega em uma lamina ha meses. Seu melhor amigo dorme bem agora. A cidade ainda não se esqueceu do seu suicídio, mas ninguém mais comenta. As coisas parecem bem agora. Apenas parecem. Na mente daqueles que se importavam tudo isso ainda não parece real. É um ano sem você. É um ano de tristeza. Um ano de lágrimas. Visitam seu tumulo e deixam flores. Eles sentem sua falta. E sempre vão sentir. Jamais se esquecerão de você. Infelizmente você partiu ao invés de esperar as mudanças acontecerem. Eles tiveram que te perder pra dar valor. Enquanto você sofria em silencio, eles fingiam não se importar com nada, mesmo se importando muito. Erro seu, sim. Mas erro deles também.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003esolitária\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://3.bp.blogspot.com/-AD59EnGSv7w/XDJoRUkpcNI/AAAAAAAAwSM/5E-SP8GkytsY_EuqNTNICjLXSRV1Dx42wCLcBGAs/s1600/tumblr_opqi8k4uAx1w03byqo1_400.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"499\" data-original-width=\"400\" height=\"320\" src=\"https://3.bp.blogspot.com/-AD59EnGSv7w/XDJoRUkpcNI/AAAAAAAAwSM/5E-SP8GkytsY_EuqNTNICjLXSRV1Dx42wCLcBGAs/s320/tumblr_opqi8k4uAx1w03byqo1_400.jpg\" width=\"256\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://3.bp.blogspot.com/-AD59EnGSv7w/XDJoRUkpcNI/AAAAAAAAwSM/5E-SP8GkytsY_EuqNTNICjLXSRV1Dx42wCLcBGAs/s320/tumblr_opqi8k4uAx1w03byqo1_400.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4028409397486856743/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2743928644752786451",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-06T18:37:00-02:00",
-   "updated": "2019-01-06T18:37:53-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ2ODA3MDczMTkzCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/lua.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2743928644752786451",
-   "title": "Lua.",
-   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eQuando eu estava triste sem amigos,sem pessoas ao meu lado para me ouvir eu saia fora de casa, levantava a cabeça e olhava a lua e pensava como ela é linda mas tá sempre sozinha suas amigas eram as estrelas.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eMas as estrelas roubava seu brilho talvez a lua e igual a mim sempre sozinha e sempre pessoas a roubar seu único brilho.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eEvelyn\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-mTYak6lm9Ho/XDJnGaFm9jI/AAAAAAAAwSA/vOcx3k2kuesiHl9Z9znibvaZyzXYYPYfwCLcBGAs/s1600/tumblr_o33agrhs0o1ugp61po1_500.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"334\" data-original-width=\"500\" height=\"213\" src=\"https://1.bp.blogspot.com/-mTYak6lm9Ho/XDJnGaFm9jI/AAAAAAAAwSA/vOcx3k2kuesiHl9Z9znibvaZyzXYYPYfwCLcBGAs/s320/tumblr_o33agrhs0o1ugp61po1_500.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://1.bp.blogspot.com/-mTYak6lm9Ho/XDJnGaFm9jI/AAAAAAAAwSA/vOcx3k2kuesiHl9Z9znibvaZyzXYYPYfwCLcBGAs/s320/tumblr_o33agrhs0o1ugp61po1_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2743928644752786451/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2170414546415050545",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-06T18:31:00-02:00",
-   "updated": "2019-01-06T18:31:50-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ2ODA2NzEwMDQ5Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/quanto-tempo-nos-resta.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2170414546415050545",
-   "title": "Quanto tempo nos resta?",
-   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eA gente vive achando que vai viver pra sempre, deixamos muita coisa pra depois e assim a vida corre, algumas correm rápido demais, umas devagar, já outras...\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eQuanto tempo nos resta?\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eA gente nunca espera que o tempo acabe, a gente nunca espera que a morte chegue, mas vale a pena lembrar que ela chega, seja por uma doença \"sem cura\", seja em um acidente fatal, seja em um enfarto fulminante, uma doença que tomou conta aos poucos, dormir e simplesmente não acordar, uma bala perdida, etc, etc, etc, há milhares de formas, mas a gente nunca espera que aconteça com a gente ou com alguém próximo, mas e se?\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eVocê partiria em paz? Você disse o quanto você ama as pessoas a sua volta? Você fez diferença na vida de alguém? Você foi alguém pra alguém? Você fez sorrir ou fez chorar? Você curou feridas ou você machucou mais ainda? Você perdeu por medo ou você encarou? Você superou? Você perdoou? Você se libertou de sentimentos ruins? Você somou, você subtraiu ou não fez diferença?\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eE se não houvesse o amanhã OU houvesse só o amanhã?\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003ePrecisamos parar de viver como se fossemos eternos ou tivéssemos todo tempo do mundo, e até mesmo como se as pessoas a nossa volta fossem e tivessem. EI, passou da hora de viver de verdade, de dar algum sentido a sua vida, você não sabe ( NÃO SABE MESMO) do dia de amanhã, então, se for necessário corre atrás, mude de ideia, peça perdão, diga que ama, faça diferença, enxugue as lágrimas que você fez cair, cure as feridas que você causou, estenda a mão pra quem esta do seu lado, caminhe com quem escolheu estar com você, demostre sentimento, se esforce pra melhorar, se esforce pra lutar e lute como se fosse a ultima vez, sem medo, sem deixar pra depois, sem recuar, sem voltar atras. Faça hoje, afinal o amanhã, o daqui a pouco, pode não existir e o que você deixou, o que você fez, quem foi você?\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eYasmiz Tavares\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-ZYvwbPvWTQQ/XDJlr0aXOuI/AAAAAAAAwR0/e1n6BLWbWu4XqAgAaLZjXBSuFjKfSviYQCLcBGAs/s1600/763b4e455856ea67efefae33a360b520.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"600\" data-original-width=\"400\" height=\"320\" src=\"https://1.bp.blogspot.com/-ZYvwbPvWTQQ/XDJlr0aXOuI/AAAAAAAAwR0/e1n6BLWbWu4XqAgAaLZjXBSuFjKfSviYQCLcBGAs/s320/763b4e455856ea67efefae33a360b520.jpg\" width=\"213\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://1.bp.blogspot.com/-ZYvwbPvWTQQ/XDJlr0aXOuI/AAAAAAAAwR0/e1n6BLWbWu4XqAgAaLZjXBSuFjKfSviYQCLcBGAs/s320/763b4e455856ea67efefae33a360b520.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2170414546415050545/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "6459475339777999032",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-06T18:29:00-02:00",
-   "updated": "2019-01-06T18:29:22-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ2ODA2NTYyNjkyCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/destino.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6459475339777999032",
-   "title": "Destino.",
-   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\n\u003cbr style=\"box-sizing: border-box;\" /\u003eNunca fui dessas que acreditava no destino, mas um dia ele bateu-me à porta. Quando eu menos esperava ele trouxe-me a pessoa mais maravilhosa que eu conheço até hoje. Trouxe-me um novo mundo que eu desconhecia sinceramente. Trouxe-me o amor,\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nNeste momento devem estar a pensar se o destino me trouxe o AMOR porque é que eu estou a escrever isto. Não estou a escrever para contar a minha linda história de amor.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nEstou para contar como devemos abraçar tudo aquilo que nos faz sentir e não deixarmos ir embora. Porque quando repararem já poderão não o ter convosco.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\nMuito sinceramente nunca fui dessas pessoas de demostrar o carinho e o amor que eu sinto pelos outros. Sempre deixei que fossem os outros a dar o primeiro passo.\u003cbr style=\"box-sizing: border-box;\" /\u003eNunca imaginei que uma única pessoa poderia ter tanto peso em mim, mas aconteceu.\u003cbr style=\"box-sizing: border-box;\" /\u003eEu apaixonei-me, pela pessoa mais carinhosa, mas meiga e mais tudo que existe neste mundo e arredores. Uma pessoa com quem eu me sentia eu própria, uma pessoa com quem eu conseguia demostrar o amor que eu sentia por ela. Estava nas nuvens.\u003cbr style=\"box-sizing: border-box;\" /\u003eAté as coisas deixaram de ser , bem como é que eu de dizer isto, perfeitas.\u003cbr style=\"box-sizing: border-box;\" /\u003eE acabamos por nos afastar mantendo sempre o amor incondicional que eu sentia por ele. Tivemos várias tentativas de sermos feliz. Até que na última tentativa eu fiz asneira, asneira de que arrependo todos os dias da minha vida. Consegui perder essa pessoa, sim.\u003cbr style=\"box-sizing: border-box;\" /\u003eTenho um vazio no meu coração porque sei que a culpa é só minha e se pudesse remediar as coisas remediava mas infelizmente não posso.\u003cbr style=\"box-sizing: border-box;\" /\u003eEle ficou muito magoado comigo e a partir desse momento eu vi que não sabia o que fazer da minha vida, pois sempre me habituei a tê-lo comigo , nos momentos bons e maus da vida. Mas quando dei por ela não tinha, e já o tinha perdido, era tarde demais...\u003cbr style=\"box-sizing: border-box;\" /\u003ePor isso se amam alguém não deixem que vos fuja porque depois podem não conseguir consertar as coisas.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\nssdf11\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://4.bp.blogspot.com/-B9wX3cGWYSo/XDJlFrOH7NI/AAAAAAAAwRs/sxIYPNX_Dd4mEqiBJ-LMxvaVWiNlmySUgCLcBGAs/s1600/tumblr_op52ytMFXE1udi7r6o1_1280.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"1080\" data-original-width=\"1080\" height=\"320\" src=\"https://4.bp.blogspot.com/-B9wX3cGWYSo/XDJlFrOH7NI/AAAAAAAAwRs/sxIYPNX_Dd4mEqiBJ-LMxvaVWiNlmySUgCLcBGAs/s320/tumblr_op52ytMFXE1udi7r6o1_1280.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://4.bp.blogspot.com/-B9wX3cGWYSo/XDJlFrOH7NI/AAAAAAAAwRs/sxIYPNX_Dd4mEqiBJ-LMxvaVWiNlmySUgCLcBGAs/s320/tumblr_op52ytMFXE1udi7r6o1_1280.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6459475339777999032/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2585547855959876174",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-06T18:24:00-02:00",
-   "updated": "2019-01-06T18:24:46-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ2ODA2Mjg2ODc0Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/ainda-amo-voce.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2585547855959876174",
-   "title": "Ainda amo você.",
-   "content": "\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eHoje eu estive pensando em você mais uma vez, já faz muito tempo em que você falou comigo, sinto sua falta. Embora, você esteja completamente chateado comigo pelas coisas que te fiz, eu ainda te amo.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eSinto falta do tempo em que nós dois existia, sua presença me fazia a mulher mais feliz do mundo. Ainda sinto suas mãos entre os meus cabelos e sua barba me fazendo cócegas, estou me sentindo só nesse mundo tão cruel, por favor, não me deixe sozinha aqui, eu preciso de ti.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eNão deixe que meus sentimentos confusos atrapalhe nossa relação, você é o único que me entende era minha motivação de todos os dias, meu sorriso de todas as manhãs, por favor, não me deixe sozinha aqui, ainda preciso de ti. Eu ainda te amo e sempre vou te amar completamente do fundo do meu coração.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003ePatrícia Luv\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://4.bp.blogspot.com/-USQC_3ttFFw/XDJkB1_nffI/AAAAAAAAwRg/p3NPvBS9_0cSo9M7q2vyYgno-KO6XZLJwCLcBGAs/s1600/qtert.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"667\" data-original-width=\"500\" height=\"320\" src=\"https://4.bp.blogspot.com/-USQC_3ttFFw/XDJkB1_nffI/AAAAAAAAwRg/p3NPvBS9_0cSo9M7q2vyYgno-KO6XZLJwCLcBGAs/s320/qtert.jpg\" width=\"240\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://4.bp.blogspot.com/-USQC_3ttFFw/XDJkB1_nffI/AAAAAAAAwRg/p3NPvBS9_0cSo9M7q2vyYgno-KO6XZLJwCLcBGAs/s320/qtert.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2585547855959876174/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0zMFQyMToxMTo1OC41MDda\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMS0zMVQyMjoxNzo1NC4zMDZa\""
 }
