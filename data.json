@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYwtfVqYMtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYoqzZqYMtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "6792378238251332307",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-06T21:30:00-02:00",
+   "updated": "2019-02-06T21:30:38-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDk1ODM4MjI2Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/teoria-do-eu.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6792378238251332307",
+   "title": "Teoria do eu.",
+   "content": "Eu troquei de pele, me desfiz do velho eu, me apresentei a novos passatempos, novos cheiros e novos lugares. Eu tirei aquela roupa velha que me cobria com toda minha insegurança e confusão, mas em vez de lava-la eu apenas joguei fora e me renovei como cada dia que nasce.\u003cbr /\u003eAchei-me uma cobra quando destilei meu veneno, eu rastejei pra longe do que me fazia mal e deixei minhas presas afiadas para minha própria proteção, eu desconfiava de tudo e de todos e me senti bem mais esperto por sempre ligar um ponto ao outro, eu estava imerso em mim e assim permaneceria, eu estava sempre em uma caçada, a espreita e preparado para nunca ser a caça e sim sempre o caçador.\u003cbr /\u003eEra um jogo de conquistas que sempre acabava da mesma forma, eu apenas deixava de lado quando não me convinha e era assim que as coisas eram o medo do apego na verdade era o medo da perda, eu camuflava os sentimentos do mesmo jeito que eu me camuflava entre as pessoas, fingindo ser mais uma delas, tentando não mostrar tudo que estava dentro de mim, tentando não me importar comigo mesmo.\u003cbr /\u003eTornei-me alguém na multidão e eu estava só, eu fingia ser aquilo por que já estava cansado de não ser o que eu fingia, era contraditório, mas mesmo assim eu continuava rodando em círculos atrás do meu próprio rabo, mesmo com sorrisos e gentileza ainda sim eu era solitário, um alguém que andava e que nunca parava. Era assim, o medo de proximidade, de familiaridade, de sentir falta de alguém ou ate mesmo depender de alguém, eu era um mal necessário pra mim mesmo, eu era minha própria fraqueza, quem me sabotava e quem me levantava depois, eu era o meu próprio medo de ser quem eu sou.\u003cbr /\u003e\n\u003cbr /\u003eLuana Castro\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" height=\"236\" src=\"https://i.pinimg.com/236x/87/ca/d4/87cad4a63841176063d9e738ad2b2423.jpg\" style=\"margin-top: 86px;\" width=\"236\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/236x/87/ca/d4/87cad4a63841176063d9e738ad2b2423.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6792378238251332307/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "8927576030403554635",
@@ -5775,33 +5806,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2270006862842729208/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5429515475324728959",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-09T22:42:00-02:00",
-   "updated": "2019-01-09T22:42:45-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3MDgwOTY1NTY5Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/voce.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5429515475324728959",
-   "title": "Você.",
-   "content": "\u003cbr /\u003e\nSou aqueles calafrios e aqueles arrepios.\u003cbr /\u003e\nAquela vergonha e aquela falta de atitude.\u003cbr /\u003e\nSou aquele sentimento repletos de altos e baixos.\u003cbr /\u003e\nSou aquele tal poema sendo ditado.\n\u003cbr /\u003e\nPosso ser duradouro como uma rocha cristalina,\u003cbr /\u003e\nMas posso também ser aquele vai e volta de um simples vento\u003cbr /\u003e\nPosso ser aquela decepção causada em uma briga,\u003cbr /\u003e\nMas posso ser também aquela felicidade em meio de o silêncio.\u003cbr /\u003e\n\nSou aquele bom dia inusitado;\u003cbr /\u003e\nAquele receio de falar algo errado;\u003cbr /\u003e\nSou aquela troca de olhares\u003cbr /\u003e\nE simplesmente sou ....\u003cbr /\u003e\n\nMuitas vezes sou negado;\u003cbr /\u003e\nE outras sou cativado.\u003cbr /\u003e\nSou aquele tão famoso\u003cbr /\u003e\nChamado de amor !\u003cbr /\u003e\n\u003cbr /\u003e\nGuerreira ",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5429515475324728959/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMi0wNlQyMjo1OTo0Ni41NDBa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMi0wNlQyMzozMDozOC4yMjZa\""
 }
