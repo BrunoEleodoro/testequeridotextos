@@ -1,7 +1,188 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYoufyqIMtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYo42QqYMtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "167614557536156420",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-06T20:06:00-02:00",
+   "updated": "2019-02-06T20:06:52-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDkwODEyNzUyCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/deus-sabe-o-que-faz.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/167614557536156420",
+   "title": "Deus sabe o que faz.",
+   "content": "\"Oi, tudo bem?\"\u003cbr /\u003eAs vezes nem sei o que responder, pois não sei se digo que está tudo bem ou se está tudo indo de mal a pior, sabe aqueles dias que você se sente um lixo total? pois é e assim que me sinto. Sinto que não sou uma ótima amiga, uma ótima pessoa, eu amo ajudar as pessoas, dar conselhos, fazer as pessoas sorrirem com as bobagens que eu falo, as vezes eu posso estar arrasada por dentro, mas jamais deixo de ajudar quem precisa, só que eu sinto que as pessoas a cada dia que passa estão se afastando de mim, eu queria muito poder mudar isso, mas fazer o quê? Deus sabe o que faz, e se ele quis assim por mais que doa eu tenho que aceitar. Durante tudo que passei Deus tem sido o único que jamais virou as costas para mim, sabe porque? porque ele jamais abandona um filho seu, então se está tudo indo de mal a pior eu tenho que agradecer, pois ele sabe o que faz.\u003cbr /\u003e\n\u003cbr /\u003e\nLaena Castro\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para féTUMBLR\" class=\"irc_mi\" height=\"320\" src=\"https://66.media.tumblr.com/cd2f8ed3be8783a45a38b76c3f3f6c45/tumblr_pbdieuf7W61wp4tkuo1_400.jpg\" style=\"margin-top: 0px;\" width=\"257\" /\u003e ",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/cd2f8ed3be8783a45a38b76c3f3f6c45/tumblr_pbdieuf7W61wp4tkuo1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/167614557536156420/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1686572373946642134",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-06T20:05:00-02:00",
+   "updated": "2019-02-06T20:05:42-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDkwNzQyMzMwCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/talvez.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1686572373946642134",
+   "title": "Talvez...",
+   "content": "Talvez eu ainda vá sentir sua falta,talvez eu ainda chore quando lembrar do seu sorriso,talvez eu te veja e perca metade do meu caminho,talvez eu seja feliz sem você,talvez eu tenha medo de te perder.\u003cbr /\u003eTalvez eu não saiba explicar pro meu coração que não existe mais talvez,talvez você já não é mais dono de tudo de mim, talvez meus sorrisos não já não sejam seus,talvez eu só ainda te ame mas posso aprender a viver sem todas essas hipóteses. Posso aprender a viver de certezas e a principal delas é que quero sua felicidade tanto como quero a minha!\u003cbr /\u003e\n\u003cbr /\u003e\nFrancilene\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para TREM TUMBLR\" class=\"irc_mi\" height=\"354\" src=\"https://i.pinimg.com/236x/98/c2/e6/98c2e6bc51fe588221f676bf0cc55fba.jpg\" style=\"margin-top: 27px;\" width=\"236\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/236x/98/c2/e6/98c2e6bc51fe588221f676bf0cc55fba.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1686572373946642134/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "9102722425227728529",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-06T20:05:00-02:00",
+   "updated": "2019-02-06T20:05:02-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDkwNzAyNTgzCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/voce-e-incrivel.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9102722425227728529",
+   "title": "Você é incrível ",
+   "content": "Eii\u003cbr /\u003eQuer um conselho?\u003cbr /\u003eNão deixe que ninguém te diminua,\u003cbr /\u003evocê é incrível, é muito especial, você é capaz, eu confio na sua capacidade, você é Lindo(a) e seu sorriso é encantador, você e muito amado e jamais deixe que alguém te prove ao contrario.\u003cbr /\u003e\n\u003cbr /\u003e\nLaena Castro\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9102722425227728529/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "8896295142539660345",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-06T19:59:00-02:00",
+   "updated": "2019-02-06T19:59:03-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDkwMzQzOTM5Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/uma-conversa.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8896295142539660345",
+   "title": "Uma conversa.",
+   "content": "Não quero te assustar\u003cbr /\u003eMas sente aqui, precisamos conversar!\u003cbr /\u003eÉ algo sério que tenho a te dizer\u003cbr /\u003eEspero que venha me compreender\u003cbr /\u003eEu te questiono, para que tudo isso?\u003cbr /\u003eVale a pena se tornar alguém tão submisso!?\u003cbr /\u003eVocê não era assim, cadê sua motivação?\u003cbr /\u003eTô tentando achar aquele seu sorrisão\u003cbr /\u003eOnde anda sua inspiração, motivação e imaginação?\u003cbr /\u003eAh menina, o brilho dos seus olhos estão tão apagados...\u003cbr /\u003ePor favor, tente deixá-los novamente iluminados.\u003cbr /\u003ePode não parecer, mas você tem pessoas ao seu lado\u003cbr /\u003eNão fique desse modo bolado\u003cbr /\u003eIsto é só uma fase\u003cbr /\u003eAs coisas acontecerá no seu tempo, mesmo que se \"atrase\"\u003cbr /\u003eAgora saía de frente desse espelho\u003cbr /\u003eE vá viver sem medo\u003cbr /\u003eE se a insegurança voltar\u003cbr /\u003eApenas respire fundo, leia um bom livro enquanto saboreia um bom chá\u003cbr /\u003eE aí quando você menos esperar, ela passará\u003cbr /\u003eSó nunca deixe de acreditar em você\u003cbr /\u003eE jamais deixe de se amar.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para TREM TUMBLR\" class=\"irc_mi\" height=\"320\" src=\"https://i.pinimg.com/originals/04/b4/42/04b442266c712a733c030f3d91632536.jpg\" style=\"margin-top: 0px;\" width=\"213\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/04/b4/42/04b442266c712a733c030f3d91632536.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8896295142539660345/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "2512604798401046436",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-06T19:49:00-02:00",
+   "updated": "2019-02-06T19:49:23-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDg5NzYzOTczCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/comecar-e-recomecar.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2512604798401046436",
+   "title": "Começar e Recomeçar",
+   "content": "Uma nova etapa é cercada normalmente de uma profunda reflexão, ou não! rsrsrs… E o que se passa na cabeça nesse momento? …0 que vai mudar de agora para frente? Irá doer? Será melhor?\u003cbr /\u003eImportante É...O fator crucial para dar uma reiniciada em sua vida, pode ser porque o ano , virou, porque acabou um relacionamento que marcou ou porque está cansada da rotina…\u003cbr /\u003eAcontecimentos são importante para marcar o momento, saber a hora certa de dar um novo start na vida é surreal.\u003cbr /\u003eE será que temos que está prontos para dar um UP na vida? as coisas acontecem planejando? ou o improviso é o melhor jeito? Bem, cada um tem seu tempo não é mesmo!?\u003cbr /\u003eMais reflita comigo, estamos atualmente no começo de 2019 e o que você já fez de novo?\u003cbr /\u003eBem, é simples a pergunta.. está vivendo ou sobrevivendo?\u003cbr /\u003eA dica é… Comece algo novo em sua vida ! o que fazer? ah! já comprou aquele livro que quer ler? porque não planejar uma viagem pro final do ano? fazer uma surpresa para pessoa que ama! bem legal em… ou recomeçar… se livrar de entulhos da sua vida, de qualquer coisa que lhe atrapalhe, qualquer coisa, comece pequeno, uma comida exagerada para evitar, já pensou em mudar o visual?! seria bem legal em! rsrsrs\u003cbr /\u003eO que realmente deve ser fixado é… Comece e Recomece! certamente você irá se surpreender!\u003cbr /\u003eE então, o que vai começar? eu já comecei com esse texto… rsrsrs\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nWander Coelho\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" height=\"212\" src=\"https://i.pinimg.com/originals/e5/01/78/e501786420f81c08089f3a68ab821c22.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/e5/01/78/e501786420f81c08089f3a68ab821c22.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2512604798401046436/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1082350404831277917",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-06T19:46:00-02:00",
+   "updated": "2019-02-06T19:46:28-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDg5NTg4OTM0Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/nao-ha-distancia.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1082350404831277917",
+   "title": "Não há distância ",
+   "content": "\"NÃO HÁ DISTÂNCIA QUE SEPARE UM VERDADEIRO AMOR\". Eu sempre acreditei nestas palavras, mas apenas quando passamos por uma situação assim é que percebemos a realidade das mesmas.\u003cbr /\u003e\n\u003cbr /\u003e\nNunca pensei que vir a estar longe de você, mas a verdade é que estas circunstâncias mostraram a sinceridade dos nossos sentimentos.\u003cbr /\u003e\n\u003cbr /\u003e\nNão é fácil passar dias e dias sem sentir continuamos unidos.\u003cbr /\u003e\n\u003cbr /\u003e\nQuero que saiba que está ausência física dói, mais jamais acabará com nosso amor. Sinto que juntos somos fortes e que continuaremos vencendo nossas contrariedades. Você sempre será o homem da minha vida, meu bem, a pessoa que traz felicidade a este coração que é só é apenas seu.\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor\u003cbr /\u003e\n\u003cbr /\u003e\nN&amp;G\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para TREM TUMBLR\" class=\"irc_mi\" height=\"268\" src=\"https://25.media.tumblr.com/tumblr_lr0gytqhpX1qhkr6xo1_500.jpg\" style=\"margin-top: 37px;\" width=\"400\" /\u003e",
+   "images": [
+    {
+     "url": "https://25.media.tumblr.com/tumblr_lr0gytqhpX1qhkr6xo1_500.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1082350404831277917/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "8650530802719016759",
@@ -2956,32 +3137,6 @@
   },
   {
    "kind": "blogger#post",
-   "id": "329877423526548497",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-22T14:26:00-02:00",
-   "updated": "2019-01-22T14:26:48-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MTc0NDA4MTU3Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/quando-chegar-o-ultimo-degrau.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/329877423526548497",
-   "title": " Quando chegar o último degrau.",
-   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eVocê já parou para pensar que o amor pode ser igual a descer uma escada,em plena tempestade?\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eNa primeira vez que tentamos descer essa escada acabamos escorregando no primeiro degrau,estavamos com tanta presa que nem percebemos o risco que corríamos. Ficamos com algumas feridas e arranhões, mas com o tempo nos recuperamos.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eDepois disso, levantamos e descemos,mas logo depois de alguns degraus, por mais cuidado que tivemos, acabamos escorregando novamente. Não entendemos o porquê disso ter acontecido, mas ao olha para trás percebemos que havia uma pequena rachadura no chão que passou despercebida e nos fez tropeçar. Dessa vez os machucados foram menores, mas deixaram cicatrizes.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eDepois de um tempo, quando já estamos bastante molhados, levantamos e tentamos chegar no fim mas o penúltimo degrau tinha uma pedra bem pequena, que já tinha te incomodado algumas vezes mas você nunca a retirou de lá, e novamente caímos. Dessa vez a queda foi mais intensa e batemos a cabeça, não temos mais forças e preferimos ficar ali até a tempestade acabar. Poxa já está doendo tanto, pra que me arriscar mais?\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eMas com isso você pode adoecer e você mal aguenta uma ferida quanto mais uma doença. O que custa se levantar mais uma vez? Chegar ao último estádio não é tão difícil, e dessa vez não olhe para trás, não lembre do passado, apenas olhe para o que está por vim.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eE finalmente você chegou lá embaixo, você sabe que apesar do que tenha acontecido antes isso não pode atrapalhar o seu depois e isso que acontece com o amor.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eNo começo tudo é tão bonito que queremos o mais rápido possível, mas não pensamos e acabamos a avançado muito sem saber quem está realmente ali. Logo depois achamos que devemos tentar mais uma vez e vamos com tudo e esquecemos que as pessoas, às vezes, não são tão boas e suas ações podem nos machucar, e novamente caímos. Mesmo com medo levantamos e seguimos, está indo tudo muito bem mas você sabe que algo te incomoda e prefere deixar pra lá e acaba caindo mais um vez. Você resolve odiar o amor,ele só machuca, não tem motivo algum de continuar depois de tanta coisa que passou. Toda vez você tenta ajeitar aquilo que errou antes, mas esquece que agora irá enfrentar novos desafios.Remoer o passado te machuca ainda mais, porquê não seguir em frente? Ficar parado só piora as coisas,isso só traz mais dor e angústia. Então você decide levantar, esquecer o passado e agora ser mais cuidadoso ou desistir e nunca saber como seria se continuasse. Nunca sabemos o que nos espera lá no final, mas se não soubermos aproveitar o momento, não tolerar certas coisas e se abrir às vezes, só entraremos em conflitos.Der tempo ao tempo, às vezes tudo que você precisa é ir devagar. Saiba dizer não e não aceitar menos do que merece. E confie, às vezes não faz mal falar que algo te incomoda, não tenha medo e apenas seja sincero.\u003c/span\u003e\u003cbr style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\" /\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eMas quando saber se chegou ao final da escada? Isso eu não tenho como te dizer, isso é algo que apenas você saberá. Eu ainda não cheguei ao chão, não é fácil porque dói, e por mais que eu queira saber quem vai ser meu chão sei que pode e vai demorar. Mas não se preocupe quando você chegar ao chão, você não terá que se preocupar com o que já passou.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eMaria Isabel Souza Borges da Silva (Mabel Borges)\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"genterie:\nâ\u0080\u009c@__sofiyas__\nâ\u0080\u009d\" height=\"320\" src=\"https://66.media.tumblr.com/8b7c2c6557628ea72175b97a992edc32/tumblr_pl9xa6lOlN1y1j7pro1_500.jpg\" width=\"320\" /\u003e",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/329877423526548497/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
    "id": "5773255846508680920",
    "blog": {
     "id": "2771518682926329856"
@@ -5656,157 +5811,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3343522982466417752/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5237207387582132549",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-09T22:20:00-02:00",
-   "updated": "2019-01-09T22:48:29-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3MDgxMzA5MTE3Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/amar.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5237207387582132549",
-   "title": "Amar.",
-   "content": "Amor não é o tipo de sentimento que distribuímos em pequenas partes.\u003cbr /\u003e\nAmor é um sentimento que devemos esbanjar, fazer transbordar.\u003cbr /\u003e\nDevemos emanar amor por todo lugar.\u003cbr /\u003e\nÉ claro que corremos o risco de nos machucar.\u003cbr /\u003e\nE é exatamente por isso que devemos ter extremo cuidado a o escolher a \npessoa com quem iremos compartilhar ou melhor esbanjar tamanho \nsentimento.\u003cbr /\u003e\nUma, duas ou até três decepções é normal, a escolha não foi bem feita.\u003cbr /\u003e\nMas tudo bem faz parte da natureza  humana errar.\u003cbr /\u003e\nNão se desespere se acabar por se machucar, apenas tenha a certeza que um novo amor sempre aparecerá.\u003cbr /\u003e\nDizem que nada é eterno.\u003cbr /\u003e\nTalvez seja verdade, então lembre-se disso quando sentir saudade.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para amor  tumblr\" class=\"irc_mut\" height=\"226\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF8TOLd4s6AmC8nTDLFzDjZgnTuPDrOmGVwZe7fWrC-4rLpvoL\" style=\"margin-top: 27px;\" width=\"320\" /\u003e ",
-   "images": [
-    {
-     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF8TOLd4s6AmC8nTDLFzDjZgnTuPDrOmGVwZe7fWrC-4rLpvoL"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5237207387582132549/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5940765208052176997",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-09T22:19:00-02:00",
-   "updated": "2019-01-09T22:19:29-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3MDc5NTY5MTQ4Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/nao-e-facil.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5940765208052176997",
-   "title": "Não é fácil. ",
-   "content": "Eu sei que não é .\u003cbr /\u003e\nnão é fácil .\u003cbr /\u003e\nAcordar todos os dias com o mesmo cansaço , mesmo sem ter feito absolutamente nada !\u003cbr /\u003e\nNão sentir vontade de se levantar da própria cama pra realizar uma atividade do dia a dia !\u003cbr /\u003e\nSer excluído de amigos e até da família !\u003cbr /\u003e\nA pessoa que tem medo de amar novamente porque sempre se fere do final!\u003cbr /\u003e\nforjar uma cara simpática só pras pessoas acharem que você está bem !\u003cbr /\u003e\nChorar todos os dias , com ou sem motivo nenhum!\u003cbr /\u003e\nNão fazer parte do padrão de beleza  que a sociedade impõe!\u003cbr /\u003e\nSe sentir insuficiente pra tudo!\u003cbr /\u003e\nE mesmo assim você continua,\u003cbr /\u003e\nIsso é a depressão, a ansiedade\u003cbr /\u003e\nisso é você.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para dor tumblr\" class=\"irc_mi\" height=\"408\" src=\"https://66.media.tumblr.com/6634198c4fa46452ab485ad7ba98f0d9/tumblr_p7x1hbg7BE1slofboo1_500.jpg\" style=\"margin-top: 0px;\" width=\"326\" /\u003e \u003cbr /\u003e\n\u003cbr /\u003e\n\u003ch1 class=\"gh-header-title\"\u003e\n&nbsp;\u003cspan class=\"gh-header-number\"\u003e\u003c/span\u003e\u003c/h1\u003e\n",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/6634198c4fa46452ab485ad7ba98f0d9/tumblr_p7x1hbg7BE1slofboo1_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5940765208052176997/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5487970161621572265",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-09T22:16:00-02:00",
-   "updated": "2019-01-09T22:17:03-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3MDc5NDIzMjQwCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/eu-nao-aguento-mais-essa-dor.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5487970161621572265",
-   "title": "Eu não aguento mais essa dor.",
-   "content": "\u003cbr /\u003e\nEu já estou morta por dentro mas ninguém percebeu... afinal quem \nperceberia se eu estou sempre sorrindo e tentando nunca demonstrar \ntristeza , já que para eles sempre será frescura\u003cbr /\u003e\nA vontade de desistir é muito grande, uma lâmina ou qualquer coisa pontuda acabaria com isso fácil fácil.\u003cbr /\u003e\nMas eu sei que preciso me manter aqui  e superar isso.\u003cbr /\u003e\nEu quero vencer isso mas tem dias que não aguento nem levantar da cama\u003cbr /\u003e\nEu quero vencer isso mas não tenho mais forças\u003cbr /\u003e\nEu quero vencer isso mas não aguento mais essa pressão psicológica\u003cbr /\u003e\nEu quero vencer e tô tentando fazer isso sozinha\u003cbr /\u003e\nDói não ter com quem desabafar, dói mais ainda ter medo de incomodar as pessoas e nem chamar\u003cbr /\u003e\nEu já livrei muitas pessoas do suicídio, só não sei se consigo me livrar disso\u003cbr /\u003e\nÉ tudo tão confuso, é tão doloroso, e o pior de tudo, é não ter apoio familiar\u003cbr /\u003e\nEles mesmo me colocam pra baixo sempre\u003cbr /\u003e\nMas mesmo com tudo isso, tenho fé ainda conseguir sair desse buraco\u003cbr /\u003e\n\u003cbr /\u003e\nThais Macena\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para dor tumblr\" class=\"irc_mi\" height=\"400\" src=\"https://66.media.tumblr.com/7b9f39f860b2d66b3500468a292d7b01/tumblr_oswqdwGLBM1r6x5e6o1_400.jpg\" style=\"margin-top: 4px;\" width=\"400\" /\u003e ",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/7b9f39f860b2d66b3500468a292d7b01/tumblr_oswqdwGLBM1r6x5e6o1_400.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5487970161621572265/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8432377680447650262",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-09T22:16:00-02:00",
-   "updated": "2019-01-09T22:16:14-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3MDc5Mzc0MTA5Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/voce-e-que-me-faz-feliz.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8432377680447650262",
-   "title": "Você é que me faz feliz",
-   "content": "\u003cbr /\u003e\nUm pequeno raio de sol,surge do nada em sua vida,e desse pequeno raio de\n sol surge o amor,a paixão que corre em suas veias,a Luz dá alma,o calor\n em seu corpo,saber o que é amar mesmo,quando vc encontra aquela sua \noutra metade,aquela metada que fecha em vc com chave de ouro aquela \npessoa que te faz bem pra caramba:Eu Gabriela cardoso,uma menina de 14 \nanos soube o que e amar quando encontrou sua outra metade que \nfaltava,uma menina que não sabia o que era \"amar\"..más de repente,ela \nsoube o que era amar,quando uma pequena flor surgiu em sua vida,quando \naquele raio de sol bateu em seu rosto depois daquele primeiro abraço,e \ndepois daquele beijo...Uma pequena palavra para você,\"Ame agr,cultive \nagora porque o amanhã não pode existir,valorize o que Deus te deu \nagora,porquê isso o amor,é um riqueza e uma coisa valiosa.\u003cbr /\u003e\n\u003cbr /\u003e\nGabriela Cardoso ",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8432377680447650262/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2483632017875509271",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-09T22:15:00-02:00",
-   "updated": "2019-01-09T22:15:09-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3MDc5MzA5ODM4Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/a-forca-de-um-urso.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2483632017875509271",
-   "title": "A força de um urso",
-   "content": "&nbsp;Quando a maré subir e você não conseguir mais se segurar, quando as \nlágrimas descerem e a tempestade começar,quando o peito doer e o coração\n sangrar, quando tudo desabar e você quiser gritar..\u003cbr /\u003e\nTerá de ter a força de um urso, a coragem de um ratel,a astúcia de um coelho e a postura de um leão para superar tudo isso.\u003cbr /\u003e\nE tenha a plena certeza de que mesmo com tudo isso, sozinho(a) não chegará a lugar nenhum.\u003cbr /\u003e\nEntão que tal conversar?\u003cbr /\u003e\nAfinal sozinho você nunca está.\u003cbr /\u003e\nNão esqueça dele, o ser que te criou que te deu a inteligência.\u003cbr /\u003e\nQue deu ao urso sua força, ao coelho sua astúcia, ao leão sua postura e ao ratel sua coragem.\u003cbr /\u003e\nÀs vezes ele é o único que pode te ajudar.\u003cbr /\u003e\nEntão, por quê o evitar?\u003cbr /\u003e\nAcha que é besteira?\u003cbr /\u003e\nEu não digo asneira, acredite quando digo que ele pode te ajudar, te dar\n o apoio que precisa, o amor que necessita, e toda a força que tanto de \najudaria.\u003cbr /\u003e\nSe entregue de corpo e alma ele te transmitirá calma.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nIncógnita \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n&nbsp;\u003cimg alt=\"Resultado de imagem para nuvens tumblr\" class=\"irc_mi\" height=\"179\" src=\"https://i.pinimg.com/originals/d2/70/91/d27091d8e0d66444f0e18848e6f95b7f.gif\" style=\"margin-top: 8px;\" width=\"320\" /\u003e",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/d2/70/91/d27091d8e0d66444f0e18848e6f95b7f.gif"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2483632017875509271/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMi0wNFQyMzozMDoxMi41MzVa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMi0wNlQyMjowNjo1Mi43NTJa\""
 }
