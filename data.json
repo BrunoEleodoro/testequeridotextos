@@ -1,7 +1,266 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYooKD7oUtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYwKr_l4YtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "8645007741943649620",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-16T19:47:00-02:00",
+   "updated": "2019-02-16T19:47:41-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwMzUzNjYxOTg0Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/o-universo-da-vida.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8645007741943649620",
+   "title": "o Universo da vida",
+   "content": "sabe eu amo o Universo, você quer saber o por que? porque ele é cheio de mistérios que ele não força ninguém a descobrir, pelo simples motivo dele ser magnífico. O universo é cheio de surpresa e sempre quando se descobre uma e você a entende,vem outra logo em seguida e sabe por que? porque já descobrimos e aprendemos tudo que havia na primeira coisa,e assim é a vida, se você descobre tudo e aprende com isso, você continua a sua vida mas se você ainda está parado na mesma coisa é por que ainda tem coisas a serem vistas e aprendidas...",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8645007741943649620/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5638104352609559648",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-16T19:36:00-02:00",
+   "updated": "2019-02-16T19:36:22-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwMzUyOTgyMjUyCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/desde-que-ele-chegou.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5638104352609559648",
+   "title": "Desde que ele chegou",
+   "content": "Eu nunca sonhei com alguém, o príncipe encantado, alguém que cuidasse de mim. Sempre tive pensamentos independentes, ter uma casa só minha, uma vida só minha. Mas desde que você chegou, os meus pensamentos mudaram, o calor do meu corpo aumentou, e desde então, eu venho a sorrir constantemente.\u003cbr /\u003eEu te escolhi, eu te escolho e te escolherei para sempre.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nAnny\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para namorados  tumblr\" class=\"irc_mi\" height=\"320\" src=\"https://i.pinimg.com/736x/fc/df/35/fcdf3505f23a8c3606a6c13f3d8341cb.jpg?b=t\" style=\"margin-top: 0px;\" width=\"255\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/736x/fc/df/35/fcdf3505f23a8c3606a6c13f3d8341cb.jpg?b=t"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5638104352609559648/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1254527269761710977",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-16T19:28:00-02:00",
+   "updated": "2019-02-16T19:28:48-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwMzUyNTI4NTY3Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/se-valorize.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1254527269761710977",
+   "title": "Se valorize.",
+   "content": "Ultimamente tenho visto tantas meninas si diminuindo e se menosprezado, vejo meninas que não estão valorizando a si mesmas, que querem a qualquer custo, um namorado, um ficante, meninas acordem pra vida, vocês não precisam de macho nenhum para serem felizes ou para serem alguém na vida, sejam independentes, estudem e o melhor a si fazer, porque ficar dependendo de macho não e nada legal, parem de colocar o \"homem\" como prioridade na vida de vocês, primeiramente amem a si mesmas, se valorizem, e deixa que tudo acontece com o tempo, porque o importante e você se valorizar, si amar e ser independente e não ficar dependendo de homem nenhum, porque nenhum deles vai poder fazer isso por você.\u003cbr /\u003e\n\u003cbr /\u003e\nLaena Castro",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1254527269761710977/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7866136014031727627",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-16T19:26:00-02:00",
+   "updated": "2019-02-16T19:26:47-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwMzUyNDA3NjExCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/eu-confesso-que-eu-ainda-nao-te-esqueci.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7866136014031727627",
+   "title": "",
+   "content": "\u003cbr /\u003eEu confesso que eu ainda não te esqueci,\u003cbr /\u003eNa verdade, eu até tentei, mas falhei.\u003cbr /\u003eA nossa química é indecifrável, é incrível\u003cbr /\u003eEu queria saber o por quê\u003cbr /\u003eMesmo sabendo que nós não damos certo,\u003cbr /\u003eA gente continua se procurando\u003cbr /\u003eMas eu vou superar\u003cbr /\u003eE quando você menos esperar,\u003cbr /\u003eEu vou estar por aí andando de mãos dadas com outro\u003cbr /\u003eE aí você vai entender o quanto eu sofri, o quanto eu corri atrás.\u003cbr /\u003eE vai lembrar de que você não me deu valor\u003cbr /\u003eEntão, quando esse momento chegar,\u003cbr /\u003eAbaixe a cabeça, mastigue e engula.\u003cbr /\u003e\n\u003cbr /\u003e\nNatally\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para saudades dele  tumblr\" class=\"irc_mi\" height=\"320\" src=\"https://66.media.tumblr.com/4b3004c3de4fa572ba0416bd5ac986cd/tumblr_p30vfmLblA1rxyiz0o1_400.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/4b3004c3de4fa572ba0416bd5ac986cd/tumblr_p30vfmLblA1rxyiz0o1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7866136014031727627/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1829437138181016053",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-16T18:24:00-02:00",
+   "updated": "2019-02-16T18:24:25-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwMzQ4NjY1MDIwCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/um-dia-no-passado.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1829437138181016053",
+   "title": "Um dia no passado",
+   "content": "Se tivesse um dia no passado ?\u003cbr /\u003eSe tivesse a chance de se ver como era antes de se deixar vencer?\u003cbr /\u003eAntes de se mostrar incapaz de acreditar em si mesmo, até mesmo antes de parar de sonhar. Um dia no passado seria o bastante pra fazer você acreditar que um dia você já teve esperança de lutar por algo?\u003cbr /\u003eAntes das decepções e frustrações,antes do medo e da insegurança. Naquele passado que parece tão distante quando você podia ver mil e uma versões do seu eu,talvez o presente e o futuro ti f z esquecer uma parte muito importante de você,a parte que você pode sonhar e acreditar em algo além da circunstâncias.\u003cbr /\u003e\n\u003cbr /\u003e\nSergiana Oliveira\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para estrada tumblr\" class=\"irc_mi\" height=\"213\" src=\"https://i.pinimg.com/originals/84/1c/9b/841c9bc0270517c7414dc1798eca4f03.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/84/1c/9b/841c9bc0270517c7414dc1798eca4f03.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1829437138181016053/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7992639241111348055",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-16T17:52:00-02:00",
+   "updated": "2019-02-16T17:52:45-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwMzQ2NzY1Mzc2Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/a-hipotese-da-minha-morte.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7992639241111348055",
+   "title": "A hipótese da minha morte",
+   "content": "&nbsp;&nbsp;&nbsp; &nbsp; Vou contar a história de como eu não me suicidei\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não ouvi uma briga horrenda em casa que nunca acontecia\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não entrei no meu quarto\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E peguei uma roupa qualquer e uma toalha\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E eu não fui para o banheiro tomar um banho demorado\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não lavei o cabelo\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não vesti o pijama\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não entrei no meu quarto\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E não Sentei em frente a&nbsp; mesinha\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não peguei uma folha qualquer do caderno\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não escrevi uma carta dizendo o quão mal me sentia péssima e&nbsp;&nbsp;&nbsp; totalmente insuficiente\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não coloquei ela em um envelope vermelho\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não peguei todos os meus remédios e tomei\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não peguei uma lâmina de barbear daquelas antigas de navalha\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E não cortei profundamente os meus pulsos\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não chorei\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não senti dor\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não sangrei\u003cbr /\u003e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Eu não morri.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para sdds tumblr\" class=\"irc_mi\" height=\"353\" src=\"https://scontent-amt2-1.cdninstagram.com/vp/7fbd1dd5c876d2698908abb0c932b1ba/5C7F0FDE/t51.2885-15/sh0.08/e35/s640x640/39749591_525801971210857_6709360842784718650_n.jpg\" style=\"margin-top: 0px;\" width=\"353\" /\u003e",
+   "images": [
+    {
+     "url": "https://scontent-amt2-1.cdninstagram.com/vp/7fbd1dd5c876d2698908abb0c932b1ba/5C7F0FDE/t51.2885-15/sh0.08/e35/s640x640/39749591_525801971210857_6709360842784718650_n.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7992639241111348055/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7208600888799334013",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-16T17:41:00-02:00",
+   "updated": "2019-02-16T17:44:06-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwMzQ2MjQ2ODA3Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/hoje-acordei-e-me-senti-sozinha-e.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7208600888799334013",
+   "title": "Saudades de antes",
+   "content": "Hoje acordei e me senti sozinha e incompleta, mesmo eu tendo amigos não é a mesma coisa de como era antes. antes eu sorria e era verdadeiro, antes eu amava e era com todo o meu coração sem medo dos riscos, mas agora que estou crescida tenho medo de que descubram...segredos, pessoas, momentos.\u003cbr /\u003e\nE então isso fica me corroendo por dentro e me tortura, essa saudade de você me mata e eu preciso que isso pare, mas eu sei que se eu quiser que pare eu terei que te esquecer e isso é impossível pra mim porque eu sempre me lembrarei de nossas risadas, nossos choros, nossos abraços, nossos segredos...\u003cbr /\u003e\n\u003cbr /\u003e\nNatalie\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" height=\"320\" src=\"https://i.pinimg.com/originals/9c/f4/5c/9cf45c7ce4723dcb4c0f00345ff51466.jpg\" style=\"margin-top: 0px;\" width=\"255\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/9c/f4/5c/9cf45c7ce4723dcb4c0f00345ff51466.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7208600888799334013/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5761325095061597342",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-16T17:29:00-02:00",
+   "updated": "2019-02-16T17:29:11-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwMzQ1MzUxMTcyCm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/tipo-de-amores.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5761325095061597342",
+   "title": "Tipo de amores ",
+   "content": "\u003ch1 class=\"gh-header-title\"\u003e\n\u003cspan style=\"font-size: small;\"\u003e\u003cspan style=\"font-weight: normal;\"\u003e\u003cspan class=\"js-issue-title\"\u003eAmor? o que é o amor? amor é a troca ou o recebimento de afeto. afeto materno, paterna, de laços de sangue ou de um amigo ou companheiro. amor uma palavra linda com o tipo de força avassaladora que é capaz de construir ou destruir é a força humana sendo expressada com gestos ou palavras. o amor é puro abrupto, não há uma forma de descrever apenas de sentir.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/h1\u003e\n\u003ch1 class=\"gh-header-title\"\u003e\n\u003cspan style=\"font-size: small;\"\u003e\u003cspan style=\"font-weight: normal;\"\u003e\u003cspan class=\"js-issue-title\"\u003eZack.N\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/h1\u003e\n\u003ch1 class=\"gh-header-title\"\u003e\n\u003cbr /\u003e\u003cspan style=\"font-size: small;\"\u003e\u003cspan style=\"font-weight: normal;\"\u003e\u003cspan class=\"js-issue-title\"\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/h1\u003e\n",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5761325095061597342/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "8815557802880435093",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-16T17:27:00-02:00",
+   "updated": "2019-02-16T17:27:55-02:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwMzQ1Mjc1NzE4Cm9mZnNldDogLTcyMDAwMDAK\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/ipo-de-amores.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8815557802880435093",
+   "title": " ipo de amores ",
+   "content": "Amor? o que é o amor? amor é a troca ou o recebimento de afeto. afeto materno, paterna, de laços de sangue ou de um amigo ou companheiro. amor uma palavra linda com o tipo de força avassaladora que é capaz de construir ou destruir é a força humana sendo expressada com gestos ou palavras. o amor é puro abrupto, não há uma forma de descrever apenas de sentir.",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8815557802880435093/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "348393351142857409",
@@ -5567,261 +5826,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8934286772265171851/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "990859937701315255",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-18T20:00:00-02:00",
-   "updated": "2019-01-18T20:00:49-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3ODQ4ODQ5NTY2Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/deveriamos-tentar-novamente.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/990859937701315255",
-   "title": "Deveriamos tentar novamente.",
-   "content": "Vamos tentar de novo? Mas sem pressa, sem cobranças, sem atitudes \ncondicionas pelo ciúme... vamos tentar de novo? Recomeçar devagar, sem \nnenhum tipo de urgência, sem nenhum tipo de exigência que não seja de \namor. Vamos tentar de novo? Vamos começar do zero? Nos conhecer \nnovamente, até porque o tempo nos mudou tanto que eu já nem sei mais \nquem é você, mas gostaria muito de saber, então, vamos tentar de novo? \nNão posso te prometer nada, mas te garanto que amor não vai faltar e que\n de felicidade você vai transbordar. Vamos tentar de novo? A gente tenta\n colocar uma pedra no passado, faremos o possível para sermos felizes no\n presente e construiremos um futuro. Vamos tentar de novo? O tempo anda \ntão de pressa e afasta as pessoas tão rapidamente, então me ajuda a não \ndeixar isso acontecer, até porque já ficamos distantes por tanto \ntempo... vamos tentar de novo? Eu não quero saber quantas bocas você \nbeijou desde que nos distanciamos mas sei que ninguém te beijou com o \namor que você merece. Vamos tentar de novo? Eu não quero saber quantos \nabraços quentes você já recebeu depois do meu mas tenho certeza que \nnenhum desses abraços foram com a alma. Então, vamos sair pra tomar um \ncafé? Pra nos conhecermos melhor? Você nem precisa dizer nada, pode \napenas ficar ao meu lado e sorrir sem timidez e sem colocar as mãos para\n esconder o que há de mais bonito em você, gosto de admirar. Sabe, não \nprecisa ter medo, dessa vez vou fazer dar certo! Então o que você acha, \nvamos tentar de novo? Acho que já tentamos até demais, né? Então é \nmelhor pararmos por aqui, ou não. Boa noite!\u003cbr /\u003e\n\u003cbr /\u003e\nGaby d. ",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/990859937701315255/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2316954243908872032",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-18T19:59:00-02:00",
-   "updated": "2019-01-18T19:59:08-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3ODQ4NzQ4NTM4Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/doi-ne.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2316954243908872032",
-   "title": "Dói, né?",
-   "content": "\u003cbr /\u003e\nDói, né? lembrar que me perdeu? lembrar que eu me doei 100%. lembra de \ntodas as vezes que liguei pra falar que tava com saudade? lembra sempre \nque eu te abraçava e falava que te amava? pois é! essa dor que você \nsente eu senti e eu senti muito cada lágrima derramada,lembro que no \nlugar que você deveria está pra me consolar só o meu travesseiro estava.\u003cbr /\u003e\ncara você não tem noção do quanto doia saber que eu estava em casa \nsentindo sua falta e você estava nas festas,eu chorei, é eu chorei!\u003cbr /\u003e\nmais eu te superei, sabe a garota que chorava ao ouvir tua voz? hoje ela\n agradece pois não sente mais nada,você não deu valor e você me perdeu.\u003cbr /\u003e\n\u003cbr /\u003e\nBrubs ",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2316954243908872032/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5940817548934094732",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-18T19:22:00-02:00",
-   "updated": "2019-01-18T19:22:21-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3ODQ2NTQxODAzCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/respirar-nao-viver.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5940817548934094732",
-   "title": "Respirar não viver.",
-   "content": "Eu não sei como começar isso, mas é pleno desabafo, é como é, não tem\n sentido. Se você se identificar com o que ler, eu apenas sinto muito...\u003cbr /\u003e\nRespirar não é viver...\u003cbr /\u003e\nAprendi isso já faz um tempo, se você não sabe o que significa, \nsimplesmente não tente entender. É difícil até para mim entender, \nimagina para você.\u003cbr /\u003e\nAcordar. Só acordar é um grande sacrifício. Pra alguns, perda de tempo. \nPra outros, obrigado por mais um dia. Acordar todos os dias não é fácil,\n é extremamente complexo. Alguns nem querem, gostaria de ficar dormindo \npara sempre, outros sentem prazer nisso. Mas eu digo que acordar todos \nos dias é um grande feito. Tem gente que acha que melhor dormir para \nsempre, do que acordar para respirar um dia qualquer. Ficam sem vontade \nde levantar, porque pensam que o dia vai ser como qualquer outro. \nAdmito. Penso assim, sou assim. Não quero sair da minha cama por nada, \npor nada. Mas quando abro os olhos, e vejo meu irmão ali, fica tudo \nridículo. Eu me sinto ridícula, é incrível. Porque por mais que você não\n queira acordar, você não pode. Olhe quem está aí, do seu lado, eu olho \npra quem está aqui, e me finjo de feliz. Acordar não é fácil, até porque\n se o dia for um qualquer não vale a pena.\u003cbr /\u003e\nEntão você levanta, bambeia por aí, não sente fome, está tudo vazio. Faz\n necessidades, se olha no espelho, está tudo vazio. Olho para os pulsos,\n e... Está tudo vazio...\u003cbr /\u003e\nCortes já cicatrizados, roxos com maquilhagem, dor com sorriso. É assim...\u003cbr /\u003e\nVocê toma gosto pela sua música favorita e não se cansa de ouvi-la, porque representa você, o que você sente.\u003cbr /\u003e\nSeu filme/série favorito/a perde a graça, tudo fica parado.\u003cbr /\u003e\nSeu livro favorito fica pra mofar na estante.\u003cbr /\u003e\nVeste o que ver, mas se importa com o que dizem ao seu respeito.\u003cbr /\u003e\nComeça à enxergar outra coisa no espelho, que não é você...\u003cbr /\u003e\nVocê abre o chuveiro, esperando as gotas levarem embora a sua dor, mas não leva, só leva as lágrimas...\u003cbr /\u003e\nChora sozinha no seu quarto ou no banheiro pra que ninguém te escute, \nporque você se acha um cargo imprestável para os outros se preocuparem, \nabafando os gritos de dor com o travesseiro ou a manga da camisa.\u003cbr /\u003e\nLutando com os próprios pensamentos em uma guerra infinita, mas quando ela acabar, você sabe que perde...\u003cbr /\u003e\nMora em você, não adianta fugir de algo que vai te perseguir pra sempre...\u003cbr /\u003e\nVocê vai pra escola/trabalho, encontra seus amigos e abre o seu sorriso mais falso que você consegue...\u003cbr /\u003e\nTe perguntam se está tudo bem, e você quer responder que \"não, não está \ntudo bem, estou morrendo a cada dia. A dor não para. É todos os dias a \nmesma coisa. Ninguém percebe, preciso de ajuda. Não aguento mais\" mas \nvocê olha pra essa pessoa, e continua a sorrindo, e apenas responde \n\"sim, está tudo bem, não se preocupe.\"\u003cbr /\u003e\nEssa pessoa apenas dá de ombros, e vai procurar outro alguém. E você. \nBom, você fica aí. Se cortando, se batendo, tentando cometer suicídio, \npensando que essa dor vai passar. E\u003cbr /\u003e\nE não vai, você pode achar que é uma boa escolha, mas não é. Podemos \nsintir um vazio, ou um aperto por dentro todos os dias, mas eu juro que \ntento. Eu tento. Você ri com seus amigos, e derrepente para do nada, \npercebendo o quanto a sua vida é uma mentira. O quanto você sofre. O \nquanto você sorri, pra enconder isso. Chegamos em casa transbordamos em \nlágrimas, novamente. E é assim, todos os dias. Batalhando contra o \nmonstro que não está embaixo da cama, mas sim, em nossas cabeças. \nAlgumas vezes, eu deixo esse monstro me dominar, e as pessoas não me \nreconhecem, mas...\u003cbr /\u003e\nDizem que sou má, mas quando eu era pequena, só pisoteavam em mim sem \nimportância. E de novo elas perguntam se está tudo bem, e eu respondo \n\"sim, está\" e ela dizem, \"porque mente tanto?\" e eu apenas digo,\"porque \nfinge que se importa tante?\" elas ficam caladas e eu vou embora. Às \nvezes eu não aguento. Sério. Você para de se importar com tudo. Com \ntodos. Com você mesma. Tem um diálogo que eu gostaria de compartilhar, é\n o meu favorito:\u003cbr /\u003e\n-pegue esse copo.\u003cbr /\u003e\n-peguei.\u003cbr /\u003e\n-agora solte esse copo no chão. O que aconteceu com o copo?\u003cbr /\u003e\n-ele se quebrou.\u003cbr /\u003e\n-agora pede desculpas e vê se ele fica inteiro novamente.\n\u003cbr /\u003e\nPerceberam? Porque eu percebi de primeira. Por favor, nunca sejam quem quebra o copo.\u003cbr /\u003e\nMinha música favorita de todas é good years-Zayn Malik, porque essa \nmúsica me representa em tantos sentidos, é como minha vida. \"i pray to \ngod didn't wast all my good years\"\u003cbr /\u003e\nOuço ela pra tudo...\u003cbr /\u003e\nOlhem, eu não sei como continuar isso, mas simplesmente, viva e não só respire...\u003cbr /\u003e\n-ADorNãoSome",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5940817548934094732/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2607436516569221487",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-18T19:17:00-02:00",
-   "updated": "2019-01-18T19:17:50-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3ODQ2MjcwMzc3Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/vento-sem-direcao.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2607436516569221487",
-   "title": "Vento sem direção.",
-   "content": "Pior do que quem vai embora da nossa vida, é quem não sabe se vai ou \nfica, que num momento não quer te perder, noutro já some sem dar \nexplicações, melhor a certeza do fim do que a de um recomeço falido , \nquem parte aos poucos nunca deixa nossos corações em paz, um pouco de \nhoje, alegria amanhã, mais dor noutro dia um circulo vicioso que \nmaltrata a gente e nunca da certo, quase da mais nem um vento ajuda quem\n não tem direção.\u003cbr /\u003e\n\u003cbr /\u003e\n&nbsp;A menina e o violão\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" height=\"200\" src=\"https://66.media.tumblr.com/a5a305cd3d5670bf546c530feaa13313/tumblr_nic0i74AYg1ri5t8co1_400.jpg\" style=\"margin-top: 0px;\" width=\"150\" /\u003e ",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/a5a305cd3d5670bf546c530feaa13313/tumblr_nic0i74AYg1ri5t8co1_400.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2607436516569221487/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8948946485722761072",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-18T19:15:00-02:00",
-   "updated": "2019-01-22T22:05:23-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MjAxOTIzMzE2Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/o-tempo-mudou.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8948946485722761072",
-   "title": "O tempo mudou.",
-   "content": "\"Era pra ser tudo como antes, era pra ser mais um sorriso verdadeiro, \nera pra ser eu e você mais um ano uma do lado da outra, mas você se foi,\n se foi por não aguentar mas a dor em fingir que tava bem, fingir um \nsorriso todo dia, poisé hoje você deixa uma saudade enorme e um vazio no\n meu coração era o lugar que você ocupava e sempre vai ocupar talvez eu \nseja outra pessoa , talvez eu aprendi com a vida, aprendi que nem tudo é\n um conto de fadas, que nem tudo é como nós queremos que seja.\"\u003cbr /\u003e\n\u003cbr /\u003e\nEu.\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" height=\"130\" src=\"https://depoisquetudoaconteceu.files.wordpress.com/2016/07/tumblr_m84w6kw5jn1qcg2ueo1_500.jpg?w=561&amp;h=367\" style=\"margin-top: 41px;\" width=\"200\" /\u003e ",
-   "images": [
-    {
-     "url": "https://depoisquetudoaconteceu.files.wordpress.com/2016/07/tumblr_m84w6kw5jn1qcg2ueo1_500.jpg?w=561&h=367"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8948946485722761072/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "836013177331422566",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-18T19:12:00-02:00",
-   "updated": "2019-01-22T21:56:35-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MjAxMzk1NDg2Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/vazio-na-alma.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/836013177331422566",
-   "title": "Vazio na alma.",
-   "content": "Eu nunca mais me senti bem, nunca mais me senti viva e nunca mais me \nsenti alegre. Eu nunca mais quis sentir a sensação de ter uma pessoa ao \nmeu lado...uma pessoa que eu possa chamar de amor; e nunca mais pude \nsentir outros lábios tocar meus lábios no vazio da noite.\u003cbr /\u003e\nDesde que você se foi eu apenas passo os meus dias na mesma monotonia de\n sempre, pois era você que conseguia me tirar do meu mundinho , você \nconseguia tirar os meus pés do chão  e me mostrar como o mundo era \nbonito. Sem você eu não consigo ver graça no mundo e também não procuro \nem outros braços o seu abraço que tanto me fazia sentir segura. Não sei \nse eu vou voltar a amar outro alguém, é exagero eu sei mas vai demorar \num bom tempo para que eu possa me entregar a uma relação.\u003cbr /\u003e\nEu só queria você agora , o seu abraço, o seu cheiro, o seu beijo; eu \namava cada detalhe seu até mesmo sua voz que me fazia estremecer. Sim eu\n queria você agora aqui comigo pois mesmo me fazendo tão mal você  me \nfazia feliz, você é como uma droga que causa felicidade mas quando o \nefeito passa podemos notar a destruição,  e sim você conseguiu me \ndestruir completamente e acabar com o meu psicólogo que já não era lá \naquela coisa. Mas apesar de tudo rezo todos os dias para você ser feliz ,\n mesmo que a sua felicidade seja com outro alguém, pois aprendi que \nquando amamos de verdade queremos ver a pessoa feliz mesmo que a \nfelicidade da pessoa seja a causadora das nossas noites de choro.\u003cbr /\u003e\n\u003cbr /\u003e\nPaula Gomes\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para vazio tumblr\" class=\"irc_mi\" height=\"200\" src=\"https://66.media.tumblr.com/7b9f39f860b2d66b3500468a292d7b01/tumblr_oswqdwGLBM1r6x5e6o1_400.jpg\" style=\"margin-top: 4px;\" width=\"200\" /\u003e ",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/7b9f39f860b2d66b3500468a292d7b01/tumblr_oswqdwGLBM1r6x5e6o1_400.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/836013177331422566/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2112363223058197484",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-17T19:53:00-02:00",
-   "updated": "2019-01-22T21:56:53-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MjAxNDEzNzQyCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/ele.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2112363223058197484",
-   "title": "Ele",
-   "content": "\u003cbr /\u003e\nEle não dá mais \"bom dia amor\", nenhuma palavra mais é usada em tom de carinho.. e não tem mais o mesmo interesse de antes.\u003cbr /\u003e\nEle me disse que mesmo que eu não o amasse, ele amaria por dois. Tenho medo pois ele nunca amou o suficiente.\u003cbr /\u003e\nEle me disse que mesmo depois de tudo, o amor dele era o mesmo e que sempre seria, afinal ele não esperou atoa.\u003cbr /\u003e\nEle insiste em dizer que ficaremos para sempre juntos, mas esquece dessas palavras quando está do meu quarto pra fora.\u003cbr /\u003e\nEle acha que sou alguma tola, mas esquece também que me namorou por \ntempo o suficiente para conhecê-lo e descobrir seu maior erro.\u003cbr /\u003e\nEle me disse que sua cor favorita era o preto e o branco, que seu \nesporte favorito era o basquetebol e o futebol, que sua comida preferida\n era a pizza e o comum, arroz e feijão.. depois me chamou de \"meu bem\".\u003cbr /\u003e\nEle só não sabe que minha cor preferida é o céu, meu esporte preferido o\n lápis e papel e a comida, o prazer de conhecê-lo tão bem.. depois eu o \nchamei de \"meu bem\".\u003cbr /\u003e\nEle talvez não seja o culpado, talvez só seja a vítima por me ter ao seu\n lado. Desculpe meu bem, é que você demorou tanto pra chegar que agora \nnão permito que vá.\u003cbr /\u003e\nTalvez, eu não seja tão normal.. diria até um pouco louca, mas fazer o \nque, eu o amo.. e talvez por isso, eu o tenha feito livre.\u003cbr /\u003e\nEu, talvez.. o ame demais.. talvez o venere demais.. talvez queira-o demais.. talvez.. tanto faz.\u003cbr /\u003e\nEle, Eu.!\u003cbr /\u003e\n\u003cbr /\u003e\nLariBii\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexão\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para menino tumblr\" class=\"irc_mi\" height=\"408\" src=\"https://modasemcensura.com/wp-content/uploads/2018/06/look-tumblr-masculino-foto-tumblr-masculino-moda-masculina-menswear-ootd-style-efeito-tumblr-tunlbr-boy-moda-sem-censura-blog-masculino-2.jpg\" style=\"margin-top: 0px;\" width=\"408\" /\u003e ",
-   "images": [
-    {
-     "url": "https://modasemcensura.com/wp-content/uploads/2018/06/look-tumblr-masculino-foto-tumblr-masculino-moda-masculina-menswear-ootd-style-efeito-tumblr-tunlbr-boy-moda-sem-censura-blog-masculino-2.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2112363223058197484/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "6384456524140933540",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-17T19:48:00-02:00",
-   "updated": "2019-01-17T19:48:19-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3NzYxNjk5MTg1Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/posso-te-contar-um-segredo.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6384456524140933540",
-   "title": "Posso te contar um segredo?",
-   "content": "\u003cspan style=\"font-size: small;\"\u003ePosso te contar um segredo? Teu sorriso é lindo. Teu abraço é o que \nme conforta. A sua voz me encantou desde a primeira vez em que eu a \nouvi. Teu sorriso é o mais lindo e sincero que eu já vi. Teu olhar é tão\n encantador. Seu cheiro, nossa seu cheiro, eu simplesmente viciei nele. \nAinda sinto ele as vezes quando me pego pensando muito em você, ele \nsurge do nada, mais some em um segundo me deixando com mais saudade \nainda. Seu beijo, é como eu imaginava, cheio de fases, e em todas elas \neu me encaixei. Teu jeito foi o único que me conquistou, ele é tão \nsimples mais tão cheio de significados. Na verdade você é o mistério em \npessoa, e acho que é isso que me encantou em você. Seu jeito meio tímido\n e safado ao mesmo tempo me deixa sem graça as vezes. Você parece que lê\n meus pensamentos, sabe do que eu to sentindo, o que eu quero naquele \nmomento. E por esse motivo não consigo esconder nada de você. E quando \nvocê começa a falar suas bobagens, eu não sei porque mais eu gosto \ndelas, eu gosto do teu jeito espontâneo de ser. Chega ser engraçado. A \nsua forma de me fazer rir a todo momento, mesmo quando estamos naquelas \nnossas briguinhas nada haver. Seu jeito calmo, me traz tanta paz. E eu \nnão consigo ficar brava, irritada ou magoada com você, não dá. Você \nconsegue de mim o que ninguém um dia conseguiu. E você me faz tão bem, \nme faz tão feliz.\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan style=\"font-size: small;\"\u003eGabrielly Oliveira\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan style=\"font-size: small;\"\u003e&nbsp;\u003c/span\u003e",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6384456524140933540/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "1225577056523059128",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-17T19:39:00-02:00",
-   "updated": "2019-01-17T19:39:51-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3NzYxMTkxMzE0Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/contatinho.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1225577056523059128",
-   "title": "Contatinho.",
-   "content": "\u003cspan style=\"font-size: small;\"\u003eContatinho não corre te ajudar quando você mais precisa.\u003cbr /\u003e\nContatinho não \u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"font-size: small;\"\u003ete abraça e ouve pacientemente dizendo: 'estamos juntos nessa'.\u003cbr /\u003e\nContatinho não corre no hospital quando você estiver mal e precisando de alguém ao seu lado.\u003cbr /\u003e\nContatinho quer você com roupa bonita, perfume exalando e pronto para pegar aquela baladinha.\u003cbr /\u003e\nPorque contatinho é passageiro, chega sorrindo e vai embora antes que você possa ver seu lado triste.\u003cbr /\u003e\nO contatinho é a versão bonita do mundo, é o disfarce que cai bem para aqueles momentos onde fingimos que o mundo é perfeito.\u003cbr /\u003e\nTem sexo, mas quando gozam pensam em ir embora. Tem sábado de madrugada,\n mas não tem domingos a tarde. Tem maquiagem, mas não tem aquele rosto \ncansado de quem deu duro a semana toda na batalha por construir algo.\u003cbr /\u003e\nPrefere o contatinho quem prefere o mundo do faz de conta.\u003cbr /\u003e\nE nada contra os contatinhos, agora, não reclame quando você perceber \nque o fácil vai fácil, e que na vida só fica de verdade quem a gente \ncativa tratando como prioridade...\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"font-size: small;\"\u003e\n\u003c/span\u003e\u003cspan style=\"font-size: small;\"\u003eValorize pessoas na sua vida que falam e provam isso todos o dias...\u003cbr /\u003e\nPor que os contatinhos te falam\u003cbr /\u003e\nmeia dúzia de palavras bonitas até conseguirem te levar pra cama...\u003cbr /\u003e\nQuando alguém faz o impossível para lhe ver sorrir, muitas das vezes um simples gesto.\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan style=\"font-size: small;\"\u003e\n\u003c/span\u003e\u003cspan style=\"font-size: small;\"\u003eGabrielly Oliveira!\u003c/span\u003e",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1225577056523059128/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMi0xNVQxMToxNjoxMC40OTha\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMi0xNlQyMTo0Nzo0MS45ODRa\""
 }
