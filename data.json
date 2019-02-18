@@ -1,7 +1,157 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYpdKRmIYtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEY4Jmf5oYtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "7164294725933791373",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-18T08:49:00-03:00",
+   "updated": "2019-02-18T08:49:23-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwNDkwNTYzNDQzCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/conflitos-internos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7164294725933791373",
+   "title": "Conflitos Internos",
+   "content": "Ninguém me disse ou avisou que seria tão difícil crescer e tomar decisões.\u003cbr /\u003eEu já não sei o que fazer se meu coração grita e esperneia, de forma mimada querendo atenção e cuidados,\u003cbr /\u003eE minha razão fala em alto e bom som de forma educada para que eu tome minha decisão de forma sensata.\u003cbr /\u003eEu não sei o que fazer se os dois não entram em um consenso e brigam com tantos argumentos\u003cbr /\u003eDe forma que me deixam totalmente indecisa e sem saber o que fazer.\u003cbr /\u003eDevo então ouvir a voz da razão ou a do coração?\u003cbr /\u003e\n\u003cbr /\u003e\nLayssa M.S\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" height=\"214\" src=\"https://www.psicologiamsn.com/wp-content/uploads/2012/09/bickering-300x214.jpg\" style=\"margin-top: 97px;\" width=\"300\" /\u003e ",
+   "images": [
+    {
+     "url": "https://www.psicologiamsn.com/wp-content/uploads/2012/09/bickering-300x214.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7164294725933791373/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1850020155836319035",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-18T08:45:00-03:00",
+   "updated": "2019-02-18T08:45:26-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwNDkwMzI2MDE5Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/voce-me-matou.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1850020155836319035",
+   "title": "Você me matou.",
+   "content": "Eu nunca fui de me apegar a ninguém, então você disse me amar, disse que eu era seu mundo, que faria de tudo pra me ver sorrir, jurou que nunca me trocaria por ninguém, mas depois que me ganhou despejou todo teu veneno em mim, me disse que nunca me amou, eu boba e por amor, quis continuar, quis lutar por nós, mas depois, tudo piorou, o primeiro tapa chegou, você me pediu desculpas, disse que não faria mais, eu o perdoei, logo depois teve o segundo, o terceiro, muitos outros. Não aguentei mais, decidi terminar, você não soube ouvir um não, me espancou novamente. Eu te amava, fazia de tudo por ti, soltei o mundo pra segurar a tua mão, mas você a soltou, você me usou, brincou com meus sentimentos, me bateu, você me matou, literalmente me matou, hoje olho aqui do céu pelas suas próximas vítimas, quantas outras passarão pelo que eu passei? Quantas outras serão enganadas?\u003cbr /\u003eEspero de coração, que isso mude, que esse ódio em você acabe, mas, desculpe-me, não te desejo amor, pois você teve, te amei como ninguém, você não quis o meu amor.\u003cbr /\u003ePeço a Deus que você mude, espero que ele me ouça.\u003cbr /\u003e\u003cbr /\u003e\nFernanda.",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1850020155836319035/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3807259598335152319",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-18T08:38:00-03:00",
+   "updated": "2019-02-18T08:38:57-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwNDg5OTM3NDgyCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/paradoxos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3807259598335152319",
+   "title": "Paradoxos",
+   "content": "As situações da vida realmente são cheia de paradoxos no que diz respeito a troca recíproca de algum sentimento. Ontem você estava lá no auge da sua felicidade, vendo arco íris em tudo e todos; hoje, se vê triste achando que nada está dando certo, que a sua vida anda errada e nada mais faz sentido... E amanhã? Vai estar ensolarado, nublado ou chovendo? Nao se sabe. É assim que funciona o nosso interior, nunca sabemos o que de fato estamos passando. Vivemos em um comodismo de querer que tudo seja flor, calmaria e harmonioso, mas na maioria das vezes não é assim, pois na vida existe uma coisa chamada provação e a outra, obstáculo. Ambas andam de mãos dadas no intuito de fazer você como ser humano racional/emocional, lidar com as situações diversas da sua vida e tirar delas lições que façam o aprimoramento do eu-interior.\u003cbr /\u003eChore!\u003cbr /\u003eSorria!\u003cbr /\u003ePerpasse pelos momentos de dor como se fosse uma brincadeira que você ao acordar, não existirá mais. Sorria sempre vendo o bom proveito das coisas gozáveis da vida. Ame! Se ame.\u003cbr /\u003eCuide do seu espírito alimentando-o de pacificidade e harmonia. Tire lições de tudo e de todos, amanhã você terá mais força e histórias para contar.\u003cbr /\u003e\n\u003cbr /\u003e\nAmanda de Jesus Moreira\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para paradoxos tumblr\" class=\"irc_mi\" height=\"209\" src=\"https://www.oficinadanet.com.br/imagens/post/14231/1.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
+   "images": [
+    {
+     "url": "https://www.oficinadanet.com.br/imagens/post/14231/1.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3807259598335152319/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "9072311722429418069",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-18T08:35:00-03:00",
+   "updated": "2019-02-18T08:35:13-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwNDg5NzEzODk5Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/como-seria.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9072311722429418069",
+   "title": "Como seria?",
+   "content": "Como seria se eu tivesse feito tudo diferente? Tipo, mesmo que fosse por um dia, será que isso afetaria quem eu sou hoje, o que vivo, e como eu vivo?\u003cbr /\u003e\nAcho que, as vezes só queríamos mais uma chance no passado sabe? Uma chance de apagar erros cometidos, uma chance de abraçar alguém que já se foi, eu só me pergunto como seria?!\u003cbr /\u003e\nÉ só uma chance sabe? Não é errado querer fazer diferente de antes, não é errado se arrepender de ter sentido, não é errado olhar pra trás e pensar que lá, mesmo errando era melhor do que hoje... Somos seres humanos, ou seja, não acerta em tudo é algo que já vem em nós!\u003cbr /\u003e\nNão é querer modificar o mundo, isso não está ao nosso alcance, mas está ao nosso alcance fazer tudo diferente de antes, já que não se pode mais voltar no tempo...\u003cbr /\u003e\n\u003cbr /\u003e\nRayssa Souza\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para brigas tumblr\" class=\"irc_mi\" height=\"248\" src=\"https://www.pbhoje.com.br/wp-content/uploads/2015/07/cadeia.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
+   "images": [
+    {
+     "url": "https://www.pbhoje.com.br/wp-content/uploads/2015/07/cadeia.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9072311722429418069/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "2854755885378011789",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-02-18T08:34:00-03:00",
+   "updated": "2019-02-18T08:34:16-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwNDg5NjU2ODUwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/02/acabou.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2854755885378011789",
+   "title": "Acabou.",
+   "content": "E hoje tivemos mais uma discussão, sem sentido, sem motivo!!!\u003cbr /\u003eCada dia mais o nosso amor vai se desgastando por bobeiras, e isso é bizarro, pq a um ano atrás nós éramos namorados, éramos felizes, nós prometemos um ao outro coisas lindas, e aquela frase \"promete nunca me deixar, e se um dia me deixar no céu a gente vai morar\", ela foi jogada ao vento, hoje não temos nada a não ser uma amizade, mas sei lá, parece que tudo acabou, o interesse, a preocupação, da minha e da sua parte, não é que nem antes, antes eu te chamava todos os dias e vc também, agr nós nem nos importamos com a existência do outro, hoje cada um seguiu sua vida, seu rumo, agr cada um tem sua outra paixão, sua outra metade, não é mais o casal, não é mais aquele amor, não existe mais!!! Acabou!\u003cbr /\u003ePor coisas bestas, não mandamos mais \"eu te amo\" verdadeiro um para o outro, hoje não existe mais,\u003cbr /\u003e\n&nbsp;mas já existiu, e foi lindo, todos admiravam, era verdadeiro, sempre foi, mas acabou, por besteiras.\u003cbr /\u003e\n\u003cbr /\u003e\nGabriela Galdini\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para brigas tumblr\" class=\"irc_mi\" height=\"318\" src=\"https://static1.squarespace.com/static/54836385e4b09441f85bccc3/t/59ea3a9e51a58450099b198a/1508522688135/encantamento.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
+   "images": [
+    {
+     "url": "https://static1.squarespace.com/static/54836385e4b09441f85bccc3/t/59ea3a9e51a58450099b198a/1508522688135/encantamento.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2854755885378011789/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "3726798565325333016",
@@ -5676,157 +5826,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1538151603266367745/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2342410892166446025",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-20T17:37:00-02:00",
-   "updated": "2019-01-22T21:54:40-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MjAxMjgwNTA3Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/como-as-coisas-sao-estranhas.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2342410892166446025",
-   "title": "Como as coisas são estranhas.",
-   "content": "\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003eVocê começa o ano bem achando que a sua vida vai começar a ser como a de outras pessoas, com vários amigos, que sempre saem e se divertem, pra você eles \"vivem a vida\", então com o passar do tempo você começa a ver os pontos negativos da sua vida e fica achando que nunca vai ter esse tipo de vida feliz , você começa a comparar sua vida com a dos outros, você começa a comparar cada ponto de você com a dessas pessoas , tua aparência , teu corpo , até tua forma de falar e agir, e você acha que você não tem nenhum ponto positivo, e com o passar dos dias e das semanas você vê que em algumas dessas pessoas tem uma parte triste , que elas preenche com essa vida \"perfeita\", e você percebi que essas pessoas estão vivendo uma vida de mentira porque a vida é imperfeita com qualidades, você literalmente vê que essas pessoas vivem de um conto de fadas não verdadeiro.&nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eE agora você vê que sua vida é incrível, e que você é incrível, tudo é incrível ...\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eAnônima.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e#Reflexão\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para FUMANDO E RINDO tumblr\" height=\"320\" src=\"https://66.media.tumblr.com/a7198a139b67d608589076914615ad4d/tumblr_p7z7cmEvoq1w79vddo3_500.jpg\" width=\"320\" /\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/a7198a139b67d608589076914615ad4d/tumblr_p7z7cmEvoq1w79vddo3_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2342410892166446025/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "1862206192714907694",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-18T20:24:00-02:00",
-   "updated": "2019-01-18T20:24:20-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3ODUwMjYwNDQwCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/nao-se-desespere.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1862206192714907694",
-   "title": "Não se desespere!",
-   "content": "\u003cdiv class=\"TableObject-item TableObject-item--primary\"\u003e\na vida é uma coisa difícil de entender, mas nada é impossível quando se \ntem Deus. A vida é complicada às vezes mas ela não vai ser assim para \nsempre, pode acreditar.\u003cbr /\u003e\nse vc passa por problemas é normal, todos nós passamos, então não se desespere, vc não é o único a passar por obstáculos.\u003cbr /\u003e\nTenha fé em primeiro lugar e tudo vai dar certo, não  sinta como se tudo\n  em sua vida fosse dá errado, pois isso piora a situação, você é forte,\n corajoso, útil, bonito, inteligente, engraçado,tem tudo pela frente...E\n se você tem medo, faz parte, mas não deixe ele ti dominar, porque você é\n maior que tudo ,você é capaz de tudo que quiser, não se desespere, \nlute.\u003cbr /\u003e\nse senti sozinho é só ilusão, quantas pessoas já não tentaram te ajudar e\n você não percebeu. Se sentir assim é normal as vezes, mas nem sempre, \nse sentir-se assim com frequência procure ajuda de profissionais, mas \nnão se desespere!\u003c/div\u003e\n\u003cdiv class=\"TableObject-item TableObject-item--primary\"\u003e\n\u003c/div\u003e\n\u003cdiv class=\"TableObject-item TableObject-item--primary\"\u003e\nCamila ferreira dos Santos\u003c/div\u003e\n\u003cdiv class=\"TableObject-item TableObject-item--primary\"\u003e\n\u003c/div\u003e\n\u003cdiv class=\"TableObject-item TableObject-item--primary\"\u003e\n\u003cimg alt=\"Resultado de imagem para vento tumblr\" class=\"irc_mi\" height=\"320\" src=\"https://www.lovethispic.com/uploaded_images/34520-Purple-Messy-Bun.png\" style=\"margin-top: 0px;\" width=\"259\" /\u003e \u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://www.lovethispic.com/uploaded_images/34520-Purple-Messy-Bun.png"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1862206192714907694/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8020727354539777737",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-18T20:22:00-02:00",
-   "updated": "2019-01-22T21:54:48-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MjAxMjg4MDAyCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/tudo-vai-ficar-bem.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8020727354539777737",
-   "title": "Tudo vai ficar bem!",
-   "content": "Existem fases da nossa vida que não são fáceis de passar, algumas vezes \nolhamos ao nosso redor e não conseguimos enxergar tudo que temos e o \nque somos, então vem aquela vontade de desistir, como é de costume se \ndizer \" vontade de sumir\", a vida começa a perder o sentido, as pessoas \nparecem que decidem ir embora \"as de mentira\", e acabamos perdendo a \nforça de lutar por algo melhor que tudo isso.\u003cbr /\u003e\nMas não esquecem, é só mais uma fase difícil, é só Deus provando pra nós\n mesmos o quanto somos fortes e capazes, ainda que nosso psicológico \nesteja totalmente afetado, perder a direção de tudo não é a melhor \nsaída, se trancar no quarto, botar uma música triste não vai ajudar, \ndizer o tempo todo que não vai dá certo não vai nos ajudar seguir em \nfrente, por mas doído que seja, se trata de nossas dores, e apenas nós \npodemos acabar com elas.\u003cbr /\u003e\nA vida é bem melhor do que ela vem mostrando ser, então bora sorrir, tá \ninsuportável? Aguenta. Tá machucando? Vamos nos curar. E assim começar \numa vida com mas fé na felicidade e em Deus.\u003cbr /\u003e\n\u003cbr /\u003e\nDayliane Moreira\u003cbr /\u003e\n\u003cbr /\u003e\n#Conselho\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para vento tumblr\" class=\"irc_mi\" height=\"320\" src=\"https://i.pinimg.com/originals/af/e1/a2/afe1a2397a0912c760b5fe17ca1cfb66.jpg\" style=\"margin-top: 0px;\" width=\"290\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/af/e1/a2/afe1a2397a0912c760b5fe17ca1cfb66.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8020727354539777737/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7314020414890531409",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-18T20:14:00-02:00",
-   "updated": "2019-01-22T21:54:56-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4MjAxMjk2ODUwCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/fique-vivo.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7314020414890531409",
-   "title": "Fique vivo!",
-   "content": "Tá, eu pensei bastante antes de escrever isso mas eu queria me sentir \nmelhor, eu queria fazer você se sentir melhor. Eu não te conheço, não \nsei das suas dores, nunca enxuguei teu choro nem se quer te dei um \nabraço, você nunca me procurou para dizer como se sentia mas, ei, eu \nestou aqui pra te falar uma coisinha... Você tem que ser forte tá? Te \ngaranto que daqui a um tempinho você será a pessoa que sempre sonhou, \nestará feliz, você não é um erro, não é um lixo, e muito menos um \nestorvo na vida das pessoas, você é uma pessoa maravilhosa cheia de \ndefeitos sim até porque eles te tornam diferente eles te tornam \nespecial, te tornam você. Ei, esses momentos ruins que você está \npassando são normais eles vão te fazer ficar forte, vão te fazer \namadurecer só não repete o mesmo erro duas vezes por favor, ei, teus \ndias de luta vão acabar tu verá a glória mas pra isso é preciso se \nmanter firme e principalmente VIVO, eu te admiro bastante por aguentar \ntudo calado e não surtar, eu te admiro bastante por espalhar amor mesmo \nestando cheio de dor isso mostra o ser humano que você é. Eu quero que \nsaiba que você vai achar o tão sonhado amor da tua vida, pode ser agora \nou daqui a 10 anos mas você vai, você vai concluir os seus estudos, vai \nfazer a faculdade de psicologia que você tanto deseja, deixará de ser a \novelha negra da família e se tornará o orgulho dos teus pais, mas pra \nisso cara você tem que se manter vivo. Acredite em você no seu \npotencial, escuta as tuas músicas super depressivas, assiste aquela \nsérie topzeira, um filme clichê de romance, lê um livro, anda de skate, \ntoma banho de chuva, não reclama do tédio que você vive um dia você vai \nsentir falta dele, canta no chuveiro, ri de besteiras, coma pão com \nleite condensado, seja o pequeno infinito de alguém e não peça nada em \ntroca, as coisas boas que tu fizer vai contribuir no teu futuro, seja \nverdadeiro e lembre que o que não é verdadeiro com o tempo acaba, mas \nprincipalmente se mantenha vivo.\u003cbr /\u003e\n\u003cbr /\u003e\nTg\u003cbr /\u003e\n\u003cbr /\u003e\n#Felicidade\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" height=\"320\" src=\"https://data.whicdn.com/images/220247279/original.jpg\" style=\"margin-top: 0px;\" width=\"256\" /\u003e ",
-   "images": [
-    {
-     "url": "https://data.whicdn.com/images/220247279/original.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7314020414890531409/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4554970548720278854",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-18T20:11:00-02:00",
-   "updated": "2019-01-18T20:11:53-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ3ODQ5NTEzMzg4Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/vem-comigo.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4554970548720278854",
-   "title": "Vem comigo.",
-   "content": "\u003cbr /\u003e\nVem comigo? Vem pra ficar! Vem para eu te mostrar que eu não sou as \noutras pessoas passageiras na sua vida que brincaram com seu coração, \ndeixa eu te mostrar que comigo vai ser diferente. Vem para deitar sua \ncabeça em meu peito para eu ficar acarinhando seu cabelo enquanto \nassistimos Phineas e Ferb na Disney, vem para você me contar como foi \nseu dia, vem me ensinar a jogar truco para que você tenha sempre uma \nparceira, vem dividir aquela vodka de quebradinha, vem meter o louco \ncomigo, vem passar aquelas noites de inverno com um balde de pipoca e \naquele pijama parecendo de mendigo ou ate mesmo sem roupa,vem para \ntestarmos nossos limites e fazermos o proibido, vem para tomarmos aquele\n banho bem demorado quando estiver estressado, vem para testarmos novas \nreceitas na cozinha, vem para tentarmos tirar fotos igual aqueles casais\n na internet, vem para comer aquele dogão sexta a noite, vem para \nfazermos algumas apostas de quem consegue acertar a pipoca na boca, eu \ndeixo você ganhar se te fizer feliz, detalhe: as vezes, vem para \nbrincarmos de lutinha, vem para eu te beijar, beijinho por beijinho, vem\n conversar se estiver algum problema ou algo te incomodando em sua \nmente, em dois é mais fácil de resolver não é verdade? Vem para observar\n o céu agarrados, vem para eu ficar repetindo inúmeras vezes o quanto eu\n te amo, não são apenas letras, silabas ou palavras, é o que eu sinto \npor você, na verdade eu não sei, o que eu sinto por você é completamente\n inexplicável, quando eu vejo sua mensagem meu coração vai a mil, quando\n você me fala que não esta bem, meu pensamento fica perturbado, quando \neu vejo aquelas tiriças curtindo e comentando sua foto, a veia do meu \npescoço ate salta de tanto ciúmes, quando eu vejo seu sorriso, mano, a \nfelicidade reina em mim de novo, meu deus, vem ser meu! Deixa eu te \nmostrar a paz que meu coração traz, vem comigo nem que seja pra fugir, e\n se vamos fugir, vamos agora, Vamos jogar tudo no ar e vamos, sem rota, \nsem caminho, sem destino, apenas eu e você, Porque meu bem tu me tem! \nentão, vem?\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nDesconhecido. ",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4554970548720278854/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMi0xNlQyMjowNDo0OC40NDda\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMi0xOFQxMTo1ODoxMi4xNDFa\""
 }
