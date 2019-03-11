@@ -1,7 +1,193 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYg-aW24ktEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYwez53IktEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "3022951875260893578",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-10T21:54:00-03:00",
+   "updated": "2019-03-10T21:54:17-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMjY1NjU3NTcyCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/olhos-nos-olhos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3022951875260893578",
+   "title": "Olhos nos olhos",
+   "content": "\u003cdiv class=\"frase fr0\" id=\"NTE3NTI2\"\u003e\nOlhos nos olhos\u003cbr /\u003e\n\u003cbr /\u003e\nQuando você me deixou, meu bem\u003cbr /\u003e\nMe disse pra ser feliz e passar bem\u003cbr /\u003e\nQuis morrer de ciúme, quase enlouqueci\u003cbr /\u003e\nMas depois, como era de costume, obedeci\u003cbr /\u003e\n\u003cbr /\u003e\nQuando você me quiser rever\u003cbr /\u003e\nJá vai me encontrar refeita, pode crer\u003cbr /\u003e\nOlhos nos olhos, quero ver o que você faz\u003cbr /\u003e\nAo sentir que sem você eu passo bem demais\u003cbr /\u003e\n\u003cbr /\u003e\nE que venho até remoçando\u003cbr /\u003e\nMe pego cantando\u003cbr /\u003e\nSem mas nem porque\u003cbr /\u003e\nE tantas águas rolaram\u003cbr /\u003e\nQuantos homens me amaram\u003cbr /\u003e\nBem mais e melhor que você\u003cbr /\u003e\n\u003cbr /\u003e\nQuando talvez precisar de mim\u003cbr /\u003e\n'Cê sabe que a casa é sempre sua, venha sim\u003cbr /\u003e\nOlhos nos olhos, quero ver o que você diz\u003cbr /\u003e\nQuero ver como suporta me ver tão feliz\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"NTE3NTI2\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"NTE3NTI2\"\u003e\n#Conselho&nbsp;\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"NTE3NTI2\"\u003e\n\u003c/div\u003e\n\u003cspan class=\"autor\"\u003e\nChico Buarque\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan class=\"autor\"\u003e(Saudações Querido Textos) \u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan class=\"autor\"\u003e\u003cimg alt=\"Resultado de imagem para olhos nos olhos tumblr\" class=\"irc_mi\" data-iml=\"1552265641026\" height=\"408\" src=\"https://www.istoesuperinteressante.com/wp-content/uploads/2017/01/tumblr_static_c6hvbyyor484w0s48w08ogkgo.jpg\" style=\"margin-top: 0px;\" width=\"408\" /\u003e \u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://www.istoesuperinteressante.com/wp-content/uploads/2017/01/tumblr_static_c6hvbyyor484w0s48w08ogkgo.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3022951875260893578/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3983641629531924913",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-10T21:52:00-03:00",
+   "updated": "2019-03-10T21:52:21-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMjY1NTQxNjExCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/va-arte-de-ser-feliz.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3983641629531924913",
+   "title": "A arte de ser feliz",
+   "content": "\u003cdiv class=\"frase fr0\" id=\"MjIzNTMw\"\u003e\nHouve um tempo em que minha janela se abriasobre uma cidade que parecia ser feita de giz.\u003cbr /\u003e\nPerto da janela havia um pequeno jardim quase seco.\u003cbr /\u003e\nEra uma época de estiagem, de terra esfarelada,\u003cbr /\u003e\ne o jardim parecia morto.\u003cbr /\u003e\nMas todas as manhãs vinha um pobre com um balde,\u003cbr /\u003e\ne, em silêncio, ia atirando com a mão umas gotas de água sobre as plantas.\u003cbr /\u003e\nNão era uma rega: era uma espécie de aspersão ritual, para que o jardim não morresse.\u003cbr /\u003e\nE eu olhava para as plantas, para o homem, para as gotas de água que \ncaíam de seus dedos magros e meu coração ficava completamente feliz.\u003cbr /\u003e\nÀs vezes abro a janela e encontro o jasmineiro em flor.\u003cbr /\u003e\nOutras vezes encontro nuvens espessas.\u003cbr /\u003e\nAvisto crianças que vão para a escola.\u003cbr /\u003e\nPardais que pulam pelo muro.\u003cbr /\u003e\nGatos que abrem e fecham os olhos, sonhando com pardais.\u003cbr /\u003e\nBorboletas brancas, duas a duas, como refletidas no espelho do ar.\u003cbr /\u003e\nMarimbondos que sempre me parecem personagens de Lope de Vega.\u003cbr /\u003e\nÁs vezes, um galo canta.\u003cbr /\u003e\nÀs vezes, um avião passa.\u003cbr /\u003e\nTudo está certo, no seu lugar, cumprindo o seu destino.\u003cbr /\u003e\nE eu me sinto completamente feliz.\u003cbr /\u003e\nMas, quando falo dessas pequenas felicidades certas,\u003cbr /\u003e\nque estão diante de cada janela, uns dizem que essas coisas não existem,\u003cbr /\u003e\noutros que só existem diante das minhas janelas, e outros,\u003cbr /\u003e\nfinalmente, que é preciso aprender a olhar, para poder vê-las assim.\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"MjIzNTMw\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"MjIzNTMw\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"MjIzNTMw\"\u003e\n#Felicidade \u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"MjIzNTMw\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cspan class=\"autor\"\u003e\nCecília Meireles\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan class=\"autor\"\u003e\u003cimg alt=\"Resultado de imagem para jardim tumblr\" class=\"irc_mi\" data-iml=\"1552265463088\" height=\"408\" src=\"https://static.tumblr.com/92202d5cf2f459689b50e8940b6cc20d/wynewpb/LEbo9ox9h/tumblr_static_2kgywv39l3uo4ow0804s0s4oc.jpg\" style=\"margin-top: 0px;\" width=\"408\" /\u003e \u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e",
+   "images": [
+    {
+     "url": "https://static.tumblr.com/92202d5cf2f459689b50e8940b6cc20d/wynewpb/LEbo9ox9h/tumblr_static_2kgywv39l3uo4ow0804s0s4oc.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3983641629531924913/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4697651756511767763",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-10T21:47:00-03:00",
+   "updated": "2019-03-10T21:47:34-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMjY1MjU0ODA4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/a-idade-de-ser-feliz.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4697651756511767763",
+   "title": "A Idade de Ser Feliz",
+   "content": "\u003cdiv class=\"frase fr0\" id=\"NzcyNjc\"\u003e\n\u003cbr /\u003e\nExiste somente uma idade para a gente ser feliz \u003cbr /\u003e\nsomente uma época na vida de cada pessoa \u003cbr /\u003e\nem que é possível sonhar e fazer planos \u003cbr /\u003e\ne ter energia bastante para realizá-los \u003cbr /\u003e\na despeito de todas as dificuldades e obstáculos\u003cbr /\u003e\n\u003cbr /\u003e\nUma só idade para a gente se encantar com a vida \u003cbr /\u003e\ne viver apaixonadamente \u003cbr /\u003e\ne desfrutar tudo com toda intensidade \u003cbr /\u003e\nsem medo nem culpa de sentir prazer\u003cbr /\u003e\n\u003cbr /\u003e\nFase dourada em que a gente pode criar e recriar a vida \u003cbr /\u003e\nà nossa própria imagem e semelhança \u003cbr /\u003e\ne sorrir e cantar e brincar e dançar\u003cbr /\u003e\ne vestir-se com todas as cores \u003cbr /\u003e\ne entregar-se a todos os amores \u003cbr /\u003e\nexperimentando a vida em todos os seus sabores\u003cbr /\u003e\nsem preconceito ou pudor\u003cbr /\u003e\n\u003cbr /\u003e\nTempo de entusiasmo e de coragem \u003cbr /\u003e\nem que todo desafio é mais um convite à luta \u003cbr /\u003e\nque a gente enfrenta com toda a disposição de tentar algo novo, \u003cbr /\u003e\nde novo e de novo, e quantas vezes for preciso\u003cbr /\u003e\n\u003cbr /\u003e\nEssa idade, tão fugaz na vida da gente,\u003cbr /\u003e\nchama-se presente,\u003cbr /\u003e\ne tem apenas a duração do instante que passa ...\u003cbr /\u003e\n... doce pássaro do aqui e agora \u003cbr /\u003e\nque quando se dá por ele já partiu para nunca mais!\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"NzcyNjc\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cspan class=\"autor\"\u003e\nGeraldo Eustáquio de Souza\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan class=\"autor\"\u003e#Felicidade\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan class=\"autor\"\u003e(Saudações: Querido Textos)&nbsp;\u003c/span\u003e\u003cbr /\u003e\n\u003cspan class=\"autor\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1552265165695\" height=\"196\" src=\"https://www.dicasdemulher.com.br/wp-content/uploads/2013/08/tiara-de-flores-3.jpg\" style=\"margin-top: 4px;\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://www.dicasdemulher.com.br/wp-content/uploads/2013/08/tiara-de-flores-3.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4697651756511767763/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5318976905991238032",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-10T21:43:00-03:00",
+   "updated": "2019-03-10T21:43:50-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMjY1MDMwODkyCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/abrir-o-olho-e-dolorido-mas-e-necessario.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5318976905991238032",
+   "title": "Abrir o olho é dolorido mas é necessario.",
+   "content": "\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e“As\n pessoas têm muito medo daqueles que conhecem a si mesmos. Estes têm um \ncerto poder, uma certa aura e um certo magnetismo, um carisma capaz de \nlibertar os jovens, ainda cheios de vida, do aprisionamento tradicional…\u003cbr /\u003e\n O homem iluminado não pode ser escravizado — este é o problema — e não \npode ser feito prisioneiro… Todo gênio que tenha conhecido um pouco do \nseu íntimo está fadado a ser um pouco d\u003cspan class=\"text_exposed_show\"\u003eifícil\n de ser absorvido: ele deverá ser uma força perturbadora. As massas não \nquerem ser perturbadas, ainda que se encontrem na miséria; estão na \nmiséria, mas estão acostumadas com isso, e qualquer um que não seja um \nmiserável parece um estranho.\u003cbr /\u003e O homem iluminado é o maior forasteiro\n do mundo; ele parece não pertencer a ninguém. Nenhuma organização \nconsegue confiná-lo, nenhuma comunidade, nenhuma sociedade, nenhuma \nnação.”\u003cbr /\u003e (Osho)\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e\u003cbr /\u003e \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e#Conselho&nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e\u003cbr /\u003e (Saudações: Querido Textos)\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1552264953403\" height=\"408\" src=\"https://pics.me.me/abrir-os-olhos-pode-doer-mas-%C3%A9-necess%C3%A1rio-4024740.png\" style=\"margin-top: 0px;\" width=\"278\" /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://pics.me.me/abrir-os-olhos-pode-doer-mas-%C3%A9-necess%C3%A1rio-4024740.png"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5318976905991238032/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1326232639743117989",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-10T21:39:00-03:00",
+   "updated": "2019-03-10T21:44:03-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMjY1MDQzNjQ0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/mente.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1326232639743117989",
+   "title": "Mente",
+   "content": "\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\"Até\n mesmo agora, a sua mente não quer que você aceite isso. Ela tenta \ncolocar na sua frente as coisas que vão distrair a sua atenção. Alguma \ncoisa velha, estúpida para a qual a mente sabe que é a sua fraqueza, \npara te manter esperando na fila da miséria, quando você já é livre. Soa\n familiar?\"\u003cbr /\u003e (Sri Mooji)\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e#Reflexao \u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cbr /\u003e \u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e(Saudações: Querido Textos)\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cimg alt=\"Resultado de imagem para mente fechada tumblr\" class=\"irc_mi\" data-iml=\"1552264740741\" height=\"408\" src=\"https://66.media.tumblr.com/f160afcf1254a7857bc1dc5d6b2fd36b/tumblr_nulj0v3XWt1sie84lo1_500.jpg\" style=\"margin-top: 0px;\" width=\"326\" /\u003e \u003c/span\u003e\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/f160afcf1254a7857bc1dc5d6b2fd36b/tumblr_nulj0v3XWt1sie84lo1_500.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1326232639743117989/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "484450432432279282",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-10T21:34:00-03:00",
+   "updated": "2019-03-10T21:44:17-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMjY1MDU3MzUzCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/ansiedade.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/484450432432279282",
+   "title": "Ansiedade",
+   "content": "Algumas considerações sobre ansiedade\u003cbr /\u003e\nA ansiedade tira a \nprecisão de suas decisões, rouba-lhe horas de sono, faz com que você \nentre vulnerável numa negociação, diminuindo drasticamente as suas \nchances de sucesso. A pergunta que fica é: Como querer muito alguma \ncoisa sem ficar ansioso?\u003cbr /\u003e\nUm bom antídoto contra a ansiedade é \ndominar a arte de abrir mão. Abrir mão não significa desistir. Ao \ncontrário, abrir mão é deixar de ser controlado pela ansiedade e assumir\n o controle da situ\u003cspan class=\"text_exposed_show\"\u003eação tonando-se apto a conquistar o que se deseja.\u003c/span\u003e\u003cbr /\u003e\n\u003cdiv class=\"text_exposed_show\"\u003e\nEntenda melhor:\u003cbr /\u003e\n– As coisas de  que você faz mais questão são as que mais distantes ficarão por causa de sua ansiedade.\u003cbr /\u003e\n– Você é refém de tudo aquilo de que não seja capaz de abrir mão.\u003cbr /\u003e\n– Você não possui as coisas de que não seja capaz de abrir mão. Essas coisas é que possuem você. Captou?\u003cbr /\u003e\nPara conquistá-las, você precisa estar no controle. Mas se essas coisas\n o possuem, você será refém e por isso estará fora do controle. E, fora \ndo controle, não as conquistará.\u003cbr /\u003e\nParece um paradoxo, mas quanto mais você abrir mão, menos fizer questão, mais se aproximará de conquistar o que deseja.\u003cbr /\u003e\nOs que dominam este patamar de inteligência emocional chegam muito mais longe.\u003cbr /\u003e\n\u003cbr /\u003e\nGeração de Valor\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao\u003cbr /\u003e\n\u003cbr /\u003e\n(Saudações : Querido Textos)\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para força tumblr\" class=\"irc_mi\" data-iml=\"1552264468551\" height=\"400\" src=\"https://66.media.tumblr.com/cd3e25e216160dad3c5fdae5313026e4/tumblr_pa351tejLF1qgt1t2o1_400.jpg\" style=\"margin-top: 4px;\" width=\"400\" /\u003e \u003c/div\u003e\n\u003cbr /\u003e",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/cd3e25e216160dad3c5fdae5313026e4/tumblr_pa351tejLF1qgt1t2o1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/484450432432279282/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "6119304977535608721",
@@ -9,12 +195,12 @@
     "id": "2771518682926329856"
    },
    "published": "2019-03-09T21:01:00-03:00",
-   "updated": "2019-03-09T21:01:49-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMTc2MTA5NTQwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "updated": "2019-03-10T21:45:02-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMjY1MTAyODgyCm9mZnNldDogLTEwODAwMDAwCg\"",
    "url": "http://queridotextos.blogspot.com/2019/03/desenvolva.html",
    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6119304977535608721",
    "title": "Desenvolva.",
-   "content": "\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\"Desenvolva\n um poder mental tão grande que permanecerá tranquilo aconteça o que \nacontecer, enfrentando tudo com coragem. Se você ama a Deus, deve ter fé\n e estar preparado para suportar os testes que vierem. Não tenha medo do\n sofrimento; mantenha a mente positiva e forte.\"\u003cbr /\u003e (Paramahansa Yogananda)\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cimg alt=\"A imagem pode conter: 1 pessoa\" aria-busy=\"false\" class=\"spotlight\" height=\"320\" src=\"https://scontent.fcpq14-1.fna.fbcdn.net/v/t1.0-9/53113411_1986628651633983_8021056651702304768_n.jpg?_nc_cat=111&amp;_nc_ht=scontent.fcpq14-1.fna&amp;oh=e7790337e4583f8904349b8ea5326532&amp;oe=5D20FA97\" style=\"height: 1088px; width: 717px;\" width=\"210\" /\u003e \u003c/span\u003e\u003c/span\u003e",
+   "content": "\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\"Desenvolva\n um poder mental tão grande que permanecerá tranquilo aconteça o que \nacontecer, enfrentando tudo com coragem. Se você ama a Deus, deve ter fé\n e estar preparado para suportar os testes que vierem. Não tenha medo do\n sofrimento; mantenha a mente positiva e forte.\"\u003cbr /\u003e (Paramahansa Yogananda)\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e#Reflexao \u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cimg alt=\"A imagem pode conter: 1 pessoa\" aria-busy=\"false\" class=\"spotlight\" height=\"320\" src=\"https://scontent.fcpq14-1.fna.fbcdn.net/v/t1.0-9/53113411_1986628651633983_8021056651702304768_n.jpg?_nc_cat=111&amp;_nc_ht=scontent.fcpq14-1.fna&amp;oh=e7790337e4583f8904349b8ea5326532&amp;oe=5D20FA97\" style=\"height: 1088px; width: 717px;\" width=\"210\" /\u003e \u003c/span\u003e\u003c/span\u003e",
    "images": [
     {
      "url": "https://scontent.fcpq14-1.fna.fbcdn.net/v/t1.0-9/53113411_1986628651633983_8021056651702304768_n.jpg?_nc_cat=111&_nc_ht=scontent.fcpq14-1.fna&oh=e7790337e4583f8904349b8ea5326532&oe=5D20FA97"
@@ -5710,173 +5896,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5053633187996089856/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2521638190262620002",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-29T19:54:00-02:00",
-   "updated": "2019-01-29T19:54:10-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4Nzk4ODUwNzIxCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/como-podemos-acreditar.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2521638190262620002",
-   "title": "Como podemos acreditar?",
-   "content": "Como podemos acreditar?\n\u003cbr /\u003e\nUm dia você dorme sem saber se vai acordar,\u003cbr /\u003e\nUm dia você dorme e a pessoa que você mais amava se afasta,\u003cbr /\u003e\nUm dia você dis um eu te amo,e no outro não quer nem olhar na cara da pessoa,\u003cbr /\u003e\nUm dia você ri e no outro chora,\u003cbr /\u003e\nUm dia você vive no outro você morre por dentro,\u003cbr /\u003e\nUm dia você foi amado no outro foi abandonado,\u003cbr /\u003e\nUm dia você vê no outro já não tem mais esperança,\u003cbr /\u003e\nUm dia você só quer ficar na cama chorando,e se esquecer do mundo lá fora.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2521638190262620002/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3211826925655351323",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-29T19:48:00-02:00",
-   "updated": "2019-01-29T19:48:43-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4Nzk4NTIzMTM3Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/tem-um-fantasma-roubando-meus-sorrisos.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3211826925655351323",
-   "title": "Tem um fantasma roubando meus sorrisos.",
-   "content": "Já sentiu que você é duas pessoas diferentes?  Como se todos pudessem \nver um sorriso, uma frase jogada fora, um olhar para o céu e todos \ndissessem \"nossa essa garota não tem do que reclamar\", mas por algum \nmotivo suas costas doem e quando você deita na cama uma lágrima idiota \ncai dos seus olhos e você não tem a menor ideia de por que ela veio ou \ncomo fazê-la parar então a manhã chega e você grita com o seu reflexo \n\"boboca\" Chorona! Olha o estado que deixou seu rosto com essas lágrimas \nestúpidas!\" Você é,  tem que ser, uma garota feliz!  Mas tem uma pessoa \ndentro de você ela é triste,  ela não quer rir,  ela te diz isso toda \nvez que você rí, ela não quer conversar, ela não quer estudar, ela não \nquer lavar o cabelo... Ela começa a gritar suas ordens tão alto que você\n não consegue mais ouvir seus próprios pensamentos porque de repente ela\n é você.  Você pode até continuar sorrindo e jogando frases ao vento, \npor puro , hábito e você quer que aqueles que dizem te amar percebam que\n você é uma mentirosa porque toda vez que sorri é só por hábito,  é só \npra uma foto e por mais que você queira eles não percebem e isso te \nquebra no meio.\u003cbr /\u003e\nPode não estar acontecendo com você, mas as vezes seu amigo, seu irmão \nestão passando por isso.  Não julgue apoie. Você já perguntou \"Está tudo\n bem? \" pra um amigo hoje?  Já se perguntou se a resposta é verdadeira?\u003cbr /\u003e\nSe você se identifica você pode ter depressão isso é uma doença não é \nfrescura. As pessoas que te amam precisam que você peça ajuda para então\n tentarem ajudar e se você acha que não tem ninguem ligue 188 e peça \najuda.\u003cbr /\u003e\nNão é uma sentença definitiva.\u003cbr /\u003e\nAs coisas podem e vão melhorar, acredite em si mesmo.\u003cbr /\u003e\n\u003cbr /\u003e\nLiv Deldoti\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" height=\"408\" src=\"https://i.pinimg.com/originals/28/49/e8/2849e8681fc0ce2b735ccef0f73ab46c.jpg\" style=\"margin-top: 0px;\" width=\"229\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/28/49/e8/2849e8681fc0ce2b735ccef0f73ab46c.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3211826925655351323/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7465591993070029394",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-29T19:44:00-02:00",
-   "updated": "2019-01-29T19:44:43-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4Nzk4MjgzMTUzCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/dor.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7465591993070029394",
-   "title": "Dor.",
-   "content": "Tudo começa bem, seu dia, seus pensamentos,tudo. Até que de repente alguém \nte aborrece nesse dia, você se fecha,lágrimas começam a descer,na \ngarganta há tipo um nó,um nó com gosto de dor. Você passa o dia inteiro \nquerendo ficar sozinho,pensando nos aborrecimentos,tristezas, problemas \nentre família,pensamentos,começa olhar fotos antigas e ver como o tempo \nera bom,era bom quando éramos crianças,que seria só \nbrincadeiras,diversões o quanto você deveria aproveitar aquele tempo \nbom.Não haviam problemas para ser resolvidos.Dessa tristeza,começa a dar\n depressão,você se sente culpado por tudo,pede socorro,tenta pedir por \numa vida mais fácil,você sente vontade de sumir de ir embora para algum \nlugar e isso demora passar,até que suas feridas sejam curadas pelo \ntempo...\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nLarissa. \u003cbr /\u003e\n\u003cbr /\u003e\n",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7465591993070029394/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2611083511303487890",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-29T19:16:00-02:00",
-   "updated": "2019-01-29T19:16:23-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4Nzk2NTgzMzY2Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/ilusao.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2611083511303487890",
-   "title": "Ilusão.",
-   "content": "Nem toda ilusão é ruim,  mas é um entorpecente,  viciante que te \ncontrola e te faz dependente.  quando tudo tá errado e você se ilude \ndizendo \"que tudo vai melhorar\" que \"aquilo não aconteceu\" que \"a um \nporque disso tudo\" ou quando se levanta imaginando o que tudo que te \nespera.  mas quando se ve,  quando vc se da conta,  as ilusões tomam conta de sua vida,  você se acaba se iludindo com outras coisas onde era\n preciso enxergar a verdade é quando o efeito da \"droga\"  passa vc não \npassa de um drogado implorando para voltar onde tudo com torcido e \nbrilhante.  Por isso,  use com moderação e com presquição médica\u003cbr /\u003e\n\u003cbr /\u003e\nYasmin ",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2611083511303487890/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3059864690668212515",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-29T19:01:00-02:00",
-   "updated": "2019-01-29T19:01:51-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4Nzk1NzExNTkzCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/nunca-queira-precisar-de-alguem.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3059864690668212515",
-   "title": "Nunca queira precisar de alguém",
-   "content": "Você nunca sabe o que você ira passar na vida, mas antes de tudo, nunca \nqueira precisar de alguém, mesmo que realmente você precise.\u003cbr /\u003e\nNunca construa sonhos, seja ele casar, morar forar de casa sem antes você ter a sua própria casa.\u003cbr /\u003e\nVocê nunca sabe o que vai passar na casa de alguém, mesmo que ela seja a melhor pessoa do mundo.\u003cbr /\u003e\nVocê perde a privacidade, você acaba tendo que aceitar certas coisas por\n não está em sua casa, você escuta coisas como \" eu estou na minha casa.\n \". Isso dói meu amigo, isso dói. Dói por saber que infelizmente você \ntem que dar a razão a essa pessoa.\n\u003cbr /\u003e\nNunca queira depender de alguém.\u003cbr /\u003e\n\u003cbr /\u003e\nDesconhecido ",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3059864690668212515/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5538433147460988792",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-01-29T18:56:00-02:00",
-   "updated": "2019-01-29T18:56:49-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ4Nzk1NDA5Njk3Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/01/toda-graca.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5538433147460988792",
-   "title": "Toda a graça",
-   "content": "Tem tanta graça em você, eu já conheci muitas pessoas, já convivi e até \nme relacionei, tudo parece tão comum e divertido,porém, nada se comparar\n ao que me atrai em você, você tem seu jeito único, eu não me enjoou de \nvocê e é quase impossível passar um dia sem falar uma asneira ou uma \npergunta idiota, só sinto que vc roubou pra ti a graça de todo esse \nplaneta sem graça.\u003cbr /\u003e\n\u003cbr /\u003e\nGabrielle Lobato\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" height=\"320\" src=\"https://i.pinimg.com/originals/a9/97/cc/a997cc4808b88757c7ce4971efa34cb9.jpg\" style=\"margin-top: 0px;\" width=\"179\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/a9/97/cc/a997cc4808b88757c7ce4971efa34cb9.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5538433147460988792/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMy0xMFQwMDowMTo0OS41NDBa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMy0xMVQwMDo1NDoxNy41NzJa\""
 }
