@@ -1,7 +1,188 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEY5P3epowtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYpN6kqIwtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "569477395957047814",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-21T17:25:00-03:00",
+   "updated": "2019-03-21T17:26:33-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTk5OTkzNjY4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/altos-e-baixo.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/569477395957047814",
+   "title": "Altos e baixo.",
+   "content": "Se engana quem pensa que o tempo minha vida foi maravilhosa. Nunca foi, \nnunca vai ser. A vida é assim mesmo, cheia de altos e baixos, problemas e\n suas soluções. Temos que ser fortes, a vida é feita de fases boas e \nruins, o importante é ser forte para passar as fases ruins e aproveitar \nmuito as fases boas. E os problemas? Seja mais forte que eles, ache \nsempre uma solução para tudo, pode parecer impossível, mas é sim eu \ntenho fé que é possível. Cada dor, cada marca e cada cicatriz de todas \nessas fases ruins, fazem de você quem você é, essas dores formam tua \nmaturidade e teu caráter.\u003cbr /\u003e\n\u003cbr /\u003e\nMaria Karolyne N. Marcolino\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para altos e baixo tumblr\" class=\"irc_mi\" data-iml=\"1553167562538\" height=\"379\" src=\"https://66.media.tumblr.com/e30f46ba8a019602ec4b53c64d2afce1/tumblr_n9c5edQ5v91rz2mcto1_400.jpg\" style=\"margin-top: 0px;\" width=\"311\" /\u003e ",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/e30f46ba8a019602ec4b53c64d2afce1/tumblr_n9c5edQ5v91rz2mcto1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/569477395957047814/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "2660443531653313988",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-21T17:01:00-03:00",
+   "updated": "2019-03-21T17:01:38-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTk4NDk4Njc5Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/amor-proprio_21.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2660443531653313988",
+   "title": "Amor Proprio.",
+   "content": "E quantas vezes você se olhou no espelho e viu o que não queria?quantas \nvezes se sentiu um lixo?quantas vezes te colocaram pra baixo? Enfim \nvivemos em um mundo onde há padrões de beleza que achamos que devemos \nseguir pois bem você é linda da maneira que veio ao mundo se olhe no \nespelho e diga \"que mulher foda eu sou\" então  não se  ache pior que \nninguém afinal ninguém é perfeito e você não veio ao mundo pra agradar \nninguém veio pra agradar a si mesma então eu digo se ame em primeiro \nlugar parar depois amar alguém..\u003cbr /\u003e\n\u003cbr /\u003e\nAnônimo\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para se ame tumblr\" class=\"irc_mi\" data-iml=\"1553166077342\" height=\"320\" src=\"https://66.media.tumblr.com/27279a23586c33a353a072a11f9bfec2/tumblr_p3lmy7cNSQ1uz13nho1_400.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/27279a23586c33a353a072a11f9bfec2/tumblr_p3lmy7cNSQ1uz13nho1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2660443531653313988/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4695135125450692652",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-21T17:00:00-03:00",
+   "updated": "2019-03-21T17:00:28-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTk4NDI4NDIyCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/silencio-da-tristeza.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4695135125450692652",
+   "title": "Silêncio da Tristeza",
+   "content": "as minhas feridas ainda não cicatrizaram,\u003cbr /\u003e\nmeu coração ainda dói, minha mente me leva a pensamentos que me machucam.\u003cbr /\u003e\nPorque eu me torturo assim?\u003cbr /\u003e\nPor qual motivo por mais que eu me arrume, eu ainda me sentirei patética?\u003cbr /\u003e\nnão quero ser um problema mas não dá, eu já sou um... já estou envolvida demais,\u003cbr /\u003e\neu não consigo evitar me sentir usada pelas pessoas.\u003cbr /\u003e\nas pessoas se aproximam por todos os motivos menos os certos.\u003cbr /\u003e\neu me sinto deslocada em meio a tudo ao meu redor, e eu sei q a vida é \nmuito linda mas parece que a minha só vai ladeira a baixo.\u003cbr /\u003e\n\u003cbr /\u003e\nBel\u003cbr /\u003e\n\u003cbr /\u003e\n",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4695135125450692652/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "2768617031958135691",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-21T16:32:00-03:00",
+   "updated": "2019-03-21T16:32:36-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTk2NzU2MTgxCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/que-seja-reciproco.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2768617031958135691",
+   "title": "Que Seja Recíproco.",
+   "content": "A gente quer alguém pra cuidar e queremos nos sentir amadas. Receber uma\n mensagem de bom dia, uma ligação inesperada, um convite para tomar \naçaí. Esperamos reciprocidade. Um relacionamento só vale a pena quando \nos dois estão na mesma sintonia. Não aceite menos do que você merece. \nPor mais complicado seja seguir sozinha, por maior que seja sua \ncarência... Você não merece migalhas de amor. Você merece o AMOR TODO. \nVocê não merece o resto do tempo dele, você merece ser a PRIORIDADE. Por\n falta de um, não aceite qualquer um!\u003cbr /\u003e\n\u003cbr /\u003e\n#Amizade \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para amigos tumblr\" class=\"irc_mi\" data-iml=\"1553164298107\" height=\"379\" src=\"https://3.bp.blogspot.com/-fkCdgBLeIUw/WvpV-SICSkI/AAAAAAAAMmM/R2wLGsjRQ1YJ5v2sXy2yhdMzpo70oRXsACLcBGAs/s1600/2074aef2a11d22ba87b19ae968602743.jpg\" style=\"margin-top: 0px;\" width=\"379\" /\u003e ",
+   "images": [
+    {
+     "url": "https://3.bp.blogspot.com/-fkCdgBLeIUw/WvpV-SICSkI/AAAAAAAAMmM/R2wLGsjRQ1YJ5v2sXy2yhdMzpo70oRXsACLcBGAs/s1600/2074aef2a11d22ba87b19ae968602743.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2768617031958135691/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7134560801985687519",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-21T16:29:00-03:00",
+   "updated": "2019-03-21T16:29:29-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTk2NTY5MTA4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/sem-medo-de-te-amar.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7134560801985687519",
+   "title": "Sem Medo de Te Amar",
+   "content": "Eu não tenho mais medo de te amar, não tenho medo de te ver sorrir com \noutras, não tenho medo de te ver chorar com outros, e muito menos tenho \nmedo de te perder. Quando amamos, quando criamos o \"amor\" dentro de nós,\n nós não sentimos nada mais nada menos do que a maior confiança do \nmundo. Ódio é forte, mas já percebeu que amor também é? As três palavras\n mágicas que muitas das vezes coloca a gente para cima é o \"Eu Te Amo\" \njá percebeu que você fala para sua mãe, seu pai, seu irmã, irmão, ou até\n para seus amigos... Mas o \"Eu Te Amo\" de amor considerado como amor, a \nmeu amigo, este amor é o amor de verdade, o amor que te faz voar, \nsonhar, mudar, renovar, é dar aquele sorriso até nas coisas mais banais,\n por isto que o amor é a coisa mais linda do mundo, é por isto, por isto\n que não tenho medo de te amar.\u003cbr /\u003e\n\u003cbr /\u003e\nAndressa P.B\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para felicidade tumblr\" class=\"irc_mi\" data-iml=\"1553164099259\" height=\"213\" src=\"https://i0.wp.com/fraseparastatus.com.br/wp-content/uploads/2018/10/Status-de-Felicidade-TUMBLR.jpg?fit=1280%2C853&amp;ssl=1\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i0.wp.com/fraseparastatus.com.br/wp-content/uploads/2018/10/Status-de-Felicidade-TUMBLR.jpg?fit=1280%2C853&ssl=1"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7134560801985687519/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "6597769777275043194",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-21T16:23:00-03:00",
+   "updated": "2019-03-21T16:23:09-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTk2MTg5MzcwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/acredite-em-voce.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6597769777275043194",
+   "title": "Acredite em você",
+   "content": "Sabia que lá em cima existe um Deus que ama seu sorriso?levante um \nsorriso e vai sorrir para o mundo, você é incrível, acredite em você, \nvocê é linda (o),não deixem que falem o contrário.\u003cbr /\u003e\nVocê ainda tem muito pela frente,sempre que te deixarem triste,te \ndesprezarem, lembre,que Deus tem um propósito na tua vida,por isso vc \nestá no mundo, você pode ser alguém muito grande ainda,basta confiar,vcs\n meninas e meninos de auto estima destruída por alguém,cara,não abaixa \ncabeça pro outros não,é isso que eles querem ver,querem ver vocês com \nmedo,e triste,mostra que vcs são mais que isso,que vcs são alguém,e \nalguém de muito caráter,vcs não são qualquer um,não são qualquer tipo de\n lixo não...\u003cbr /\u003e\n\u003cbr /\u003e\nLuna Peres \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mut\" data-iml=\"1553163759731\" height=\"205\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5UuEhQAVSP8lKcQtsT1NT0Lz_f8wa7_YmOMm7ULgjupuJz_n\" style=\"margin-top: 0px;\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5UuEhQAVSP8lKcQtsT1NT0Lz_f8wa7_YmOMm7ULgjupuJz_n"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6597769777275043194/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "7813729019732364253",
@@ -5780,178 +5961,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8927576030403554635/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7841135910283305915",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-06T20:50:00-02:00",
-   "updated": "2019-02-06T20:50:21-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDkzNDIxMzEwCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/enfrente-seus-fantasmas.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7841135910283305915",
-   "title": "Enfrente seus fantasmas! ",
-   "content": "Algumas coisas ruins acontecem no nosso caminho e a gente não entende o porquê. Ficamos nos perguntando o que poderíamos ter feito pra impedir, como podíamos ter resolvido tudo, e acabamos nos prendendo a algo que não vai mudar. Seja lá o que tenha acontecido, já aconteceu! Nada do que você tivesse feito mudaria, porque as coisas são como são. Nada vem à toa, nenhum furacão passa por nós se não tiver um motivo muito bom pra isso. O mundo desmorona e a gente o reconstrói. A vida é assim. Eu não sei o que desmoronou ou o que te fez desmoronar, mas quero que você saiba que dá pra reconstruir, só que é preciso arregaçar as mangas e enfrentar os seus fantasmas. Não dá pra jogar a poeira debaixo do tapete e fingir que ela não tá ali, porque ela está. A gente sabe disso mesmo que ignore, que finja que não existe, e aí a cada ventinho ela ressurge, se tornando algo muito maior do que era pra ser. Não tenha medo, levante e enfrente seus medos cara a cara. Só assim você conseguirá vence-los!\u003cbr /\u003e\n\u003cbr /\u003e\n#Conselho\u003cbr /\u003e\n\u003cbr /\u003e\nIsis Lira\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para tumblr motivação\" class=\"irc_mi\" height=\"320\" src=\"https://i.pinimg.com/originals/ba/34/20/ba3420852c6b80fd66ad1c42474e04c9.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/ba/34/20/ba3420852c6b80fd66ad1c42474e04c9.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7841135910283305915/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5463344823389428809",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-06T20:45:00-02:00",
-   "updated": "2019-02-06T20:45:30-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDkzMTMwOTk3Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/eu-te-amo.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5463344823389428809",
-   "title": "Eu te amo.",
-   "content": "dói lembrar que você não está comigo!\u003cbr /\u003edói lembrar que agora, pra você, tudo o que vivemos passou!\u003cbr /\u003edói lembrar que você esta ao lado de outro alguém!\u003cbr /\u003edói lembrar de você....!\u003cbr /\u003epensei, por toda a minha vida, que iríamos ficar juntos, que os nossos planos de se casar, viajar o mundo, ter dois filhos, ser feliz, iriam se realizar, pensei também, que você nunca iria embora, que o nosso amor era único, mas parece que todo esse amor que nós tínhamos, você encontrou em um outro alguém, e que esse outro alguém, preenche o vazio que existe dentro de você! Mas deixa eu te falar... Eu te amo tanto.. Eu te amo tanto, ao ponto de ficar altas horas escrevendo para você, são exatamente 02:22 da manhã, e até agora eu não consegui dormir, pensando em você, queria que você lesse esse texto, queria te ter, porque dói saber que você não me ama mais.\u003cbr /\u003e\n\u003cbr /\u003e\nMaria Luisa",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5463344823389428809/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3315978198781067885",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-06T20:41:00-02:00",
-   "updated": "2019-02-06T20:41:30-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDkyODkwMDg2Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/voce-me-amou-assim-como-amei-voce.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3315978198781067885",
-   "title": "Você me amou assim como amei você? ",
-   "content": "Queria poder te mandar uma mensagem dizendo todo o mal que você me faz. Dizendo o quão difícil ficou o mundo quando você se foi.\u003cbr /\u003eÉ, não ta nada fácil continuar fingindo que estar tudo bem. Me sinto exausta ao ponto de não pensar mais em viver, Me sinto triste o tempo todo, sinto como se algo faltasse.\u003cbr /\u003eMais e claro que falta, a minha alto estimá e uma renovada em meu bobo coração que insiste sentir sua falta e não consegue aceitar de uma vez por todas que isso foi apenas uma ilusão. Nossa história foi apenas uma ilusão. Todas as promessas foram ilusões ditas na hora do falso \"eu te amo! \"\u003cbr /\u003eSim eu sempre ouvia essa palavra com o coração, pra mim sempre foi uma verdade. Uma das melhores coisas que eu poderia ouvir. Lembro de quando me perguntava o porque ficava tão feliz e sorridente quando você estava e eu sempre dizia: \"Você me deixa assim, estar perto de você me traz felicidade me da forças pra suportar os piores dias\"\u003cbr /\u003eVocê sorria com os olhos cheios de lágrimas e como sempre me dava aquele abraço apertado que eu amava tanto.\u003cbr /\u003eTanta gente me pergunta como consigo sentir qualquer tipo de afeto por um cara que me trocou por outra que literalmente despedaçou meu coração.\u003cbr /\u003eSabe podem não entender, e sim você me magoou profundamente!\u003cbr /\u003eMais eu seria ingrata e até mesmo uma pessoa como você se não dissesse que independente de tudo EU FUI FELIZ! você me fez feliz. Então sim eu não guardo rancor nem lembranças das coisas ruins que você fez, e sim das coisas boas das palavras bonitas que me falava.\u003cbr /\u003eHoje eu posso dizer que superei, mais de vez enquanto a saudades faz questão de voltar e me deixa assim cheia de perguntas sem resposta mais a que não me deixa em paz e.\u003cbr /\u003eVocê me amou assim como amei você?\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3315978198781067885/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8279296501918353099",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-06T20:39:00-02:00",
-   "updated": "2019-02-06T20:39:54-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDkyNzk0ODAxCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/a-falta-que-voce-me-faz.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8279296501918353099",
-   "title": "A falta que você me faz. ",
-   "content": "Mas uma vez eu estou quebrando minha promessa de não pensar em você, mais uma vez você me fez parar e perceber que falta uma parte de mim, mais uma vez você me fez se pergunta aonde foi parar aquela menina alegre que eu era.\u003cbr /\u003eE tem horas que não consigo esconder a falta que você me faz. As lágrimas começam a rolar. E tão difícil saber que você se foi, e levou a melhor parte de mim junto.\u003cbr /\u003eNão, eu não tenho raiva de você e sim de mim mesma por ainda me permitir sentir algo por você. Você foi o caos mais também foi minha calmaria.\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza \u003cbr /\u003e\n\u003cbr /\u003e\nKey Silva",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8279296501918353099/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "167614557536156420",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-06T20:06:00-02:00",
-   "updated": "2019-02-06T20:06:52-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDkwODEyNzUyCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/deus-sabe-o-que-faz.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/167614557536156420",
-   "title": "Deus sabe o que faz.",
-   "content": "\"Oi, tudo bem?\"\u003cbr /\u003eAs vezes nem sei o que responder, pois não sei se digo que está tudo bem ou se está tudo indo de mal a pior, sabe aqueles dias que você se sente um lixo total? pois é e assim que me sinto. Sinto que não sou uma ótima amiga, uma ótima pessoa, eu amo ajudar as pessoas, dar conselhos, fazer as pessoas sorrirem com as bobagens que eu falo, as vezes eu posso estar arrasada por dentro, mas jamais deixo de ajudar quem precisa, só que eu sinto que as pessoas a cada dia que passa estão se afastando de mim, eu queria muito poder mudar isso, mas fazer o quê? Deus sabe o que faz, e se ele quis assim por mais que doa eu tenho que aceitar. Durante tudo que passei Deus tem sido o único que jamais virou as costas para mim, sabe porque? porque ele jamais abandona um filho seu, então se está tudo indo de mal a pior eu tenho que agradecer, pois ele sabe o que faz.\u003cbr /\u003e\n\u003cbr /\u003e\nLaena Castro\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para féTUMBLR\" class=\"irc_mi\" height=\"320\" src=\"https://66.media.tumblr.com/cd2f8ed3be8783a45a38b76c3f3f6c45/tumblr_pbdieuf7W61wp4tkuo1_400.jpg\" style=\"margin-top: 0px;\" width=\"257\" /\u003e ",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/cd2f8ed3be8783a45a38b76c3f3f6c45/tumblr_pbdieuf7W61wp4tkuo1_400.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/167614557536156420/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "1686572373946642134",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-06T20:05:00-02:00",
-   "updated": "2019-02-06T20:05:42-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDkwNzQyMzMwCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/talvez.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1686572373946642134",
-   "title": "Talvez...",
-   "content": "Talvez eu ainda vá sentir sua falta,talvez eu ainda chore quando lembrar do seu sorriso,talvez eu te veja e perca metade do meu caminho,talvez eu seja feliz sem você,talvez eu tenha medo de te perder.\u003cbr /\u003eTalvez eu não saiba explicar pro meu coração que não existe mais talvez,talvez você já não é mais dono de tudo de mim, talvez meus sorrisos não já não sejam seus,talvez eu só ainda te ame mas posso aprender a viver sem todas essas hipóteses. Posso aprender a viver de certezas e a principal delas é que quero sua felicidade tanto como quero a minha!\u003cbr /\u003e\n\u003cbr /\u003e\nFrancilene\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para TREM TUMBLR\" class=\"irc_mi\" height=\"354\" src=\"https://i.pinimg.com/236x/98/c2/e6/98c2e6bc51fe588221f676bf0cc55fba.jpg\" style=\"margin-top: 27px;\" width=\"236\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/236x/98/c2/e6/98c2e6bc51fe588221f676bf0cc55fba.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1686572373946642134/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMy0yMFQyMDo0ODozNi4xOTda\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMy0yMVQyMDoyNjozMy42Njha\""
 }
