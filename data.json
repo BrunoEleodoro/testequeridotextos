@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYpN6kqIwtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYofT0-owtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "8905551528649604845",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-22T16:35:00-03:00",
+   "updated": "2019-03-22T16:35:33-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMjgzMzMzMjg0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/ainda-sinto-sua-falta.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8905551528649604845",
+   "title": "Ainda Sinto Sua Falta.",
+   "content": "Eu ainda sinto sua falta. As vezes sinto meu peito arder. Me sinto \nvazia, aquele espaço que ocupava  em meu peito foi arrancando \nbruscamente de mim, e eu não pude fazer nada a respeito.\u003cbr /\u003e\nSinto falta de te sentir aqui dentro do meu coração, fazendo cócegas,  \nme deixando mais doce e feliz. Hoje eu só me sinto só. Apenas quero que \nsaiba que eu ainda sinto.\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor \u003cbr /\u003e\n\u003cbr /\u003e\nMilena Carolina\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para Sua falta tumblr\" class=\"irc_mi\" data-iml=\"1553250905882\" height=\"300\" src=\"https://66.media.tumblr.com/55d130c44eb61c04fa2d754ca6310b5c/tumblr_n6vmmvSwG01qijg8do1_400.jpg\" style=\"margin-top: 40px;\" width=\"400\" /\u003e ",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/55d130c44eb61c04fa2d754ca6310b5c/tumblr_n6vmmvSwG01qijg8do1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8905551528649604845/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1412327713654696971",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-22T15:56:00-03:00",
+   "updated": "2019-03-22T16:29:49-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMjgyOTg5NzkyCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/quem-nunca.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1412327713654696971",
+   "title": "Quem nunca?",
+   "content": "Quem é que nunca teve medo de seguir em frente e não quis parar?\u003cbr /\u003e\nQuem nunca fechou os seus olho e pediu pra Deus fazer o tempo passar?\u003cbr /\u003e\nQuem nunca foi dormir chorando  e acordou sorrindo... Só pra disfarça?\u003cbr /\u003e\nQuem nunca  precisou de abraço e quando olhou pro lado ninguém estava lá?\u003cbr /\u003e\nQuem nunca foi dormir mais cedo só pra ver a dor sumir ao acordar?\u003cbr /\u003e\nQuem nunca  chorou bem baixinho só pra ninguém escutar?\u003cbr /\u003e\nSentir medo é normal mas se sentir sozinho não é natural, Jesus preenche a alma\u003cbr /\u003e\nPare pra pensar no Deus que deu seu único filho pra morrer no seu lugar o \nresto então é fácil é só acreditar, a vida é feita de esperanças e \nmotivos pra sonhar e conquistar, de motivos pra sorrir e chorar, pra \nperder e pra ganhar, o que seria de um vencedor sem suas guerras pra \nlutar?\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao \u003cbr /\u003e\n\u003cbr /\u003e\nDesconhecido\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1553248558823\" height=\"213\" src=\"https://luanabarbosa.com/wp-content/uploads/2016/10/come%C3%A7ar-o-dia.jpg\" style=\"margin-top: 23px;\" width=\"320\" /\u003e ",
+   "images": [
+    {
+     "url": "https://luanabarbosa.com/wp-content/uploads/2016/10/come%C3%A7ar-o-dia.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1412327713654696971/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "8516322218200588160",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-22T15:54:00-03:00",
+   "updated": "2019-03-22T16:29:43-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMjgyOTgzMTY3Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/ame-mas-as-pessoas-ao-seu-redor.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8516322218200588160",
+   "title": "Ame Mas As Pessoas Ao Seu Redor!",
+   "content": "Na nossa vida, encontramos pessoas, pessoas essas que nos cuidam e nos \nquerem sempre pertinho delas, e muita das vezes não retribuímos o amor \nque nós recebemos, pois o orgulho é maior do que o amor, mas aí vem a \nvida e nos mostra que não é bem assim não, pois só aprenderemos a da \nvalor quando perdemos, por isso ame mas porque não sabemos quanto tempo \ntemos para respira, a vida é curta, e o tempo, ele não irá esperar você \nse dá conta do amor que aquela pessoa tem por você, o tempo ele passa \ndepressa, e com ele muitas pessoas que amamos vai junto!\u003cbr /\u003e\n\u003cbr /\u003e\n#Conselho \u003cbr /\u003e\n\u003cbr /\u003e\nMaria Elaine\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1553248339279\" height=\"379\" src=\"https://dicasdajheblog.files.wordpress.com/2016/03/images.jpg?w=702\" style=\"margin-top: 0px;\" width=\"379\" /\u003e",
+   "images": [
+    {
+     "url": "https://dicasdajheblog.files.wordpress.com/2016/03/images.jpg?w=702"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8516322218200588160/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "569477395957047814",
@@ -40,12 +133,12 @@
     "id": "2771518682926329856"
    },
    "published": "2019-03-21T17:01:00-03:00",
-   "updated": "2019-03-21T17:01:38-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTk4NDk4Njc5Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "updated": "2019-03-22T16:30:03-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMjgzMDAzMzE3Cm9mZnNldDogLTEwODAwMDAwCg\"",
    "url": "http://queridotextos.blogspot.com/2019/03/amor-proprio_21.html",
    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2660443531653313988",
    "title": "Amor Proprio.",
-   "content": "E quantas vezes você se olhou no espelho e viu o que não queria?quantas \nvezes se sentiu um lixo?quantas vezes te colocaram pra baixo? Enfim \nvivemos em um mundo onde há padrões de beleza que achamos que devemos \nseguir pois bem você é linda da maneira que veio ao mundo se olhe no \nespelho e diga \"que mulher foda eu sou\" então  não se  ache pior que \nninguém afinal ninguém é perfeito e você não veio ao mundo pra agradar \nninguém veio pra agradar a si mesma então eu digo se ame em primeiro \nlugar parar depois amar alguém..\u003cbr /\u003e\n\u003cbr /\u003e\nAnônimo\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para se ame tumblr\" class=\"irc_mi\" data-iml=\"1553166077342\" height=\"320\" src=\"https://66.media.tumblr.com/27279a23586c33a353a072a11f9bfec2/tumblr_p3lmy7cNSQ1uz13nho1_400.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e",
+   "content": "E quantas vezes você se olhou no espelho e viu o que não queria?quantas \nvezes se sentiu um lixo?quantas vezes te colocaram pra baixo? Enfim \nvivemos em um mundo onde há padrões de beleza que achamos que devemos \nseguir pois bem você é linda da maneira que veio ao mundo se olhe no \nespelho e diga \"que mulher foda eu sou\" então  não se  ache pior que \nninguém afinal ninguém é perfeito e você não veio ao mundo pra agradar \nninguém veio pra agradar a si mesma então eu digo se ame em primeiro \nlugar parar depois amar alguém..\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor\u003cbr /\u003e\n\u003cbr /\u003e\nAnônimo\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para se ame tumblr\" class=\"irc_mi\" data-iml=\"1553166077342\" height=\"320\" src=\"https://66.media.tumblr.com/27279a23586c33a353a072a11f9bfec2/tumblr_p3lmy7cNSQ1uz13nho1_400.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e",
    "images": [
     {
      "url": "https://66.media.tumblr.com/27279a23586c33a353a072a11f9bfec2/tumblr_p3lmy7cNSQ1uz13nho1_400.jpg"
@@ -5873,95 +5966,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9184032617651985399/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "831896571177153164",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-08T21:03:00-02:00",
-   "updated": "2019-02-08T21:03:55-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NjY3MDM1NTk1Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/sem-chances-para-contar.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/831896571177153164",
-   "title": "Sem chances para contar ",
-   "content": "Escondendo-me de meus fracassos,erros e decepções. Assumindo-os para meu âmago congelado.\u003cbr /\u003eLágrimas fluindo sobre minha pele, cicatrizes internamente incuráveis. Buscava soluções para voltar a sorrir.\u003cbr /\u003eSem meu pai ao meu lado,com seu cavanhaque negro, olhos afundados de permanecer acordado pela madrugada,sua pele macia e quente,tão quente que meu âmago derretia.\u003cbr /\u003eQueria que estivesse ao meu lado para lhe dizer o quanto-o amo, infelizmente segui a estrada fria e triste do suicídio,sem permitir-me a uma nova chance ou felicidade\u003cbr /\u003e\n\u003cbr /\u003e\nLetycia Caroline Batista\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" height=\"320\" src=\"https://i.pinimg.com/originals/ea/2d/68/ea2d68b10ce6e7ce6b890acb91cb31a5.jpg\" style=\"margin-top: 0px;\" width=\"213\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/ea/2d/68/ea2d68b10ce6e7ce6b890acb91cb31a5.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/831896571177153164/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "6792378238251332307",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-06T21:30:00-02:00",
-   "updated": "2019-02-06T21:30:38-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDk1ODM4MjI2Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/teoria-do-eu.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6792378238251332307",
-   "title": "Teoria do eu.",
-   "content": "Eu troquei de pele, me desfiz do velho eu, me apresentei a novos passatempos, novos cheiros e novos lugares. Eu tirei aquela roupa velha que me cobria com toda minha insegurança e confusão, mas em vez de lava-la eu apenas joguei fora e me renovei como cada dia que nasce.\u003cbr /\u003eAchei-me uma cobra quando destilei meu veneno, eu rastejei pra longe do que me fazia mal e deixei minhas presas afiadas para minha própria proteção, eu desconfiava de tudo e de todos e me senti bem mais esperto por sempre ligar um ponto ao outro, eu estava imerso em mim e assim permaneceria, eu estava sempre em uma caçada, a espreita e preparado para nunca ser a caça e sim sempre o caçador.\u003cbr /\u003eEra um jogo de conquistas que sempre acabava da mesma forma, eu apenas deixava de lado quando não me convinha e era assim que as coisas eram o medo do apego na verdade era o medo da perda, eu camuflava os sentimentos do mesmo jeito que eu me camuflava entre as pessoas, fingindo ser mais uma delas, tentando não mostrar tudo que estava dentro de mim, tentando não me importar comigo mesmo.\u003cbr /\u003eTornei-me alguém na multidão e eu estava só, eu fingia ser aquilo por que já estava cansado de não ser o que eu fingia, era contraditório, mas mesmo assim eu continuava rodando em círculos atrás do meu próprio rabo, mesmo com sorrisos e gentileza ainda sim eu era solitário, um alguém que andava e que nunca parava. Era assim, o medo de proximidade, de familiaridade, de sentir falta de alguém ou ate mesmo depender de alguém, eu era um mal necessário pra mim mesmo, eu era minha própria fraqueza, quem me sabotava e quem me levantava depois, eu era o meu próprio medo de ser quem eu sou.\u003cbr /\u003e\n\u003cbr /\u003eLuana Castro\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" height=\"236\" src=\"https://i.pinimg.com/236x/87/ca/d4/87cad4a63841176063d9e738ad2b2423.jpg\" style=\"margin-top: 86px;\" width=\"236\" /\u003e",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/236x/87/ca/d4/87cad4a63841176063d9e738ad2b2423.jpg"
-    }
-   ],
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6792378238251332307/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8927576030403554635",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-06T20:59:00-02:00",
-   "updated": "2019-02-06T20:59:46-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTQ5NDkzOTg2NTQwCm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/descrever-o-que-sinto.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8927576030403554635",
-   "title": "Descrever o que sinto!!",
-   "content": "Queria que você soubesse quanto te amo, mas não consigo arranjar palavras para poder descrever o que sinto!\u003cbr /\u003e\u003cbr /\u003eMe sinto dolente, por não ter coragem de expressar toda essa sentimentalidade, que está preso em meu peito.\u003cbr /\u003e\u003cbr /\u003eMe sinto dolente porque não consigo te encontrar no meu mundo!!!! Por onde tu andas, quero te encontrar meu eterno amor profundo!!\u003cbr /\u003e\u003cbr /\u003eLembro-me perfeitamente quando tu me chamava de amigo sem saber o que se passava de fato comigo.\u003cbr /\u003e\u003cbr /\u003eQuando eu te via , não tinha controle das minhas mãos , eu não tinha controle sobre o meu corpo eu não tinha controle sobre meu coração.\u003cbr /\u003e\u003cbr /\u003eMeu coração repleto de alegria gritava, pulava, palpitava querendo tua companhia,mas cadê a coragem de falar o que se passava eu preferia te amar e continuar calado!!!\u003cbr /\u003e\u003cbr /\u003eFosse embora para tão distante ,para onde meus olhos não podiam te enxergar, agora o meu peito chora preciso te encontrar.\u003cbr /\u003e\u003cbr /\u003eEu tive muitas chances, porém perdi toda oportunidade, agora tenho que conviver com meu silêncio, perdi a chance de conhecer o amor de verdade.\u003cbr /\u003e\n\u003cbr /\u003e\nJuh Peixoto",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8927576030403554635/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMy0yMVQyMDoyNjozMy42Njha\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMy0yMlQxOTo1NTo1Ny45NzZa\""
 }
