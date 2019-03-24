@@ -1,7 +1,33 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYwJa9s44tEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYod2YtI4tEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "5274303561037320856",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-24T19:11:00-03:00",
+   "updated": "2019-03-24T19:11:17-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzNDY1NDc3ODg0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/volte.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5274303561037320856",
+   "title": "Volte ",
+   "content": "Minha inspiração é você, não telo comigo é como se minha fonte de \nidéias, tivessem ido, junto com a tua partida. eu sinto tanto a tua \nfalta.  que não sei nem explicar em palavras. Mas é como se roubasem \nalgo de mim, algo tão precioso, alho que eu uso todos os dias. Eu sinto \nsua falta todos os dias. a 1ano, eu sinto a dor da tua partida, todos os\n dias. o pior de tudo é não poder te ver, nem ao menos mandar uma \nmensagem, ou senti seu cheiro. eu só queria sentir seu cheiro... por \nfavor, tenha pena da minha dor e repense sobre nós!\u003cbr /\u003e\n\u003cbr /\u003e\nA dor. ",
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5274303561037320856/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "920187527244421134",
@@ -5935,33 +5961,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7179387848658144208/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5477703168716975422",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-13T08:38:00-02:00",
-   "updated": "2019-02-13T08:38:20-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwMDU0MzAwMDQ0Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/eu-esqueci-de-voce.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5477703168716975422",
-   "title": "Eu esqueci de você...",
-   "content": "Eu esqueci de você, esqueci do seu jeito, esqueci da sua voz, do teu cheiro, do teu abraço, teu beijo. Doeu esquecer tudo isso, mas foi necessário, é ruim amar por dois, você nunca lembrou de mim em nenhum momento, chegou minha hora, e eu esqueci você, completamente. Espero, que você encontre alguém com a mesma reciprocidade sua...\u003cbr /\u003e\n\u003cbr /\u003e\nMillena Alencaar",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5477703168716975422/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMy0yNFQyMjowMDowMS41ODBa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMy0yNFQyMjoxMToxNy44ODRa\""
 }
