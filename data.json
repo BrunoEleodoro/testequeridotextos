@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYod2YtI4tEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYxafetI4tEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "2029064949899462572",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-03-24T19:21:00-03:00",
+   "updated": "2019-03-24T19:21:38-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzNDY2MDk4MjQ3Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/03/girassois-de-van-gogh.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2029064949899462572",
+   "title": "Girassóis de Van Gogh",
+   "content": "Mikaelly M.\u003cbr /\u003e\nAs vezes me sinto como os girassóis na pintura do Van Gogh\u003cbr /\u003e\n12 e murchos girassóis nos quais\u003cbr /\u003e\nPossuem sentimentos guardados\u003cbr /\u003e\nDe um amarelo vivo, onde me lembra o sol\u003cbr /\u003e\nSol qual a não reconheço mais\u003cbr /\u003e\nQue está desbotado, por mais brilhante que possa a radiar\u003cbr /\u003e\nAmarelo que lembra o fogo\u003cbr /\u003e\nEssa chama que está se apagando\u003cbr /\u003e\nPor excesso de sentimentos mal expressados\u003cbr /\u003e\nChama num chalé em Dezembro em meio a neve\u003cbr /\u003e\nOnde a lua é encoberta por com a névoa\u003cbr /\u003e\nAs flores cobertas por gelo\u003cbr /\u003e\nAssim como você encobre seus sentimentos com o silêncio\u003cbr /\u003e\nSilêncio tão perturbador, que chega a ser pior que gritos de desespero\u003cbr /\u003e\nOnde o vento bate\u003cbr /\u003e\nE sinto meu corpo gelar\u003cbr /\u003e\nMesmo cobrindo com o melhores cobertores de Cetim\u003cbr /\u003e\nNão será fácil de aquecer, pois esse frio vem de dentro.\u003cbr /\u003e\nOnde cada nota de um ukulelé\u003cbr /\u003e\nMe levam para um universo paralelo\u003cbr /\u003e\nOnde eu me sinto leve uma folha\u003cbr /\u003e\nCaindo numa brisa de uma tarde de uma primavera...\u003cbr /\u003e\nMas quem sabe quando a neve passar\u003cbr /\u003e\nE as flores descongelarem\u003cbr /\u003e\nQuando o sol voltar a ter sua cor\u003cbr /\u003e\nA minha chama ascenda novamente\u003cbr /\u003e\nE possa replantar novos girassóis\u003cbr /\u003e\nE me aquecer novamente\u003cbr /\u003e\n\u003cbr /\u003e\n#Felicidade \u003cbr /\u003e\n\u003cbr /\u003e\nMikaelly M. \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para girassol tumblr\" class=\"irc_mi\" data-iml=\"1553466035356\" height=\"333\" src=\"https://66.media.tumblr.com/66439d919e0a717cf54566ee5f3091f2/tumblr_pcjygusA8a1xtfksko2_250.jpg\" style=\"margin-top: 23px;\" width=\"250\" /\u003e ",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/66439d919e0a717cf54566ee5f3091f2/tumblr_pcjygusA8a1xtfksko2_250.jpg"
+    }
+   ],
+   "author": {
+    "id": "g114451637601627170466",
+    "displayName": "SÓ POR DEUS",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2029064949899462572/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "5274303561037320856",
@@ -5935,33 +5966,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3043363880912615700/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7179387848658144208",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-13T09:03:00-02:00",
-   "updated": "2019-02-13T09:03:09-02:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUwMDU1Nzg5MzE4Cm9mZnNldDogLTcyMDAwMDAK\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/eu-sei-que-doi.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7179387848658144208",
-   "title": "Eu sei que dói.",
-   "content": "eu sei que dói amar uma pessoa e não ser correspondido(a)...\u003cbr /\u003eeu sei que dói levar \"um fora\" todas as vezes que dizia pra ela um \"eu te amo muito\"...\u003cbr /\u003eeu sei que dói no coração e na alma quando ela te troca por outra pessoa...\u003cbr /\u003eeu passei por isso, eu realmente, eu sei que dói... vai doer, vai machucar, mas seja forte, não te abale, se for pra ser, vai ser, pq quando o amor é real ele vai voltar...\u003cbr /\u003eas vezes o coração \"pula\" ao lembrar da pessoa, mas logo ele dói, eu sei que dói, um vazio imenso no coração, mas... reconstrua seu coração, e... não desista... ouça seu coração, e... não espere grandes coisas de pessoas rasas... viva a vida, e seja feliz ao lado das pessoas que você ama!\u003cbr /\u003e\u003cbr /\u003eps: se o meu texto te ajudou me conta lá no meu insta ( @duudaspagnol)",
-   "author": {
-    "id": "g114451637601627170466",
-    "displayName": "SÓ POR DEUS",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh5.googleusercontent.com/-5suEJ7mHGJI/AAAAAAAAAAI/AAAAAAAAvFk/I35TBrEPi1M/s35-c/photo.jpg"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7179387848658144208/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMy0yNFQyMjoxMToxNy44ODRa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wMy0yNFQyMjoyMTozOC4yNDda\""
 }
