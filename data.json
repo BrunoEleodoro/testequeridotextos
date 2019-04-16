@@ -1,7 +1,193 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYociNq5MtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYgZXU25MtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "6513344727546288328",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-15T21:39:00-03:00",
+   "updated": "2019-04-15T21:39:12-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1Mzc1MTUyNzQ0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/amigo-e-deus.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6513344727546288328",
+   "title": "Amigo É Deus",
+   "content": "Amigos? você acha que tem amigos? bom.. Você tem no máximo seus pais e \nDeus, fora isso não tem! amizade é uma palavra muito forte, no máximo \nsão colegas. Você até pode conhecer alguém legal sim, que esteja contigo\n em alguns momentos, mas, é difícil no seu momento ruim alguém estar lá,\n pode até estar, mas além de aguentarem sua tristeza, deveriam também \naguentar sua felicidade, estar com você quando você estiver feliz \ntambém, querer te fazer sorrir, até porque nos momentos ruins pode ser \nfácil tem alguém ali, mas necessariamente quando você está bem, não há \nalguém ali, isso causa solidão. Estar sozinho, sem amigos é difícil, é \nhorrível, mas é assim que você sempre retornará. Amigo mesmo que não te \ndeixará, é Deus!\u003cbr /\u003e\n\u003cbr /\u003e#Amizade \u003cbr /\u003e\n\u003cbr /\u003e\nAline\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1555375122278\" height=\"250\" src=\"https://data.whicdn.com/images/218310959/superthumb.jpg?t=1452383516\" style=\"margin-top: 65px;\" width=\"300\" /\u003e ",
+   "images": [
+    {
+     "url": "https://data.whicdn.com/images/218310959/superthumb.jpg?t=1452383516"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6513344727546288328/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "6872830678570846650",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-15T21:32:00-03:00",
+   "updated": "2019-04-15T21:32:08-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1Mzc0NzI4MjM2Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/lembrancas_15.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6872830678570846650",
+   "title": "Lembranças",
+   "content": "A beleza um dia tornou-se frágil,esse desejo não mais fez tamanho presente na minha vida.\u003cbr /\u003e\nlembro-me como hoje:O tempo parecia não  ter pressa,mas me enganei,isso fez o mesmo sair em velocidade acima do limite.\u003cbr /\u003e\nAlí me encontrei perplexo,sem explicação!\u003cbr /\u003e\nOs clamores,minhas lágrimas nada  deixou-me perder a fé.\u003cbr /\u003e\nNaquele tempo,um coração em meu peito pulsando sorrateiramente tornou-se ainda mais feliz.\u003cbr /\u003e\n\" Seus olhos compõe as emoções que ti deixa sem palavras\".\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza #Saudade\u003cbr /\u003e\n\u003cbr /\u003e\nRogério\u003cbr /\u003e&nbsp;\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para lembranças tumblr\" class=\"irc_mi\" data-iml=\"1555374715554\" height=\"214\" src=\"https://i.pinimg.com/originals/77/15/07/77150700a016d2c22caa1bc64d21f3a8.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/77/15/07/77150700a016d2c22caa1bc64d21f3a8.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6872830678570846650/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5926714554125337508",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-15T21:30:00-03:00",
+   "updated": "2019-04-15T21:30:11-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1Mzc0NjExNjk2Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/rosa-de-janela_15.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5926714554125337508",
+   "title": "Rosa De Janela",
+   "content": "Um dia encontrei uma rosa\u003cbr /\u003e\nEra a mais bela rosa\u003cbr /\u003e\nQue eu levava para a mais linda moça que já havia visto\u003cbr /\u003e\nCorri para entregar, á ela que e tão formosa.\u003cbr /\u003e\nOs guardas tiraram a minha vida\u003cbr /\u003e\nE eu nem pude rever minha querida\u003cbr /\u003e\nAcreditaram que eu fosse roubar seu ouro\u003cbr /\u003e\nMais só queria fazer do seu coração um tesouro\u003cbr /\u003e\nEla pegou a rosa, e a colocou na janela.\u003cbr /\u003e\nTodas as manhãs é a cena mais bela\u003cbr /\u003e\nNa janela a minha rosa singela.\u003cbr /\u003e\n\u003cbr /\u003e\nJimmy Jackson\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1555374603072\" height=\"379\" src=\"https://i.pinimg.com/736x/62/82/fa/6282fa1c7ad7a0279956c4824b2e244e--pink-walls-pink-flowers.jpg?b=t\" style=\"margin-top: 0px;\" width=\"240\" /\u003e \u003cbr /\u003e\n\u003cbr /\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/736x/62/82/fa/6282fa1c7ad7a0279956c4824b2e244e--pink-walls-pink-flowers.jpg?b=t"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5926714554125337508/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "9221521727445965017",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-15T21:24:00-03:00",
+   "updated": "2019-04-15T21:24:58-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1Mzc0Mjk4NDYzCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/nunca-desista_15.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9221521727445965017",
+   "title": "Nunca Desista ",
+   "content": "Muitas vezes a vida te tira da tua \"zona de conforto\", ela coloca \nobstáculos na tua vida para você passar por eles firme e forte, claro \nque nem todos eles são tão fáceis assim, alguns te derrubam, te \nmachucam,mas nenhum deles foram colocados ali se Deus soubesse que tú \nnão passaria por ele nenhum foi feito para te matar e sim para te \nensinar, te tornar mais forte e quando pensar em desistir lembre-se do \nporque começou, lembre-se do teu sonho, nada nunca vem de mão beijada, \nentão CORRA, corra atrás do que você quer, corra atrás dos teus sonhos e\n nunca desista.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Conselho\u003cbr /\u003e\n\u003cbr /\u003e\nIngrid\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"\" class=\"main_photo\" src=\"https://66.media.tumblr.com/33581d9352ac5715f4e16d7dfbbebcd7/tumblr_pd7otfJbCY1xqo2jwo1_500.png\" /\u003e ",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/33581d9352ac5715f4e16d7dfbbebcd7/tumblr_pd7otfJbCY1xqo2jwo1_500.png"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9221521727445965017/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "2405191671372093776",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-15T21:02:00-03:00",
+   "updated": "2019-04-15T21:02:41-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1MzcyOTYxNzQ0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/sincronia.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2405191671372093776",
+   "title": "Sincronia",
+   "content": "O que nos faz perder a nossa paz? As coisas, os acontecimentos, as \npessoas ou você? Provavelmente será uma destas coisas, ou o conjunto \ncompleto. Mas por vez a questão não é o que te tira a paz, e sim, o que \nte concede ela! Por mais incrível que pareça, tudo o que nos tira a paz é\n também o que nos leva à ela; porém existe um meio termo, esse meio \ntermo chama-se você; você e mais ninguém é unicamente autor da sua paz e\n do seu conflito. É ai onde se encontra o problema. Todos, ou pelo menos\n a maioria dos seres humanos, jogam a culpa nos fatos, nas coisas e por \nsua vez nas outras pessoas; como se fosse um \"jogo de passa o anel\", \nonde quem fica com ele, não ganha nada, exatamente, nem a vitória; ganha\n o fato de ser o \"incumbido\" de todos os acontecimentos bruscos sobre \ntal pessoa. O jogador esquece apenas de um episódio, o de que ele é unicamente responsável pelo desfecho do seu jogo.\u003cbr /\u003e\nO que quero dizer com isso? Que cada um de nós é encarregado pelas \ncoisas boas e ruins que acontecem e, não deveríamos passar a função de \nresolver tais acontecimentos para os demais que nos cercam.\u003cbr /\u003e\nAo mesmo tempo revejo meu conceito, crítico e antagônico, pois creio que\n todos somos jogadores, e fazemos o que nos convém. Mas o interessante é\n o fato de como permitimos que alguém seja nossa paz ou o enredo da \nsituação ; em meados desses sentimentos existe o amor e a capacidade que\n ele tem de mudar muitas coisas dentre, conceitos, atitudes... muda tudo\n completamente! Mas o que o amor tem haver com a paz interior? Ah, tem \ntudo haver. Vejamos os fatos proferidos; quando se ama enfrentamos \ncoisas que jamais pensaríamos que fôssemos capazes de enfrentar, \nsuportamos coisas que só quem ama ou amou será capaz de compreender, nos\n esforçamos sem querermos nada em troca... ou seja fazemos coisas que \njamais pensamos que seriam feitas por nós. Então tornamos essa pessoa \n\"dona(o)\" do que nos ocorre; tanto coisas boas, como ruins também. A \nquestão indagatório é: \"Tem alguma gratificação responsabilizar alguém \npor tudo que te acontece?\" Talvez tenha. Álias a culpa não vai ser sua, \nnão é mesmo? Mas e para a outra pessoa? Você realmente terá a \nconsciência tranquila por tornar alguém responsável por suas meras \ntolices? Vendo, você sempre vai se confrontar enquanto não souber \nresolver teus problemas sozinho(a), pondo exatamente a culpa em quem tem\n á CULPA! A não ser que você tenha um sangue muito frio pra lidar com \nsituações assim.\u003cbr /\u003e\nMas no amor. Ah o amor... ele tem disso, sempre existe um intermédio \npara ele. Nem tudo são flores. Acompanhada das pétalas vem os espinhos! A\n primeiro momento só apreciamos e nos fixamos a sua magnitude. A segundo\n instante, não vemos os espinhos somente as pétalas, sentimos como são \nperfumadas e perfeitas. A terceiro ponto, não menos importante, é o \nmomento em que realmente nos damos conta dos espinhos e de como eles \npodem machucar[...]. Mesmo sabendo disso escolhemos agarrar a flor com \ntudo que ela tem para nos oferecer, a sua beleza e a lesão que pode \ncausar; é o que acontece quando se existe amor.\u003cbr /\u003e\nNão tem lógica ou explicações cognitivas. Por que alguém se machucaria \ntanto por outra pessoa? Sem cabimento até, mas isso ocorre quando você \nesta interligado a outra pessoa. É essa falta de lógica que faz com que \ntudo vivido entre ambos seja inesquecível, até porque também, não \nprecisa de justificativa alguma, necessita essencialmente de intensidade\n e veracidade no cônjuge.\u003cbr /\u003e\nAo encontrarmos pessoas capazes de nos abraçar, mesmo sabendo das \nconsequências acarretadas pelo fato de nos escolher; temos que \nflorescer, nos tornar a flor mais reluzente que já existiu no seu \njardim, temos que retribuir o seu ato de coragem e, ao amor que é o que \nfaz com que ele(a) aceite os nossos espinhos. Contudo, tem a instância \nde ser espontâneo, natural, despretensioso... meramente por sentir-se \nespecial, exclusivo e até único.\u003cbr /\u003e\nNa minha humilde opinião, mas não tão insignificante, os sentimentos são\n uma via de mão dupla, um tem que andar ao lado do outro, na mesma sintonia, no mesmo molejo... Se por acaso um dos ritmos estiver \nacelerado, reavemos nossa sintonia e passamos a tocar a mesma melodia; \nporque quando existe amor, não tem disco que não possa ser trocado.\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao \u003cbr /\u003e\n\u003cbr /\u003e\nGabriele Oliveiro\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"\" class=\"main_photo\" height=\"320\" src=\"https://66.media.tumblr.com/b641d67f6b25f9ffac0fbf8f0421f450/tumblr_p3uhliTk0v1sux5x4o1_500.jpg\" width=\"320\" /\u003e ",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/b641d67f6b25f9ffac0fbf8f0421f450/tumblr_p3uhliTk0v1sux5x4o1_500.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2405191671372093776/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "2404633700349323436",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-15T20:41:00-03:00",
+   "updated": "2019-04-15T21:36:47-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1Mzc1MDA3NjM1Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/relacao.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2404633700349323436",
+   "title": "Relação ",
+   "content": "Sabe o que eu aprendi com a distância? Que apesar de doer, de aguçar sua\n imaginação, de testar suas forças… Ela te mostra que vale à pena \nesperar. Que se você realmente quer alguém que está longe… Espere, mas \nespere com o coração aberto, deixe cada pequena palavra entrar, cada \ngesto contar. Dói, com certeza. É algo que te testa a cada segundo. Você\n passa por situações que vão te provando que o amor é maior. Mas \ndistância é a maior prova de que um amor pode existir, porque você \nsacrifica muito por uma pessoa que nem se quer está perto. São palavras \nque te motivam, são fotos que te alegram, são declarações e promessas \nque te inspiram e se tornam motivos pra esperar cada dia mais. Apesar de\n ser dolorosa, a distância me ensinou o que é amar, mas da forma mais \nverdadeira possível.\u003cbr /\u003e\n\u003cbr /\u003e\n#Conselho \u003cbr /\u003e\n\u003cbr /\u003e\nAlla\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-cPrK9fboJr0/XLUjlmt7k-I/AAAAAAAAwgQ/N_k4vVdt3HMZ3uEpM_c0P4TfGygxptvQACLcBGAs/s1600/cats.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"700\" data-original-width=\"467\" height=\"320\" src=\"https://1.bp.blogspot.com/-cPrK9fboJr0/XLUjlmt7k-I/AAAAAAAAwgQ/N_k4vVdt3HMZ3uEpM_c0P4TfGygxptvQACLcBGAs/s320/cats.jpg\" width=\"213\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e",
+   "images": [
+    {
+     "url": "https://1.bp.blogspot.com/-cPrK9fboJr0/XLUjlmt7k-I/AAAAAAAAwgQ/N_k4vVdt3HMZ3uEpM_c0P4TfGygxptvQACLcBGAs/s320/cats.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2404633700349323436/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "3833683295628510300",
@@ -5855,188 +6041,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2221527472386073711/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3542570117135975416",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-28T16:11:00-03:00",
-   "updated": "2019-03-04T10:54:13-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxNzA3NjUzODM4Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/longe-de-mim.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3542570117135975416",
-   "title": "Longe de mim.",
-   "content": "Sabes houve momentos em que o único que podia manter em ordem , era minha própria respiração, por mais que me esforçasse, nada parecia voltar a ordem , na minha vida . Por mais que desejasse que o tempo retrocedesse , continuo avançando imune as minhas súplicas. Apenas você parecia imutável ao tempo, apenas você mantinha a ordem na minha vida . estas são cada uma das coisas que nunca fomos todas aquelas palavras que nunca dissemos , isso foi tudo que não nos conhecemos , sítios onde nunca fomos , beijos que nunca demos , você foi tudo para mim , me fez sentir no céu quando eu estava no próprio inferno . contigo aprendi que as vezes não se trata de entender e sim de sentir , contigo corri , voei ,cai ,e nunca mas levantei , só quando te vi cerrar os olhos descobri o que era o verdadeiro inferno , perder-te .\u003cbr /\u003e\nRezei para que te lembrasse de mim , rezei porque me vi perdida no olhar profundo que me deste quando te sussurrei que era tua que me tomasse como tua inteiramente tua para sempre sempre . por todas as memórias que guardei ,mas que para você nunca tivemos , teu futuro não é mais meu teus sonhos e os meus . Sem mentiras , sem pessoas e sem tempo , tudo o que você me ensinou, e que eu nunca entendi até te perder . sua maneira delicada de ser e minha escuridão, todos os meus pensamentos morrendo porque te fostes , e eu não queria pesder-te , todos aqueles risos e lágrimas , lágrimas porque eu estava a dois passos de estar mas longe de ti , porque me fizestes entrar no teu mundo , quando eu nunca te dei uma passagem par o meu . Anoto todos os filmes que gostei , mas que nunca vimos , todas as tardes que não compartilhamos , essa é a conversa que nunca tivemos os gritos que nunca demos , os desculpa-me que nunca dissemos , o amo-te que nunca te disse como merecias . as batalhas que nunca lutamos , a guerra que perdemos segredos que serão esquecidos e todas as milhões de coisas que nunca seremos e nem fomos .\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao \u003cbr /\u003e\n\u003cbr /\u003e\nDesconhecido\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n&nbsp;\u003cimg alt=\"\" class=\"main_photo\" height=\"320\" src=\"https://66.media.tumblr.com/deabcd63d14cc335b9c04f7b85c0f136/tumblr_peoko3xs0q1x0q1a8o1_500.jpg\" width=\"239\" /\u003e",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/deabcd63d14cc335b9c04f7b85c0f136/tumblr_peoko3xs0q1x0q1a8o1_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3542570117135975416/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2769831082291356794",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-28T16:09:00-03:00",
-   "updated": "2019-02-28T16:09:50-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxMzgwOTkwNDQ0Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/eu-te-escolhi.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2769831082291356794",
-   "title": "Eu te escolhi.",
-   "content": "Eu te escolhi. Te escolhi pra ser o amor da minha vida, o meu refúgio, o meu alicerce e a solução de tudo.. Te escolhi porque em você eu encontrei tudo o que eu preciso.. eu te escolhi porque vi em você algo que não vi em mais ninguém, eu te escolhi porque eu te quero na minha vida, até o meu coração parar de bater.. Eu te escolhi porque quero ficar velhinho do teu lado, cuidar de você quando tiver problemas de coluna e quando já não formos mais tão saudáveis.. Eu te escolhi porque eu te amo.. amo como nunca amei uma pessoa antes.. e te escolheria mais mil vezes se fosse necessário.\u003cbr /\u003e— Apenas você e eu\u003cbr /\u003e\n\u003cbr /\u003e\nAna Teresa\u003cbr /\u003e\n\u003cbr /\u003e\n",
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2769831082291356794/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8108711478371257723",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-28T16:01:00-03:00",
-   "updated": "2019-03-04T10:52:02-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxNzA3NTIyMjUyCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/depois-que.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8108711478371257723",
-   "title": "Depois que...",
-   "content": "Depois que você se foi, eu não sinto mais nada, nada me incomoda, nada sinto, não me apaixono, não emociono... apenas choro quando lembro de você, quando eu te vejo feliz com outras pessoas da uma dor no peito sem igual.\u003cbr /\u003e\nArrumei outro namorado mas nada tira você da minha cabeça, você apenas você, pode me fazer feliz.\u003cbr /\u003e\nFaz 1 ano que a gente terminou, mas meu coração não te esquece\u003cbr /\u003e\n\u003cbr /\u003e#Tristeza \u003cbr /\u003e\n\u003cbr /\u003e\nAnônimo\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"image\" data-orig-height=\"504\" data-orig-width=\"750\" height=\"215\" src=\"https://66.media.tumblr.com/0a8ff21dde841444f24aa23107449d44/tumblr_pmfpms5z4B1smv0g0_500.jpg\" width=\"320\" /\u003e",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/0a8ff21dde841444f24aa23107449d44/tumblr_pmfpms5z4B1smv0g0_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8108711478371257723/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "212230607343558079",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-28T15:59:00-03:00",
-   "updated": "2019-02-28T15:59:15-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxMzgwMzU1MDkyCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/canceriana.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/212230607343558079",
-   "title": "Cânceriana",
-   "content": "Você sabe que um dia irá se apaixonar, mas não sabe quando, onde e por quem, sabe também que pode ser eterno ou passageiro, te fazer bem ou mal, te dar forças ou tirar tudo o que você tem, o amor não machuca, se machuca e te faz feridas não é amor...Amor é puro, é bom, te levanta em seu pior momento, renova a sua energia, te ajuda a curar qualquer ferida e te mostra o caminho da luz em meio a escuridão.\u003cbr /\u003eEu me apaixonei, foi bom, único, me apaixonei por uma mulher com uma luz única, com um olhar profundo de lindos olhos castanhos que me lembram abismos que parecem não ter fim, um sorriso tão brilhante que é digno de ser comparado a lua e as estrelas, amei uma mulher intensa e ao mesmo tempo delicada, forte com um certo nível de delicadeza, uma mulher que possui o coração tão puro e inocente, mas ao mesmo tempo muito maduro e que sabe as coisas da vida, uma mulher tão atraente que te deixa babando quando passa, me apaixonei por uma canceriana.\u003cbr /\u003eEla é como o mar possui lados desconhecidos, não possui donos não pode ser controlada, ela é como uma rosa, sua beleza é única e apaixonante, mas por trás de toda essa beleza, possui espinhos que usa para proteger um coração repleto de feridas.\u003cbr /\u003eO que eu senti por ela não consegui sentir por mais ninguém, ela me salvou, curou minhas feridas internas e foi embora logo depois levando todo o amor que eu guardava em mim, nunca soube explicar o que tinha com ela e ela também não, nunca tivemos nada sério, mas mesmo assim uma parte dela vai viver em mim em quanto suas palavras e atitudes estiverem marcadas em meu coração...Ela é um livro de mistério cujo o final ainda não foi escrito e poucos iram ler ou fazer parte da história.\u003cbr /\u003e\n\u003cbr /\u003e\nEunice De Lima Lopes\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Bild\" class=\"_2s-6_\" role=\"img\" style=\"cursor: zoom-in;\" /\u003e\u003cimg alt=\"Bild\" class=\"_2s-6_\" role=\"img\" style=\"cursor: zoom-in;\" /\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-bSs50T79AWA/XHgvdendesI/AAAAAAAAwaM/_nWCyMrxhKwIFhrg5ezxtWPn_8N3pWE8ACLcBGAs/s1600/tumblr_pmxlezIDjv1xai6qxo1_1280.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"906\" data-original-width=\"798\" height=\"320\" src=\"https://1.bp.blogspot.com/-bSs50T79AWA/XHgvdendesI/AAAAAAAAwaM/_nWCyMrxhKwIFhrg5ezxtWPn_8N3pWE8ACLcBGAs/s320/tumblr_pmxlezIDjv1xai6qxo1_1280.jpg\" width=\"281\" /\u003e\u003c/a\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://1.bp.blogspot.com/-bSs50T79AWA/XHgvdendesI/AAAAAAAAwaM/_nWCyMrxhKwIFhrg5ezxtWPn_8N3pWE8ACLcBGAs/s320/tumblr_pmxlezIDjv1xai6qxo1_1280.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/212230607343558079/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4089869282349913348",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-28T15:48:00-03:00",
-   "updated": "2019-03-04T11:33:43-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxNzEwMDIzNzIyCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/meu-ultimo-esforco.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4089869282349913348",
-   "title": "Meu último esforço.",
-   "content": "\u003cdiv dir=\"auto\"\u003e\nEu tentei. Eu me esforcei. Eu não decepcionei, falhei.&nbsp;\u003c/div\u003e\n\u003cdiv dir=\"auto\"\u003e\nEu\n juro, minhas forças se esgotaram. Eu fui a fundo, eu jurei não \ndesistir, mas não deu, aquela pessoa não se importava mais. Finalmente \nestou em outra, tentando reconstruir meu coração sem ela. Em certos dias\n eu falho, é normal.&nbsp;\u003c/div\u003e\n\u003cdiv dir=\"auto\"\u003e\nNão quero mais que aquele \nsentimento de incógnita permaneça em mim. Não quero mais que aquele \nsentimento de impotência permaneça em mim. Eu olho para ela, me lembro \nde tudo o que fiz, todas as lutas, e automaticamente me sinto cansado, \ndesculpe.&nbsp;\u003c/div\u003e\n\u003cdiv dir=\"auto\"\u003e\nEla foi a principal escolha na minha \nvida durante anos, eu sei, falhei milhares de vezes, mas eu tentei \nreconstruir o amor que eu achei que ainda tinha permanecido, nem que \nfosse 1%. Mais uma vez me enganei. Pois é, aquela pessoa sabe bem que \nnós não nos distanciamos por falta de tentarmos, por falta de amor, pelo\n menos da minha parte. Sabe, eu aprendi nos últimos anos a lidar com a \ndistância das pessoas, aprendi muito sobre se sentir suficiente consigo \nmesmo, aprendi muito a como lidar quando alguém que você ama \nincondicionalmente vai embora da sua vida, eu aprendi que pessoas \ncansam. Pois é. Aprendi mais ainda que eu também tenho o direito de \nficar exausto, que tenho o direito de cansar e não tolerar mais certas \nescolhas. Sim, escolhas. Você que sabe que esse texto é sobre você sabe \nbem que tudo o que fez foi escolher. Escolher um novo coração para \nmorar. Um novo peito para deitar. Uma nova boca para beijar. E que agora\n que eu estou tentando levantar, não, você não vai me derrubar.\u003c/div\u003e\n\u003cdiv dir=\"auto\"\u003e\nMinha\n parte já foi feita, já me desculpei, já me culpei, mas ninguém tem a \nmenor parcela de culpa em nada que nos fez ir para longe um do outro. A \nreal é que ninguém tem culpa em não amar mais, não se importar mais. O \namor e a dor estão lado a lado, e o preço de amar é quase sempre se \nmachucar. Todas as escolhas que fazemos em nossas vidas tem um preço, e \npagamos por ele por mais doloroso que esse custo seja.&nbsp;\u003c/div\u003e\n\u003cdiv dir=\"auto\"\u003e\nE\n no fim? No fim, todo mundo está apenas em um caminho. O caminho da \nfelicidade, o caminho mais fácil, apesar de às vezes o caminho mais \nfácil ser o mais difícil para se atravessar. Amar não é uma escolha. \nDeixar também não. Atitudes são escolhas, mesmo que sejam atitudes de \nmomento, ou atitudes tomadas sem pensar. Lembre-se, tudo tem um preço — e\n você tem que pagar por ele.\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao \u003c/div\u003e\n\u003cdiv dir=\"auto\"\u003e\n\u003c/div\u003e\n\u003cdiv dir=\"auto\"\u003e\n\u003ch3 class=\"iw\"\u003e\n\u003cspan style=\"font-size: small;\"\u003e\u003cspan class=\"qu\" role=\"gridcell\" tabindex=\"-1\"\u003e\u003cspan class=\"gD\" data-hovercard-id=\"gustavocorrea202a@gmail.com\" data-hovercard-owner-id=\"30\" name=\"Gustavo Corrêa\"\u003eGustavo Corrêa\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/h3\u003e\n\u003c/div\u003e\n\u003cdiv dir=\"auto\"\u003e\n\u003cimg alt=\"Resultado de imagem para homem tumblr\" class=\"irc_mi\" data-iml=\"1551379693450\" height=\"332\" src=\"https://farm3.static.flickr.com/2554/3807763985_a00c983794.jpg\" style=\"margin-top: 38px;\" width=\"500\" /\u003e \u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://farm3.static.flickr.com/2554/3807763985_a00c983794.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4089869282349913348/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "1331880988803527864",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-02-28T15:35:00-03:00",
-   "updated": "2019-03-04T11:34:01-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxNzEwMDQxNjAwCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/02/mascaras.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1331880988803527864",
-   "title": "Máscaras",
-   "content": "Mal sabe você que eu estou cansada , tanto fisicamente quanto mentalmente,&nbsp; Mas como você saberia? Se eu coloco um sorriso em meu rosto a todo momento...Se eu sempre...sempre digo que estou bem... Mas sabe? Já estou acostumada a colocar a minha máscara de menina perfeita e destemida assim quando levanto de minha cama , porque desde pequena me ensinaram que se uma pessoa demonstra fraqueza ou fala de como está se sentindo , a chamam de fresca , que o que ela está sentindo é futilidade da adolescência , mas como eles saberiam? Se sou eu que carrego o peso da dor em meu peito , se sou eu que é obrigada a se calar para não preocupar os que eu amo... Então me diga Como? .\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza\u003cbr /\u003e\n\u003cbr /\u003e\nRaquel Restier\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para mascara tumblr\" class=\"irc_mi\" data-iml=\"1551378909545\" height=\"225\" src=\"https://3.bp.blogspot.com/-MY6sOl5H1TI/UWB-KDc1gRI/AAAAAAAALDs/EHomef-mp2k/s320/tumblr_m35srwuNuA1qhmvjxo1_500.jpg\" style=\"margin-top: 28px;\" width=\"320\" /\u003e ",
-   "images": [
-    {
-     "url": "https://3.bp.blogspot.com/-MY6sOl5H1TI/UWB-KDc1gRI/AAAAAAAALDs/EHomef-mp2k/s320/tumblr_m35srwuNuA1qhmvjxo1_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1331880988803527864/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0xNFQxOToyMjoyMS45MzNa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0xNlQwMDozOToxMi43NDRa\""
 }
