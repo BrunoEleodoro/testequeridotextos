@@ -1,7 +1,69 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYotjF3JMtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYoJ2s3ZMtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "2401707660309850488",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-18T17:08:00-03:00",
+   "updated": "2019-04-18T17:08:37-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1NjE4MTE3MDM3Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/vai-passar.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2401707660309850488",
+   "title": "Vai Passar ",
+   "content": "Tenho sofrido por alguém que provavelmente, não me ama mais. Isso tem \nrasgado o meu interior, e por um tempo achei que não aguentaria tamanha \ndor, eu corri atrás pq sou mulher que sabe o que quer, que não desiste \nda própria felicidade, prometi não desistir de tê-lo comigo novamente, e\n não desisto, mas chega um ponto que seus olhos se abrem, que Deus abre \nteus olhos, e você finalmente encherga que a vida é mais do que amar, é \nser amado também, que duas pessoas só ficam juntas se ambas querem, e se\n isso acontece não tem ngm nesse mundo que os impede de serem felizes e \npermanecerem um do lado do outro.\u003cbr /\u003e\nMas temos muito o que viver ainda, Deus tem mto mais pra nós, muito além\n do que imaginamos, as vezes achamos que não vamos aguentar, mas ele \nestá lá, sempre está, pra nós sustentar, pra nós dar vida, pra fazer com\n que a esperança volte a emanar de nossos corpos, e sabe sou grata a \nEle, pq se não tivesse acontecido tantas coisas ruins em minha vida, eu \nnão seria quem sou hoje, não teria a visão que tenho, e provavelmente \nnão seria tão apaixonada pelo meu Senhor, que grandes planos tem pra \nmim.\u003cbr /\u003e\n\u003cbr /\u003e\n#Conselho \u003cbr /\u003e\n\u003cbr /\u003e\nHerculano\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para destruição tumblr\" class=\"irc_mi\" data-iml=\"1555618106231\" height=\"379\" src=\"https://i.pinimg.com/736x/c9/34/1a/c9341aeb4d6fa8af5131cf963dd35b6f.jpg\" style=\"margin-top: 0px;\" width=\"306\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/736x/c9/34/1a/c9341aeb4d6fa8af5131cf963dd35b6f.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2401707660309850488/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4889457675484688066",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-18T17:01:00-03:00",
+   "updated": "2019-04-18T17:01:47-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1NjE3NzA3MTkyCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/perdida.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4889457675484688066",
+   "title": "Perdida ",
+   "content": "Estou perdida no oceano que criei. Procuro um caminho, não encontro. O \ndesespero de estar perdida cegou-me, como uma pequena criança que se \nperde da mãe. Eu grito, eu choro, eu reclamo... Nada muda, ainda estou \nperdida, ainda preciso de ajuda. Aqui onde estou é escuro, agoniante, \nfrio, nada vejo à frente. O tempo passa, sem passar. Eu não me reconheço\n e não sei onde estou, tampouco onde irei parar. Vivo nessa torturante \nvida com alguém que não conheço, em um lugar ao qual não pertenço... O \nalguém sou eu, e o lugar... eu que criei. Talvez o caminho esteja diante\n de meus pobres olhos cheios de lágrima, mas não o vejo. Preciso de uma \nluz, uma luz vinda de mim, mas como achá-la?.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1555617695403\" height=\"317\" src=\"https://i.pinimg.com/originals/a0/92/8a/a0928ae82762383e5a71ca64e6d1b945.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/a0/92/8a/a0928ae82762383e5a71ca64e6d1b945.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4889457675484688066/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "3339861623313696395",
@@ -9,8 +71,8 @@
     "id": "2771518682926329856"
    },
    "published": "2019-04-17T18:57:00-03:00",
-   "updated": "2019-04-17T18:57:53-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1NTM4MjczODU4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "updated": "2019-04-17T21:43:35-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1NTQ4MjE1ODMzCm9mZnNldDogLTEwODAwMDAwCg\"",
    "url": "http://queridotextos.blogspot.com/2019/04/a-dor.html",
    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3339861623313696395",
    "title": "A Dor",
@@ -5994,64 +6056,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3858892523475267709/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2087351002406035983",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-01T20:46:00-03:00",
-   "updated": "2019-03-04T10:50:54-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxNzA3NDU0NDU1Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/minha-mala.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2087351002406035983",
-   "title": "Minha mala.",
-   "content": "Devolva todos os sentimentos que roubou de mim\u003cbr /\u003e\nDevolva todos os sorrisos de felicidade que entreguei a você, sem saber qual era a sua intenção realmente\u003cbr /\u003e\nDevolva o tempo que eu perdi ficando presa em seus abraços e suas palavras vazias\u003cbr /\u003e\nDevolva quem eu era, antes de me perder por você\u003cbr /\u003e\nEstou fazendo a minha mala, mas não se preocupe, não te levarei comigo e nem nenhuma lembrança sua\u003cbr /\u003e\nEm minha mala apenas levo as palavras que eu gostaria de lhe dizer \nenquanto você estivesse jurando amor por mim, levo as risadas e os \nsonhos que iria dividir com você, levo os cacos que sobraram do meu \npobre coração de cristal, mas o mais importante carrego em meu peito \nferido, levo meu orgulho e meu amor próprio que cultivei nos últimos \ndias\u003cbr /\u003e\nVocê me machucou, quebrou meu coração, mas não me destruiu e nem se quisesse conseguiria\u003cbr /\u003e\nDoeu? MUITO, mas eu ainda estou de pé\u003cbr /\u003e\nPassei noites acordada acompanhada apenas do meu choro, minha tristeza e minha angústia...\u003cbr /\u003e\nAté que um certo dia eu dei um basta, me levantei, fui até o espelho e \nme vi completamente sozinha e machucada, foi então que eu fiz 3 \nperguntas olhando para o meu reflexo angustiado:\u003cbr /\u003e\n\"O que você fez com você?\"\u003cbr /\u003e\n\"Você merece isso?\"\u003cbr /\u003e\n\"Vai continuar sentada pelos cantos chorando, ou vai levantar e recuperar quem você realmente é?\"\u003cbr /\u003e\nVocê me usou demais, me desgastou, e a conta no final quem pagou sozinha fui eu\u003cbr /\u003e\nEu renasci, estou mais forte, diferente do que eu era,\u003cbr /\u003e\nPor isso fiz minha mala e fui embora para um lugar onde você não vá me encontrar e nem intoxicar.\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao \u003cbr /\u003e\n\u003cbr /\u003e\nEunice De Lima Lopes\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para mala tumblr\" class=\"irc_mi\" data-iml=\"1551483985871\" height=\"213\" src=\"https://regradostercos.files.wordpress.com/2016/09/malas-de-viagem.jpg\" style=\"margin-top: 37px;\" width=\"320\" /\u003e ",
-   "images": [
-    {
-     "url": "https://regradostercos.files.wordpress.com/2016/09/malas-de-viagem.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2087351002406035983/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "9206681966614837838",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-01T20:23:00-03:00",
-   "updated": "2019-03-01T20:23:38-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxNDgyNjE4OTg2Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/te-amo-demais.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9206681966614837838",
-   "title": "Te amo demais...",
-   "content": "Deixa eu te fazer feliz assim como nenhuma outra o fará , deixa eu ser o\n motivo dos seus risos , deixa eu te mostrar que eu te amo... Eu prometo\n que não serei igual a a sua ex que te usou e te destruiu , pelo \ncontrário , eu serei aquela que irá te levantar e te apoiar em tudo , \nque estarei do seu lado nos momentos ruins e nos bons... Eu te amo pelo \nsimples fato de você ser quem você é sem se preocupar com o que as \npessoas vão falar de você... Eu enxergo seus defeitos como se fossem \noutras de suas qualidades ; Mas eu te amo tanto , que se você amasse \noutra pessoa , eu te deixaria ir... Porque eu não posso ser egoísta... \nNão com você porque se sua felicidade está em outra pessoa , eu espero \nque você seja muito feliz...pois mesmo estando longe de mim a sua \nfelicidade já me basta.\u003cbr /\u003e\n\u003cbr /\u003e\nRaquel Restier ",
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9206681966614837838/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0xN1QyMjowMjozOS4xMTVa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0xOFQyMDowODozNy4wMzda\""
 }
