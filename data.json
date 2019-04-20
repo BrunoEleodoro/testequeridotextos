@@ -1,7 +1,69 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYoJ2s3ZMtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYwuC105QtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "403470342318353152",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-19T21:06:00-03:00",
+   "updated": "2019-04-19T21:06:23-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1NzE4NzgzMTg1Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/eu-me-amo.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/403470342318353152",
+   "title": "Eu Me Amo. ",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nEu não queria ter que ser a pessoa que você se arrependeu de ter perdido\n porque percebeu depois da hora que essa pessoa era a que te completava,\n aquela que não só despia as tuas roupas, mas a tua alma também! não \nqueria ser a pessoa que te ensinou a valorizar quem está do seu lado. \nnão queria precisar ir embora! Eu tô começando mais um texto, e pra deixar bem claro, dessa vez não é sobre você. é sobre mim. Eu duvido que você não sinta falta do meu zelo, do meu carinho e da \nminha compreensão. duvido que não sinta falta de me contar sobre como o \nseu dia foi entediante, ou então, as suas histórias malucas que sempre \nforam pra mim melhor do que qualquer seriado. duvido que você não sinta \nminha falta nas garotas que você pega vazias igual a sua liberdade, que \nnunca te serviu pra absolutamente nada!E talvez, esse seja nosso problema. eu sou completa de mais pra sua vida\n rotineira. eu sinto, eu penso, eu falo, eu sou intensa e eu te conheço.\n acho que isso te assusta né?\u003cbr /\u003e\neu me diminui pra você ficar maior, pra você não perceber então que eu já estava fazendo parte da sua vida. Eu queria ligar pra você e te falar sem pausas tudo o que eu fico um \ntempão ensaiando toda vez que você me magoua. mas eu nunca digo nada pra\n não te magoar, afinal, você não faz por mal. e talvez esse, seja o pior\n mal de todos os outros, simplesmente por ser natural! bobagem. como se algum ensaio no mundo fosse me deixar firme depois de ouvir a sua voz! então é isso, tô te escrevendo. afinal, eu sempre fui mais segura com as palavras. Mas esclarecendo de novo, esse texto é sobre mim. sobre como eu sou \nincrível demais e igual à mim, tá difícil de achar. sobre como eu não \npreciso usar 5 centímetros de shorts e um decote no umbigo pra me sentir\n mulher. sobre muitas coisas, mas principalmente sobre como só eu \nconsigo te fazer entrar em êxtase à tal ponto. Enquanto você fica brincando de não saber o que quer, eu tô começando a \nreconhecer que eu sou amor e ainda que não seja o seu, essa é a minha \nessência!\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nSarah Soares\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1555718773325\" height=\"273\" src=\"https://66.media.tumblr.com/01ed6049a4e081d2522dfb3a0182805b/tumblr_o6rjnjIJbw1ugds5oo1_400.png\" style=\"margin-top: 19px;\" width=\"320\" /\u003e \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/01ed6049a4e081d2522dfb3a0182805b/tumblr_o6rjnjIJbw1ugds5oo1_400.png"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/403470342318353152/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3580862175254952532",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-19T20:54:00-03:00",
+   "updated": "2019-04-19T20:54:56-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU1NzE4MDk2NTI0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/a-cada-nao.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3580862175254952532",
+   "title": "A Cada Não.",
+   "content": "As pessoas  insistem em jogar na nossa cara toda a carga pesada que já \npassamos como se fosse mudar alguma coisa .Mas nem todas essas pessoas \ntem a coragem de dar a cara a tapa  inúmeras vezes até conseguir  o que \ndeseja nem todas essas pessoas chorou a cada não  é mesmo assim não \ncogitou desistir  .\u003cbr /\u003e\nMuitas das vezes recebemos cada julgamento como forma de fortalecimento \n e na real ficamos forte de alma e vontade de viver cada vez mais sem \nagradar ,não entendendo certa necessidade que temos de querer agradar a \ntodos sem conseguir agradar a nós mesmo más  admiro essa nossa \nnecessidade que nós faz ser cada vez mais ousados....\n\u003cbr /\u003e\n\u003cbr /\u003e\nNão queira agradar o mundo\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nLuana Santos\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1555718088407\" height=\"379\" src=\"https://2.bp.blogspot.com/-OZBWgd5M3N4/WesuXvjT0KI/AAAAAAAAApE/x1Fk6AVOyk0BFMPxWcFLrBA8V_mx6eyywCLcBGAs/s1600/2017-10-20%2B08.36.56%2B1.jpg\" style=\"margin-top: 0px;\" width=\"284\" /\u003e \u003cbr /\u003e\n\u003cbr /\u003e",
+   "images": [
+    {
+     "url": "https://2.bp.blogspot.com/-OZBWgd5M3N4/WesuXvjT0KI/AAAAAAAAApE/x1Fk6AVOyk0BFMPxWcFLrBA8V_mx6eyywCLcBGAs/s1600/2017-10-20%2B08.36.56%2B1.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3580862175254952532/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "2401707660309850488",
@@ -5999,64 +6061,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7654793220397695664/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3153057290491405731",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-01T20:52:00-03:00",
-   "updated": "2019-03-01T20:52:55-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxNDg0Mzc1MTI5Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/se-valorize-mais.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3153057290491405731",
-   "title": "Se valorize mais.",
-   "content": "Você não pode parar os outros com seu sofrimento, e o mundo também não \nvai parar por você, entendo seu sofrimento e suas mágoas, mas todos \nterão sua hora de glória e punição. Todos terão sua vez...\u003cbr /\u003e\nEle te fez sofrer? Passe por ele com a felicidade de quem venceu algo impossível.\u003cbr /\u003e\nNão acreditaram na sua capacidade? Dê o seu melhor e mostre a todos que você não depende da opinião deles.\u003cbr /\u003e\nQuem te fez sofrer quer te ver chorar, não dê esse gosto a eles, dê a \nvolta por cima! Quando você menos esperar, vai estar melhor do que \ntodos.\u003cbr /\u003e\n\u003cbr /\u003e\nJuliana ",
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3153057290491405731/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3858892523475267709",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-01T20:51:00-03:00",
-   "updated": "2019-03-04T10:50:40-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxNzA3NDQwNTU3Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/conectados.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3858892523475267709",
-   "title": "Conectados",
-   "content": "Nós estamos conectados. A todo tempo corre um sentimento vivo em nossas \nveias, não adianta tentar evitar. Não fomos nós quem escolhemos e nem \nsomos capazes de mudar isso.\u003cbr /\u003e\nPodemos nos afastar, a máxima distância medida por quilometragem ou até \nmesmo a distância medida pelo nosso orgulho... nós sempre teremos essa \nconexão. No final a gente se esbarra e fica mais uma vez impressionado \ncom todas as situações que parecem conspirar a nosso favor. Você gosta \ndisso, eu sei. Por mais que tente esconder, eu te entendo. Isso nos \ndeixa confusos, nos atrapalha em diversos quesitos, principalmente para \nnos relacionarmos com outras pessoas, mas nós, quando juntos, fazemos \nbem um para o outro. Não dizendo que outras pessoas não possam fazer, \nmas as coisas se movimentam para que a gente fique um com o outro. É \nestranho demais, é algo novo e parece não fazer sentido para as pessoas \nque estão de fora. Só nós sentimos. Só nós entendemos. Para sempre será \nsó nós. Independente de tudo, estarei sempre contigo e o universo sempre\n vai me levar até você.\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor \u003cbr /\u003e\n\u003cbr /\u003e\nAnna Alves\u003cbr /\u003e\n\u003cbr /\u003e\n&nbsp;\u003cimg alt=\"Resultado de imagem para conectado tumblr\" class=\"irc_mi\" data-iml=\"1551484282386\" height=\"240\" src=\"https://2.bp.blogspot.com/-dQFYfGoLykA/WQfBQ1KpWqI/AAAAAAAAP30/f4fDgtLG8VAQkmtp9CWxDL82AFLBTU68gCKgB/s320/je3.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e",
-   "images": [
-    {
-     "url": "https://2.bp.blogspot.com/-dQFYfGoLykA/WQfBQ1KpWqI/AAAAAAAAP30/f4fDgtLG8VAQkmtp9CWxDL82AFLBTU68gCKgB/s320/je3.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3858892523475267709/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0xOFQyMDowODozNy4wMzda\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0yMFQwMDoxMzoyNy4yMDFa\""
 }
