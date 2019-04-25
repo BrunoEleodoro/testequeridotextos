@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYwtnh05QtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEY4tfs05QtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "4173048315805864751",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-24T15:02:00-03:00",
+   "updated": "2019-04-24T15:02:42-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU2MTI4OTYyNDUxCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/amor.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4173048315805864751",
+   "title": "Amor ",
+   "content": "Tanto faz depois que acaba no princípio era um turbilhão de formas encontradas para ter este sorriso ao acordar pela manhã,ou pelas altas madrugadas frias.jamais pensei que esse frio iria nos separar por tão longo tempo,mas do dia para a noite, você desistiu de lutar,apenas por motivo fútil,isso provou que não havia mais amor.lembrei perfeitamente quando ti interroguei sobre nós, você procurava uma desculpa,um fato sem anexo...perdi o sabor por esse desejo, não consigo mais nos enxergar tão claramente como antes! \"amor quando é verdadeiro , a cada dia ,torna-se indestrutível\".\u003cbr /\u003e\n\u003cbr /\u003e\nRogério\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1556128950551\" height=\"320\" src=\"https://i.pinimg.com/originals/70/dc/76/70dc762778f8fde7fd0a37793b536b7d.jpg\" style=\"margin-top: 0px;\" width=\"293\" /\u003e \u003cbr /\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/70/dc/76/70dc762778f8fde7fd0a37793b536b7d.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4173048315805864751/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "8137383861237073885",
@@ -6040,38 +6071,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8362535877982883913/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3981726115970272815",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-04T17:50:00-03:00",
-   "updated": "2019-03-04T17:50:29-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxNzMyNjI5NDYzCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/os-nossos-desiguais.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3981726115970272815",
-   "title": "Os nossos desiguais",
-   "content": "Ela era noite e ele o dia\u003cbr /\u003e\nEla loucura e ele calmaria\u003cbr /\u003e\nEle não sabia ler e ela era poesia,\u003cbr /\u003e\npoesia louca dificilmente de ser entendida\u003cbr /\u003e\nE mesmo assim tão diferentes ou talvez iguais,eles tentaram várias formas de ficar juntos.\u003cbr /\u003e\nMas ela não acreditava no para sempre e ele para sempre acreditou.\u003cbr /\u003e\nDeve ser porque ela não sabia amar,ou nunca tinha realmente lidado com o amor.\u003cbr /\u003e\n\u003cbr /\u003e\nUma mina qualquer\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para desiguais\" class=\"irc_mi\" data-iml=\"1551732614716\" height=\"320\" src=\"https://ressabiator.files.wordpress.com/2012/01/desigual1.png\" style=\"margin-top: 44px;\" width=\"323\" /\u003e ",
-   "images": [
-    {
-     "url": "https://ressabiator.files.wordpress.com/2012/01/desigual1.png"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3981726115970272815/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0yM1QyMDo1OToxMy4yODRa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0yNFQxODowMjo0Mi40NTFa\""
 }
