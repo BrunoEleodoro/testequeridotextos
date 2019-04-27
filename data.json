@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYpPqf1JQtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEY4rTBgZUtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "8013602922756886657",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-27T18:38:00-03:00",
+   "updated": "2019-04-27T18:38:01-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU2NDAxMDgxNjM0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/seu-cheiro-doce.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8013602922756886657",
+   "title": "Seu  Cheiro Doce. ",
+   "content": "Meu moletom escuro da minha banda favorita ainda tem o seu cheiro doce,\n seu perfume... Vestir ele é como reviver todo o momento que passamos \njuntos, nossas brincadeiras de lutinha que sempre terminava em beijos e \nabraços, nossas conversas desnecessárias porém significante pois \nenquanto você falava eu admito que não entendia nada, apenas ficava alí \nadmirando seu sorriso enquanto ria das suas próprias piadas e \nargumentos, Ah você Era tão perfeita e cada minuto do seu lado era tão \nprecioso e gratificante. Será que mesmo que o seu cheiro doce um dia vai sair do meu moletom? espero que não.\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor \u003cbr /\u003e\n\u003cbr /\u003e\nTony\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para abraçando o moletom tumblr\" class=\"irc_mi\" data-iml=\"1556400963974\" height=\"362\" src=\"https://pm1.narvii.com/6500/949c7b42be50200f92c7c44526e7d6a26dcd84e6_00.jpg\" style=\"margin-top: 9px;\" width=\"512\" /\u003e ",
+   "images": [
+    {
+     "url": "https://pm1.narvii.com/6500/949c7b42be50200f92c7c44526e7d6a26dcd84e6_00.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8013602922756886657/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5576370504344332783",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-27T18:35:00-03:00",
+   "updated": "2019-04-27T18:35:10-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU2NDAwOTEwNzk3Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/explosoes.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5576370504344332783",
+   "title": "Explosões ",
+   "content": "É tão difícil escrever depois de perder todas as suas inspirações, \nporque de alguma forma você as afasta de se mesma... mas não é por mal, é\n seu jeito, eu sei o quanto está sendo difícil acordar e não querer \nlevanta, eu sei o quão vazia(o) se sente, eu sei que toda sua felicidade\n foi sugada por um buraco negro, eu sei que só queria deixar de existe, e\n eu sei que sua única companhia tem sido as estrelas. Porquê parece que \nsó elas te entendem, elas não te questionam só brilham com várias \nexplosões dentro delas, mas a cada explosão é uma que ocorre dentro de \nvocê mesmo. Você só queria ser uma delas é por isso deseja ir, porque \npela primeira vez será notada e admirada, e dessa vez não será você que \nirá admirar as estrelas!.\u003cbr /\u003e\n\u003cbr /\u003e\n#Conselho \u003cbr /\u003e\n\u003cbr /\u003e\nErika\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para estrelas tumblr\" class=\"irc_mi\" data-iml=\"1556400898449\" height=\"379\" src=\"https://static.tumblr.com/806d76a9430b68f698bd7c59c4f351bb/1xf93uf/pQepelxrn/tumblr_static_-517367014-content_640_v2.jpg\" style=\"margin-top: 0px;\" width=\"213\" /\u003e ",
+   "images": [
+    {
+     "url": "https://static.tumblr.com/806d76a9430b68f698bd7c59c4f351bb/1xf93uf/pQepelxrn/tumblr_static_-517367014-content_640_v2.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5576370504344332783/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5093916748269824162",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-27T18:32:00-03:00",
+   "updated": "2019-04-27T18:32:45-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU2NDAwNzY1OTU3Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/destino.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5093916748269824162",
+   "title": "Destino.",
+   "content": "\u003cbr /\u003eO destino ! bem como muitos sabem que destino são as fazemos deste nascemos , acordamos e dormimos.\u003cbr /\u003e\n\u003cbr /\u003e\nMais e se não for ?!  Uma visão diferente você poderá errar e lá se vai o destino.\u003cbr /\u003e\n\u003cbr /\u003e\nQuando erramos na vida culpamos o Destino , mais os culpados somos nós mesmo .\u003cbr /\u003e\ncrescemos com exemplos : pais e avós.  Mais sempre tem algo dentro de \nnós que não queremos ser e acabamos sendo piores do que eles e olhamos \npara trás e dizemos : a culpa foi do destino que me colocou nessa fria.\u003cbr /\u003e\n\u003cbr /\u003e\nA tantas razões e sempre a culpamos \" Minha vida é assim por causa do\n destino que me colocou\", por ver fora não é  a verdade. O destino já \nestá traçado você teve que fazer mais tinha a escolha de não aceitar . \nIgual ao filme matrix,  no enredo existe duas pílulas a AZUL E A \nVERMELHA e que o personagem deveria escolher.  O destino faz a mesma \ncoisa é questão da sua escolha e não do destino.\u003cbr /\u003e\n\u003cbr /\u003e\n\nO destino pode ser mudado basta ver e não tentar olhar e ver se vai \ndar certo, se escolher tem que enfrentar por mais dificultoso seja.\u003cbr /\u003e\n\nvejamos ! Você está com uma pessoa e não sabe se é o certo , como saberás?   uns dizem : tenta pra ver se dar certo .\u003cbr /\u003e\n\u003cbr /\u003e\n\nMais eu digo : escuta o seu coração junto com a sua razão. Nem todas as vezes o coração estar certo e nem a razão.\u003cbr /\u003e\n\u003cbr /\u003e\n\nTodos e todas se entregam ao destino e a sorte está lançada.  Só que \nnão é assim que se joga com o destino. O destino sempre lhe mostra uma \nsaída mais a sua visão ver como um atrapalho ou uma perca de tempo.\u003cbr /\u003e\n\u003cbr /\u003e\n\nNão quero dizer traição destino te põe em desafios todos os dias. Se \nvocê é capaz de ser forte diante as tentações ou as mais fomosa \" 7 \npecados\".  Mais muitos e muitas vê traição como uma saída ou uma fuga de\n um destino incerto . Destino ver e lhe coloca na lei do retorno.\u003cbr /\u003e\n\u003cbr /\u003e\nPorque muitos dizem : você irar sentir na pele o que passei .\u003cbr /\u003e\nIsso se chama lei do retorno.\u003cbr /\u003e\n\nMais voltando ao Destino , Destino você joga a razão dele existir é  \naté que ponto você irar seguir. Te da várias chances para acertar , é \nnessa hora que ele coloca a lei do retorno.\u003cbr /\u003e\n\nE o destino fica a te mostrar a várias razões de viver, aprender e compreender tão a si próprio como as pessoas ao redor.\u003cbr /\u003e\n\u003cbr /\u003e\n\nAprenda a várias razões do Destino. Ele não tem culpa reveja as suas \nações ele só te mostra a esquerda ou a direita , a pílula azul ou a \nvermelha...   o Lado que você escolher a cor que tomar terás que \nenfrentar .\u003cbr /\u003e\n\u003cbr /\u003e\n\nNão quero dizer que vive abusivamente porque o Destino ver que está \nnum caminho errado e sempre lhe mostrar a sua saída. Quero dizer na vida\n amorosa.\u003cbr /\u003e\n\u003cbr /\u003e\n\nno cotidiano só viva para se. A razão do Destino e se destinar para se próprio e não para outros .\u003cbr /\u003e\n\nVelho ditado : Para que lhe ama , comece a amar se próprio. Assim você verá o verdadeiro Destino que deves tomar.\u003cbr /\u003e\n\u003cbr /\u003e\n\nRazões do Destino , qual é a pergunta que ele faz para você todos os dias ? Amor , vida , carreira ou queda.\u003cbr /\u003e\n\nAme-se e aprenderá a resposta qual é a razão que o Destino lhe mostra.\u003cbr /\u003e\n\n\u003cpre\u003e\u003ccode\u003e&nbsp;\u003c/code\u003e\u003c/pre\u003e\n\u003cpre\u003e\u003ccode\u003e&nbsp;\u003c/code\u003e\u003c/pre\u003e\n\u003cpre\u003e\u003ccode\u003eLana Dos Anjos\u003c/code\u003e\u003c/pre\u003e\n\u003cpre\u003e\u003ccode\u003e&nbsp;\u003c/code\u003e\u003c/pre\u003e\n\u003cpre\u003e\u003ccode\u003e&nbsp;\u003c/code\u003e\u003c/pre\u003e\n\u003cpre\u003e\u003ccode\u003e\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1556400746608\" height=\"328\" src=\"https://2.bp.blogspot.com/-neObAZmUSjw/Tix2S3BWnnI/AAAAAAAAAXY/90yQczKPtoQ/s1600/tumblr_lbbq2avNjA1qcfb1oo1_500.jpg\" style=\"margin-top: 26px;\" width=\"500\" /\u003e \u003c/code\u003e\u003c/pre\u003e\n",
+   "images": [
+    {
+     "url": "https://2.bp.blogspot.com/-neObAZmUSjw/Tix2S3BWnnI/AAAAAAAAAXY/90yQczKPtoQ/s1600/tumblr_lbbq2avNjA1qcfb1oo1_500.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5093916748269824162/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "2888112210169565813",
@@ -5993,95 +6086,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9088083064195720392/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8095684902830338691",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-04T18:21:00-03:00",
-   "updated": "2019-03-04T18:21:01-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxNzM0NDYxNjYyCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/voce-me-faz-bem.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8095684902830338691",
-   "title": "Você me faz bem",
-   "content": "Quantas noites passei em claro apenas observando você dormir,admirando \ncada detalhe do franzir das sobrancelhas,ao som que você faz quando \nrespira, e eu fico esperando você acordar para mais uma vez eu poder te \namar...Você me acalma,seu abraço me dá paz, seu sorriso me faz tão bem \nao ponto de me fazer achar que estou no paraíso,seu carinho me  desmonta\n inteirinha,sua mão quentinha me dá tranquilidade e me passa uma \nsegurança enorme,sua companhia é melhor,e VOCÊ consegue arrancar de mim \nos melhores sentimentos... SÓ VOCÊ CONSEGUE ME FAZER TÃO BEM, NÃO FOGE \nNÃO,POR FAVOR...\u003cbr /\u003e\n\u003cbr /\u003e\nDesconhecida ",
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8095684902830338691/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5266191191338402501",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-04T18:15:00-03:00",
-   "updated": "2019-03-04T18:15:48-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxNzM0MTQ4ODAyCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/o-que-vale-mais-do-que-alguem-que-amamos.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5266191191338402501",
-   "title": "O que vale mais do que alguém que amamos?",
-   "content": "As vezes eu me pergunto, porque ligamos conosco o tempo todo, e não \npercebemos que as pessoas mais próximas a nós está implorando por ajuda?\n Porque ficar alimentando uma bosta de ego e deixando pessoas \nmorrerem,porque ninguém se importava com elas?\u003cbr /\u003e\nSe a gente parasse alguns segundo que fosse para olhar no olhos de \nalguém,escutar o que ela está dizendo. Sei que todos nós temos \nproblemas,mas será que esses problemas são tão grande que não podemos \nparar para escutar?\u003cbr /\u003e\nMostrar por um momento que nós nos importamos com aquela pessoa,Não \nprecisamos dizer nada,apenas escutar com sinceridade e oferecer um \nabraço,um ombro amigo para aquela pessoa chorar, desabafar..., quantas \nvidas seriam salvas por causa desses segundos,minutos de atenção,ou por \napenas um \"Eu te amo\" que ela sempre esperou ouvi dos pais e até hoje \nnada.\u003cbr /\u003e\nPrecisamos ajudar quem a gente gosta, precisamos mostrar que a gente se \nimporta. Porque é típico das pessoas falarem que tal pessoa era \nproblemática,por isso se matou.     E essas pessoas não percebem que o \nerro foram delas. Não podemos julgar o outro,porque nunca sabemos o que \nele está passando, então por favor, não julgue, não maltrata alguém por \nalgo que ela fez. Pensa,quantas crianças crescem revoltadas, por ter \ntido uma infância traumatizante, quantos problemas surgirá na vida \nadulta?!\u003cbr /\u003e\nO ser humano precisa ser entendido,amado,tratado com carinho,respeitado como eles realmente são, como nós realmente somos.\u003cbr /\u003e\nSuicídio está acontecendo no mundo a cada momento, são números deles que\n estão crescendo a cada minuto. Não vamos deixar, que quem conhecemos \nsejam as próximas vítimas, para um problema que tem solução sim. Então \npor favor, não dê as costas para quem mais precisa de você no momento.\u003cbr /\u003e\nMesmo que a pessoa não fale nada,se perceber algo errado,senta e converse com ela,pergunte oq ela tem,da muito carinho.\u003cbr /\u003e\nNão abandone quem mais precisa de você. E O MUNDO COM CERTEZA AGRADECE.\u003cbr /\u003e\n\u003cbr /\u003e\nThais Poliane\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1551734128790\" height=\"320\" src=\"https://66.media.tumblr.com/1dd5a36e1151f963ebefba4d5ab1b1e7/tumblr_nspwipFu861sbgfz9o1_400.jpg\" style=\"margin-top: 4px;\" width=\"320\" /\u003e ",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/1dd5a36e1151f963ebefba4d5ab1b1e7/tumblr_nspwipFu861sbgfz9o1_400.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5266191191338402501/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "9029615974600562009",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-04T18:07:00-03:00",
-   "updated": "2019-03-04T18:07:51-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxNzMzNjcxMzMxCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/sabe-o-que-eu-quero.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9029615974600562009",
-   "title": "Sabe o que eu quero? ",
-   "content": "Quero distância de amores falsos, amizades falsas. Promessas que não \nforam cumpridas e muito menos serão, quero distância de pessoas que não \nme fazem bem e muito menos mim acrescentam, quero distância de \nsofrimento e ilusão, mentiras e traições.\n\u003cbr /\u003e\nQuero distância de tudo que não me faz bem, de tudo que não me traz paz.\u003cbr /\u003e\n\nEstou cansada de falsas ilusões de pessoas fingindo se importar, \npessoas fingindo me amar, quero pessoas verdadeiras perto de mim, \npessoas que realmente chegue pra ficar e somar, pessoas que não usem o \n\"Eu te amo\" da boca pra fora, pessoas que sejam sincera quando se trata \nde sentimento. Que chegue pra completar minha loucura kk e não me \nenlouquecer mais.\u003cbr /\u003e\n\u003cbr /\u003e\nEu\u003cbr /\u003e\n\u003cbr /\u003e\n&nbsp;\u003cimg alt=\"Resultado de imagem para moça  tumblr\" class=\"irc_mi\" data-iml=\"1551733661904\" height=\"316\" src=\"https://66.media.tumblr.com/892cbd57f43a36be54fb2140ca9d5057/tumblr_p4twoz6ddy1rb2igoo1_500.png\" style=\"margin-top: 0px;\" width=\"320\" /\u003e",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/892cbd57f43a36be54fb2140ca9d5057/tumblr_p4twoz6ddy1rb2igoo1_500.png"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9029615974600562009/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0yNlQyMDo1Njo0My4yMzBa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0yN1QyMTozODowMS42MzRa\""
 }
