@@ -1,7 +1,69 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEY4rTBgZUtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYgqz4gZUtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "8801595744425739207",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-28T19:14:00-03:00",
+   "updated": "2019-04-28T19:14:02-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU2NDg5NjQyNTgzCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/minha-prosa_28.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8801595744425739207",
+   "title": "Minha Prosa",
+   "content": "É na escuridão onde me encontro, onde não enxergo a minha face mas vejo à minha alma!\u003cbr /\u003e\nReflito e percebo que mesmo com medo temos que enfrentar o desespero; \nque mesmo do avesso temos um lado \"perfeito\"; onde se têm um fim há de \nter um recomeço.\u003cbr /\u003e\nProseando palavras bonitas para colorir esse \"cadim\" de vida, sempre é \nbom elevar a auto-estima e transmitir o que há de bom na vida; pois o \nmundo anda cruel demais, então, vale a pena arrancar esse pouquinho de \npaz?\u003cbr /\u003e\nNão podemos perder o que nos faz bem, sem ao menos tentar consegui-lo também.\u003cbr /\u003e\nNão podemos prender o que não quer ficar, deixa ir, vale a pena \nrespirar... Tanto um, como outro, sempre é bom o novo experimentar. \nDeixa fluir, pois assim é a vida, uns vão, uns ficam, e outros nunca \nchegam...e outros nunca se vão!\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao\u003cbr /\u003e\n\u003cbr /\u003e\nGabriele Oliveira\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1556489628258\" height=\"379\" src=\"https://kippkits.info/wp-content/uploads/2018/09/arvore-de-natal-de-pisca-pisca-melhor-pisca-pisca-led-rosa-natal-100-lampadas-festa-casa-of-arvore-de-natal-de-pisca-pisca.jpg\" style=\"margin-top: 0px;\" width=\"379\" /\u003e ",
+   "images": [
+    {
+     "url": "https://kippkits.info/wp-content/uploads/2018/09/arvore-de-natal-de-pisca-pisca-melhor-pisca-pisca-led-rosa-natal-100-lampadas-festa-casa-of-arvore-de-natal-de-pisca-pisca.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8801595744425739207/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7744395591147155961",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-28T19:06:00-03:00",
+   "updated": "2019-04-28T19:06:56-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU2NDg5MjE2NDg4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/lados-opostos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7744395591147155961",
+   "title": "Lados Opostos",
+   "content": "Vivo dividida, entre o que sou dentro e o que sou fora. Sou duas pessoas\n opostas. Poucos conhecem meu eu interno, meu eu real. O que veem é \napenas uma farsa, uma moldura, uma proteção... Pois Se dentro eu falo \nmuito, fora nem um pouco. Se dentro eu grito, fora silencio. Se dentro \neu queimo, fora congelo. Se dentro sou furacão, fora calmaria. Se dentro\n choro, fora sorrio. Se dentro sou verão, fora sou inverno. Se dentro \nsou dia, fora noite. Se dentro sou euforia, fora depressão. Se dentro \nsou um oceano, fora sou nada menos que uma poça de lama. Mas por vezes \nou outras, se estou confortável com alguém então ela enfim passa a \nconhecer-me e quem sabe amar-me de verdade, por quem sou... e não por \nquem aparento ser.\u003cbr /\u003e\n\u003cbr /\u003e\nIananara\u003cbr /\u003e\n\u003cbr /\u003e\n#Refletao\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1556489200919\" height=\"379\" src=\"https://i.pinimg.com/originals/0b/df/7e/0bdf7ee758410bda73123fb011c520be.jpg\" style=\"margin-top: 0px;\" width=\"284\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/0b/df/7e/0bdf7ee758410bda73123fb011c520be.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7744395591147155961/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "8013602922756886657",
@@ -6029,64 +6091,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4137394016216163433/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2546500547892154325",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-05T20:32:00-03:00",
-   "updated": "2019-03-05T20:32:52-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxODI4NzcyNDA1Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/um-brinde.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2546500547892154325",
-   "title": "Um Brinde ",
-   "content": "Um brinde aos amores passados\u003cbr /\u003e\naqueles que nos fizeram sofrer.\u003cbr /\u003e\nUm brinde aos amores futuros\u003cbr /\u003e\neles me farão ver\u003cbr /\u003e\nQue o passado ficou lá atrás,o futuro vai render mais.\u003cbr /\u003e\nUm brinde a nós,amores perdidos em milhas de \"eu te amo\" falsos.\u003cbr /\u003e\num brinde à tudo o que já passamos,a tudo o que estamos passando,é ao que vamos passar.\u003cbr /\u003e\nSe minha fé permitir,serão tempos melhores que os atuais.Por favor,exclua meu número e não me ligue mais.\u003cbr /\u003e\n\u003cbr /\u003e\nBeatriz\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para um brinde tumblr\" class=\"irc_mi\" data-iml=\"1551828758335\" height=\"320\" src=\"https://catarsese.files.wordpress.com/2015/09/tumblr_nu2joistnx1r55s91o1_540.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
-   "images": [
-    {
-     "url": "https://catarsese.files.wordpress.com/2015/09/tumblr_nu2joistnx1r55s91o1_540.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2546500547892154325/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "9088083064195720392",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-05T20:29:00-03:00",
-   "updated": "2019-03-05T20:29:23-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxODI4NTYzNjg0Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/menina-moca.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9088083064195720392",
-   "title": "Menina Moça",
-   "content": "A menina que sorri com os olhos\u003cbr /\u003e\nAquela que uns dias atrás\u003cbr /\u003e\nPensava se um dia conseguiria ser feliz\u003cbr /\u003e\nE agora entendeu que\u003cbr /\u003e\nA única pessoa que ela deve amar\u003cbr /\u003e\nÉ ela mesma.\u003cbr /\u003e\nA menina que se deixava influenciar\u003cbr /\u003e\nPelas intromissões de outrem em sua vida\u003cbr /\u003e\nDesapegava-se da sua felicidade\u003cbr /\u003e\nPara preencher o vazio de uma pessoa\u003cbr /\u003e\nQue nunca se esvaziou para ela.\u003cbr /\u003e\nMenina Alice, sonha demais\u003cbr /\u003e\nE por causa disso é muito criticada\u003cbr /\u003e\nQual o problema de sonhar?\u003cbr /\u003e\nNão ligue para isso, menina\u003cbr /\u003e\nPois no fundo alguém acredita\u003cbr /\u003e\nQue no sonho mais bobo, há sinceridade.\u003cbr /\u003e\nA moça que vive sorrindo\u003cbr /\u003e\nE meu Deus... que sorriso lindo!\u003cbr /\u003e\nNunca tinha parado para reparar\u003cbr /\u003e\nO tesouro que esconde por trás dos lábios\u003cbr /\u003e\nMenina, por favor!\u003cbr /\u003e\nNunca pare de sorrir, o mundo precisa de luz.\u003cbr /\u003e\nA menina moça que é apaixonada\u003cbr /\u003e\nMas, não use isso para subestimá-la\u003cbr /\u003e\nPorque por trás de um rosto angelical,\u003cbr /\u003e\nEstá uma mulher. E que mulher!\u003cbr /\u003e\nCorra, viva e sorria. Seja sempre essa moça\u003cbr /\u003e\nPor quem me encantei\u003cbr /\u003e\nDesde o dia que te conheci.\u003cbr /\u003e\n\u003cbr /\u003e\nVictória Agard ",
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9088083064195720392/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0yN1QyMTozODowMS42MzRa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0yOFQyMjoxNDowMi41ODNa\""
 }
