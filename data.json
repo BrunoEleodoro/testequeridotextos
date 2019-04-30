@@ -1,7 +1,69 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYgqz4gZUtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEY4ev_gpUtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "3091200676153042869",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-30T16:39:00-03:00",
+   "updated": "2019-04-30T16:39:27-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU2NjUzMTY3MDQ3Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/eu-me-amo_30.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3091200676153042869",
+   "title": "Eu Me Amo.",
+   "content": "Eu não queria ter que ser a pessoa que você se arrependeu de ter perdido\n porque percebeu depois da hora que essa pessoa era a que te completava,\n aquela que não só despia as tuas roupas, mas a tua alma também! não \nqueria ser a pessoa que te ensinou a valorizar quem está do seu lado. \nnão queria precisar ir embora!\u003cbr /\u003e\n\u003cbr /\u003e\nEu tô começando mais um texto, e pra deixar bem claro, dessa vez não é sobre você. é sobre mim.\u003cbr /\u003e\neu duvido que você não sinta falta do meu zelo, do meu carinho e da \nminha compreensão. duvido que não sinta falta de me contar sobre como o \nseu dia foi entediante, ou então, as suas histórias malucas que sempre \nforam pra mim melhor do que qualquer seriado. duvido que você não sinta \nminha falta nas garotas que você pega vazias igual a sua liberdade, que \nnunca te serviu pra absolutamente nada!\u003cbr /\u003e\ne talvez, esse seja nosso problema. eu sou completa de mais pra sua vida\n rotineira. eu sinto, eu penso, eu falo, eu sou intensa e eu te conheço.\n acho que isso te assusta né?\u003cbr /\u003e\n\u003cbr /\u003e\nEu me diminui pra você ficar maior, pra você não perceber então que eu já estava fazendo parte da sua vida.\u003cbr /\u003e\neu queria ligar pra você e te falar sem pausas tudo o que eu fico um \ntempão ensaiando toda vez que você me magoua. mas eu nunca digo nada pra\n não te magoar, afinal, você não faz por mal. e talvez esse, seja o pior\n mal de todos os outros, simplesmente por ser natural!bobagem. como se algum ensaio no mundo fosse me deixar firme depois de ouvir a sua voz! então é isso, tô te escrevendo. afinal, eu sempre fui mais segura com as palavras.\u003cbr /\u003e\n\u003cbr /\u003e\nmas esclarecendo de novo, esse texto é sobre mim. sobre como eu sou \nincrível demais e igual à mim, tá difícil de achar. sobre como eu não \npreciso usar 5 centímetros de shorts e um decote no umbigo pra me sentir\n mulher. sobre muitas coisas, mas principalmente sobre como só eu \nconsigo te fazer entrar em êxtase à tal ponto.\u003cbr /\u003e\u003cbr /\u003e\n&nbsp;Enquanto você fica brincando de não saber o que quer, eu tô começando a \nreconhecer que eu sou amor e ainda que não seja o seu, essa é a minha \nessência!\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nSarah Soares\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1556653083966\" height=\"379\" src=\"https://ae01.alicdn.com/kf/HTB1le8FbqmgSKJjSspiq6xyJFXaz/Don-t-jogar-sozinho-T-camisa-moletom-fazer-tumblr-camiseta-cinzas-ver-o-tees-t-camisa.jpg\" style=\"margin-top: 0px;\" width=\"373\" /\u003e ",
+   "images": [
+    {
+     "url": "https://ae01.alicdn.com/kf/HTB1le8FbqmgSKJjSspiq6xyJFXaz/Don-t-jogar-sozinho-T-camisa-moletom-fazer-tumblr-camiseta-cinzas-ver-o-tees-t-camisa.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3091200676153042869/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5790972739127101629",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-04-30T16:32:00-03:00",
+   "updated": "2019-04-30T16:32:05-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU2NjUyNzI1NTYxCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/04/tudo-que-eu-queria_30.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5790972739127101629",
+   "title": "Tudo Que Eu Queria.",
+   "content": "Tudo que eu queria agora, era ter seu abraço, sentir seu toque, tocar \nseu cabelo mais uma vez, ver esse seu sorriso radiante... tudo que eu \nqueria era ter você aqui, do meu lado mais uma vez. Mas infelizmente a \nvida é injusta, e nos prega muitas peças. Numa dessas pegadinhas a vida \nte roubou de mim, levou o bem mais precioso que eu tinha... você. Sinto \nmuitas saudades sua, mas sei que agora você está em um lugar bom, muito \nmelhor que aqui, e isso de certa forma me consola um pouco. Lembro de \nquando você me disse que se morresse primeiro seria meu anjo da guarda, \neu respondi sorrindo: \"-Faça um bom trabalho!\". Tudo que eu queria era \nvoltar no tempo e te dizer: \"-Você ainda vai viver muito, você só \nprecisa não virar as costas para aquele seu amigo!\". Perdoa-me por não \nter sido a melhor pessoa, sei que eu poderia fazer mais pela gente! Tudo\n que eu queria, era dizer mais uma vez pra você o quanto eu te amo... só\n pra ouvir de você mais uma vez um \"Eu te amo mais, minha vida!\"\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nJulia\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para abraçado tumblr\" class=\"irc_mi\" data-iml=\"1556652710210\" height=\"293\" src=\"https://66.media.tumblr.com/c01f5cc70c6fd1b6184b161ecff60c6b/tumblr_n4mkigsgft1rmo1kjo1_400.jpg\" style=\"margin-top: 43px;\" width=\"400\" /\u003e",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/c01f5cc70c6fd1b6184b161ecff60c6b/tumblr_n4mkigsgft1rmo1kjo1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5790972739127101629/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "8801595744425739207",
@@ -6029,69 +6091,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4713802530887700724/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "1872818798756110013",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-05T20:57:00-03:00",
-   "updated": "2019-03-05T20:57:29-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxODMwMjQ5ODgwCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/o-amor-que-te-dei-e-voce-jogou-fora.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1872818798756110013",
-   "title": "O amor que te dei e você jogou fora ",
-   "content": "Eu, na verdade não sei porque você fez isso comigo... com nós... Sabe, \nvocê me disse tantas vezes que eu era a vilã da nossa história, que por \num minuto, eu já estava pensando que era mesmo. Você sempre disse tantas\n vezes que o problema era eu, que eu simplesmente me culpei todas as \nvezes que brigávamos, e isso me machucava e ainda machuca tanto que eu \nnão pude suportar.\u003cbr /\u003e\no único vilão da nossa história era você, que mesmo sabendo disso, me \nfazia sentir culpada pela nossa situação. Você sabia que eu chorava toda\n a noite me perguntando o que eu fiz de errado para não dar certo. Você \nsabia que minha alto estima diminuía por causa de julgamentos que você \nfazia  sem nem mesmo me conhecer direito.\u003cbr /\u003e\nMas agora não se preocupe, você está livre de mim. E eu me arrependo de \nnão ter te livrado, no primeiro dia que seus lábios frios se tocaram com\n os meus quentes, e assim esfriando-os junto com meu coração.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para amor jogado fora tumblr\" class=\"irc_mut\" data-iml=\"1551830237335\" height=\"223\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzAjn-w6wIEcvpvwWfRazCmivazEG0d4YCO55Cwb-2-yS79e_9MA\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
-   "images": [
-    {
-     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzAjn-w6wIEcvpvwWfRazCmivazEG0d4YCO55Cwb-2-yS79e_9MA"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1872818798756110013/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4137394016216163433",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-05T20:44:00-03:00",
-   "updated": "2019-03-05T20:44:44-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUxODI5NDg0MjQzCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/o-amor-da-minha-vida.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4137394016216163433",
-   "title": "O amor da minha vida.",
-   "content": "Eu fiquei matutando certas frases que agora estou ouvindo todos os dias,\n como por exemplo...\"vc é o amor da minha vida\", já pararam para pensar o\n tanto que essa pequena frase é bonita e o tanto de sentimento que ela \ncarrega? Não é apenas uma frase, é uma promessa, a promessa de que eu \nirei te amar por toda a minha vida, então consequentemente você é o amor\n que minha vida procurava, você é a paz que minha alma precisava, você é\n alegria que meu ser anseia, porque você é o amor da minha vida.\u003cbr /\u003e\nUma outra frase é...\"eu te amo\", esta ainda não consegui encontrar as \npalavras corretas para descrever, porque o amor é estranho ele te \nenvolve e te pega de surpresa, e nos carrega por todas as dificuldades, \nporque a única opção de salvação que o mundo tem é oq muitos não \nacreditam...O AMOR VERDADEIRO não só um parceiro para a sua vida, mas \nsim amar as pessoas ao seu redor, se no mundo houvesse mais amor não \nteríamos tanta dor, afinal dor é sinônimo de amor.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nNatalie\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para pensante tumblr\" class=\"irc_mi\" data-iml=\"1551829470972\" height=\"204\" src=\"https://2.bp.blogspot.com/-K0WkutuQtgI/TzxmC3NUEDI/AAAAAAAAAHw/XdxtLsgQUNs/s320/304769_271641572849167_241947172485274_1173939_5520733_n.jpg\" style=\"margin-top: 45px;\" width=\"320\" /\u003e",
-   "images": [
-    {
-     "url": "https://2.bp.blogspot.com/-K0WkutuQtgI/TzxmC3NUEDI/AAAAAAAAAHw/XdxtLsgQUNs/s320/304769_271641572849167_241947172485274_1173939_5520733_n.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4137394016216163433/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0yOFQyMjoxNDowMi41ODNa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNC0zMFQyMDowMDowMS41NDFa\""
 }
