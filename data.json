@@ -1,7 +1,69 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYoLThpJYtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYxbLspJYtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "6530448819602498987",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-07T17:19:00-03:00",
+   "updated": "2019-05-07T17:19:41-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3MjYwMzgxMDkwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/recomece.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6530448819602498987",
+   "title": "Recomece!",
+   "content": "Quero ser leve e poder me livrar de todas as coisas que me sobrecarregam, tem sido tempos difíceis.\u003cbr /\u003e\nPreciso sentir a liberdade dentro de mim, a brisa leve vindo ao meu rosto junto da beleza que a vida tem. Momentos difíceis nos confundem com a ingratidão mas à todo tempo devemos ser gratos pela vida que nós temos.\u003cbr /\u003e\nÀs vezes o coração dói, parece que a vida perde todo o sentido porém aos\n poucos reconhecemos que não. Pois o sol volta amanhã pra ultrapassar o \nvidro de nossas janelas e iluminar o nosso amanhecer. Ele sempre estará \nlá, de novo, de novo e de novo. Ele nos dá uma nova chance, então por \nque não tentar de novo?\u003cbr /\u003e\n\u003cbr /\u003e\n#Conselho\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nPaula Sales\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para superei neon tumblr\" class=\"irc_mi\" data-iml=\"1557260297903\" height=\"379\" src=\"https://data.whicdn.com/images/323115191/large.jpg\" style=\"margin-top: 0px;\" width=\"379\" /\u003e ",
+   "images": [
+    {
+     "url": "https://data.whicdn.com/images/323115191/large.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6530448819602498987/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1990577222455594939",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-07T17:10:00-03:00",
+   "updated": "2019-05-07T17:10:58-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3MjU5ODU4MTg3Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/o-dia-que-deixei-voce-partir.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1990577222455594939",
+   "title": "O Dia Que Deixei Você Partir.",
+   "content": "Foi o pior dia da minha vida, deixar ir embora quem já fazia morada em \nmeu coração, mas não foi uma escolha só minha, eu precisava fazer isso, \nnossa relação estava tóxica demais, todos os nossos amigos tentavam nos \navisar, mas estávamos cegos desse \"amor\", é esse amor, pra onde ele foi?\n Será que ele realmente existia? E nossas promessas? Onde foram parar? E\n nossos sonhos? Sumiu? Cadê todo aquele amor que você dizia sentir por \nmim? Ele ainda habita em você? Pois em mim ele ainda está vivo. Meu \ncoração gela só em ouvir teu nome, a cada mensagem sua, meu coração \nacelera ainda mais, e você, será que ainda ouve falar de mim? Qual é sua\n reação quando ouve meu nome? Sei que são muitas perguntas, mas eu \npreciso de respostas para poder viver em paz. Me diz aí, será que valeu a\n pena passar pelo que passamos e ter acabado desse jeito? Eu te deixei \npartir, mas não foi apenas uma escolha minha.\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nEduarda Cecília \u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1557259813815\" height=\"281\" src=\"https://66.media.tumblr.com/e7f96b8b7c7136d745bbf16d4294f55c/tumblr_ow6fzz7FT91w3ijdno1_500.png\" style=\"margin-top: 49px;\" width=\"500\" /\u003e \u003cbr /\u003e\n\u003cbr /\u003e",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/e7f96b8b7c7136d745bbf16d4294f55c/tumblr_ow6fzz7FT91w3ijdno1_500.png"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1990577222455594939/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "820708388327342228",
@@ -6044,69 +6106,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6681705656947024977/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3152654172900205324",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-09T19:36:00-03:00",
-   "updated": "2019-03-09T19:36:06-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMTcwOTY2MTY3Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/nao-miinta-para-voce-mesmo.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3152654172900205324",
-   "title": "Não miinta para você mesmo.",
-   "content": "\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\"Tente,\n por um momento, aceitar a idéia de que você não é o que acredita ser, \nque você se superestima, que, de fato, mente para si mesmo. Que sempre \nmente a si mesmo, em todos os momentos, o dia todo, a vida toda. Que \nessa mentira o governa a ponto de você não poder controlá-la mais. Você é\n vítima da mentira! Você mente em todo lugar. A sua relação com os \noutros: mentiras. A educação que dá, as co\u003cspan class=\"text_exposed_show\"\u003envenções:\n mentiras. Os seus ensinamentos: mentiras. As suas teorias, a sua arte: \nmentiras. A sua vida social, a sua vida familiar: mentiras. E o que você\n pensa de si mesmo: mentiras, também. Mas você nunca se detém no que \nestá fazendo ou dizendo, porque acredita em si mesmo. Você tem de \npermanecer dentro e observar. Observe sem preconceber nada, aceitando \npor um tempo essa idéia de mentir. E se observar nesse sentido, pagando \nconsigo mesmo, sem autopiedade, abandonando todas as suas supostas \nriquezas por um momento de realidade, talvez, de repente, você veja algo\n que nunca viu até então. E verá que você é diferente do que pensa que \né. Verá que você é dois: um que não é, mas que toma o lugar e faz o \npapel do outro. E um que é, embora tão fraco, tão sem substância que, \nassim que aparece, imediatamente desaparece, porque não suporta \nmentiras. A menor mentira o faz desfalecer. Ele não luta, não resiste, é\n derrotado de antemão. Aprenda a olhar até que veja a diferença entre as\n suas duas naturezas, até que tenha percebido as mentiras, o engano em \nsi mesmo. Quando tiver visto as suas duas naturezas, nesse dia, dentro \nde você, a verdade nascerá.\"\u003cbr /\u003e (\"A Primeira Iniciação\" by Jeanne Salzmann)\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e\u003cimg alt=\"Nenhuma descrição de foto disponível.\" aria-busy=\"false\" class=\"spotlight\" height=\"320\" src=\"https://scontent.fcpq14-1.fna.fbcdn.net/v/t1.0-9/53475225_1988781694752012_194682354902499328_n.jpg?_nc_cat=107&amp;_nc_ht=scontent.fcpq14-1.fna&amp;oh=36272522252dff9a39187acbdc048d7c&amp;oe=5D08E926\" style=\"height: 746px; width: 618px;\" width=\"265\" /\u003e \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://scontent.fcpq14-1.fna.fbcdn.net/v/t1.0-9/53475225_1988781694752012_194682354902499328_n.jpg?_nc_cat=107&_nc_ht=scontent.fcpq14-1.fna&oh=36272522252dff9a39187acbdc048d7c&oe=5D08E926"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3152654172900205324/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7797702916218093103",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-09T19:35:00-03:00",
-   "updated": "2019-03-09T19:35:04-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMTcwOTA0MDkyCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/reflexo.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7797702916218093103",
-   "title": "Reflexo",
-   "content": "\"Perceba que seu mundo é apenas um reflexo de você mesmo, e pare de \nencontrar falhas no reflexo. Ponha a atenção em você, e descubra quem \npresta atenção.\"\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n(Sri Nisargadatta Maharaj)\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"A imagem pode conter: 1 pessoa\" aria-busy=\"true\" class=\"spotlight\" height=\"142\" src=\"https://scontent.fcpq14-1.fna.fbcdn.net/v/t1.0-9/53398529_1988782701418578_3811993924302536704_n.jpg?_nc_cat=108&amp;_nc_ht=scontent.fcpq14-1.fna&amp;oh=21181e1c218bb5d687a4d0764549d8c7&amp;oe=5D171C37\" style=\"height: 651px; width: 914px;\" width=\"200\" /\u003e ",
-   "images": [
-    {
-     "url": "https://scontent.fcpq14-1.fna.fbcdn.net/v/t1.0-9/53398529_1988782701418578_3811993924302536704_n.jpg?_nc_cat=108&_nc_ht=scontent.fcpq14-1.fna&oh=21181e1c218bb5d687a4d0764549d8c7&oe=5D171C37"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7797702916218093103/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0wNlQyMDozOTo0MC43Nzha\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0wN1QyMDoxOTo0MS4wOTBa\""
 }
