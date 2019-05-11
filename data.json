@@ -1,7 +1,131 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYofnA0ZYtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYwfD30ZYtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "2816692386117943621",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-11T18:19:00-03:00",
+   "updated": "2019-05-11T18:19:59-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3NjA5NTk5MTQzCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/falta-algo-em-mim.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2816692386117943621",
+   "title": "Falta Algo Em Mim.",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nTenho tantas pergunta, sem resposta, tantas palavras não ditas,tantos \nsofrimento carrego nas costa, às vezes paro para pensa porque eu nasci? \npor que  eu existo? Desde pequena eu só sofro às pessoas só mim machucam\n e mim desprezo  mim\n tratam como lixo, só mim querem quando precisam de algo realmente sou \nnecessário aqui. isso não importa mais já superei tudo isso me tornei \numa pessoa fria sem sentimentos e sem coração eu não preciso mais disso,\n pois agora sou forte não tenho mais medo ou frustrações foi isso que às\n pessoas mim tornaram um maquina sem coração pois destruíram ele deixam \nem pedaços incapaz de ser consertado me tornaram um mostro sem alma que \nvive a penas na escuridão que por mais que queira enxerga a luz ou \nalcançar já é tarde demais  não tenho força o suficiente para consegui \npois a trevas tomaram conta de mim.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\n#Tristeza \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nRhana Ribeiro\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para triste neon tumblr\" class=\"irc_mi\" data-iml=\"1557573119261\" height=\"379\" src=\"https://static.tumblr.com/83817fe4fa92bc3c6a146d49ef6e76bb/atyrqm6/Pocp61unk/tumblr_static_filename_640_v2.png\" style=\"margin-top: 0px;\" width=\"526\" /\u003e \u003c/div\u003e\n\u003cbr /\u003e",
+   "images": [
+    {
+     "url": "https://static.tumblr.com/83817fe4fa92bc3c6a146d49ef6e76bb/atyrqm6/Pocp61unk/tumblr_static_filename_640_v2.png"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2816692386117943621/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "9184210677054185995",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-11T18:10:00-03:00",
+   "updated": "2019-05-11T18:10:00-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3NjA5MDAwODMwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/solidao.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9184210677054185995",
+   "title": "Solidão",
+   "content": "As vezes,me sinto triste com sigo mesma,me sinto sozinha,sem \nninguém.Como se fosse um poço e eu estaria me afogando,é difícil \nexpressar em palavras o que eu realmente estou sentindo,é algo que \nninguém entende,e que conselhos,frases motivacionais...Não vão me \najudar,não entendem o que eu tô passando,sei lá,me sinto confusa de \npensar assim.\u003cbr /\u003e\n#Tristeza\u003cbr /\u003e\n\u003cbr /\u003e\nAutor Desconhecido\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1557572943714\" height=\"379\" src=\"https://i.pinimg.com/originals/df/41/2c/df412cf85c0b41474db25dab824c6293.jpg\" style=\"margin-top: 0px;\" width=\"268\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/df/41/2c/df412cf85c0b41474db25dab824c6293.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9184210677054185995/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3480918410785651939",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-11T17:41:00-03:00",
+   "updated": "2019-05-11T17:48:19-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3NjA3Njk5OTU1Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/incontrolavel.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3480918410785651939",
+   "title": "Incontrolável",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nEu me recusava a desabafar com os seres humanos, e isso não era e nunca foi uma opção.\u003cbr /\u003e\nAs músicas me entendiam muito melhor do que eu poderia imaginar, sabiam \no que eu sentia, e a cada melodia dita, as lágrimas rolavam um grito na \nalma a incendiava. Porque toda vez que eu me abria doía, permaneci tantos anos da minha \nvida me remoendo por dentro com a intenção de morrer com o que sei. Fui fraca de mais, incapaz de mais e idiota de mais para conseguir fazer isso. O furacão estava sob controle, mas um dia eu o deixei escapar, deixando a bagunça para que eu o arrumasse. Bagunçando desde um simples sorriso até a última lágrima.\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nCibely\u003cbr /\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cimg alt=\"Resultado de imagem para musica neon tumblr\" class=\"irc_mi\" data-iml=\"1557571570978\" height=\"379\" src=\"https://i.pinimg.com/originals/1d/bc/65/1dbc65be5e4ce9f07cf8f37ddc7f8fa0.jpg\" style=\"margin-top: 0px;\" width=\"267\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/1d/bc/65/1dbc65be5e4ce9f07cf8f37ddc7f8fa0.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3480918410785651939/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5586975569885793162",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-11T17:37:00-03:00",
+   "updated": "2019-05-11T17:37:24-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3NjA3MDQ0NTY5Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/voce-e-perfeita-do-seu-jeito.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5586975569885793162",
+   "title": "Você É Perfeita Do Seu Jeito!",
+   "content": "\u003cspan style=\"font-size: small;\"\u003eSe você é uma garota e está lendo isso, preste atenção. Ei, você é \nlinda! Nunca deixe que ninguém nesse mundo te deixe pra baixo, te fale \ncoisas somente pra te fazer chorar. Seja forte, pode ser difícil mais \nnão é impossível. Não existem garotas feias, existem belezas diferentes.\n Se você acha feia, gorda, baixa, cheia de espinha, magra demais, alta \ndemais e essas coisas aí. Saiba que isso faz de você única, ninguém \nnesse mundo pode ser igual a você, nem que queira. Você é perfeita aos \nolhos de alguém que te ama demais, não fique por aí dissendo coisas \nsobre você que não são verdade. E eu repito: você é linda! Aprenda a ser\n feliz com quem é como você é. Não mude só pra agradar alguém, porque \npor mais que você faça tudo direitinho e seja “perfeita” sempre haverá \nalguém para te criticar. Esqueça o cabelo perfeito, o corpo perfeito… \nIsso não existe. Esse é um padrão de beleza que a sociedade define como \nperfeito, o padrão de pessoas que não são nada daquilo que você pensa \nque são. Não se esqueça que você é especial, tem o seu valor, você é insubstituível. Ninguém nesse mundo é perfeito, na verdade, ninguém \nnesse mundo está perto disso! Você é a coisa mais linda de Deus, cada \ndetalhe do seu corpo, sua personalidade, cada marca, cada detalhe de \nvocê foi muito bem pensado por alguém que te acha perfeita. Não importa \nse você é gorda, magra, baixa, alta, popular, nerd, negra ou branca. \nVocê é única! Por favor, nunca se esqueça disso.&nbsp;\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan style=\"font-size: small;\"\u003e#Amor \u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan style=\"font-size: small;\"\u003ePiggley \u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan style=\"font-size: small;\"\u003e\u003cimg alt=\"Resultado de imagem para amor proprio tumblr\" class=\"irc_mi\" data-iml=\"1557570935500\" height=\"260\" src=\"https://www.modices.com.br/wp-content/uploads/2017/06/amor-proprio-e-resistencia-1-370x260.jpg\" style=\"margin-top: 60px;\" width=\"370\" /\u003e \u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://www.modices.com.br/wp-content/uploads/2017/06/amor-proprio-e-resistencia-1-370x260.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5586975569885793162/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "4286936127187417733",
@@ -40,15 +164,15 @@
     "id": "2771518682926329856"
    },
    "published": "2019-05-09T17:18:00-03:00",
-   "updated": "2019-05-09T17:18:25-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3NDMzMTA1MzcxCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "updated": "2019-05-11T18:32:30-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3NjEwMzUwNTgyCm9mZnNldDogLTEwODAwMDAwCg\"",
    "url": "http://queridotextos.blogspot.com/2019/05/ate-quando-o-amor-reinar-sobre-nos-dois.html",
    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2646053727174380736",
    "title": "Até Quando O Amor Reinar Sobre Nós Dois (A.M)",
-   "content": "\n\nImagina uma amizade que começou a 2 anos e 1 mês, durante \nesse tempo você se acostumar em conversa com uma certa pessoas nesse \ncaso eu vou colocar 2 nomes fictício, Ana e Messias esses foram o nome \nque eu escolhi pra contar essa história de amor e confusão.\u003cbr /\u003e\n\u003cbr /\u003e\n\nA 2 anos e 1 mês eu conheci a Ana no Facebook por um grupo de \namizades, até aí tudo bem, começamos a conversar todos os dias porém ela\n não era do mesmo estado que eu morava, aí eu fazia minhas coisas e elas\n a delas, a gente contava dos nossos relacionamentos frustrado etc.\u003cbr /\u003e\n\u003cbr /\u003e\n\nDepois de uns tempos ela começou a ter ciúmes das minhas amizades, e \naí começou a nossa primeira briga na nossa amizade, eu entendi os ciúmes\n delas porquê ela mim via como 1 opção pra tudo, e literalmente eu teria\n parado de da atenção a ela pra conversar com uma amiga, que estava \ntriste naquele dia, paramos de conversar por um tempo, mas eu acho que o\n destino sempre quis a gente juntos, nossos caminho se cruzavam sempre, \nde alguma maneira que eu pensava que o universo conspirava ao nosso \nfavor..\u003cbr /\u003e\n\u003cbr /\u003e\n.\u003cbr /\u003e\n\nEla conseguiu superar essa primeira briga, mas o ciúmes continua o \nmesmo ou tá aumentado, por que a cerca de uns 7 meses atrás começamos a \nfalar sobre amor, não de amigo, mas sim de casal, começamos a imaginar o\n nosso futuro juntos, os sonhos delas virou os meus sonhos, assim como \nos meu virou os dela, nos tem uma conexão que eu sinceramente não sei \nexplicar por inteiro...\u003cbr /\u003e\n\nMas temos uns obstáculos muito difícil de superar, ela tá em um \nrelacionamento que não está dando certo, mas ela não consegue dá um \nbasta nisso, porque como eu disse a gente mora muito longe um do outro, e \npor incrível que pareça ficou mais distante ainda depois que a minha \nfamília decidiu de vim pra SP, ela tem muito medo de largar tudo por \nmim, e eu entendo o lado dela, eu tô sendo paciente o bastante para \nesperar o nosso futuro eu vou continuar assim com ela até esse amor \nexistir dentro de mim, mas sinceramente eu não sei o que vai ser da \nminha vida sem aquela garota, ela me completa por inteiro, tá sendo \ndifícil pra mim isso tudo mais eu prometi que vou esperar ela, a gente \ntá com uma plano de eu ir ver ela no aniversário dela, essa é a data \npredestinada para vemos ser continuamos Ou não, estamos mantendo  essa \namor vivo dentro de nós, se não dar certo eu nunca vou ser o mesmo, Mas \npensando pelo lado positivo eu vou ter a chance de segurar o meu mundo \nnas minhas mãos em novembro, tem dias que eu surto com toda essa \nconfusão mais é só ela abrir o sorriso dela que eu encontro paz e força \npra continuar. Eu amo essa garota e vou fazer de tudo pra a gente dá \ncerto, o futuro é nosso...\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\nAgora uma pequena frase de  reflexão ( pessoas não desista do seu \namor por causa de distância ou  por causa de confusão, se vc realmente \nAma uma pessoa  vc   mesmo que essa pessoa não seja sua namorada por \ncoisas da vida, só espera é tudo no tempo de Deus , só não  para de \nacreditar no amor por causa de obstáculos, se vocês realmente sonha com \numa pessoa no futuro insista, até o amor de vocês acabarem, só nos desacredita tão  fácil assim... ( o futuro pode ser de vocês e vocês não\n conseguem ter paciência)\u003cbr /\u003e\n\u003cbr /\u003e\n\nconexão: São Paulo e Roraima, A.M ❤️🌍💍\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nM.Nascimento\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1557433083437\" height=\"379\" src=\"https://i.pinimg.com/originals/ad/81/d8/ad81d89093331fbd0b7f5003f2c01f65.jpg\" style=\"margin-top: 0px;\" width=\"253\" /\u003e ",
+   "content": "Imagina uma amizade que começou a 2 anos e 1 mês, durante \nesse tempo você se acostumar em conversa com uma certa pessoas nesse \ncaso eu vou colocar 2 nomes fictício, Ana e Messias esses foram o nome \nque eu escolhi pra contar essa história de amor e confusão.\u003cbr /\u003e\n\u003cbr /\u003e\nA 2 anos e 1 mês eu conheci a Ana no Facebook por um grupo de \namizades, até aí tudo bem, começamos a conversar todos os dias porém ela\n não era do mesmo estado que eu morava, aí eu fazia minhas coisas e elas\n a delas, a gente contava dos nossos relacionamentos frustrado etc.\u003cbr /\u003e\n\u003cbr /\u003e\nDepois de uns tempos ela começou a ter ciúmes das minhas amizades, e \naí começou a nossa primeira briga na nossa amizade, eu entendi os ciúmes\n delas porquê ela mim via como 1 opção pra tudo, e literalmente eu teria\n parado de da atenção a ela pra conversar com uma amiga, que estava \ntriste naquele dia, paramos de conversar por um tempo, mas eu acho que o\n destino sempre quis a gente juntos, nossos caminho se cruzavam sempre, \nde alguma maneira que eu pensava que o universo conspirava ao nosso \nfavor..\u003cbr /\u003e\n\u003cbr /\u003e\n.\u003cbr /\u003e\nEla conseguiu superar essa primeira briga, mas o ciúmes continua o \nmesmo ou tá aumentado, por que a cerca de uns 7 meses atrás começamos a \nfalar sobre amor, não de amigo, mas sim de casal, começamos a imaginar o\n nosso futuro juntos, os sonhos delas virou os meus sonhos, assim como \nos meu virou os dela, nos tem uma conexão que eu sinceramente não sei \nexplicar por inteiro...\u003cbr /\u003e\nMas temos uns obstáculos muito difícil de superar, ela tá em um \nrelacionamento que não está dando certo, mas ela não consegue dá um \nbasta nisso, porque como eu disse a gente mora muito longe um do outro, e \npor incrível que pareça ficou mais distante ainda depois que a minha \nfamília decidiu de vim pra SP, ela tem muito medo de largar tudo por \nmim, e eu entendo o lado dela, eu tô sendo paciente o bastante para \nesperar o nosso futuro eu vou continuar assim com ela até esse amor \nexistir dentro de mim, mas sinceramente eu não sei o que vai ser da \nminha vida sem aquela garota, ela me completa por inteiro, tá sendo \ndifícil pra mim isso tudo mais eu prometi que vou esperar ela, a gente \ntá com uma plano de eu ir ver ela no aniversário dela, essa é a data \npredestinada para vemos ser continuamos Ou não, estamos mantendo  essa \namor vivo dentro de nós, se não dar certo eu nunca vou ser o mesmo, Mas \npensando pelo lado positivo eu vou ter a chance de segurar o meu mundo \nnas minhas mãos em novembro, tem dias que eu surto com toda essa \nconfusão mais é só ela abrir o sorriso dela que eu encontro paz e força \npra continuar. Eu amo essa garota e vou fazer de tudo pra a gente dá \ncerto, o futuro é nosso...\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nAgora uma pequena frase de  reflexão ( pessoas não desista do seu \namor por causa de distância ou  por causa de confusão, se vc realmente \nAma uma pessoa  vc   mesmo que essa pessoa não seja sua namorada por \ncoisas da vida, só espera é tudo no tempo de Deus , só não  para de \nacreditar no amor por causa de obstáculos, se vocês realmente sonha com \numa pessoa no futuro insista, até o amor de vocês acabarem, só nos desacredita tão  fácil assim... ( o futuro pode ser de vocês e vocês não\n conseguem ter paciência)\u003cbr /\u003e\n\u003cbr /\u003e\nconexão: São Paulo e Roraima, A.M ❤️🌍💍\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nM.Nascimento\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://2.bp.blogspot.com/-jdCPcGu8QFY/XNc_ZJCkQeI/AAAAAAAAwjQ/9SmGTp0j7UQ0VzQvpvuTr-u2EhVHctezwCLcBGAs/s1600/ad81d89093331fbd0b7f5003f2c01f65.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"845\" data-original-width=\"564\" height=\"400\" src=\"https://2.bp.blogspot.com/-jdCPcGu8QFY/XNc_ZJCkQeI/AAAAAAAAwjQ/9SmGTp0j7UQ0VzQvpvuTr-u2EhVHctezwCLcBGAs/s400/ad81d89093331fbd0b7f5003f2c01f65.jpg\" width=\"266\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cbr /\u003e ",
    "images": [
     {
-     "url": "https://i.pinimg.com/originals/ad/81/d8/ad81d89093331fbd0b7f5003f2c01f65.jpg"
+     "url": "https://2.bp.blogspot.com/-jdCPcGu8QFY/XNc_ZJCkQeI/AAAAAAAAwjQ/9SmGTp0j7UQ0VzQvpvuTr-u2EhVHctezwCLcBGAs/s400/ad81d89093331fbd0b7f5003f2c01f65.jpg"
     }
    ],
    "author": {
@@ -5982,131 +6106,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3022951875260893578/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3983641629531924913",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-10T21:52:00-03:00",
-   "updated": "2019-03-10T21:52:21-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMjY1NTQxNjExCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/va-arte-de-ser-feliz.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3983641629531924913",
-   "title": "A arte de ser feliz",
-   "content": "\u003cdiv class=\"frase fr0\" id=\"MjIzNTMw\"\u003e\nHouve um tempo em que minha janela se abriasobre uma cidade que parecia ser feita de giz.\u003cbr /\u003e\nPerto da janela havia um pequeno jardim quase seco.\u003cbr /\u003e\nEra uma época de estiagem, de terra esfarelada,\u003cbr /\u003e\ne o jardim parecia morto.\u003cbr /\u003e\nMas todas as manhãs vinha um pobre com um balde,\u003cbr /\u003e\ne, em silêncio, ia atirando com a mão umas gotas de água sobre as plantas.\u003cbr /\u003e\nNão era uma rega: era uma espécie de aspersão ritual, para que o jardim não morresse.\u003cbr /\u003e\nE eu olhava para as plantas, para o homem, para as gotas de água que \ncaíam de seus dedos magros e meu coração ficava completamente feliz.\u003cbr /\u003e\nÀs vezes abro a janela e encontro o jasmineiro em flor.\u003cbr /\u003e\nOutras vezes encontro nuvens espessas.\u003cbr /\u003e\nAvisto crianças que vão para a escola.\u003cbr /\u003e\nPardais que pulam pelo muro.\u003cbr /\u003e\nGatos que abrem e fecham os olhos, sonhando com pardais.\u003cbr /\u003e\nBorboletas brancas, duas a duas, como refletidas no espelho do ar.\u003cbr /\u003e\nMarimbondos que sempre me parecem personagens de Lope de Vega.\u003cbr /\u003e\nÁs vezes, um galo canta.\u003cbr /\u003e\nÀs vezes, um avião passa.\u003cbr /\u003e\nTudo está certo, no seu lugar, cumprindo o seu destino.\u003cbr /\u003e\nE eu me sinto completamente feliz.\u003cbr /\u003e\nMas, quando falo dessas pequenas felicidades certas,\u003cbr /\u003e\nque estão diante de cada janela, uns dizem que essas coisas não existem,\u003cbr /\u003e\noutros que só existem diante das minhas janelas, e outros,\u003cbr /\u003e\nfinalmente, que é preciso aprender a olhar, para poder vê-las assim.\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"MjIzNTMw\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"MjIzNTMw\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"MjIzNTMw\"\u003e\n#Felicidade \u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"MjIzNTMw\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cspan class=\"autor\"\u003e\nCecília Meireles\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan class=\"autor\"\u003e\u003cimg alt=\"Resultado de imagem para jardim tumblr\" class=\"irc_mi\" data-iml=\"1552265463088\" height=\"408\" src=\"https://static.tumblr.com/92202d5cf2f459689b50e8940b6cc20d/wynewpb/LEbo9ox9h/tumblr_static_2kgywv39l3uo4ow0804s0s4oc.jpg\" style=\"margin-top: 0px;\" width=\"408\" /\u003e \u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e",
-   "images": [
-    {
-     "url": "https://static.tumblr.com/92202d5cf2f459689b50e8940b6cc20d/wynewpb/LEbo9ox9h/tumblr_static_2kgywv39l3uo4ow0804s0s4oc.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3983641629531924913/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4697651756511767763",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-10T21:47:00-03:00",
-   "updated": "2019-03-10T21:47:34-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMjY1MjU0ODA4Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/a-idade-de-ser-feliz.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4697651756511767763",
-   "title": "A Idade de Ser Feliz",
-   "content": "\u003cdiv class=\"frase fr0\" id=\"NzcyNjc\"\u003e\n\u003cbr /\u003e\nExiste somente uma idade para a gente ser feliz \u003cbr /\u003e\nsomente uma época na vida de cada pessoa \u003cbr /\u003e\nem que é possível sonhar e fazer planos \u003cbr /\u003e\ne ter energia bastante para realizá-los \u003cbr /\u003e\na despeito de todas as dificuldades e obstáculos\u003cbr /\u003e\n\u003cbr /\u003e\nUma só idade para a gente se encantar com a vida \u003cbr /\u003e\ne viver apaixonadamente \u003cbr /\u003e\ne desfrutar tudo com toda intensidade \u003cbr /\u003e\nsem medo nem culpa de sentir prazer\u003cbr /\u003e\n\u003cbr /\u003e\nFase dourada em que a gente pode criar e recriar a vida \u003cbr /\u003e\nà nossa própria imagem e semelhança \u003cbr /\u003e\ne sorrir e cantar e brincar e dançar\u003cbr /\u003e\ne vestir-se com todas as cores \u003cbr /\u003e\ne entregar-se a todos os amores \u003cbr /\u003e\nexperimentando a vida em todos os seus sabores\u003cbr /\u003e\nsem preconceito ou pudor\u003cbr /\u003e\n\u003cbr /\u003e\nTempo de entusiasmo e de coragem \u003cbr /\u003e\nem que todo desafio é mais um convite à luta \u003cbr /\u003e\nque a gente enfrenta com toda a disposição de tentar algo novo, \u003cbr /\u003e\nde novo e de novo, e quantas vezes for preciso\u003cbr /\u003e\n\u003cbr /\u003e\nEssa idade, tão fugaz na vida da gente,\u003cbr /\u003e\nchama-se presente,\u003cbr /\u003e\ne tem apenas a duração do instante que passa ...\u003cbr /\u003e\n... doce pássaro do aqui e agora \u003cbr /\u003e\nque quando se dá por ele já partiu para nunca mais!\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"NzcyNjc\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cspan class=\"autor\"\u003e\nGeraldo Eustáquio de Souza\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan class=\"autor\"\u003e#Felicidade\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan class=\"autor\"\u003e(Saudações: Querido Textos)&nbsp;\u003c/span\u003e\u003cbr /\u003e\n\u003cspan class=\"autor\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1552265165695\" height=\"196\" src=\"https://www.dicasdemulher.com.br/wp-content/uploads/2013/08/tiara-de-flores-3.jpg\" style=\"margin-top: 4px;\" width=\"320\" /\u003e",
-   "images": [
-    {
-     "url": "https://www.dicasdemulher.com.br/wp-content/uploads/2013/08/tiara-de-flores-3.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4697651756511767763/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5318976905991238032",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-10T21:43:00-03:00",
-   "updated": "2019-03-10T21:43:50-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMjY1MDMwODkyCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/abrir-o-olho-e-dolorido-mas-e-necessario.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5318976905991238032",
-   "title": "Abrir o olho é dolorido mas é necessario.",
-   "content": "\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e“As\n pessoas têm muito medo daqueles que conhecem a si mesmos. Estes têm um \ncerto poder, uma certa aura e um certo magnetismo, um carisma capaz de \nlibertar os jovens, ainda cheios de vida, do aprisionamento tradicional…\u003cbr /\u003e\n O homem iluminado não pode ser escravizado — este é o problema — e não \npode ser feito prisioneiro… Todo gênio que tenha conhecido um pouco do \nseu íntimo está fadado a ser um pouco d\u003cspan class=\"text_exposed_show\"\u003eifícil\n de ser absorvido: ele deverá ser uma força perturbadora. As massas não \nquerem ser perturbadas, ainda que se encontrem na miséria; estão na \nmiséria, mas estão acostumadas com isso, e qualquer um que não seja um \nmiserável parece um estranho.\u003cbr /\u003e O homem iluminado é o maior forasteiro\n do mundo; ele parece não pertencer a ninguém. Nenhuma organização \nconsegue confiná-lo, nenhuma comunidade, nenhuma sociedade, nenhuma \nnação.”\u003cbr /\u003e (Osho)\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e\u003cbr /\u003e \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e#Conselho&nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e\u003cbr /\u003e (Saudações: Querido Textos)\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cspan class=\"text_exposed_show\"\u003e\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1552264953403\" height=\"408\" src=\"https://pics.me.me/abrir-os-olhos-pode-doer-mas-%C3%A9-necess%C3%A1rio-4024740.png\" style=\"margin-top: 0px;\" width=\"278\" /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://pics.me.me/abrir-os-olhos-pode-doer-mas-%C3%A9-necess%C3%A1rio-4024740.png"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5318976905991238032/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "1326232639743117989",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-10T21:39:00-03:00",
-   "updated": "2019-03-10T21:44:03-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMjY1MDQzNjQ0Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/mente.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1326232639743117989",
-   "title": "Mente",
-   "content": "\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\"Até\n mesmo agora, a sua mente não quer que você aceite isso. Ela tenta \ncolocar na sua frente as coisas que vão distrair a sua atenção. Alguma \ncoisa velha, estúpida para a qual a mente sabe que é a sua fraqueza, \npara te manter esperando na fila da miséria, quando você já é livre. Soa\n familiar?\"\u003cbr /\u003e (Sri Mooji)\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e#Reflexao \u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cbr /\u003e \u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e(Saudações: Querido Textos)\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan aria-live=\"polite\" class=\"fbPhotosPhotoCaption\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" id=\"fbPhotoSnowliftCaption\" tabindex=\"0\"\u003e\u003cspan class=\"hasCaption\"\u003e\u003cimg alt=\"Resultado de imagem para mente fechada tumblr\" class=\"irc_mi\" data-iml=\"1552264740741\" height=\"408\" src=\"https://66.media.tumblr.com/f160afcf1254a7857bc1dc5d6b2fd36b/tumblr_nulj0v3XWt1sie84lo1_500.jpg\" style=\"margin-top: 0px;\" width=\"326\" /\u003e \u003c/span\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/f160afcf1254a7857bc1dc5d6b2fd36b/tumblr_nulj0v3XWt1sie84lo1_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1326232639743117989/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0wOVQyMTowMjoyNS4xNzZa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0xMVQyMTozMjozMC41ODJa\""
 }
