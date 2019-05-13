@@ -1,7 +1,131 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYwfD30ZYtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYgYz2m5ctEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "4106826657072686668",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-13T17:05:00-03:00",
+   "updated": "2019-05-13T17:05:03-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3Nzc3OTAzMzMwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/modismo.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4106826657072686668",
+   "title": "Modismo",
+   "content": "As pessoas estão presas ao modismo, se submetem demais ao que os outros\n vão pensar ou falar delas. Muitas das vezes não se aceitam e tentam \nesconder suas fraquezas, \"defeitos\", decepções, marcas de dores \nprofundas por trás de uma maquiagem, roupa bonita, um sorriso um pouco \nforçado e etc. Precisamos entender que tá tudo bem ser diferente, que tá tudo bem se \nvocê não acordou tão bem, as vezes precisamos apenas achar um lugar que \nseja único e que só tenha você. Aproveite, aprecie como é bom ser a sua própria companhia. Respeite os seus limites, não tente se encaixar em um padrão tão \nlimitado. Não corra atras de grupos de amizades que são tão \nsuperficiais. Se encontre, não limite os seus pensamentos, aquilo que \nestá dentro de você. E se for preciso, recomece.\u003cbr /\u003e\n\u003cbr /\u003e\nQuezia Viana\u003cbr /\u003e\n\u003cbr /\u003e\n#Conselho\u003cbr /\u003e\n\u003cbr /\u003e\n&nbsp;\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1557777879834\" height=\"320\" src=\"https://i.pinimg.com/originals/0c/43/79/0c4379562824270c5325294aab4654a5.jpg\" style=\"margin-top: 30px;\" width=\"320\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/0c/43/79/0c4379562824270c5325294aab4654a5.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4106826657072686668/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3172106756840544497",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-13T17:02:00-03:00",
+   "updated": "2019-05-13T17:02:37-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3Nzc3NzU3OTQ1Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/esperanca.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3172106756840544497",
+   "title": "Esperança ",
+   "content": "É tão difícil escrever depois de perder todas as suas inspirações, \nporque de alguma forma você as afasta de se mesma... mas não é por mal, é\n seu jeito, eu sei o quanto está sendo difícil acordar e não querer \nlevanta, eu sei o quão vazia(o) se sente, eu sei que toda sua felicidade\n foi sugada por um buraco negro, eu sei que só queria deixar de existe, e\n eu sei que sua única companhia tem sido as estrelas. Porquê parece que \nsó elas te entendem, elas não te questionam só brilham com várias \nexplosões dentro delas, mas a cada explosão é uma que ocorre dentro de \nvocê mesmo. Você só queria ser uma delas é por isso deseja ir, porque \npela primeira vez será notada e admirada, e dessa vez não será você que \nirá admirar as estrelas!.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nErika\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1557777651969\" height=\"379\" src=\"https://i.pinimg.com/originals/e1/a5/b7/e1a5b7ef8bce76f09d3d7588987bba6a.jpg\" style=\"margin-top: 0px;\" width=\"256\" /\u003e ",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/e1/a5/b7/e1a5b7ef8bce76f09d3d7588987bba6a.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3172106756840544497/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4800515135160007266",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-13T16:53:00-03:00",
+   "updated": "2019-05-13T16:53:34-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3Nzc3MjE0NjQyCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/amor.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4800515135160007266",
+   "title": "Amor",
+   "content": "Amor, pra alguns, é uma coisa terrível,  mas para\u003cbr /\u003e\noutros, pode ser a melhor coisa que existe.\u003cbr /\u003e\nAmor é fogo que arde sem se ver, é ferida que\u003cbr /\u003e\n&nbsp;dói e não se sente. Sem amor nós não seríamos nada.\u003cbr /\u003e\nAmor é viver para o que ama é nunca se cansar.\u003cbr /\u003e\nAmor não é aquilo que queremos sentir, e sim\u003cbr /\u003e\naquilo que sentimos sem querer.\u003cbr /\u003e\nAmar é querer estar nos  braços da pessoa amada,\u003cbr /\u003e\nsegurar em sua mão, sentir sua respiração, ouvir o seu coração.\u003cbr /\u003e\nAmar não é só dizer “eu te amo”,\u003cbr /\u003e\né demonstrar isso sem precisar de palavras.\u003cbr /\u003e\nAo lado de quem a gente ama, até os mais\u003cbr /\u003e\nsimples momentos se tornam mágicos.\u003cbr /\u003e\nQue o amor seja a melhor forma de\u003cbr /\u003e\ncomeçar e terminar o dia, aliás, investir no\u003cbr /\u003e\namor sempre vale a pena.\n\u003cbr /\u003e\n\u003cpre\u003e\u003ccode\u003e&nbsp;\u003c/code\u003e\u003c/pre\u003e\n\u003cpre\u003e\u003ccode\u003e&nbsp;\u003c/code\u003e\u003c/pre\u003e\n\u003cpre\u003e\u003ccode\u003e#Amor \u003c/code\u003e\u003c/pre\u003e\n\u003cpre\u003e\u003ccode\u003e&nbsp;\u003c/code\u003e\u003c/pre\u003e\n\u003cpre\u003e\u003cspan style=\"font-size: small;\"\u003e\u003ccode\u003e&nbsp;\u003c/code\u003e\u003c/span\u003e\u003c/pre\u003e\n\u003cpre\u003e\u003ccode\u003e\u003cspan style=\"font-size: small;\"\u003eEduarda Queiroz\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003cpre\u003e\u003ccode\u003e\u003cspan style=\"font-size: small;\"\u003e&nbsp;\u003c/span\u003e\u003c/code\u003e\u003c/pre\u003e\n\u003cpre\u003e\u003ccode\u003e\u003cspan style=\"font-size: small;\"\u003e\u003cimg alt=\"Resultado de imagem para carinho neon tumblr\" class=\"irc_mi\" data-iml=\"1557777188017\" height=\"379\" src=\"https://i.pinimg.com/736x/b5/91/e2/b591e2a24df6689ca32ff8ec5347e00e.jpg\" style=\"margin-top: 0px;\" width=\"248\" /\u003e&nbsp;\u003c/span\u003e\n\u003c/code\u003e\u003c/pre\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/736x/b5/91/e2/b591e2a24df6689ca32ff8ec5347e00e.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4800515135160007266/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "2791343804195217171",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-13T16:40:00-03:00",
+   "updated": "2019-05-13T16:40:52-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU3Nzc2NDUyMzg0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/mae.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2791343804195217171",
+   "title": "Mãe",
+   "content": "Lembrar de tudo impossivelmente saberei dizer .Se olho para o céu lá \n a senhora estar,dentro do mar mergulhado és meu ar para respirar. É \nchegado mais uma data,na qual ,longe estamos novamente, mãezinha.sabe \nas vezes que eu estava com frio ou tinha medo do escuro? Então \n,mãezinha,tinha medo de estar sozinho! O abrigo estava nos teus \nbraços,onde me sentia seguro. Mãe,a gratidão \nretribuída vem do reconhecimento por tudo  e as lágrimas  derramada  \nGratidão pelo homem que me tornei.&nbsp; Agradeço ao senhor Deus pela \noportunidade de ter  conhecido à senhora!\u003cbr /\u003e\nti amarei eternamente! Feliz dia das mães a todas mães presentes\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor\u003cbr /\u003e\n\u003cbr /\u003e\nRogério \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para carinho neon tumblr\" class=\"irc_mi\" data-iml=\"1557776140799\" height=\"379\" src=\"https://i.pinimg.com/originals/22/b7/cd/22b7cde595d3708fc482e5398fe2f1e5.jpg\" style=\"margin-top: 0px;\" width=\"277\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/22/b7/cd/22b7cde595d3708fc482e5398fe2f1e5.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2791343804195217171/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "2816692386117943621",
@@ -5982,131 +6106,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6104449962101387137/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2412369283023263947",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-12T16:57:00-03:00",
-   "updated": "2019-03-12T16:57:56-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyNDIwNjc2MzQyCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/lembranca-do-seu-cheiro.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2412369283023263947",
-   "title": " Lembrança do seu cheiro.",
-   "content": "Hoje eu acordei e lembrei exatamente do momento que encontrei você, no \ndesembarque naquele aeroporto ,naquela cidade, naquele momento.\u003cbr /\u003e\nO que ficou não foi os beijos loucos,o calor do desejo,os banhos \nintermináveis, isso tudo marcou não quanto o cheiro da sua camisa.\u003cbr /\u003e\nQuando nós abraçamos e meu pranto molhou a sua camisa verde clara, que \ntinha um cheiro de homem forte,decidido que sabia o  que queria naquele \nquarto 104,daquela rua em frente aquela lagoa.\u003cbr /\u003e\nEu ainda sinto seu toque,seu cheiro mesmo quando me segurei para não \nchorar,quando soltei a sua mão vendo você embarcar naquele avião.\u003cbr /\u003e\nEu não esqueço o cheiro da sua pele,porque quando penso em você a \nentrega ,o desejo permanece igual aquele dia que vi você descer e tocar \nmeus lábios no beijo repleto de amor,paixão e muito desejo...\u003cbr /\u003e\n\u003cbr /\u003e\nVivi Bezerra\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1552420667723\" height=\"266\" src=\"https://thesociallit.com/wp-content/uploads/2017/01/bottle-outfit-perfume-photography-Favim.com-1923960.jpg\" style=\"margin-top: 71px;\" width=\"400\" /\u003e ",
-   "images": [
-    {
-     "url": "https://thesociallit.com/wp-content/uploads/2017/01/bottle-outfit-perfume-photography-Favim.com-1923960.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2412369283023263947/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5374868184840570438",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-12T16:56:00-03:00",
-   "updated": "2019-03-12T16:56:17-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyNDIwNTc3NDE2Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/doi.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5374868184840570438",
-   "title": "Dói.",
-   "content": "&nbsp;Dói. Doeu ontem. Muito provavelmente vai doer amanhã de novo. Mas dor \nnão é pra sempre. A dor nem sempre tem forças pra durar por muito tempo.\n Um dia ela cansa e vai embora. Mesmo que esse dia não seja hj.\u003cbr /\u003e\nNum outro dia, quando vc está bem, vc vê a dor pelo lado de fora, desse \nângulo ela parece um monstro, mas é um monstro que você pode encarar e \ndizer \"chega, eu cansei de você, não quero mais\", e pode dizer isso com \ntoda convicção do mundo, porque é verdade, e tu sabe que vai passar. \nPorque vai passar.\u003cbr /\u003e\nMas você acaba num dia ruim, ruim de verdade. A dor te engole por inteiro. E por dentro ela é horrível. Tão l\u003cbr /\u003e\nhorrível quanto um dia você pôde imaginar. Os joelhos fraquejam e \ndobram. As lágrimas escorrem como se não ouvesse amanhã. A dor assusta \nde um jeito único e impiedoso. Ela tem fome, e sempre quer mais de você.\n E você cede, pois tem medo, está sofrendo. Todos cedemos. E não adianta\n nada querer gritar com essa dor e tentar fazer ela ir embora. Você não \npode. Não agora. Não hoje. Amanhã. talvez. quando essa dor vomitar você e\n aguardar até ter fome de novo, fuja dela, busque outros sentimentos e \nsensações.\u003cbr /\u003e\nCalma e coragem, é tudo que posso te pedir hoje.\u003cbr /\u003e\n\u003cbr /\u003e\nGih Rassol\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para milagre tumblr\" class=\"irc_mi\" data-iml=\"1552420563302\" height=\"332\" src=\"https://data.whicdn.com/images/92212752/original.jpg\" style=\"margin-top: 38px;\" width=\"500\" /\u003e ",
-   "images": [
-    {
-     "url": "https://data.whicdn.com/images/92212752/original.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5374868184840570438/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2549057939400166555",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-12T16:55:00-03:00",
-   "updated": "2019-03-12T16:55:31-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyNDIwNTMxODY4Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/menina-sonhadora.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2549057939400166555",
-   "title": "Menina Sonhadora",
-   "content": "O sonho de todo menina é casar e ter filhos, e tudo que lemos nas \ncontos todos os dias se reproduzia na mente dela, mas a vida real as \ncoisas são bem diferentes.\u003cbr /\u003e\nDurante o seu nascimento uma complicação no parto  mudou o rumo da sua \nhistória, e ela nasceu com um probleminha e com isso não podia mais \nestudar, e aos xxxx anos teve que abandonar os estudos. Sua infância foi\n dividida entre escola, brincadeiras e as rotineiras estadias no \nhospital das clínicas.\n\u003cbr /\u003e\nUm dos principais sintomas são as convulsões que a impossibilita de \nter uma vida normal. Ela até namorou uma ou duas vezes,  mas as \nconvulsões constantes a cada dia afastavam ela de ter um relacionamento \namoroso, afinal quem vai querer casar com uma pessoa com limitações? Só \nse for  por Amor!\u003cbr /\u003e\n\u003cbr /\u003e\nCom o objetivo  de diminuir os efeitos  colaterais dessa  doença e \nreduzir a  quantidade de convulsões, uma das soluções pativas \nencontradas pela medicina foi uma cirurgia no (cerebral ) e é nesse \nmomento que começa uma das mais fantásticas histórias de amor.\u003cbr /\u003e\n\nHospital das clínicas xxx horas da manhã e está tudo programado para a\n cirurgia, seus pais não saíram do Hospital nenhum dia até a data da \ncirurgia. Foram mais de xxxx horas de processo cirúrgico e as \ncomplicação foram muitas, mais de xxxxx convulsões.\u003cbr /\u003e\nEssa cirurgia é conhecida como ....\u003cbr /\u003e\n\u003cbr /\u003e\nE para os médicos executarem o procedimento tiveram que rapar  toda a \ncabeça dela e colocar um equipamento conhecido como : A coroa de Cristo ,\n porque os parafusos são perfurados em sua cabeça e fica como se fosse a\n coroa de Cristo , com o objetivo de estabilização a cabeça, ou seja, o \ncérebro não poderia se mexer de hipótese nenhuma, mas essa Princesa \nSonhadora,  como eu já falei teve várias convulsões o que lhe acarretou \nem mais complicações.\u003cbr /\u003e\n\nAo concluir a cirurgia foram dias em coma sem retorno a única palavra que os familiares recebíam é...\u003cbr /\u003e\nTem que aguardar, o organismo dela precisa reagir! .... A situação dela é complicada....\u003cbr /\u003e\nEm casa familiares, amigos , colegas amigos dos amigos e até grupos de \norações estava intercedendo e pedindo a Deus uma resposta. Estavam \norando juntos a espera de um milagre.\u003cbr /\u003e\n\u003cbr /\u003e\nEm umas  das visitas familiares uma das tias foi falar com o médico que \ncético informou que a Princesa havia tido morte cerebral e que estava \napenas \"respirando por aparelhos\". Fim do sonho de uma menina que queria\n crescer e ter um Casamento de Princesa .\u003cbr /\u003e\nDias depois o médico chama a família e diz um milagre!! Um milagre a princesa está acordada saiu do coma profundo!\u003cbr /\u003e\n\nNo hospital ela dizia eu ainda vou me casar com um príncipe loiro dos\n olhos claros, imagine que esse Príncipe  sempre esteve nos sonhos dessa\n princesa!\u003cbr /\u003e\n\u003cbr /\u003e\nEntão resolveu descrever para ver se assim ficaria mais fácil para que Deus te compreendesse...\u003cbr /\u003e\nSenhor quero um amor verdadeiro, uma pessoa que me compreenda e que me \naceite como sou, que me ajude a ser melhor a cada dia, que desperte em \nmim o que tenho de melhor.. Que seja meu amigo e que enxugue minhas \nlágrimas e compartilhe comigo os sofrimentos da vida..Que seja Lindo,  \nInteligente, Carinhoso, Dedicado, E....  PRINCIPALMENTE que me ame \nmuito.\u003cbr /\u003e\n\nEntão ela pensou , e pediu perdão ao Senhor porque descreveu um Anjo, um Príncipe que não existe na terra uma pessoa assim...\u003cbr /\u003e\n\u003cbr /\u003e\nO tempo passou e nada acontecia, então orou novamente.. Senhor onde está\n esse alguém? Passados alguns meses já estava conformada de que não \ntinha como Deus dar o que pedia, pois descreveu um ser superior, mas não\n desistiu e continuou esperando...\u003cbr /\u003e\nUm belo dia, quando estava distraída, Deus lhe enviou o melhor e mais belo de seus anjos para ser seu Príncipe ..\u003cbr /\u003e\nUm amor criando por Deus.\u003cbr /\u003e\n\u003cbr /\u003e\n\nEles moram 50 Km de distância  e não medem esforços para se verem. \nEsse romance já dura xxxx anos e nada pode separar o que Deus através do\n amor uniu.\u003cbr /\u003e\nEla ainda tem convulsões, bem menos que antes, mas seu noivo  é o príncipe escolhido por Deus para cuidar dessa princesa.\u003cbr /\u003e\n\u003cbr /\u003e\nUns xxx atrás esse Príncipe, estava muito triste chateado quase em \ndepressão ,porque nunca tinha namorado pensando que nunca iria namorar ,\n então um certo dia os  dois foram parar no  mesmo grupo da mocidade, \neles nunca tinham se falado..\u003cbr /\u003e\n\u003cbr /\u003e\n\nPasando dias depois  ele viu uma pessoa sair do grupo, então  curioso\n  perguntou : porque saiu do grupo  moça? Então ela respondeu : sai de \nvarios , então começaram  conversar  e combinaram de se encontrar na \nEstação Breser Mooca.    passado uns dias pediu a  princesa em namoro, \nela ja tinha aceitado no telefone , mas  foi pedir para os pais da \nprincesa, ele nunca tinha namorado,  e  disse farei sua filha a moça \nmais feliz do mundo, começaram a namorar.. E estam juntos até o dia de \nhoje...\u003cbr /\u003e\n\nEla era uma moça triste, sofrida , com o coração partido, que chorava mais que mocinha de novela..\u003cbr /\u003e\nO ano que se passou nao foi nada facil pra essa moça , mas ela \nsobreviveu, está viva porque viveu intensamente as coisas boas e ruins \nque aconteceram e está pronta pro próximo. Madura, certa e superada.  \nCresceu com todos os acontecimentos ruins que se foram. Ela cresceu, \nestá forte e se sente livre, livre pra viver, pra amar, pra voar, pra \nser feliz.. Ela está sempre pronta para tudo. E hoje, ela está pronta, \npra ser feliz !\u003cbr /\u003e\n\u003cbr /\u003e\nSabe quando você chega a olhar pro céu, tentando achar uma esperança, ou um milagre?\u003cbr /\u003e\nQuando você mal consegue respirar, de tanto soluçar, chorar, esperniar..  O jeito, é sempre esperar.\u003cbr /\u003e\n\nEssa  sonhadora aprendeu  que quando o amor é verdadeiro, tudo se \nresolve. Todos os problemas, acabam sendo resolvidos pela vontade de \nfazer dar certo, quando o amor é verdadeiro… Tudo pode acontecer,\u003cbr /\u003e\na vida nos surpreende. O tempo e  ela começando a se imaginar para \nsempre. Foram ficando mais amigos, mais cúmplices, criando uma confiança\n inquebrável, a cada dia que se passava, esse  casal percebiam que se  \namavam, e sim que era amor daqueles dê verdade, fazer valer a pena, \nlutar para ser para sempre.\u003cbr /\u003e\n\u003cbr /\u003e\n\nÉ incrível quando Deus cumpre tudo que promete e como faz acreditar \nque precisamos de apenas uma pessoa pra ser feliz o resto de  nossas  \nvida. Ja superaram distancia, efrentaram a saudade e deixaram o amor ser\n maior do que qualquer obstáculo. Enfim.. para muitos pode parecer pouco\n tempo, mas para  eles são  eternidade.\u003cbr /\u003e\n\u003cbr /\u003e\n\nLetízya Fabián\u003cbr /\u003e\n\u003cbr /\u003e\n&nbsp;#Reflexao\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para milagre tumblr\" class=\"irc_mut\" data-iml=\"1552420477104\" height=\"408\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSS4ajaFAv-N_Qj2Ui19ena7Ctp4Ue1W4EjpaSc434F3iAneLEA\" style=\"margin-top: 0px;\" width=\"425\" /\u003e ",
-   "images": [
-    {
-     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsSS4ajaFAv-N_Qj2Ui19ena7Ctp4Ue1W4EjpaSc434F3iAneLEA"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2549057939400166555/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3022951875260893578",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-10T21:54:00-03:00",
-   "updated": "2019-03-10T21:54:17-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyMjY1NjU3NTcyCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/olhos-nos-olhos.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3022951875260893578",
-   "title": "Olhos nos olhos",
-   "content": "\u003cdiv class=\"frase fr0\" id=\"NTE3NTI2\"\u003e\nOlhos nos olhos\u003cbr /\u003e\n\u003cbr /\u003e\nQuando você me deixou, meu bem\u003cbr /\u003e\nMe disse pra ser feliz e passar bem\u003cbr /\u003e\nQuis morrer de ciúme, quase enlouqueci\u003cbr /\u003e\nMas depois, como era de costume, obedeci\u003cbr /\u003e\n\u003cbr /\u003e\nQuando você me quiser rever\u003cbr /\u003e\nJá vai me encontrar refeita, pode crer\u003cbr /\u003e\nOlhos nos olhos, quero ver o que você faz\u003cbr /\u003e\nAo sentir que sem você eu passo bem demais\u003cbr /\u003e\n\u003cbr /\u003e\nE que venho até remoçando\u003cbr /\u003e\nMe pego cantando\u003cbr /\u003e\nSem mas nem porque\u003cbr /\u003e\nE tantas águas rolaram\u003cbr /\u003e\nQuantos homens me amaram\u003cbr /\u003e\nBem mais e melhor que você\u003cbr /\u003e\n\u003cbr /\u003e\nQuando talvez precisar de mim\u003cbr /\u003e\n'Cê sabe que a casa é sempre sua, venha sim\u003cbr /\u003e\nOlhos nos olhos, quero ver o que você diz\u003cbr /\u003e\nQuero ver como suporta me ver tão feliz\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"NTE3NTI2\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"NTE3NTI2\"\u003e\n#Conselho&nbsp;\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"NTE3NTI2\"\u003e\n\u003c/div\u003e\n\u003cspan class=\"autor\"\u003e\nChico Buarque\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan class=\"autor\"\u003e(Saudações Querido Textos) \u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan class=\"autor\"\u003e\u003cimg alt=\"Resultado de imagem para olhos nos olhos tumblr\" class=\"irc_mi\" data-iml=\"1552265641026\" height=\"408\" src=\"https://www.istoesuperinteressante.com/wp-content/uploads/2017/01/tumblr_static_c6hvbyyor484w0s48w08ogkgo.jpg\" style=\"margin-top: 0px;\" width=\"408\" /\u003e \u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://www.istoesuperinteressante.com/wp-content/uploads/2017/01/tumblr_static_c6hvbyyor484w0s48w08ogkgo.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3022951875260893578/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0xMVQyMTozMjozMC41ODJa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0xM1QyMDowNTowMy4zMzBa\""
 }
