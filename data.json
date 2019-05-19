@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYhcSPxZctEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYhMXq7JctEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "1389760033529607212",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-19T14:30:00-03:00",
+   "updated": "2019-05-19T14:47:43-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU4Mjg4MDYzNzg3Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/tudo-vai-ficar-bem.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1389760033529607212",
+   "title": "Tudo Vai Ficar Bem. ",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nExistem fases da nossa vida que não são fáceis de passar, algumas vezes \nolhamos ao nosso redor e não conseguimos enxergar tudo que temos e o \nque somos, então vem aquela vontade de desistir, como é de costume se \ndizer \" vontade de sumir\", a vida começa a perder o sentido, as pessoas \nparecem que decidem ir embora \"as de mentira\", e acabamos perdendo a \nforça de lutar por algo melhor que tudo isso. Mas não esquecem, é só mais uma fase difícil, é só Deus provando pra nós\n mesmos o quanto somos fortes e capazes, ainda que nosso psicológico \nesteja totalmente afetado, perder a direção de tudo não é a melhor \nsaída, se trancar no quarto, botar uma música triste não vai ajudar, \ndizer o tempo todo que não vai dá certo não vai nos ajudar seguir em \nfrente, por mas doído que seja, se trata de nossas dores, e apenas nós \npodemos acabar com elas. A vida é bem melhor do que ela vem mostrando ser, então bora sorrir, tá \ninsuportável? Aguenta. Tá machucando? Vamos nos curar. E assim começar \numa vida com mas fé na felicidade e em Deus.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDayliane Moreira\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Conselho\u003c/div\u003e\n\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://4.bp.blogspot.com/-Um4dBvK2GCc/XOGWuvVZRgI/AAAAAAAAwlA/ylZkmymUKosmLOD5HHKiuuaYA9xoPTgVgCLcBGAs/s1600/CAPA.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"960\" data-original-width=\"1280\" height=\"240\" src=\"https://4.bp.blogspot.com/-Um4dBvK2GCc/XOGWuvVZRgI/AAAAAAAAwlA/ylZkmymUKosmLOD5HHKiuuaYA9xoPTgVgCLcBGAs/s320/CAPA.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cbr /\u003e \u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://4.bp.blogspot.com/-Um4dBvK2GCc/XOGWuvVZRgI/AAAAAAAAwlA/ylZkmymUKosmLOD5HHKiuuaYA9xoPTgVgCLcBGAs/s320/CAPA.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1389760033529607212/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "2903251596298793552",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-19T12:58:00-03:00",
+   "updated": "2019-05-19T12:58:48-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU4MjgxNTI4ODc5Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/ao-me-ver-no-espelho.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2903251596298793552",
+   "title": "Ao Me Ver no Espelho ",
+   "content": "Ao me ver no espelho\u003cbr /\u003e\n\nNão vejo aquilo que devo\u003cbr /\u003e\nVejo outra de mim\u003cbr /\u003e\nNão a mim, eu não vejo\u003cbr /\u003e\nVejo minha dor\u003cbr /\u003e\nMas, meu rosto embaçado\u003cbr /\u003e\nVejo ela, não a mim\u003cbr /\u003e\n\nA expressão muda, toda vez que eu me vejo\u003cbr /\u003e\nMas, apenas que não era eu\u003cbr /\u003e\nPorém, sim ela, que sempre vejo\u003cbr /\u003e\nQueria poder me ver, pelo menos uma vez\u003cbr /\u003e\nVer meu rosto\u003cbr /\u003e\nMeus olhos\u003cbr /\u003e\nMeus cabelos\u003cbr /\u003e\n\nMas apenas vejo o que não devo.\u003cbr /\u003e\nDizem que eu estou ali\u003cbr /\u003e\nMas, não vejo ali\u003cbr /\u003e\nVejo lá dentro\u003cbr /\u003e\n\nA forma que eu danço\u003cbr /\u003e\nA forma que eu escrevo\u003cbr /\u003e\nA forma que sou\u003cbr /\u003e\nÉ diferente se você começar a perceber\u003cbr /\u003e\n\nMas, tudo que eu queria\u003cbr /\u003e\nEra realmente me ver\u003cbr /\u003e\n\u003cbr /\u003e\n#Refelxao\u003cbr /\u003e\nDesconhecida39\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para espelho neon tumblr\" class=\"irc_mi\" data-iml=\"1558281503466\" height=\"353\" src=\"https://i.pinimg.com/originals/2b/b5/61/2bb561cf8c9bd636c68fabfc22535bde.jpg\" style=\"margin-top: 0px;\" width=\"265\" /\u003e \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/2b/b5/61/2bb561cf8c9bd636c68fabfc22535bde.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2903251596298793552/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "656359687748336753",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-19T11:08:00-03:00",
+   "updated": "2019-05-19T11:08:00-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU4Mjc0ODgwODI4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/despedida-poesia.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/656359687748336753",
+   "title": "Despedida - Poesia",
+   "content": "Foi uma surpresa\u003cbr /\u003enão imaginei onde poderia estar\u003cbr /\u003eprocurando uma caneta embaixo\u003cbr /\u003edo sofá.\u003cbr /\u003e\n\u003cbr /\u003e\nLá estava papéis e notas\u003cbr /\u003eonde nunca imaginava procurar\u003cbr /\u003edeparei-me com esse tesouro\u003cbr /\u003enem\u003cbr /\u003econseguir falar\u003cbr /\u003efiquei perplexo!\u003cbr /\u003ee para deus fui clamar!\u003cbr /\u003enossa foto!\u003cbr /\u003eéramos aventureiros\u003cbr /\u003eandarilhos sem segredos para guardar!\u003cbr /\u003esempre apaixonados\u003cbr /\u003eprontos para amar\u003cbr /\u003elembrei-me o dia dessa foto\u003cbr /\u003evocê tímida,mas com aquele sorriso escondido brilhando\u003cbr /\u003eno olhar.\u003cbr /\u003e\n\u003cbr /\u003e\nPor ti\u003cbr /\u003ea cada dia estava a mim apaixonar\u003cbr /\u003esua mãe com tudo pronto\u003cbr /\u003eindo noutra cidade morar\u003cbr /\u003enão sabia!\u003cbr /\u003enem tinha chão para pisar!\u003cbr /\u003evocê assegurando em minhas mãos\u003cbr /\u003eeu nem sabia o que falar!\u003cbr /\u003esua mãe apressada estava\u003cbr /\u003ecom suas malas e bagagens\u003cbr /\u003epara viajar\u003cbr /\u003enossas lágrimas\u003cbr /\u003ejuntas transbordando\u003cbr /\u003eneste lindo olhar\u003cbr /\u003edói muito em saber\u003cbr /\u003eque nunca irá voltar\u003cbr /\u003edespedida sofrida\u003cbr /\u003ecoração nem sabe\u003cbr /\u003etrabalhar\u003cbr /\u003ecartas não manda\u003cbr /\u003efico com\u003cbr /\u003elembranças\u003cbr /\u003emomentos\u003cbr /\u003e\n\u003cbr /\u003e\nMomentos\u003cbr /\u003eesquecidos\u003cbr /\u003epresos por um olhar\u003cbr /\u003ejá fui na tevê\u003cbr /\u003eaté na capa de um\u003cbr /\u003ejornal sair\u003cbr /\u003epara quem sabe ti encontrar\u003cbr /\u003ejá rodei pelo mundo\u003cbr /\u003eem paris fui morar\u003cbr /\u003eajoelhado me encontro\u003cbr /\u003etoda noite\u003cbr /\u003ea beira mar\u003cbr /\u003edói muito saber\u003cbr /\u003eque nunca mais irá voltar!\u003cbr /\u003eme pergunto\u003cbr /\u003esempre :aonde estar aquele olhar?\u003cbr /\u003e\u003cbr /\u003e\"Inevitavelmente\u003cbr /\u003eé não saber\u003cbr /\u003eonde procurar\u003cbr /\u003ecomo diamante\u003cbr /\u003ebruto e raro\u003cbr /\u003ena terra\u003cbr /\u003eencontrar.\"\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza\u003cbr /\u003e\n\u003cbr /\u003e\nRogério \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para neon amarelo tumblr\" class=\"irc_mi\" data-iml=\"1558274850843\" height=\"353\" src=\"https://i.pinimg.com/originals/ac/ef/3e/acef3e02de1a18a987a55da3c793f192.jpg\" style=\"margin-top: 0px;\" width=\"229\" /\u003e\u003cbr /\u003e\n\u003cbr /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/ac/ef/3e/acef3e02de1a18a987a55da3c793f192.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/656359687748336753/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "8374677892490340207",
@@ -71,15 +164,15 @@
     "id": "2771518682926329856"
    },
    "published": "2019-05-17T16:09:00-03:00",
-   "updated": "2019-05-17T20:42:54-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU4MTM2NTc0NDQ4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "updated": "2019-05-19T14:49:52-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU4Mjg4MTkyODQ3Cm9mZnNldDogLTEwODAwMDAwCg\"",
    "url": "http://queridotextos.blogspot.com/2019/05/a-solidao-e-eu.html",
    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7488955729017814126",
    "title": "A Solidão E Eu  –  Poesia",
-   "content": "Estou afundando nas minhas lágrimas,\u003cbr /\u003e\nE ninguém parece se importar\u003cbr /\u003e\nEstou me perdendo nos meus pensamentos,\u003cbr /\u003e\nE ninguém parece perceber\u003cbr /\u003e\nEstou sendo esmagado pelos meus sentimentos,\u003cbr /\u003e\nE ninguém parece notar\u003cbr /\u003e\nEntão cada dia mais me abraço a solidão, que é escura e triste,\u003cbr /\u003e\nE vou ficando cada vez mais só,\u003cbr /\u003e\nPorém não me importo, pois já  me acostumei com a minha nova amiga a solidão.\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza\u003cbr /\u003e\n\u003cbr /\u003e\nSilva L.&nbsp; \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para solidão neon tumblr\" class=\"irc_mut\" data-iml=\"1558136524845\" height=\"379\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkT1rMuvaRPbmDMG2slhkSHDJwPG7pF7NY88fvX71cS77yWNG\" style=\"margin-top: 0px;\" width=\"253\" /\u003e",
+   "content": "Estou afundando nas minhas lágrimas,\u003cbr /\u003e\nE ninguém parece se importar\u003cbr /\u003e\nEstou me perdendo nos meus pensamentos,\u003cbr /\u003e\nE ninguém parece perceber\u003cbr /\u003e\nEstou sendo esmagado pelos meus sentimentos,\u003cbr /\u003e\nE ninguém parece notar\u003cbr /\u003e\nEntão cada dia mais me abraço a solidão, que é escura e triste,\u003cbr /\u003e\nE vou ficando cada vez mais só,\u003cbr /\u003e\nPorém não me importo, pois já  me acostumei com a minha nova amiga a solidão.\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza\u003cbr /\u003e\n\u003cbr /\u003e\nSilva L.&nbsp; \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://2.bp.blogspot.com/-KCPaSECa1qc/XOGXPPGS8ZI/AAAAAAAAwlI/iwIQty6EQBMsMI2LLruFsm9Yjbya0YGFQCLcBGAs/s1600/images.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"555\" data-original-width=\"369\" height=\"320\" src=\"https://2.bp.blogspot.com/-KCPaSECa1qc/XOGXPPGS8ZI/AAAAAAAAwlI/iwIQty6EQBMsMI2LLruFsm9Yjbya0YGFQCLcBGAs/s320/images.jpg\" width=\"212\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cbr /\u003e",
    "images": [
     {
-     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkT1rMuvaRPbmDMG2slhkSHDJwPG7pF7NY88fvX71cS77yWNG"
+     "url": "https://2.bp.blogspot.com/-KCPaSECa1qc/XOGXPPGS8ZI/AAAAAAAAwlI/iwIQty6EQBMsMI2LLruFsm9Yjbya0YGFQCLcBGAs/s320/images.jpg"
     }
    ],
    "author": {
@@ -6023,95 +6116,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5586351910603335995/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3976874703215430394",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-14T16:07:00-03:00",
-   "updated": "2019-03-14T16:07:58-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyNTkwNDc4ODA1Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/resumo.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3976874703215430394",
-   "title": "Resumo",
-   "content": "sara\u003cbr /\u003e\ntudo começou quando você partiu,\u003cbr /\u003e\npartiu pra nunca mais voltar ,\u003cbr /\u003e\ne a saudade, todo dia vem me visitar!\u003cbr /\u003e\nA que dor você deixou,\u003cbr /\u003e\nsangue do meu sangue, meu irmão, foi pra lá e nunca mais voltou!\u003cbr /\u003e\nnunca entendi por que você fez aquilo\u003cbr /\u003e\nminha alma sangrou!\u003cbr /\u003e\nlogo depois encontrei um homem sonhador\u003cbr /\u003e\npensei que poderia voltar a sorrir em meio a tanta dor\u003cbr /\u003e\naté pessoas destruirem o nosso amor!\u003cbr /\u003e\neu queria que acabasse por aqui, mais a doença enfim chegou, mais uma vítima do câncer,\u003cbr /\u003e\na minha irmã se tornou!\u003cbr /\u003e\nEssa descansou, mais um espaço vazio se formou\u003cbr /\u003e\ncomo se não bastasse\u003cbr /\u003e\nminha mãe,\u003cbr /\u003e\no câncer também enfrentou,\u003cbr /\u003e\nmulher guerreira, mãe e pai,\u003cbr /\u003e\na quem merece todo amor,\u003cbr /\u003e\neu te amo pra sempre\u003cbr /\u003e\nminha mais bela flor!\u003cbr /\u003e\naah os dias passam\u003cbr /\u003e\nmenos um dia!\u003cbr /\u003e\nmenos um dia!\u003cbr /\u003e\nEu vejo todo sofrimento do mundo\u003cbr /\u003e\nsou só mais uma vítima,\u003cbr /\u003e\ndessa tristeza infinita\u003cbr /\u003e\nmais nem se compara as dores que milhares de pessoas tem vívido, as \nguerras do mundo, fome, frio, doenças, doenças psicológicas, maldades \nabsurdas\u003cbr /\u003e\né tanto caos\u003cbr /\u003e\nreseta o mundo!",
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3976874703215430394/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8902116377084525668",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-13T17:01:00-03:00",
-   "updated": "2019-03-13T17:01:58-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyNTA3MzE4MTEzCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/eu-mereco-mais.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8902116377084525668",
-   "title": "Eu mereço mais.",
-   "content": "E de repente o abraço já não encaixava\u003cbr /\u003e\nAs conversas não continuavam\u003cbr /\u003e\nOs beijos não tinham mais sabor\u003cbr /\u003e\nEra uma nova fase que passava\u003cbr /\u003e\nE nessa fase só eu senti essa dor.\u003cbr /\u003e\nE os nossos encontros na praça\u003cbr /\u003e\nHaviam perdido a graça\u003cbr /\u003e\nTudo tinha perdidos cor\u003cbr /\u003e\nForam dias sem comer, noites sem dormir, semanas sem sorrir\u003cbr /\u003e\nFiquei esperando a tua volta\u003cbr /\u003e\nMas tu já tinha decidido ir.\u003cbr /\u003e\nNão me deu nenhuma chance, não veio explicar o motivo da sua partida\u003cbr /\u003e\nMas não me importo muito, o que mais me incomodava eram suas desculpas e mentiras\u003cbr /\u003e\nVocê se foi e não sei se vai voltar\u003cbr /\u003e\nMas caso volte não garanto que encontre tudo no mesmo lugar\u003cbr /\u003e\nSei que meu erro foi te priorizar\u003cbr /\u003e\nEnquanto você sempre me colocou em último lugar\u003cbr /\u003e\nEu não aceito mais essas migalhas\u003cbr /\u003e\nEu mereço mais\u003cbr /\u003e\nSó peço que vá embora de vez da minha vida e me deixe em paz\u003cbr /\u003e\nNão me procure mais\u003cbr /\u003e\nEsqueça do que houve entre nós\u003cbr /\u003e\nMesmo que seja difícil eu vou tentar superar\u003cbr /\u003e\nNem que eu tenha que por outra pessoa no seu lugar.\u003ccode\u003e&nbsp;\u003c/code\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003ccode\u003e-Tyta&nbsp;\u003c/code\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003ccode\u003e\u003cimg alt=\"Resultado de imagem para mulher tumblr\" class=\"irc_mi\" data-iml=\"1552507290423\" height=\"408\" src=\"https://66.media.tumblr.com/a79150a8e7e91106dd0cb06e76ec3800/tumblr_ov77gq2HoE1wz1l0go1_500.jpg\" style=\"margin-top: 0px;\" width=\"327\" /\u003e \u003c/code\u003e",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/a79150a8e7e91106dd0cb06e76ec3800/tumblr_ov77gq2HoE1wz1l0go1_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8902116377084525668/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7244866769592674741",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-13T17:00:00-03:00",
-   "updated": "2019-03-13T17:00:58-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUyNTA3MjU4MTIzCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/inseguranca.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7244866769592674741",
-   "title": "Insegurança",
-   "content": "Garota você e muito linda não deixa qualquer um acabar com sua beleza \npor dentro, e não estou falando só de homem e sim de sua insegurança \nvocê tem capacidade, de vencer tudo que vem e tudo que tá por vim.\u003cbr /\u003e\nEi não deixa sua insegurança falar mais alto que você, você consegue, \nvocê pode basta você tentar e insistir no que quer, que você é capaz de \ntudo sua insegurança e apenas um detalhe mínimo que você pode mudar isso\n por um simples fato você e forte.\u003cbr /\u003e\nEu confio em você eu sei a garota forte que você, e outra você não \nprecisa precisa provar nada pra ninguém. Você só precisa provar só pra \nvocê mesmo.\u003cbr /\u003e\nNão deixa a sua insegurança não deixar crescer na vida. Você tem muito o\n que conquistar na sua vida então pensa e reflita um pouco, compensa \ndeixar a insegurança tomar conta da sua vida então vamos erguer a cabeça\n e vamos mudar isso.\u003cbr /\u003e\n\u003cbr /\u003e\n&nbsp;Karol Menegassi\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para insegurança tumblr\" class=\"irc_mi\" data-iml=\"1552507250371\" height=\"408\" src=\"https://kaytearaujo.files.wordpress.com/2015/01/tumblr_ng8ii25rdw1sthf15o1_500.jpg\" style=\"margin-top: 0px;\" width=\"408\" /\u003e ",
-   "images": [
-    {
-     "url": "https://kaytearaujo.files.wordpress.com/2015/01/tumblr_ng8ii25rdw1sthf15o1_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7244866769592674741/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0xN1QyMzo1OToyNS4zNzNa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0xOVQxNzo0OTo1Mi44NDda\""
 }
