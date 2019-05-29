@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYgNfw4pktEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYgfa545ktEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "2268999952980430434",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-05-29T19:04:00-03:00",
+   "updated": "2019-05-29T19:04:45-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU5MTY3NDg1NTU2Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/05/mula-sem-cabeca.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2268999952980430434",
+   "title": "Mula Sem Cabeça.",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nEu não acreditava em mula sem cabeça. Achava mais um conto folclórico para diversão do que uma simples realidade. Até que (vi)\n que existe sim mula sem cabeça!\n\nNão é de se espantar que: o dinheiro é mais importante que a vida, que é\n mais prazeroso uma noite de aventura com outra mulher do que a \neternidade nos braços da esposa, que o filho é mais uma cobaia do que um\n ser humano com sentimentos, que cultuar ao diabo é a mesma coisa que \nservir á Deus e fora tantas outras coisas.\n\nO homem é a mula sem cabeça! É ele que espera acontecer pra pensar em \nvoltar atrás, que espera secar a última gota pra encher a botija.\n\nAcordem pra realidade! Deus lhe deu raciocínio lógico para discernir o \ncerto do errado. Pare de agir como o errado fosse o certo!\n\nO céu é pra quem aceita Jesus como Salvador e não para qualquer pessoa \nque morrer. Enquanto você tiver respirando e podendo ler este texto, há \numa oportunidade! Após a morte, não se resolve mais nada.\n\nNo cemitério cessa os sonhos, os prêmios, os dinheiros, os \nrelacionamentos e a própria esperança! Não queira ser mais uma mula sem \ncabeça…\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Reflexao\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nMauro Ferreira\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1559167449305\" height=\"353\" src=\"https://images.pexels.com/photos/1553783/pexels-photo-1553783.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" style=\"margin-top: 0px;\" width=\"213\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://images.pexels.com/photos/1553783/pexels-photo-1553783.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2268999952980430434/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "7110629209890153647",
@@ -6095,38 +6126,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6909161896871114596/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4298073111576515854",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-20T15:28:00-03:00",
-   "updated": "2019-03-20T15:28:27-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTA2NTA3NjQ1Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/sou-tua.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4298073111576515854",
-   "title": "Sou tua",
-   "content": "Vitória Sthefanie L.\u003cbr /\u003e\nMinh'alma cintila de amores por ti.\u003cbr /\u003e\nMe fizestes olvidar amores antigos.\u003cbr /\u003e\nNão mais rememoro o passado.\u003cbr /\u003e\nCompletas meu presente.\u003cbr /\u003e\nÉs meu futuro.\u003cbr /\u003e\nApagas o que há de velho em mim.\u003cbr /\u003e\nMe renovas todos os dias.\u003cbr /\u003e\nSou tua.\u003cbr /\u003e\nE não poderia ser de mais ninguém.\u003cbr /\u003e\n\u003cbr /\u003e\nAutora: Vitória Sthefanie L.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para casal tumblr\" class=\"irc_mi\" data-iml=\"1553106487897\" height=\"320\" src=\"https://i.pinimg.com/originals/90/42/15/904215e277eb78cc1b23ad1f80acd2ea.jpg\" style=\"margin-top: 0px;\" width=\"222\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/90/42/15/904215e277eb78cc1b23ad1f80acd2ea.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4298073111576515854/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0yOVQxOTo0NDo1NS40MzNa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0yOVQyMjowNDo0NS41NTZa\""
 }
