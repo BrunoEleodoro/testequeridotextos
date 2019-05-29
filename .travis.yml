@@ -7,4 +7,4 @@ script:
   - git status
   - GIT_LOG="$(git log -1 | grep Author)"
   - echo $GIT_LOG
-  - if [[ "$GIT_LOG" != *"travis@travis.org"* ]]; then travis_wait 30 sh deploy.sh; else echo 0; fi 
+  - if [[ "$GIT_LOG" != *"travis@travis.org"* ]]; then sh deploy.sh; else echo 0; fi 

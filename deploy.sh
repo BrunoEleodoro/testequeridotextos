@@ -1,14 +1,15 @@
-AUTHOR="$(git log -1 | grep Author | cut -d '<' -f1)"
-DATE="$(date +%F-%r)"
-curl -X POST -H 'Content-type: application/json' --data "{\"attachments\": [{\"color\": \"#2eb886\",\"title\": \":travis_ci: Gitbook Internal Build started now! :travis_ci: \n\n\n$AUTHOR\n\n\nDate: $DATE\n\n\nhttps://pages.github.ibm.com/SOSTeam/SOS-Internal-Docs/\n\n\n\",}]}" $WEBHOOK
-npm install
-npm install -g gitbook-cli
-gitbook install
-ls
-free -m
+#!/bin/sh
+
+DATE=`date '+%Y-%m-%d %H:%M:%S'`
+rm -rf testequeridotextos
+# git clone https://bot-queridotextos:atualizartextos1@github.com/BrunoEleodoro/testequeridotextos
+# cd testequeridotextos
+date '+%Y-%m-%d %H:%M:%S' > last_update.txt
+curl "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts?fetchImages=true&maxResults=200&key=AIzaSyBt2eRbKEj-wMbDDuRo9QAVR6FP2EeYXnk" > data.json
+git init
+git add *
+git commit -m "${DATE}"
 git config user.email "travis@travis.org"
 git config user.name "travis" # this email and name can be set anything you like
-make travis
-git push -fq https://${GH_TOKEN}@github.ibm.com/SOSTeam/SOS-Internal-Docs HEAD:master
-DATE="$(date +%F-%r)"
-curl -X POST -H 'Content-type: application/json' --data "{\"attachments\": [{\"color\": \"#2eb886\",\"title\": \":smile: Gitbook Internal Build finished successfully! :smile: \n\n\n$AUTHOR\n\n\nDate: $DATE\n\n\nhttps://pages.github.ibm.com/SOSTeam/SOS-Internal-Docs/\n\n\n\",}]}" $WEBHOOK
+echo "foi"
+git push https://bot-queridotextos:atualizartextos1@github.com/BrunoEleodoro/testequeridotextos/ --all
