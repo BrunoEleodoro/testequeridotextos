@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "7"
+  
+script:
+  - ls
+  - git status
+  - GIT_LOG="$(git log -1 | grep Author)"
+  - echo $GIT_LOG
+  - if [[ "$GIT_LOG" != *"travis@travis.org"* ]]; then travis_wait 30 sh deploy.sh; else echo 0; fi 
