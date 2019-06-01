@@ -1,7 +1,131 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYwfXI5ZktEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYgr_0jZotEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "8513768669341245223",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-06-01T19:02:00-03:00",
+   "updated": "2019-06-01T19:02:20-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU5NDI2NTQwODMxCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/06/meu-abismo.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8513768669341245223",
+   "title": "Meu Abismo.",
+   "content": "Meu abismo é composto por um vazio repleto de lembranças que durante as \nmadrugadas passam varias e varias vezes na minha mente, impreenchível e \nincompreensível, tao fácil mas ao mesmo tempo tão difícil de lidar, um \nabismo repleto de solidão e tais borboletas mortas no estômago.\u003cbr /\u003e\nEstou presa a um mundo onde só eu me vejo, só eu sinto..\u003cbr /\u003e\nEu carrego nesse abismo o vazio imenso onde eu não consigo preenchelo \ncom coisa alguma, o amor não é capaz de me levantar e me tirar desse \nabismo que sou, tão viva por fora tao morta e exausta por dentro.\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza\u003cbr /\u003e\n\u003cbr /\u003e\nJosiane\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para triste pexels\" class=\"irc_mi\" data-iml=\"1559426512000\" height=\"213\" src=\"https://robertavicente.com/wp-content/uploads/2016/09/pexels-photo-65127.jpeg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
+   "images": [
+    {
+     "url": "https://robertavicente.com/wp-content/uploads/2016/09/pexels-photo-65127.jpeg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8513768669341245223/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "2897239196777333237",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-06-01T18:59:00-03:00",
+   "updated": "2019-06-01T18:59:48-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU5NDI2Mzg4MDgyCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/06/sonhos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2897239196777333237",
+   "title": "Sonhos.",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nAcho que todos nós temos algum sonho, pode ser qualquer coisa, ser alguém, ir para algum lugar, viajar de avião e etc... Sabe aquela frase \"Viva o hoje como se foçe o último dia\" ela me faz \npensar muito nos meus objetivos e sonhos da vida, Porque eu sei que tem \numa grande possibilidade de amanhã eu não acordar, e eu não vou ter \nfeito nada para que os meus sonhos se realizem, por mais que tu não tenha o apoio de ninguém, ou das pessoas que vc mais\n queria ter, siga em frente, porque se for pra ser, será! e nada é \nimpossível quando realmente queremos, vc consegue!, não perca seu tempo \ncolocando negatividade na cabeça, não leve com sigo mesmo opiniões que \nnão vão ser construtivas!\u003cbr /\u003e\nO amanhã pode realmente ser tarde!\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Conselhos \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nNessa \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para sonhos pexels\" class=\"irc_mi\" data-iml=\"1559426353221\" height=\"379\" src=\"https://images.pexels.com/photos/1656379/pexels-photo-1656379.jpeg?cs=srgb&amp;dl=apanhador-de-sonhos-design-penas-1656379.jpg&amp;fm=jpg\" style=\"margin-top: 0px;\" width=\"284\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://images.pexels.com/photos/1656379/pexels-photo-1656379.jpeg?cs=srgb&dl=apanhador-de-sonhos-design-penas-1656379.jpg&fm=jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2897239196777333237/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1599793275431173758",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-06-01T18:55:00-03:00",
+   "updated": "2019-06-01T18:55:42-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU5NDI2MTQyMTA2Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/06/a-volta-do-meu-amor.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1599793275431173758",
+   "title": "A volta do meu amor ",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nPor muito tempo pensei da mesma maneira, estou falando da primeira fase \ndas fotos nas rede sociais, textos, aquilo era o principal, nós \nachávamos isso, vamos mostrar pra todo mundo, hoje não penso assim Eu logo desistir, encontrei defeitos que não existia, coloquei um ponto \nfinal, meu maior erro, mais não fui em busca de achar alguém melhor, fui\n me achar !Achei apenas uma pessoa que sofreu calada, e só piorou a \npartir desse momento, se tornou fria, ciumenta, impaciente, muito mais complicada, mais te ama muito ... Quero te pedir desculpas por tudo e te agradecer por não desistir de \nmim, por mesmo se afastando, mesmo eu pedindo milhões de vezes pra me \nbloquear e sumir da minha vida, você estava ali ,quieto e me stalkeando, mais estava ...Quando na primeira oportunidade que eu tive fui atrás \n,corri ,falei que te queria de volta e em nenhum momento disse o que eu \nfalei milhões de vezes pra você ,você disse que me amava e me queria de \nvolta ,fez diferente de mim das outras vezes ... Só queria te falar que se fosse pra enfrentar tudo que já vivemos hoje \nestaríamos bem mais maduros ,bem mais responsáveis e séria tudo \ndiferente ! Eu agradeço tudo que fez por mim e por me amar mesmo com esse meu jeitinho doida e complicada ..\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\nBrenda Graziele\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1559426055851\" height=\"379\" src=\"https://www.listenandlearn.com.br/blog/wp-content/uploads/2017/06/pexels-photo-192611.jpeg\" style=\"margin-top: 0px;\" width=\"570\" /\u003e \u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://www.listenandlearn.com.br/blog/wp-content/uploads/2017/06/pexels-photo-192611.jpeg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1599793275431173758/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4782689339812800423",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-06-01T18:44:00-03:00",
+   "updated": "2019-06-01T18:44:05-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU5NDI1NDQ1OTkxCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/06/saudades.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4782689339812800423",
+   "title": "Saudades",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nAs respirações descompassadas, os olhares sem pudores, os toques \ncarregados de lascívia e os sorrisos que podiam dizer mais que mil \npalavras. Se você foi capaz de deixa-la ir, então você é capaz de deixa-la ficar, mas por razões óbvias sem liberdade o amor vira dor. Por forças do destino não foram capazes de manter o quê tinham, o amor \nnão esfriou, se manteve intacto, o quê fez desistir foi à distância \nentre seus corpos físicos, porque suas almas sempre estiveram \ninterligadas. Esse é o erro ao se apaixonar, a dependência que se cria \nao estar com o outro e o anseio pela sua presença. Como a uma droga, quando você está num estado de pura depravação, e se \ndepara com a ausência do que te trazia o êxtase, o vazio se calcula e a \nsaudade se acumula fazendo o peito doer, e os olhos ficarem marejados \npelo peso das batidas do coração, que em parte foi arrancado tão \nviolentamente pela alma que seguiu seu caminho pelo mundo, mas que os \nsentidos se perderam pela falta da presença de todos os sentidos \ndisponíveis pra ficar. Minha alma vaga como a um andarilho neste mundo esquecido por muitos, e \nse encontra em um estado deplorável de melancolia, estou penitente mas \nme encontro num estado de abulia sem avanços, foram consequências de \namar quem um dia me amou, mas não pode ficar.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;#Amor\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nA.H&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para flor pexels\" class=\"irc_mi\" data-iml=\"1559425430233\" height=\"379\" src=\"https://2.bp.blogspot.com/-sDcfyLFiqC4/WzlcZp7JfeI/AAAAAAAAB90/dTz9Cd4mn7IovFiec2P5dw4lsmdpyu4AQCLcBGAs/s1600/pexels-photo-612891.jpeg\" style=\"margin-top: 0px;\" width=\"568\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://2.bp.blogspot.com/-sDcfyLFiqC4/WzlcZp7JfeI/AAAAAAAAB90/dTz9Cd4mn7IovFiec2P5dw4lsmdpyu4AQCLcBGAs/s1600/pexels-photo-612891.jpeg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4782689339812800423/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "4774895947160650288",
@@ -40,15 +164,15 @@
     "id": "2771518682926329856"
    },
    "published": "2019-05-31T17:21:00-03:00",
-   "updated": "2019-05-31T17:21:02-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU5MzM0MDYyNDEzCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "updated": "2019-06-01T19:04:46-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTU5NDI2Njg2NjMzCm9mZnNldDogLTEwODAwMDAwCg\"",
    "url": "http://queridotextos.blogspot.com/2019/05/a-ultima-vez.html",
    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6207210417925216918",
    "title": "A Ultima Vez",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nNinguém o avisou que aquela seria a última vez... Ninguém o avisou que aquela seria a última música cantada por sua voz doce, a última melodia, a última nota; Ninguém o avisou que aquele momento simples, momento qualquer que era \nrotina na sua vida, ficaria na memória de quem ficou, como o último \nmomento ao seu lado. Ninguém o avisou quando seria sua última festa, última refeição, última \nrisada, última visita; Ninguém o avisou que tudo se acabaria em \nsegundos. Estranho como coisas ruins acontecem com pessoas boas, ele havia deixado\n sua marca no mundo, seus ensinamentos e suas conquistas, tinha tanto a \nnos mostrar, tanto a viver! Ninguém o avisou, ninguém me avisou, que aquele seria o último abraço, toque na pele, último olhar último suspiro... Com a cabeça limpa, fiquei me culpando das vezes que não vivi, não amei o\n suficiente, não me dediquei, agora eu amo, vivo, rio, tudo como se \nfosse a primeira e última vez, vivo intensamente em conjunto com quem \namo, pois em um segundo, tudo se vai junto com as últimas batidas do seu\n coração.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Conselho\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nMaria\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1559334031713\" height=\"266\" src=\"https://i2.wp.com/www.viajandosemmedo.com/wp-content/uploads/2018/06/pexels-photo-e1530061324645.jpg?resize=700%2C467&amp;ssl=1\" style=\"margin-top: 0px;\" width=\"400\" /\u003e \u003c/div\u003e\n",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nNinguém o avisou que aquela seria a última vez... Ninguém o avisou que aquela seria a última música cantada por sua voz doce, a última melodia, a última nota; Ninguém o avisou que aquele momento simples, momento qualquer que era \nrotina na sua vida, ficaria na memória de quem ficou, como o último \nmomento ao seu lado. Ninguém o avisou quando seria sua última festa, última refeição, última \nrisada, última visita; Ninguém o avisou que tudo se acabaria em \nsegundos. Estranho como coisas ruins acontecem com pessoas boas, ele havia deixado\n sua marca no mundo, seus ensinamentos e suas conquistas, tinha tanto a \nnos mostrar, tanto a viver! Ninguém o avisou, ninguém me avisou, que aquele seria o último abraço, toque na pele, último olhar último suspiro... Com a cabeça limpa, fiquei me culpando das vezes que não vivi, não amei o\n suficiente, não me dediquei, agora eu amo, vivo, rio, tudo como se \nfosse a primeira e última vez, vivo intensamente em conjunto com quem \namo, pois em um segundo, tudo se vai junto com as últimas batidas do seu\n coração.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Conselho\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nMaria\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-dkca_cg6ZsY/XPL2dUVz0BI/AAAAAAAAwnQ/pcBEAQ00KRYhHftQMa3Tzl-LkplcS3I3ACLcBGAs/s1600/sadasd.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"467\" data-original-width=\"700\" height=\"266\" src=\"https://1.bp.blogspot.com/-dkca_cg6ZsY/XPL2dUVz0BI/AAAAAAAAwnQ/pcBEAQ00KRYhHftQMa3Tzl-LkplcS3I3ACLcBGAs/s400/sadasd.jpg\" width=\"400\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cbr /\u003e \u003c/div\u003e\n",
    "images": [
     {
-     "url": "https://i2.wp.com/www.viajandosemmedo.com/wp-content/uploads/2018/06/pexels-photo-e1530061324645.jpg?resize=700%2C467&ssl=1"
+     "url": "https://1.bp.blogspot.com/-dkca_cg6ZsY/XPL2dUVz0BI/AAAAAAAAwnQ/pcBEAQ00KRYhHftQMa3Tzl-LkplcS3I3ACLcBGAs/s400/sadasd.jpg"
     }
    ],
    "author": {
@@ -6007,126 +6131,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2768617031958135691/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7134560801985687519",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-21T16:29:00-03:00",
-   "updated": "2019-03-21T16:29:29-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTk2NTY5MTA4Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/sem-medo-de-te-amar.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7134560801985687519",
-   "title": "Sem Medo de Te Amar",
-   "content": "Eu não tenho mais medo de te amar, não tenho medo de te ver sorrir com \noutras, não tenho medo de te ver chorar com outros, e muito menos tenho \nmedo de te perder. Quando amamos, quando criamos o \"amor\" dentro de nós,\n nós não sentimos nada mais nada menos do que a maior confiança do \nmundo. Ódio é forte, mas já percebeu que amor também é? As três palavras\n mágicas que muitas das vezes coloca a gente para cima é o \"Eu Te Amo\" \njá percebeu que você fala para sua mãe, seu pai, seu irmã, irmão, ou até\n para seus amigos... Mas o \"Eu Te Amo\" de amor considerado como amor, a \nmeu amigo, este amor é o amor de verdade, o amor que te faz voar, \nsonhar, mudar, renovar, é dar aquele sorriso até nas coisas mais banais,\n por isto que o amor é a coisa mais linda do mundo, é por isto, por isto\n que não tenho medo de te amar.\u003cbr /\u003e\n\u003cbr /\u003e\nAndressa P.B\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para felicidade tumblr\" class=\"irc_mi\" data-iml=\"1553164099259\" height=\"213\" src=\"https://i0.wp.com/fraseparastatus.com.br/wp-content/uploads/2018/10/Status-de-Felicidade-TUMBLR.jpg?fit=1280%2C853&amp;ssl=1\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i0.wp.com/fraseparastatus.com.br/wp-content/uploads/2018/10/Status-de-Felicidade-TUMBLR.jpg?fit=1280%2C853&ssl=1"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7134560801985687519/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "6597769777275043194",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-21T16:23:00-03:00",
-   "updated": "2019-03-21T16:23:09-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTk2MTg5MzcwCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/acredite-em-voce.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6597769777275043194",
-   "title": "Acredite em você",
-   "content": "Sabia que lá em cima existe um Deus que ama seu sorriso?levante um \nsorriso e vai sorrir para o mundo, você é incrível, acredite em você, \nvocê é linda (o),não deixem que falem o contrário.\u003cbr /\u003e\nVocê ainda tem muito pela frente,sempre que te deixarem triste,te \ndesprezarem, lembre,que Deus tem um propósito na tua vida,por isso vc \nestá no mundo, você pode ser alguém muito grande ainda,basta confiar,vcs\n meninas e meninos de auto estima destruída por alguém,cara,não abaixa \ncabeça pro outros não,é isso que eles querem ver,querem ver vocês com \nmedo,e triste,mostra que vcs são mais que isso,que vcs são alguém,e \nalguém de muito caráter,vcs não são qualquer um,não são qualquer tipo de\n lixo não...\u003cbr /\u003e\n\u003cbr /\u003e\nLuna Peres \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mut\" data-iml=\"1553163759731\" height=\"205\" src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5UuEhQAVSP8lKcQtsT1NT0Lz_f8wa7_YmOMm7ULgjupuJz_n\" style=\"margin-top: 0px;\" width=\"320\" /\u003e",
-   "images": [
-    {
-     "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5UuEhQAVSP8lKcQtsT1NT0Lz_f8wa7_YmOMm7ULgjupuJz_n"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6597769777275043194/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7813729019732364253",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-20T17:10:00-03:00",
-   "updated": "2019-03-20T17:48:36-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTE0OTE2MTk3Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/code-issues-5000-pull-requests-0.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7813729019732364253",
-   "title": "Sozinha em uma multidão",
-   "content": "Sozinho sozinho em uma multidão\n\u003cbr /\u003e\nJá se sentiu sozinho mesmo estando com várias pessoas ao seu lado , \num vazio no peito, uma tristeza sem fim, entre outros sentimentos É eu \nsei bem como é, o quanto é ruim ter que fingir que estar bem Para não \npreocupar ninguém, para agradar as pessoas e etc. Sua única diversão e \ndistração são as músicas que na maioria das vezes retratam os seus \nsentimentos, para você a sua vida é uma merda e isso Não Desiste da vida\n para não magoar quem o ama já passei muito por isso e ainda passa por \nvárias crises existenciais e sei como é sentir feliz em um momento e em \noutro sentir que toda aquela alegria se esvaiu, mas não desista de sí, \ncontinue tentando mesmo de errado uma hora dá certo.\u003cbr /\u003e\nNão duvide de si mesmo e de seu potencial você pode ser o que quiser \nbasta lutar por isso basta não se deixar levar pelas tristezas e pelas \ndesavenças que a vida dá.\u003cbr /\u003e\nO que tem que fazer é manter o foco e não deixe se abalar, e se cair \nlevanta e continue Não desista de seus sonhos não desista de si próprio \nde sua felicidade, sua história só você pode escrever. Tenha força e fé \nque eu sei que você consegue basta tentar e tentar e não desistir.\u003cbr /\u003e\n\u003cbr /\u003e\nAnny Caroline ",
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7813729019732364253/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5234310301739606189",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-20T17:02:00-03:00",
-   "updated": "2019-03-20T17:02:29-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzMTEyMTQ5OTM5Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/seja-voce-mesma.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5234310301739606189",
-   "title": "Seja você mesma",
-   "content": "Você passa todos os dias tentando ser alguém que você não é só para \nagradar aquela pessoa que mexe com os seus sentimentos... Mas olha,você é\n perfeito do jeitinho que você é! Com todos os seus defeitos, e todas as\n suas qualidades, não tente mudar somente para conquistar essa pessoa,se\n ela for realmente a certa,aquela que vc tanto sonha ela vai te amar \ncomo você é, com todos os seus defeitos.Cada um com sua \npersonalidade,não soms iguais a ninguém,então se você quer tanto ser \nnotado por alguém, seja você mesmo...\u003cbr /\u003e\n\u003cbr /\u003e\nMontana\u003cbr /\u003e\n\u003cbr /\u003e\n#Conselho\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para negra tumblr\" class=\"irc_mi\" data-iml=\"1553076039378\" height=\"320\" src=\"https://i.pinimg.com/originals/c6/02/e8/c602e87f0a3f5a34dca92bcb5bb4015b.jpg\" style=\"margin-top: 0px;\" width=\"255\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/c6/02/e8/c602e87f0a3f5a34dca92bcb5bb4015b.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5234310301739606189/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNS0zMVQyMDozMDozNy45MjZa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNi0wMVQyMjowNDo0Ni42MzNa\""
 }
