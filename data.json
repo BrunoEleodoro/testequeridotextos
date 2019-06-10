@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYhOTAs5stEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEY4I-n3ZstEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "7886311433827430982",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-06-09T21:12:00-03:00",
+   "updated": "2019-06-09T21:12:07-03:00",
+   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTYwMTI1NTI3MzAxCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/06/espelho-meu_9.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7886311433827430982",
+   "title": "Espelho Meu",
+   "content": "Você sempre vem no mesmo horário\u003cbr /\u003e\n1 ou 2 vezes na semana\u003cbr /\u003e\nJá acostumei com o barulho da porta sendo trancada\u003cbr /\u003e\nVocê tira a roupa e fica olhando pra mim\u003cbr /\u003e\nSeu confidente,seu amigo,portador de seus segredos\u003cbr /\u003e\nSeu espelho\u003cbr /\u003e\nJá faz tempo que ouço seu choro baixinho\u003cbr /\u003e\nSentada no canto da parede\u003cbr /\u003e\nVocê levanta com aquela tristeza pesada\u003cbr /\u003e\n&nbsp;e com a cara inchada\u003cbr /\u003e\nAgarra-se a uma toalha,que seca sua chuva\u003cbr /\u003e\nnos olhos\u003cbr /\u003e\nSaí como se nada tivesse acontecido\u003cbr /\u003e\nEu só queria lhe dizer\u003cbr /\u003e\nQue você é linda\u003cbr /\u003e\nDesse seu jeitinho\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza \u003cbr /\u003e\n\u003cbr /\u003e\nNanda Panisset\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1560124927593\" height=\"379\" src=\"https://i.pinimg.com/originals/11/e5/21/11e5213658646e5ab0005332a95a43df.jpg\" style=\"margin-top: 0px;\" width=\"356\" /\u003e\u003cbr /\u003e\n\n\u003cbr /\u003e\n\u003cbr /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/11/e5/21/11e5213658646e5ab0005332a95a43df.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7886311433827430982/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "802371998887477192",
@@ -6135,33 +6166,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7460607055192922251/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8887727488862004699",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-03-25T17:00:00-03:00",
-   "updated": "2019-03-25T17:00:51-03:00",
-   "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/dGltZXN0YW1wOiAxNTUzNTQ0MDUxMzcwCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/03/so-mais-um-aleatorio.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8887727488862004699",
-   "title": "So mais um Aleatório",
-   "content": "Eu achava que eu era de gelo, e que o meu coração era de pedra , sua \nfragilidade tem força , porque de alguma forma me quebra, eu até tentei\n me declarar mais os meus planos falharam por tentar descrever com \npalavras o que os meus olhos sempre te falaram.\u003cbr /\u003e\nSou um homem de lata que quis ter um coração.\u003cbr /\u003e\nE as cicatrizes fazem parte e elas aumentam toda vez que cê parte.\u003cbr /\u003e\n\u003cbr /\u003e\nL.E ",
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8887727488862004699/comments"
-   }
   }
  ],
- "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNi0xMFQwMDowMjoxOC43NTJa\""
+ "etag": "\"iHf3yWDE_geBgZ8U7rgZ_xuTeAQ/MjAxOS0wNi0xMFQwMDoxMjowNy4zMDFa\""
 }
