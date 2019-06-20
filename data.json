@@ -1,7 +1,162 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYoP_50p0tEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYwIit_J0tEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "7079698056216396786",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-06-20T19:17:00-03:00",
+   "updated": "2019-06-20T19:17:09-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYxMDY5MDI5ODk3Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/06/meu-choro.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7079698056216396786",
+   "title": "Meu Choro.",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\nEu tenho chorado muito ultimamente, chorado pelo nosso término, chorado porque você já está com outra pessoa, tenho chorado por brigas dentro da minha casa, tenho chorado por ouvir coisas que não deveria, que não desejaria nem ao meu pior inimigo, tenho chorado porque acho que meus pais vão se separar, e eu não posso fazer nada, tenho chorado porque meu peito dói, tenho chorado por falta de amor, tenho chorado por brigas que não são minhas, tenho chorado por brigas políticas, pela falta de amor ao próximo, por filhos batendo em pais, pelo ser humano tem agredido a natureza, tenho chorado por choros que não são meus, culpas que não são minhas. No final das contas, não tenho vivido, somente chorado, e tem alguém do meu lado? Tem alguém se preocupando comigo? Então me faça um favor, no meu enterro, não te dou o direito de fazer a única coisa que fiz em minha vida toda, chorar, porque pedi, gritei, implorei por ajuda, e ninguém veio, então não derrame lágrimas de crocodilo em meu enterro, não precisa agir com falsidade, já estarei morto, e você não fez nada para mudar isso.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n#Tristeza&nbsp;\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\nIsrael Mozart\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cimg alt=\"Woman Sitting on Bench\" height=\"320\" src=\"https://images.pexels.com/photos/1275501/pexels-photo-1275501.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" width=\"213\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://images.pexels.com/photos/1275501/pexels-photo-1275501.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7079698056216396786/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4086194496428375525",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-06-20T19:11:00-03:00",
+   "updated": "2019-06-20T19:13:48-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYxMDY4ODI4NjkwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/06/eu-te-amo.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4086194496428375525",
+   "title": "Eu Te Amo...",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\nHá se as pessoas fossem sinceras pelo menos no \"Eu te amo\", muitas pessoas hoje não estariam sofrendo, só bastava ser sincero, e não dizer. Hoje em dia, um \" Eu te amo\" virou comum, virou um despedida, tem aparecido depois de um \"boa noite\", o amor tem ficado cliché, porque dizemos que amamos, mas no fundo, desejamos mal, fazemos fofocas, contamos mentiras, mas o \"eu te amo\" está lá, para tudo e para todos, mas na primeira oportunidade, derruba, chuta, tira foto e ainda posta que pessoa caiu, te pergunto eu, isso é amor??? O amor tem se tornado tão raro hoje em dia, que desconfiamos de tudo de todos, temos brigas e mais brigas, de religião, de política, isso cansa, esse ódio acumulado cansa, mas no meio desse ódio, no meio dessas confusões, estão o famoso \" Eu te amo\", infelizmente, na maioria das vezes, ele é falso.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n#Amor\u003cbr /\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\nIsrael Mozart\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cimg alt=\"Photo of Two Woman Wearing Rainbow Capes\" height=\"320\" src=\"https://images.pexels.com/photos/1166580/pexels-photo-1166580.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" width=\"213\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://images.pexels.com/photos/1166580/pexels-photo-1166580.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4086194496428375525/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4855200573638627416",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-06-20T19:09:00-03:00",
+   "updated": "2019-06-20T19:14:25-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYxMDY4ODY1MTU3Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/06/nao-se-reinvente.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4855200573638627416",
+   "title": "Não Se Reinvente...",
+   "content": "\u003cdiv dir=\"auto\" style=\"background-color: white; color: #222222; font-family: sans-serif;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"color: black; font-family: &quot;roboto&quot; , sans-serif; font-size: 16px;\"\u003e\u003cspan style=\"color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"\u003eEu me refiz pensando ser eu o problema,e me reinventei&nbsp;diversas vezes tentando me encaixar em algo que não me servia,que não era pra mim,procurando a tal felicidade. No final eu voltei a ser como eu era e quer saber... Eu fui feliz. A felicidade é questão de ser,de ser como quer ser e não como o mundo exige que você seja. O Mundo é apenas o Mundo e sua felicidade é apenas seu ser. Não se reinvente&nbsp;para se encaixar em algo que te fará feliz por um instante,a verdadeira felicidade não te molda,ela te abraça assim como você é e dura toda a eternidade.\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n#Conselho\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n\u003cb\u003eAnna Gaby\u003c/b\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; color: black; font-family: Roboto, sans-serif; font-size: 16px; text-align: center;\"\u003e\n\u003cimg alt=\"Person Walking while Holding Rainbow Colored Flag\" height=\"320\" src=\"https://images.pexels.com/photos/2433122/pexels-photo-2433122.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" width=\"213\" /\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://images.pexels.com/photos/2433122/pexels-photo-2433122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4855200573638627416/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "2785844027810100036",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-06-20T19:06:00-03:00",
+   "updated": "2019-06-20T19:06:05-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYxMDY4MzY1NTU4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/06/medo-de-sorrisos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2785844027810100036",
+   "title": "Medo de Sorrisos",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\nSim, eu tenho medo de sorrisos, porque somente um sorriso pode esconder tantas coisas, um sorriso pode falar tantas coisas, um sorriso destrói relacionamentos, um sorriso, somente um sorriso, tem um grande poder, e isso me deixa com medo, até mesmo do meu próprio sorriso. Pessoas vivem sorrindo, mas por dentro estão chorando, por dentro estão gritando por ajuda, por dentro estão devastados, mas por fora, tem o belo e lindo sorriso. Saímos com um sorriso, mas no final estamos chorando no nosso travesseiro, então do que adianta se você sorrir, se tua alma chora?? O que adianta você sorrir, se não é isso que você realmente quer?? Palhaços tem depressão, e vivem sorrindo e fazendo outras pessoas sorrirem, ISSO É TRISTE.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n#Tristeza\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\nIsrael Mozart\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cimg alt=\"White and Black Wall Paint\" height=\"219\" src=\"https://images.pexels.com/photos/709732/pexels-photo-709732.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260\" width=\"320\" /\u003e\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://images.pexels.com/photos/709732/pexels-photo-709732.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2785844027810100036/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5014393349978060287",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-06-20T19:03:00-03:00",
+   "updated": "2019-06-20T19:14:57-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYxMDY4ODk3MTM4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/06/dias-nublado.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5014393349978060287",
+   "title": "Dias nublado.",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nA como um dia nublado, as vezes decifra tanto oque estamos sentindo, decifra as vezes como está a nova vida, completamente nublada. Ver um céu azul e lindo, totalmente nublado, aonde as únicas cores que existe é preto misturado com tons de cinza.&nbsp; Assim como a nossa vida muitas vezes ela está preta com tons de cinza, porque de repente o dia não foi tão bom, ou até mesmo a semana tenha sido uma das piores da sua vida, não conseguiu alcançar aquilo que almejava e etc.. Mas assim como o dia nublado, os tons escuros some e volta aquele céu azul lindo de se olhar, na nossa vida também vai passar é só um tempo ruim, não é para sempre. Talvez dure alguns dias ou semanas mais passa, sempre passa. Mas nesse meio tempo aprenda muito, porque os dias nublados nos trazem muitos aprendizados, nos permitem&nbsp; não errar lá na frente, nos permitem ser quem somos e aprender que tudo passa, e que devemos respeitar as fases que passamos, os momentos e tudo que ainda iremos passar. Não se tranque num quarto enquanto não passa, aprenda a viver. Tá com vontade de chorar? Chore, ria, grite, encante, só não deixa que o nublado apague a cor que a sua vida tem, respeite a fase que você tá passando, A cor, o brilho sempre volta é uma questão de tempo e de aprendizagem, é uma questão de saber esperar e acreditar que sempre passa!\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Reflexao\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nQuerido Textos\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: justify;\"\u003e\n\u003cimg alt=\"Person With Rainbow Color Paint on His Wrist\" src=\"https://images.pexels.com/photos/1147821/pexels-photo-1147821.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://images.pexels.com/photos/1147821/pexels-photo-1147821.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5014393349978060287/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "8962762717847728178",
@@ -6046,162 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4860681604313352291/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8337272556542868355",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-02T16:10:00-03:00",
-   "updated": "2019-04-02T16:10:32-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU0MjMyMjMyNDM1Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/ame-se.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8337272556542868355",
-   "title": "Ame-se",
-   "content": "Você não é um produto. Você não é um objeto. Você é uma pessoa, uma \nmulher, e pessoas, homens e mulheres não se rotulam. Por isso, acredite:\n você é muito mais, muito mais do que dizem ou deixam de dizer por aí. \nNão importa se você se encaixa com um padrão X ou Y. Seu padrão deve ser\n você mesma, seja como for alta ou baixa, morena, ruiva, negra ou loira,\n magra ou até mesmo gordinha, com o pé 32 ou 42, com a pele lisinha ou \ncheia das suas alergia, com celulite, estrias ou gordurinhas, seios é \nbumbum caído ou tudo em cima, com um corpo violão ou até mesmo sem \ncurvas, olhos claros ou não... Seja você mesma e aprenda a se amar do \njeito que você é. Sem comparações. Sem disputa. Sem rótulos. Livre-se da\n opressão e dessa caixa que a sociedade impõe ou que talvez aquele cara \nsem noção que quis impor sobre você. Seja mais que isso. Porque Deus te \nfez para ser livre e voar. E só voa quem não se prende na opinião \nalheia. Seja você e tão somente você como ele um dia te desenhou.\u003cbr /\u003e\n\u003cbr /\u003e\nAdna Vitória\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para amor proprio tumblr\" class=\"irc_mi\" data-iml=\"1554232206575\" height=\"280\" src=\"https://apazdoeu.com.br/wp-content/uploads/2018/02/Amor-pr%C3%B3prio.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
-   "images": [
-    {
-     "url": "https://apazdoeu.com.br/wp-content/uploads/2018/02/Amor-pr%C3%B3prio.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8337272556542868355/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3915919057243885213",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-02T15:51:00-03:00",
-   "updated": "2019-04-02T15:51:42-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU0MjMxMTAyNDE3Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/eu-odeio-amar-voce.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3915919057243885213",
-   "title": "Eu Odeio Amar Você.",
-   "content": "E finalmente chegou a hora da sua partida, eu realmente estou sofrendo \nmuito mais não da pra ficar sempre correndo atrás de você. Você foi a \nmelhor e a pior pessoa na minha vida, eu entreguei todo o meu amor a \nvocê, e você descartou, como se fosse um pedaço de papel velho, ou um \npacote que você usa e não quer mais. Eu realmente estou sofrendo com a \nsua partida, eu te amei, amei muito, mas nisso de te amar eu acabei \nesquecer de me amar primeiro. Eu te amo, e quero que você seja feliz \nindependente de tudo. Você me fazia rir e depois me fazia chorar, você \nme prometia o mundo mas você nunca me deu nem a estrela. Você sempre vai\n estar marcando na minha vida, eu te amo, mas eu também tenho que me \namar.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nMih Olivera\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1554231069312\" height=\"379\" src=\"https://i.pinimg.com/originals/23/f8/18/23f8185d537db0e6bfeebbfea5360eef.jpg\" style=\"margin-top: 0px;\" width=\"253\" /\u003e \u003cbr /\u003e\n",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/23/f8/18/23f8185d537db0e6bfeebbfea5360eef.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3915919057243885213/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3499856448408245275",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-01T17:15:00-03:00",
-   "updated": "2019-04-01T17:15:57-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU0MTQ5NzU3NjI2Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/um-dia-apos-o-outro.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3499856448408245275",
-   "title": "Um Dia Após O Outro",
-   "content": "E desde então nunca mais soube notícias suas, já é o terceiro dia desde aquela semana em que lamentavelmente criei um trauma.\u003cbr /\u003e\nFalhei. Falhei em tentar te surpreender. Falhei em ser eu mesma. Falhei \npor te amar demais. E esse amor acaba me machucando. Como pode ser amor \nquando você mais chora do que sorri? Eu não entendo. Como pude mudar \ntanto? E me tornar essa pessoa tão vulnerável com seus sentimentos.\u003cbr /\u003e\nTodos dizem que esse nosso amor já não está me fazendo bem. Por que não \nconsigo enxergar isso? Estou tão cega assim? As visitas de famílias já \nnão são mais as mesmas. Tudo está esquisito. Repito comigo mesma: \nPreciso me curar de você!\u003cbr /\u003e\nIsso não funciona!\u003cbr /\u003e\nMe questiono tanto. O amor sempre fora assim?\u003cbr /\u003e\nLembro-me sempre da primeira vez em que o vi, achei que era você o \ngrande amor da minha vida. Achei. Mas tenho medo de estar enganada.\u003cbr /\u003e\n\u003cbr /\u003e\nabelhaatarefada\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para arco iris tumblr\" class=\"irc_mi\" data-iml=\"1554148936812\" height=\"379\" src=\"https://pm1.narvii.com/6538/8160178391aa7dec733eac77bcb52710cb3721c3_hq.jpg\" style=\"margin-top: 0px;\" width=\"202\" /\u003e ",
-   "images": [
-    {
-     "url": "https://pm1.narvii.com/6538/8160178391aa7dec733eac77bcb52710cb3721c3_hq.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3499856448408245275/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4903499764142970405",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-01T16:31:00-03:00",
-   "updated": "2019-04-01T16:31:35-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU0MTQ3MDk1NTA1Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/amar-de-graca.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4903499764142970405",
-   "title": "Amar de graça",
-   "content": "Dar-me a graça de amar-te de graça sem precisar dar tudo o que sou.\u003cbr /\u003e\nDar-me a graça de amar-te de graça sem precisar me desmontar para preencher teus vazios.\u003cbr /\u003e\nDar-me a graça de amar-te de graça sem precisar me perder de mim para que eu possa te achar.\u003cbr /\u003e\nDar-me a graça de amar-te de graça sem precisar sofrer para ser recíproco.\u003cbr /\u003e\nDar-me a graça de amar-te de graça continuar sendo eu, mesmo com vosmecê sendo prioridade.\u003cbr /\u003e\n\u003cbr /\u003e\nDhenny\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para tumblr\" class=\"irc_mi\" data-iml=\"1554147086427\" height=\"379\" src=\"https://images.unsplash.com/photo-1517245480009-64056ebabb49?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;w=1000&amp;q=80\" style=\"margin-top: 0px;\" width=\"303\" /\u003e ",
-   "images": [
-    {
-     "url": "https://images.unsplash.com/photo-1517245480009-64056ebabb49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4903499764142970405/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7592487542933941905",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-01T16:27:00-03:00",
-   "updated": "2019-04-01T16:27:13-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU0MTQ2ODMzMjM3Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/nossos-erros.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7592487542933941905",
-   "title": "Nossos Erros",
-   "content": "Esses dias eu tenho pensado muito no quanto as pessoas se cobram, o por que de elas se auto julgarem tanto.\u003cbr /\u003e\nNos estamos propícios a cometer erros o tempo todo. Então porque ao em \nvez de nos cobrar por erros,  nos não aprendemos com eles?\u003cbr /\u003e\nPor que ao em vez de nos preocupar com o que as pessoas vão falar, a \ngente não para pra ver onde erramos e tente não fazer de novo?\u003cbr /\u003e\nAs pessoas de fora não tem nada a ver com a sua vida,  então pare de \nquerer ser perfeito porque vamos perder muito tempo tentando ser algo \nque não existe.\u003cbr /\u003e\nProcure sua felicidade,  independente de qualquer coisa,  seja livre e menos refém de si mesmo e do pensamento alheio.\u003cbr /\u003e\n\u003cbr /\u003e\nJakelyny Souza\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para chuva  tumblr\" class=\"irc_mi\" data-iml=\"1554146519863\" height=\"213\" src=\"https://g1.globo.com/Noticias/SaoPaulo/foto/0,,35281179-EX,00.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e ",
-   "images": [
-    {
-     "url": "https://g1.globo.com/Noticias/SaoPaulo/foto/0,,35281179-EX,00.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7592487542933941905/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNi0xOVQyMTo1NDo1Ny4yMDNa\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNi0yMFQyMjoxNzowOS44OTda\""
 }
