@@ -1,7 +1,69 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYo472pZ4tEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEY4bCppp4tEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "8355476201602121015",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-06-24T20:34:00-03:00",
+   "updated": "2019-06-24T20:34:52-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYxNDE5MjkyMTQ5Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/06/saudades-da-sua-amizade.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8355476201602121015",
+   "title": "Saudades Da Sua Amizade.",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; margin-bottom: 16px;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nTudo o que eu queria agora, era ter sua amizade de volta, e ter principalmente você ao meu lado. Com o passar do tempo eu até entendi a nossa briga, mas eu não quero te perder. Sei que o que fiz foi errado, mas nunca é tarde pra pedir perdão. Eu te amo, amo nossa amizade, amo estar com você. por favor não abandona tudo isso assim, não larga tudo isso pra trás, não esqueça de tudo isso. Eu não quero te perder. Você foi a melhor Amiga que eu tive. A amizade é um ingrediente importante na receita da vida.\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nAllanys Cesar\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Amizade\u003c/div\u003e\n\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://4.bp.blogspot.com/-Rw4mWp47Ex8/W_l6y0xAnNI/AAAAAAAAvq0/_O3JDitwmaENIXqF80fjRoc1l8ildAxmwCLcBGAs/s1600/querido324312.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"500\" data-original-width=\"500\" height=\"320\" src=\"https://4.bp.blogspot.com/-Rw4mWp47Ex8/W_l6y0xAnNI/AAAAAAAAvq0/_O3JDitwmaENIXqF80fjRoc1l8ildAxmwCLcBGAs/s320/querido324312.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://4.bp.blogspot.com/-Rw4mWp47Ex8/W_l6y0xAnNI/AAAAAAAAvq0/_O3JDitwmaENIXqF80fjRoc1l8ildAxmwCLcBGAs/s320/querido324312.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8355476201602121015/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "8345900815610082736",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-06-24T19:52:00-03:00",
+   "updated": "2019-06-24T19:52:22-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYxNDE2NzQyNDE5Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/06/saudades_24.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8345900815610082736",
+   "title": "Saudades ",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eTenho saudades de me sentir bonita, sem precisar ouvir isso. Tenho saudades de quando tudo parecia fazer mais sentido e não estar cheia de dúvidas. Tenho saudades de me sentir mais eu. Tenho saudades de ser quem eu quero ser, sem ser que os outros me julguem ou me olhem estranho por aquilo que eu irei fazer ou fiz ou zombar e rir, saudades de algumas pessoas que saíram da minha vida e muitos vezes eu nem sei o porque e sinto falta dessas pessoas, me conectar mais com algumas pessoas. Sinto saudades de me iludir e não ser tão realista e perceber que infelizmente há muitos pessoas ruins e más no mundo e talvez muitos que querem o meu mau e o mau de muitos. Saudades de ser mais otimista com tudo. Saudades, eu...\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e#Tristeza\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eSunflower\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para saudades tumblr\" src=\"https://pbs.twimg.com/profile_images/726804705695899648/mgxiodSk_400x400.jpg\" /\u003e",
+   "images": [
+    {
+     "url": "https://pbs.twimg.com/profile_images/726804705695899648/mgxiodSk_400x400.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8345900815610082736/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "3254641066652024681",
@@ -6139,69 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2362360702678975607/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8736374934702049187",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-03T16:55:00-03:00",
-   "updated": "2019-04-03T16:55:48-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU0MzIxMzQ4ODIwCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/meu-lugar-predileto.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8736374934702049187",
-   "title": "Meu lugar predileto.",
-   "content": "Mapeei tuas sardas como constelações zodiacais, decorei o caminho do teu\n pescoço para teus lábios e estou habituada a segui-lo. As tardes com \nvocê passaram a não ser tediosas e meu passatempo favorito é ver tua \npele arrepiando enquanto meus dedos serpentiam suavemente pela mesma. Te\n ver viver, amar e sentir é um dos vários motivos para eu continuar \naqui, porque, meu amor, meu lugar predileto é ao teu lado.\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor \u003cbr /\u003e\n\u003cbr /\u003e\nArabella\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1554321326790\" height=\"379\" src=\"https://i.pinimg.com/736x/77/ce/36/77ce364210f088e00a9bfa898cfd91ff--beach-hair-beach-blonde.jpg?b=t\" style=\"margin-top: 0px;\" width=\"245\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/736x/77/ce/36/77ce364210f088e00a9bfa898cfd91ff--beach-hair-beach-blonde.jpg?b=t"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8736374934702049187/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8068578229570836198",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-03T16:47:00-03:00",
-   "updated": "2019-04-03T16:47:33-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU0MzIwODUzNDk0Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/deixe-ir.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8068578229570836198",
-   "title": "Deixe Ir ",
-   "content": "Hoje parei pra pensar um pouco em nos. me olhei no espelho, e vi que \nsou demais pra você, não em questão física. olhei pra dentro dos meus \nolhos e pensei sera que existe alguém tão foda nesse mundo pra te dar só\n metade do amor, que você merece?...\n\u003cbr /\u003e\nCheguei a conclusão óbvia, mas que quando se esta envolvido poucas \nvezes se nota. Não quero alguém que viva de joguinhos de desamor. quero \nalguém tão foda ao ponto de chegar na roda de amigos e fala, \" eu estou \napaixonada, sim \"...\u003cbr /\u003e\n\nAcredito que a intensidade tem que prevalecer. vocês tem chances de \nviverem coisas lindas, mas preferem viverem mentido a si mesmo que não \nama ninguém. peço cuidado, uma hora dessas vocês se deparam com o amor \nda vida de vocês...\u003cbr /\u003e\n\nE nesse joguinho, talvez ele nunca nem tenha tido um vídeo game. \noportunidade não bate duas vezes na porta. intensifique, mas na mesma \nproporção...\u003cbr /\u003e\n\nSe quer que vc corra atrás, mude a rota pegue um atalho em direção a \nfelicidade, você é melhor que isso. Talvez não tinha que ser mesmo, \ndeixe ir.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nHeider Andrade\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para bad7 tumblr\" class=\"irc_mi\" data-iml=\"1554320815478\" height=\"379\" src=\"https://66.media.tumblr.com/83638d8c9f338a8711043471b273e97b/tumblr_p60mlkEJWD1sw8kbao1_400.png\" style=\"margin-top: 0px;\" width=\"306\" /\u003e ",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/83638d8c9f338a8711043471b273e97b/tumblr_p60mlkEJWD1sw8kbao1_400.png"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8068578229570836198/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNi0yM1QyMjo0MToyMS44OTRa\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNi0yNFQyMzozNDo1Mi4xNDla\""
 }
