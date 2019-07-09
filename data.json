@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYgPj0wqItEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYwdac6qItEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "6262858715457763757",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-09T17:56:00-03:00",
+   "updated": "2019-07-09T18:01:17-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYyNzA2MDc3MDg4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/se-for-saudade.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6262858715457763757",
+   "title": "Se for Saudade.",
+   "content": "Às vezes penso em ti, fico com o coração em disparada, talvez seja amor, talvez quem sabe, ternura, felicidade, exaltação ou bastante saudade. Se for saudade, os meus momentos, as noites mal dormidas, fantasias, os dias, meses, anos, minhas poesias, madrugadas, sonhos, as lembranças, os desencontros, meu grito, minha espera, solidão, o meu sol, a lua... Estão tomados de saudade tua.\u003cbr /\u003e\n\u003cbr /\u003e\nCamilly Santos\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para saudade tumblr\" height=\"242\" src=\"https://i.pinimg.com/236x/82/9d/fd/829dfd76457893cf5856320228a01137--portuguese-i-miss-you.jpg\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/236x/82/9d/fd/829dfd76457893cf5856320228a01137--portuguese-i-miss-you.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6262858715457763757/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1607995823165719752",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-09T17:54:00-03:00",
+   "updated": "2019-07-09T17:54:03-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYyNzA1NjQzMDY2Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/voce-e-tao-voce.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1607995823165719752",
+   "title": "Você é Tão Você...",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nVocê desperta em mim a curiosidade do saber. Você é estranho, mas ao mesmo tempo muito normal. Você é frio, mas ao mesmo tempo aquece meu coração. Você é extremamente lindo, mas completamente fora de si. Fico me perguntando se você realmente existe, você é tão você....\u003c/div\u003e\n\u003cbr /\u003e\nLindici\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://storage.alboom.ninja/sites/1135/albuns/341102/marcos_-90.jpg?t=1540989425\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg alt=\"Resultado de imagem para homem tumblr\" border=\"0\" class=\"irc_mi\" data-iml=\"1553460915992\" height=\"213\" src=\"https://storage.alboom.ninja/sites/1135/albuns/341102/marcos_-90.jpg?t=1540989425\" style=\"margin-top: 0px;\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://storage.alboom.ninja/sites/1135/albuns/341102/marcos_-90.jpg?t=1540989425"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1607995823165719752/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3736211989172345780",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-09T17:51:00-03:00",
+   "updated": "2019-07-09T17:51:55-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYyNzA1NTE1MzU4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/eu-mudei.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3736211989172345780",
+   "title": "Eu Mudei.",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nEu não aguento mais fingir que está tudo bem, já não quero mais me enganar. faço tantas coisas para deixar as pessoas felizes e satisfeitas. Mas e quando eu preciso? o que me dão em troca?\u003cbr /\u003e\neu não estou aqui para cobrar nada de ninguém, cada um da o que tem. Eu mudei tanto e estou surpreendida. Nunca imaginei que seria capaz de parar de correr atrás de alguém, eu nunca imaginei que seria feliz sem depender da atenção de ninguém\u003cbr /\u003e\nEu até parei de correr atrás que eu \"amava\", eu me dei conta de que isso não era preciso. Até porque quando os sentimentos são recíprocos, vc não precisa mendigar atenção e amor de ninguém , isso é espontâneo. Eu já não sou mais a mesma e isso é graças a você que com sua frieza me fez entender que eu sou muito mais do que aparento ser, sua frieza me fez entender que eu não preciso mendigar amor, nem atenção de ninguém. Como eu disse, isso é espontâneo. Eu mudei, e estou feliz com isso.\u003c/div\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nFlávia Santiago\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para bad pessoa tumblr\" class=\"irc_mi\" data-iml=\"1553631668294\" height=\"379\" src=\"https://3.bp.blogspot.com/-OiG-VUT3jcA/WHFbADGgl-I/AAAAAAAAOs8/Ys4fucyvDTwv-8ySP0CiJ7f3iIDbTK4hwCLcB/s1600/2017-01-05%2B05.23.21%2B2.jpg\" style=\"margin-top: 0px;\" width=\"303\" /\u003e",
+   "images": [
+    {
+     "url": "https://3.bp.blogspot.com/-OiG-VUT3jcA/WHFbADGgl-I/AAAAAAAAOs8/Ys4fucyvDTwv-8ySP0CiJ7f3iIDbTK4hwCLcB/s1600/2017-01-05%2B05.23.21%2B2.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3736211989172345780/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "2590882936864133751",
@@ -6108,100 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4977947044070993572/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8009470718433026576",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-17T18:42:00-03:00",
-   "updated": "2019-04-17T18:42:32-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU1NTM3MzUyNTUwCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/a-caixa-de-surpresas.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8009470718433026576",
-   "title": "A caixa De Surpresas",
-   "content": "Passei tanto tempo procurando uma pessoa simples e amigável ,de \ngrande valor , que não enxerguei a caixa que se encontrava em   uma mesa\n de truco bem a minha frente , essa caixa tem nome e não   tem valor , \npois era das raras.\u003cbr /\u003e\nNa caixa encontrei um coração  imenso, sorrisos fáceis e bobos mas \nsinceros  , um olhar verdadeiro , pensamentos diferenciados. Nos seu \nolhos enxerguei seu interior ,no seu sorriso enxerguei o que muitos \nprocuram esconder a Dor.\u003cbr /\u003e\nEle é repleto de sonhos grandes,um cara de cabelo baixo, dos olhos \ncastanhos claros, da esperança  interminável, de grande força de \nvontade,apaixonado pela felicidade, procura sempre a felicidade,que  \nsabe de sua capacidade,que tem fé,  vontade e amor, ele é o cara que \ncurti uma boa conversa,  ele é da paz,  que adora uma boa música , que \nadora gente simples e humilde ,ele tem suas  cicatrizes é medos. Ele é \nfrágil e forte, é luz é escuridão,pode ser a doença é a cura,ele é a cor\n e o cinza,ele é início meio é fim,ele é professor é aluno,ele é água \nque percorre o riu só pra vê o mar,  é vento e tempestade mais se quiser\n mais ele é furacão.\u003cbr /\u003e\nEle já passou por muitas batalhas,enfrentou tsunamis , passou por muitos\n desafios se afastou de muitos amigos , e não deixou de ser quem ele \né.Ele é sol é sombra , ilumina a todos mas não oferece sua sombra pra \nqualquer um ,é isto que o faz único, que o faz um caixa de surpresa ....\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao\u003cbr /\u003e\n\u003cbr /\u003e\n&nbsp;Joseli Lima\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para A caixa de Surpresas tumblr\" class=\"irc_mi\" data-iml=\"1555537327314\" height=\"213\" src=\"https://data.whicdn.com/images/10434676/tumblr_lm85udrtzc1ql0yfvo1_500_large.jpg?1307154919\" style=\"margin-top: 23px;\" width=\"320\" /\u003e ",
-   "images": [
-    {
-     "url": "https://data.whicdn.com/images/10434676/tumblr_lm85udrtzc1ql0yfvo1_500_large.jpg?1307154919"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8009470718433026576/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "682412109431543591",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-17T18:40:00-03:00",
-   "updated": "2019-04-17T18:40:43-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU1NTM3MjQzODM5Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/gotas-que-dancam_17.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/682412109431543591",
-   "title": "Gotas Que Dançam",
-   "content": "Que bela dança. As gotas de chuva caem, representando as lágrimas das \nnuvens, e molham meu rosto passando uma sensação suave e musical, que \ndançam em perfeita harmonia com minha alma. E Deus é como a brisa suave \nnum dia nublado, que traz frescor e uma certa paz, tudo isso fazendo \nparte de uma espetáculo esplendoroso chamado vida.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nMilena Hellen\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para nuvem de chuva tumblr\" class=\"irc_mi\" data-iml=\"1555537211343\" height=\"379\" src=\"https://i.pinimg.com/originals/e8/e0/f6/e8e0f6f7da64d76916b3fe723dd4d34d.jpg\" style=\"margin-top: 0px;\" width=\"271\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/e8/e0/f6/e8e0f6f7da64d76916b3fe723dd4d34d.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/682412109431543591/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2686441423627073494",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-16T19:56:00-03:00",
-   "updated": "2019-04-16T19:56:05-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU1NDU1MzY1MDQyCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/a-luta-diaria.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2686441423627073494",
-   "title": "A Luta Diária",
-   "content": "Mente ferrada, psicológico desconstruído, e o subconsciente é incapaz de se comentar...\u003cbr /\u003e\na vida é injusta, nos põe a todo momento em uma batalha conosco, é uma \nbatalha difícil mas não impossível. Nós devemos aprender a lutar contra \nnós mesmo todos os dias das nossas vidas, isso é injusto... Sou incapaz \nde opinar sobre minha própria opinião, pois não há certeza se ela \nrealmente é certa, nós não confiamos nem em nós mesmos e há a \nnecessidade de confiar em pessoas que temos sentimentos desnecessários. \nPessoas nos julgam a todo momento, mas nós temos de ser capazes de \naguentar cada ofensa ou opinião pois cada uma delas é \"construtiva para \nnós mesmos\", já dizia outras pessoas alheias que choram e se aborrecem \ncom o seu próprio pensamento.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao\u003cbr /\u003e\n\u003cbr /\u003e\n-Machado, GIANNA.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para mente tumblr\" class=\"irc_mi\" data-iml=\"1555455299523\" height=\"271\" src=\"https://static.tumblr.com/189fdb4ee41bbb6548945ff8a9e4fdf7/lujxjej/BFkn08ipg/tumblr_static_lsd__23_.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e \u003cbr /\u003e\n\u003cbr /\u003e",
-   "images": [
-    {
-     "url": "https://static.tumblr.com/189fdb4ee41bbb6548945ff8a9e4fdf7/lujxjej/BFkn08ipg/tumblr_static_lsd__23_.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2686441423627073494/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0wOFQyMTo0NjoxOC4zNzha\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0wOVQyMTowMToxNy4wODha\""
 }
