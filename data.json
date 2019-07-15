@@ -1,7 +1,69 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYgMKs16UtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYhN2a2qUtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "2119505349894849548",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-15T20:27:00-03:00",
+   "updated": "2019-07-15T20:27:32-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYzMjMzMjUyNzY0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/eu-vou-ficar-bem.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2119505349894849548",
+   "title": "Eu Vou Ficar Bem!",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"color: #222222;\"\u003e\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eHouve noites em que tive que me abraçar, dias em que me encorajava, tardes em que tinha que me aconselhar em lugares solitários ou em frente ao espelho, lágrimas que eu mesmo me limpava. Com isso aprendi que todos podem me deixar, mas enquanto eu não sair, eu vou ficar bem.&nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"color: #222222;\"\u003e\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"color: #222222;\"\u003e\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e#Reflexao\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"color: #222222;\"\u003e\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-size: 14px; text-align: start;\"\u003e\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eLC\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-size: 14px; text-align: start;\"\u003e\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para indo embora tumblr\" height=\"173\" src=\"https://osegredo.com.br/wp-content/uploads/2017/01/PRA-VOC%C3%8A-QUE-N%C3%83O-DEU-VALOR-ESTOU-INDO-EMBORA-830x450.jpg\" width=\"320\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: start;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: start;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://osegredo.com.br/wp-content/uploads/2017/01/PRA-VOC%C3%8A-QUE-N%C3%83O-DEU-VALOR-ESTOU-INDO-EMBORA-830x450.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2119505349894849548/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5725801761965167212",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-15T20:20:00-03:00",
+   "updated": "2019-07-15T20:20:00-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYzMjMyODAwODQwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/aguarde-o-melhor-esta-por-vir.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5725801761965167212",
+   "title": "Aguarde O Melhor Está Por Vir.",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\nQuando você menos esperar, você vai se encontrar com alguém que não vai se intimidar com o tipo de amor que você está disposto a oferecer. Você vai conhecer um coração que anseia pelo mesmo amor que você pode oferecer. Alguém que vai entender as suas formas de expressar o seu amor. Alguém que vai te ajudar e saber lidar com o seu coração com tanto cuidado e tratá-lo como o seu próprio. Alguém que vai te amar tanto quanto você as ama, ou até mais do que isso. Acredite em mim, em algum lugar por aí, alguém está procurando por você, alguém que aprecia um coração como o seu e só te quer tão bem quanto aquela pessoa que você é apaixonada mas não te trata como merecido, olhe em volta , quantas pessoas lhe querem e querem te oferecer o amor que você realmente merece .\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\n#Amizade\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\nEduarda Braga.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\n\u003cimg alt=\"Imagem relacionada\" height=\"201\" src=\"https://www.acn.org.br/wp-content/uploads/2018/04/ACN_Palavra-Viva_2018_Testemunhas-da-Esperanca.jpg\" width=\"320\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://www.acn.org.br/wp-content/uploads/2018/04/ACN_Palavra-Viva_2018_Testemunhas-da-Esperanca.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5725801761965167212/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "3999093122166409655",
@@ -6139,69 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2888112210169565813/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "6786894772629481886",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-26T16:10:00-03:00",
-   "updated": "2019-04-26T16:12:11-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU2MzA1OTMxNDc4Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/faltou-verdade-entre-nos-dois.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6786894772629481886",
-   "title": "Faltou Verdade Entre Nós Dois",
-   "content": "Eu queria te guardar em um potinho e te deixar lá para sempre,só para \nficar te observando. Mas aos poucos você foi sumindo,e acabou partindo e\n a sua partida me partiu,Já se passaram meses mas você ainda ocupa um \npedaço de mim, talvez esse seja meu erro acreditar que você \nvoltaria,fazer com que desperte ao menos 5% de esperança que ainda vou \nter de volta,isso dói e muito,mas preciso aceitar,se fosse amor de \nverdade você estaria aqui comigo,mas percebi que o meu amor por você era\n tão grande que acabei amando por nós dois.\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor \u003cbr /\u003e\n\u003cbr /\u003e\nJ.S\u003cbr /\u003e\n\u003cbr /\u003e\n&nbsp;\u003cimg alt=\"Resultado de imagem para potinho tumblr\" class=\"irc_mi\" data-iml=\"1556304964554\" height=\"330\" src=\"https://66.media.tumblr.com/01ac44d9096460b7a9c47b55bbfd189f/tumblr_oer6mkG3831u9avq0o1_400.png\" style=\"margin-top: 25px;\" width=\"400\" /\u003e",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/01ac44d9096460b7a9c47b55bbfd189f/tumblr_oer6mkG3831u9avq0o1_400.png"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6786894772629481886/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7118347507898237523",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-26T15:32:00-03:00",
-   "updated": "2019-04-26T15:32:02-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU2MzAzNTIyNDU0Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/aceite-voce-do-jeito-que-voce-e.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7118347507898237523",
-   "title": "Aceite Você Do Jeito Que Você É",
-   "content": "Lembre - se: se aceitar não é fácil, você nunca vai gostar de algo no \nseu corpo porque você não é perfeita, mas você é o necessário para se \namar, para se sentir linda! \"A mas ninguém vai me querer porque eu não \nsou o que eles realmente querem ver, eu sou gorda, ou, porque eu sou \nmagra demais\" é simples: a pessoa que estiver namorando contigo não \nestão namorando com seu corpo, eles estão namorando com VOCÊ! você é uma\n cópia de Deus! Deus criou você semelhante a ele! por isso, SE AME!\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e#Conselho \u003cbr /\u003e\n\u003cbr /\u003e\nIsis Sua Amiga\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para olhando no espelho tumblr\" class=\"irc_mi\" data-iml=\"1556303496334\" height=\"333\" src=\"https://lh6.googleusercontent.com/proxy/pWJMX9JH_G4T9xeocZTaVg6vtfFuIwjlL3HvmWznqcSALpW3diERwYXA8WpFOqEbLaY4d38g9uW09WvulwhvGEW0r01VuYVzXjBYJPurWlg4j1fedBmhgeBYWVwe9Autdu4=s0-d\" style=\"margin-top: 23px;\" width=\"500\" /\u003e ",
-   "images": [
-    {
-     "url": "https://lh6.googleusercontent.com/proxy/pWJMX9JH_G4T9xeocZTaVg6vtfFuIwjlL3HvmWznqcSALpW3diERwYXA8WpFOqEbLaY4d38g9uW09WvulwhvGEW0r01VuYVzXjBYJPurWlg4j1fedBmhgeBYWVwe9Autdu4=s0-d"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7118347507898237523/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0xM1QyMDowODo0MS4zOTRa\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0xNVQyMzoyNzozMi43NjRa\""
 }
