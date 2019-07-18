@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYwI3vhaYtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYw4rvr6YtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "212922761329279850",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-18T19:58:00-03:00",
+   "updated": "2019-07-18T19:58:18-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYzNDkwNjk4NTI0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/sim-eu-aprendi.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/212922761329279850",
+   "title": "Sim, eu aprendi.",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-size: 14px; text-align: justify;\"\u003eAntes, eu fazia como muitas fazem. Observava fotos de garotas perfeitamente no padrão, e me culpava por não seguir o mesmo exemplo. Eu sempre quis ser a menina que todos gostam. Sem defeitos, aquela garota perfeita que passa dicas de maquiagem, faz vídeos para o youtube, entre mil outros. Mas, ensinaram-me a me amar, do jeito que sou. Disseram-me que tenho defeitos sim, mas isto não anula minhas qualidades. E são estes defeitos e qualidades que me fazem ser quem sou.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eEu refleti sobre isso. E sim, eu aprendi.\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Reflexao\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFernanda&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Imagem relacionada\" src=\"https://media.tumblr.com/tumblr_lh9579hUJp1qdgkwn.jpg\" /\u003e\u003c/div\u003e\n\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://media.tumblr.com/tumblr_lh9579hUJp1qdgkwn.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/212922761329279850/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "3474586327209102002",
@@ -6170,38 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7744395591147155961/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8013602922756886657",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-27T18:38:00-03:00",
-   "updated": "2019-04-27T18:38:01-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU2NDAxMDgxNjM0Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/seu-cheiro-doce.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8013602922756886657",
-   "title": "Seu  Cheiro Doce. ",
-   "content": "Meu moletom escuro da minha banda favorita ainda tem o seu cheiro doce,\n seu perfume... Vestir ele é como reviver todo o momento que passamos \njuntos, nossas brincadeiras de lutinha que sempre terminava em beijos e \nabraços, nossas conversas desnecessárias porém significante pois \nenquanto você falava eu admito que não entendia nada, apenas ficava alí \nadmirando seu sorriso enquanto ria das suas próprias piadas e \nargumentos, Ah você Era tão perfeita e cada minuto do seu lado era tão \nprecioso e gratificante. Será que mesmo que o seu cheiro doce um dia vai sair do meu moletom? espero que não.\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor \u003cbr /\u003e\n\u003cbr /\u003e\nTony\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para abraçando o moletom tumblr\" class=\"irc_mi\" data-iml=\"1556400963974\" height=\"362\" src=\"https://pm1.narvii.com/6500/949c7b42be50200f92c7c44526e7d6a26dcd84e6_00.jpg\" style=\"margin-top: 9px;\" width=\"512\" /\u003e ",
-   "images": [
-    {
-     "url": "https://pm1.narvii.com/6500/949c7b42be50200f92c7c44526e7d6a26dcd84e6_00.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8013602922756886657/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0xN1QyMToxNToxNC40OTVa\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0xOFQyMjo1ODoxOC41MjRa\""
 }
