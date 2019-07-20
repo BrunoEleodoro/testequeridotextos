@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYoNCH_qYtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEY4fyArKctEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "7385967305062190875",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-20T20:51:00-03:00",
+   "updated": "2019-07-20T20:51:49-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYzNjY2NzA5NDU4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/saudade-das-partes.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7385967305062190875",
+   "title": "Saudade Das Partes ",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\nEu sinto saudade, não é de você por inteiro, mas das tuas partes... Sinto falta das tuas pernas, que ao se movimentar te traziam a 30cm de mim. E deitados na cama eram enroladas nas minhas. Sinto falta dos teus braços, que guiando tuas mãos encontravam meu pescoço e massageavam meu rosto inteiro. E em um abraço, os benditos braços me prendiam inteira. Sinto falta do teu peito, que servia de travesseiro, que servia de sinfonia pois encostada nele eu ouvia teu coração e sabia que a cada pulso você teria mais minutos comigo. Mas de todas as tuas partes... a que eu mais sinto falta, são seus olhos, aqueles malditos, porem belos, olhos... De uma cor que somente a natureza primaveril conseguiria reproduzir, onde eu me perdia e me encontrava, onde eu queria nadar e morar... que escondia todos os sentimentos, mas que eu amaria desvendar... Sinto falta dos teus olhos principalmente por eles serem seus, por serem sua marca registrada, por entre um milhão de pessoas ser somente você... sinto falta das suas partes... pois as partes fazem um todo... Não sinto falta de você inteiro, pois você não está completo, você não percebeu, mas te falta uma parte... o seu amor, que sou eu! Sinta minha falta...\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\n#Amor\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\nHemy Morena\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para deitado na rede TUMBLR\" src=\"https://i.pinimg.com/originals/cc/de/cd/ccdecd79ec3b10f33cdbe7112ca6c215.jpg\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/cc/de/cd/ccdecd79ec3b10f33cdbe7112ca6c215.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7385967305062190875/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "219372364514085875",
@@ -6170,38 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4264172796466784873/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3091200676153042869",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-04-30T16:39:00-03:00",
-   "updated": "2019-04-30T16:39:27-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU2NjUzMTY3MDQ3Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/04/eu-me-amo_30.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3091200676153042869",
-   "title": "Eu Me Amo.",
-   "content": "Eu não queria ter que ser a pessoa que você se arrependeu de ter perdido\n porque percebeu depois da hora que essa pessoa era a que te completava,\n aquela que não só despia as tuas roupas, mas a tua alma também! não \nqueria ser a pessoa que te ensinou a valorizar quem está do seu lado. \nnão queria precisar ir embora!\u003cbr /\u003e\n\u003cbr /\u003e\nEu tô começando mais um texto, e pra deixar bem claro, dessa vez não é sobre você. é sobre mim.\u003cbr /\u003e\neu duvido que você não sinta falta do meu zelo, do meu carinho e da \nminha compreensão. duvido que não sinta falta de me contar sobre como o \nseu dia foi entediante, ou então, as suas histórias malucas que sempre \nforam pra mim melhor do que qualquer seriado. duvido que você não sinta \nminha falta nas garotas que você pega vazias igual a sua liberdade, que \nnunca te serviu pra absolutamente nada!\u003cbr /\u003e\ne talvez, esse seja nosso problema. eu sou completa de mais pra sua vida\n rotineira. eu sinto, eu penso, eu falo, eu sou intensa e eu te conheço.\n acho que isso te assusta né?\u003cbr /\u003e\n\u003cbr /\u003e\nEu me diminui pra você ficar maior, pra você não perceber então que eu já estava fazendo parte da sua vida.\u003cbr /\u003e\neu queria ligar pra você e te falar sem pausas tudo o que eu fico um \ntempão ensaiando toda vez que você me magoua. mas eu nunca digo nada pra\n não te magoar, afinal, você não faz por mal. e talvez esse, seja o pior\n mal de todos os outros, simplesmente por ser natural!bobagem. como se algum ensaio no mundo fosse me deixar firme depois de ouvir a sua voz! então é isso, tô te escrevendo. afinal, eu sempre fui mais segura com as palavras.\u003cbr /\u003e\n\u003cbr /\u003e\nmas esclarecendo de novo, esse texto é sobre mim. sobre como eu sou \nincrível demais e igual à mim, tá difícil de achar. sobre como eu não \npreciso usar 5 centímetros de shorts e um decote no umbigo pra me sentir\n mulher. sobre muitas coisas, mas principalmente sobre como só eu \nconsigo te fazer entrar em êxtase à tal ponto.\u003cbr /\u003e\u003cbr /\u003e\n&nbsp;Enquanto você fica brincando de não saber o que quer, eu tô começando a \nreconhecer que eu sou amor e ainda que não seja o seu, essa é a minha \nessência!\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nSarah Soares\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1556653083966\" height=\"379\" src=\"https://ae01.alicdn.com/kf/HTB1le8FbqmgSKJjSspiq6xyJFXaz/Don-t-jogar-sozinho-T-camisa-moletom-fazer-tumblr-camiseta-cinzas-ver-o-tees-t-camisa.jpg\" style=\"margin-top: 0px;\" width=\"373\" /\u003e ",
-   "images": [
-    {
-     "url": "https://ae01.alicdn.com/kf/HTB1le8FbqmgSKJjSspiq6xyJFXaz/Don-t-jogar-sozinho-T-camisa-moletom-fazer-tumblr-camiseta-cinzas-ver-o-tees-t-camisa.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3091200676153042869/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0xOVQyMjo0NDozMC4zNDBa\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0yMFQyMzo1MTo0OS40NTha\""
 }
