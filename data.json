@@ -1,7 +1,69 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEY4fyArKctEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYpZGMractEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "6123403378888124750",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-22T19:24:00-03:00",
+   "updated": "2019-07-22T19:24:36-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYzODM0Mjc2NjY4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/relogio-de-pulso.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6123403378888124750",
+   "title": "Relógio de Pulso ",
+   "content": "\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eÉ nesse momento, nestes dez segundos em um caminho reto, é agora que tenho a liberdade expressa. Vislumbrando um luar e lembrando do melhor lugar para está. (Qualquer lugar)&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eCercado de pessoas e dando atenção a outras, é “ahora” o melhor tempo. Ao redor, qualquer indivíduo é um mero vácuo de espaço e “usted” está no meio desse universo.&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eCompreendendo que a forma objetiva de viver é sempre deixar horas para apreciar e assim conseguirá ter senso para dar o que falar, aquele que não olha para o céu e não ver as estrelas citilantes todos os dias, este certamente está morto.\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nEntendo que estes são meus um/quarto tempo de ouvir aquela música, de olhar para o outro no coletivo e ver quem raramente verei novamente, são nestes quarenta e cinco minutos do primeiro tempo que analiso as horas que passaram das seis até agora “Las seis de la noche.” Por tanto, tire proveito, tire seus pontinhos do seu ponteiro para poder enxergar o mundo que está perdendo.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"text-align: start;\"\u003eWr Coelho\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"text-align: start;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para relogio de pulso tumblr\" height=\"179\" src=\"https://www.canalmasculino.com.br/wp-content/uploads/2015/03/stylish-simple-mens-watch.jpg\" width=\"320\" /\u003e\u003c/div\u003e\n\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://www.canalmasculino.com.br/wp-content/uploads/2015/03/stylish-simple-mens-watch.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6123403378888124750/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1960243856084092115",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-22T18:40:00-03:00",
+   "updated": "2019-07-22T18:40:30-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTYzODMxNjMwNzQ1Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/castelo-de-vidro.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1960243856084092115",
+   "title": "Castelo de Vidro.",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nMinha vida é um castelo de vidro\u003cbr style=\"box-sizing: border-box;\" /\u003eQue está todo rachado pronto pra quebrar\u003cbr style=\"box-sizing: border-box;\" /\u003eEu preciso de você para ser inteiro\u003cbr style=\"box-sizing: border-box;\" /\u003eA cada dia que passa eu estou mais a te amar\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nÉ só por você que eu tenho essa paixão\u003cbr style=\"box-sizing: border-box;\" /\u003eÉ com você que eu sempre quero estar\u003cbr style=\"box-sizing: border-box;\" /\u003eSeu sorriso que me deixa na melhor ilusão\u003cbr style=\"box-sizing: border-box;\" /\u003eÉ a única pessoa capaz de me alegrar\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px;\"\u003e\nEu estou perdido e você é a luz que está a me guiar\u003cbr style=\"box-sizing: border-box;\" /\u003eNão importa mais onde irei desde que você esteja lá\u003cbr style=\"box-sizing: border-box;\" /\u003eÉ em você que eu sempre irei me inspirar\u003cbr style=\"box-sizing: border-box;\" /\u003eE é você a fórmula da minha felicidade.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n#Amor\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\nGustavo Henrique Martins Pereira.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cimg alt=\"Resultado de imagem para luz tumblr\" height=\"320\" src=\"https://i.pinimg.com/originals/3d/1b/1b/3d1b1b6d104954b301d75e8aad8adeff.jpg\" width=\"213\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/3d/1b/1b/3d1b1b6d104954b301d75e8aad8adeff.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1960243856084092115/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "7385967305062190875",
@@ -6139,69 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3328268115861259386/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7639799219866344356",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-01T19:28:00-03:00",
-   "updated": "2019-05-01T19:29:19-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU2NzQ5NzU5NTYwCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/sozinha.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7639799219866344356",
-   "title": "Sozinha",
-   "content": "Passei essa quinta sozinha, não telefonei e ninguém também não me telefonou, afinal ninguém nunca me telefona.\u003cbr /\u003e\nPassei essa quinta com uma escuridão dentro da alma, uma Gillette que a \ncada passo que eu dou, machuca, um corte profundo que perfura o meu \ninterior, quem me dera se esses perfuramemtos fossem físicos, quem me \ndera eu poder sentir na pele tudo que sinto na alma, me sinto perdida em\n um mundo onde parece ser só meu, ele é só meu, afinal o seu nome é \nsolidão, vivo no mundo da solidão onde pessoas são lágrimas, a cada \nsegunda há uma guerra dentro de mim a qual eu não tenho controle, hoje \nme vi sozinha, não só hoje, ontem e anteontem também, e quando percebi \nmeu rosto estava em lágrimas, fui ao banheiro e joguei água, queria que \nfosse assim com minha alma também porém a única água que minha alma ver é\n a de um oceano profundo que há correntezas e pessoas torcendo para que \neu caia.\u003cbr /\u003e\nE o choro é o único lugar em que me sinto confortável, choro toda noite \npara tirar o nó da minha garganta que fica desde ao amanhecer ao \nentardecer, As Vezes sinto vontade de gritar pro mundo que estou mal, \nmais quando fui contar pro meu mundo ele me julgou, e por isso decidi se\n calar, mais poxa está calada não significa que está tudo bem, naquele \nmomento eu me vi sozinha, sem um rumo, eu me sinto perdida, e de tanto \nguardar isso para dentro de mim a dor não se tornou uma dor,  mais \ntambém não se tornou uma alegria, é algo oculto que ainda não dói, mais \neu sei que está ali, sei que se cutucar vai doer e é por isso que eu \nprefiro está sozinha, no meu mundo!\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza \u003cbr /\u003e\n\u003cbr /\u003e\nSamara Cristyne\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para sozinho tumblr\" class=\"irc_mi\" data-iml=\"1556749739848\" height=\"379\" src=\"https://66.media.tumblr.com/1e968233d234ce0b35ad98041b47b4aa/tumblr_p1vyzmsXFy1v40xvvo1_400.jpg\" style=\"margin-top: 0px;\" width=\"379\" /\u003e ",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/1e968233d234ce0b35ad98041b47b4aa/tumblr_p1vyzmsXFy1v40xvvo1_400.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7639799219866344356/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4264172796466784873",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-01T19:25:00-03:00",
-   "updated": "2019-05-01T19:25:30-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU2NzQ5NTMwMDc0Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/e-elea.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4264172796466784873",
-   "title": "É ele(a) ",
-   "content": "Amor é uma coisa tão louca, mas tão engraçada que ao mesmo tempo e a \nmelhor e a pior desgraça (risos), você pode estar longe da pessoa. Tudo \nque você pensa vai lembrá-la pode se passar  dias, semanas, meses, anos \nou até décadas. Mas você vai sempre ter uma coisa que vai lembrar \ndaquela pessoa, quando você estiver com outra pessoa você vai lembrar \ndela, e o foda que e sempre nos melhores momentos mas, quando você ama \nsempre vai ter aquela perguntinha básica \" o que fulano tem que ciclano \nnão tem ?\"  A gente sempre se pergunta não é verdade ?  A pessoa que \nvocê está pode ser a mais foda do mundo porém, se não é essa pessoa não \nvai adiantar merda nenhuma ! Ai você começa a se perguntar \" o que tô \nfazendo com ela (e) agora, por que estamos juntos ? Porque se não e \nela(e) que eu amo ? É bem assim mesmo.\u003cbr /\u003e\nA pessoa amada vai ser lembrada em cada toque, olhar, sorriso, objeto ou\n somente por um simples jeito de andar que e parecido com o dele até \nmesmo uma música.\u003cbr /\u003e\nSério na boa, sem até mesmo a pessoa está ali ela e lembrada, por mais \nque você queira tirar da sua cabeça, por mais que você pegue meio mundo \nde pessoas mas, sempre, sempre vai ter aquele vazio que só vai ser \npreenchido por ela.\u003cbr /\u003e\nQuando a pessoa te ama você sabe, só de olhar pra cara dela, pelo \nsorriso estampado, o olhar iluminado, aquela reação inesperada que \nquando você aparece por lá derrepente cruza o caminho da pessoa, e uma \ncoisa inexplicável na real, é aquele sorriso, a troca de olhares que \nsomente vocês entendem sabe ? Aquela sincronia que só existe entre \nvocês. Por mais que você negue a pessoa  de alguma forma vocês se mantém\n conectadas, sem qualquer tipo de explicação porém estão se é que me \nentende né ? Por mais que negue. Por mais que repita por milhões e \nmilhões de vezes que você não quer amar ela, tu sabes que ela sim e a \npessoa que vale a pena, ela sim que você quer construir um futuro, não \nimporta com quem você está ou não está. E simplesmente essa pessoa e \nponto. E no final você sabe que vão ficar juntos pq Deus quis por mais \nque passem anos mas, você sabe que e ela(e).\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor \u003cbr /\u003e\n\u003cbr /\u003e\nDaniela Maria\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1556749509969\" height=\"236\" src=\"https://www.carxtc.com/assets/images/img_5862.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e \u003cbr /\u003e\n\u003cbr /\u003e",
-   "images": [
-    {
-     "url": "https://www.carxtc.com/assets/images/img_5862.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4264172796466784873/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0yMFQyMzo1MTo0OS40NTha\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0yMlQyMzowNjo0MC4yNjFa\""
 }
