@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYpZGMractEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYoZeWpqgtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "9213586246481253326",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-24T18:24:00-03:00",
+   "updated": "2019-07-24T18:24:28-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY0MDAzNDY4ODAwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/amigos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9213586246481253326",
+   "title": "Amigos.",
+   "content": "\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e&nbsp;Amizade é algo difícil de se definir.\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nEm nossa sociedade medíocre esse termo se tornou algo banal.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nExemplo; quando vai contar algo de alguém próximo e diz: meu AMIGO gosta muito de músicas pop. Amigo é um termo muito respeitado por mim. O modo que a nossa população utiliza está demasiadamente equivocado.&nbsp;Amigos você pode contar nos dedos, o resto é colega.&nbsp;Amigo é aquele que está sempre lá pra você e com você, que está contigo nos piores momentos assim como nos melhores, que ficam bravos com você quando faz algo que machuque a sí próprio, que te completam de todas as formas, basicamente que te amam.&nbsp;Amizade é uma dádiva que poucos reconhecem e que poucos têm.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"text-align: start;\"\u003eVítor Theodoro\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Amizade\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para amizade tumblr\" height=\"320\" src=\"https://3.bp.blogspot.com/-fCi0IGnjbxE/WvpnlcnUpuI/AAAAAAAAMnM/5lXlvJF6weoaA7WcNaLfXKjunAskPHHOACLcBGAs/s320/31488854_1842093489185830_2296108547441688576_n.jpg\" width=\"320\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://3.bp.blogspot.com/-fCi0IGnjbxE/WvpnlcnUpuI/AAAAAAAAMnM/5lXlvJF6weoaA7WcNaLfXKjunAskPHHOACLcBGAs/s320/31488854_1842093489185830_2296108547441688576_n.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9213586246481253326/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3186652350567171305",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-24T17:52:00-03:00",
+   "updated": "2019-07-24T17:52:10-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY0MDAxNTMwOTQ4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/de-volta-dor.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3186652350567171305",
+   "title": "De Volta à Dor",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eChega um momento que já vi tanta coisa e tento fechar os olhos para ver se para de doer e tentar esquecer, para não sentir nada, como se estivesse num buraco escuro, fecho os olhos para ficar tudo escuro e tentar me acalmar porém quando os fecho vejo coisas piores ainda. Por isso dormir é uma tarefa tão difícil pra mim, pois preciso fechar meus olhos.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eVítor Theodoro\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e#Tristeza\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para deitado tumblr\" src=\"https://cidadedossonhossite.files.wordpress.com/2016/03/tumblr_lrbsirnnox1qjyb7so1_500.jpg\" /\u003e",
+   "images": [
+    {
+     "url": "https://cidadedossonhossite.files.wordpress.com/2016/03/tumblr_lrbsirnnox1qjyb7so1_500.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3186652350567171305/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5238606194640249811",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-24T17:47:00-03:00",
+   "updated": "2019-07-24T17:47:59-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY0MDAxMjc5OTY2Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/escolhas-e-dificuldades.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5238606194640249811",
+   "title": "Escolhas E Dificuldades.",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\nComo sempre digo, aproveite pra amar e para sentir enquanto está vivo, DEMONSTRE!! Existem pessoas que precisam que você demonstre, elas parecem frias, pois tem medo de sentir novamente, não retribuem abraços porque acham que se abraçarem alguém vão ficar vulneráveis, mas no fundo elas precisam disso, pois, tudo isso é uma barreira para não sofrer. Essas pessoas parecem ser muito distantes por causa dessa barreira. Porém através dessa barreira existem pessoas que são como bebês, precisam de carinho, amor e cuidados. Eu sei disso pois sou em parte assim, não peço carinho e quando alguém me abraça por muito tempo eu me sinto muito estranho e quero sair, mas algo diz pra eu continuar ali.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n#Conselho\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cspan style=\"text-align: start;\"\u003eVítor Theodoro\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para buque tumblr\" src=\"https://66.media.tumblr.com/40abce992c7173dd07408d16e341b8be/tumblr_opi66kB7UK1tyj7wro1_400.jpg\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/40abce992c7173dd07408d16e341b8be/tumblr_opi66kB7UK1tyj7wro1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5238606194640249811/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "6123403378888124750",
@@ -6108,100 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6851654774690656723/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4151192890307147110",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-03T19:30:00-03:00",
-   "updated": "2019-05-05T19:57:35-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU3MDk3MDU1MzY5Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/entre-pensamentos.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4151192890307147110",
-   "title": "Entre Pensamentos",
-   "content": "\u003ch1 class=\"gh-header-title\"\u003e\n\u003cspan style=\"font-weight: normal;\"\u003e\u003cspan style=\"font-size: small;\"\u003eAs vezes no meu quarto em silêncio me pego a imaginar, o que te faz ser \ntão importante a ponto de não mais me enxergar, será somente o brilho do \nteu olhar, ou talvez em minha profundidade consigui lhe desvendar, então\n quando percebo já me encontro a chorar, são lágrimas de dor, de um \nalguém que não consegue se expressar, falar que sente amor, e que seu \ncoração acelera em um simples pronunciar do teu nome, será esse amor tão\n grande que poderá me matar, pois repousei toda minha alegria em ti e \nacabo por te sentir só só imaginar, me digas meu amor será que ainda vai\n me amar para que isso se torne minha melhor realidade.\u003c/span\u003e\u003c/span\u003e\u003c/h1\u003e\n\u003ch1 class=\"gh-header-title\"\u003e\n\u003cspan style=\"font-weight: normal;\"\u003e\u003cspan style=\"font-size: small;\"\u003e&nbsp;Narliane\u003c/span\u003e\u003c/span\u003e\u003c/h1\u003e\n\u003ch1 class=\"gh-header-title\"\u003e\n\u003cspan style=\"font-weight: normal;\"\u003e\u003cspan style=\"font-size: small;\"\u003e&nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/h1\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-mPWrxbOz7qQ/XM9qUQ9K7EI/AAAAAAAAwiQ/EbJf-c_NJBocYXTIyH9yVbwiLwPSLQrHwCLcBGAs/s1600/large.png\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"334\" data-original-width=\"500\" height=\"265\" src=\"https://1.bp.blogspot.com/-mPWrxbOz7qQ/XM9qUQ9K7EI/AAAAAAAAwiQ/EbJf-c_NJBocYXTIyH9yVbwiLwPSLQrHwCLcBGAs/s400/large.png\" width=\"400\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003ch1 class=\"gh-header-title\"\u003e\n\u003cspan style=\"font-weight: normal;\"\u003e\u003cspan style=\"font-size: small;\"\u003e\u003cbr /\u003e \u003c/span\u003e\u003c/span\u003e\u003c/h1\u003e\n\u003ch1 class=\"gh-header-title\"\u003e\n\u003cspan style=\"font-weight: normal;\"\u003e\u003cspan style=\"font-size: small;\"\u003e\u003cbr /\u003e\u003cspan class=\"js-issue-title\"\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/h1\u003e\n\u003cbr /\u003e\n\u003ch1 class=\"gh-header-title\"\u003e\n\u003cspan style=\"font-weight: normal;\"\u003e\u003cspan style=\"font-size: small;\"\u003e\u003cspan class=\"js-issue-title\"\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/h1\u003e\n",
-   "images": [
-    {
-     "url": "https://1.bp.blogspot.com/-mPWrxbOz7qQ/XM9qUQ9K7EI/AAAAAAAAwiQ/EbJf-c_NJBocYXTIyH9yVbwiLwPSLQrHwCLcBGAs/s400/large.png"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4151192890307147110/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "6838916373291144383",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-03T19:20:00-03:00",
-   "updated": "2019-05-03T19:20:24-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU2OTIyMDI0NzM5Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/amor-de-uma-noite.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6838916373291144383",
-   "title": "Amor De Uma Noite",
-   "content": "Sabe quando você desiste do amor e se entrega a paixões passageiras,  só\n mais uma ficada, um lance, um caso, e aí num desses casos você se \nentrega a pessoa, cria sentimentos por ela e no final você só quer que \nela fique, mas sabe que ela não quer ficar,  e ela vai embora. E você \nsabe que esse dia vai chegar, mas você não quer que chegue.Eu realmente \nesperei que você ficasse e você se foi também e me deixou com lembranças\n que para você não significaram nada mais para mim foram intensas \npequenos detalhes que eu guardei. Eu te amei, mas você nem sabe disso \npois partiu antes dê eu te dizer. E é por isso que ninguém acredita mais\n no amor, as pessoas sempre se vão é você tem que seguir com um imenso \nvazio no peito que te afunda cada vez mais  na solidão.\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor \u003cbr /\u003e\n\u003cbr /\u003e\nPlenie\u003cbr /\u003e\n\u003cbr /\u003e\n&nbsp;\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1556921945180\" height=\"379\" src=\"https://66.media.tumblr.com/tumblr_mcvls5cMRx1rbll7mo1_400.jpg\" style=\"margin-top: 0px;\" width=\"260\" /\u003e",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/tumblr_mcvls5cMRx1rbll7mo1_400.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6838916373291144383/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3328268115861259386",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-01T20:03:00-03:00",
-   "updated": "2019-05-04T18:38:50-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU3MDA1OTMwMzE2Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/e-cheia.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3328268115861259386",
-   "title": "É Cheia.",
-   "content": "\u003cdel\u003e\u003c/del\u003eA nossa vida é cheia de erros e acertos idas e vindas e tbm cheia de \nescolhas e recomeços você pode ter cometido um erro hoje mas amanhã será\n um novo dia vamos dizer que um recomeço você pode ter feito escolhas \nerradas mas amanhã será um novo dia vamos dizer que uma nova história\u003cbr /\u003e\na vida sempre nos surpreende nos pega de surpresa as vezes algumas \ncoisas que acontecem são meio sem sentido ou acontecem coisas que não \nesperamos acontece alguns de nós não sabe o porquê estamos no mundo isso porque achamos que não seriamos para nada mas... quem sabe no futuro!!!\u003cbr /\u003e\na vida é inconstante apesar de não sabermos o que vai acontecer no \nfuturo fazemos planos ou metas que talvez aconteçam como planejado ou \ntalvez não\u003cbr /\u003e\nMas o mais importante é seguir acreditando que tudo é possível\u003cbr /\u003e\nÉ só ter força de vontade e fazer acontecer.\u003cbr /\u003e\n\u003cbr /\u003e\nGlenda Carvalho\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para feliz neon TUMBLR\" class=\"irc_mi\" data-iml=\"1557005917779\" height=\"379\" src=\"https://i.pinimg.com/originals/6a/15/d7/6a15d753c41a5d699d199dcf47615475.jpg\" style=\"margin-top: 0px;\" width=\"190\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/6a/15/d7/6a15d753c41a5d699d199dcf47615475.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3328268115861259386/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0yMlQyMzowNjo0MC4yNjFa\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0yNFQyMToyNTo1Ni4wMzVa\""
 }
