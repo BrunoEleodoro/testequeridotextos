@@ -1,7 +1,69 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYgdnT9qgtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYof379qgtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "8963803594087903986",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-28T21:39:00-03:00",
+   "updated": "2019-07-28T21:39:14-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY0MzYwNzU0ODg0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/ele-veio.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8963803594087903986",
+   "title": "Ele Veio.",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eEle veio assim,do nada arrancou de mim, meus mais sinceros sorrisos, e risadas, mesmo eu estando com vontade de chorar,ele me fez sonhar de novo,me fez querer ter alguém de novo, me mostrou que o amor existe ainda, e me fez amar de novo.&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eNão me imagino mais sem ele, não consigo me ver envelhecendo, se não com ele.&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eEle tem o melhor e o pior de mim, eu não quero mais ninguém, se não ele, não quero outro sorriso, se não o dele,não quero outra voz, se não a dele.&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eEu o amo tanto, que as vezes nem cabe em mim, as vezes faltam palavras.\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e#Amor\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e&nbsp;Kaguya\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para mÃ£os dada tumblr\" height=\"320\" src=\"https://i.pinimg.com/736x/0c/44/07/0c4407004a5db8b7649b0c5bc531963f.jpg\" width=\"180\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/736x/0c/44/07/0c4407004a5db8b7649b0c5bc531963f.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8963803594087903986/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7787458913371107468",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-07-27T17:17:00-03:00",
+   "updated": "2019-07-27T17:17:01-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY0MjU4NjIxODU4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/07/estacoes-em-mim.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7787458913371107468",
+   "title": "Estações Em Mim.",
+   "content": "Poeta da Escuridão\u003cbr /\u003e\nEu vim com minha primavera,\u003cbr /\u003e\nFlorindo a tudo e a todos,\u003cbr /\u003e\nCheguei até você trazendo meu calor,\u003cbr /\u003e\nCheguei com minhas cores,\u003cbr /\u003e\nE com todo o meu ser.\u003cbr /\u003e\n\u003cbr /\u003e\nEu estava na minha melhor estação,\u003cbr /\u003e\nCom toda a minha beleza,\u003cbr /\u003e\nE com todo o meu florescer.\u003cbr /\u003e\n\u003cbr /\u003e\nVocê chegou com a tua primavera,\u003cbr /\u003e\nMas logo ela se transformou,\u003cbr /\u003e\nSe transformou em outono,\u003cbr /\u003e\nO outono mais devastador que já vi.\u003cbr /\u003e\n\u003cbr /\u003e\nO seu outono me atingiu,\u003cbr /\u003e\nE a minha primavera foi morrendo,\u003cbr /\u003e\nA cada dia era uma folha que caia,\u003cbr /\u003e\nUma flor que morria,\u003cbr /\u003e\nE uma borboleta que fugia.\u003cbr /\u003e\nEu lutava contra o seu outono,\u003cbr /\u003e\nEu lutava para trazer sua primavera de volta,\u003cbr /\u003e\nMas quanto mais eu lutava,\u003cbr /\u003e\nMais a minha própria primavera morria.\u003cbr /\u003e\n\u003cbr /\u003e\nAté chegar o dia...\u003cbr /\u003e\nE que dia,\u003cbr /\u003e\nDa minha primavera só restaram galhos secos,\u003cbr /\u003e\nFolhas caídas,\u003cbr /\u003e\nE uma única flor.\u003cbr /\u003e\n\u003cbr /\u003e\nUma rosa,\u003cbr /\u003e\nEla tinha aguentado o outono inteiro,\u003cbr /\u003e\nE me mostrou que eu precisava parar de lutar,\u003cbr /\u003e\nSe eu não parasse, me tornaria um outono completo.\u003cbr /\u003e\n\u003cbr /\u003e\nEntão eu parei de lutar,\u003cbr /\u003e\nE tentei trazer de volta a minha primavera,\u003cbr /\u003e\nMas era difícil,\u003cbr /\u003e\nO outono tinha se alastrado,\u003cbr /\u003e\nE consumido boa parte de mim,\u003cbr /\u003e\nNão seria fácil a batalha pra trazer a primavera de volta.\u003cbr /\u003e\nMas então... de repente,\u003cbr /\u003e\nO verão chegou,\u003cbr /\u003e\nChegou com as suas nuvens de chuva,\u003cbr /\u003e\nChovia tanto que eu transbordava,\u003cbr /\u003e\nChoveu por vários dias, tempestades sem fim.\u003cbr /\u003e\n\u003cbr /\u003e\nA tempestade foi mudando,\u003cbr /\u003e\nFoi ficando mais forte,\u003cbr /\u003e\nMais intensa,\u003cbr /\u003e\nE mais fria.\u003cbr /\u003e\n\u003cbr /\u003e\nO frio aumentava a cada dia,\u003cbr /\u003e\nFoi aí que eu percebi,\u003cbr /\u003e\nTinha entrado no meu próprio inverno,\u003cbr /\u003e\nO inverno cobriu tudo com o seu manto,\u003cbr /\u003e\nUm manto branco e espesso.\u003cbr /\u003e\n\u003cbr /\u003e\nNão conseguia nem mais ver a rosa,\u003cbr /\u003e\nEntão eu simplesmente desisti,\u003cbr /\u003e\nDesisti de lutar pela minha primavera.\u003cbr /\u003e\n\u003cbr /\u003e\nFoi então que dentro daquela tempestade sem fim,\u003cbr /\u003e\nSurgiu o primeiro raio de sol,\u003cbr /\u003e\nCom todo o seu calor,\u003cbr /\u003e\nEla derreteu a neve,\u003cbr /\u003e\nE trouxe vida ao meu ser.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para primavera tumblr\" class=\"irc_mi\" height=\"213\" src=\"https://data.whicdn.com/images/40756761/original.jpg\" style=\"margin-top: 37px;\" width=\"320\" /\u003e",
+   "images": [
+    {
+     "url": "https://data.whicdn.com/images/40756761/original.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7787458913371107468/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "7907399720637705614",
@@ -9,12 +71,12 @@
     "id": "2771518682926329856"
    },
    "published": "2019-07-27T17:08:00-03:00",
-   "updated": "2019-07-27T17:08:47-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY0MjU4MTI3NjM5Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "updated": "2019-07-27T17:14:12-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY0MjU4NDUyMjQzCm9mZnNldDogLTEwODAwMDAwCg\"",
    "url": "http://queridotextos.blogspot.com/2019/07/alguem-ja-te-fez-sentir-completo.html",
    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7907399720637705614",
    "title": "Alguém Já Te Fez Sentir Completo?",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #222222; font-family: arial, helvetica, sans-serif; font-size: 16px;\"\u003eAlguém já chegou na sua vida e a mudou por completo ? Te fez sentir algo diferente... Te fez sentir completo? lhe mostrou o mundo, abriu teus olhos? Pois se não ocorreu saiba que quando acontecer você pode saber que está apaixonado, que está amando ou sendo amado, pois eu tenho uma pessoa assim, que todo dia pela manhã me faz ter um motivo pra levantar, ao longo do dia me mostra que eu sou especial, me faz sentir bem e me guia, e que no final dele, me faz sentir o melhor do mundo, me mostra que terei dia e mais dias com ela.. E apesar de não rolar nada entre a gente eu a amo como se fosse a única pessoa do mundo... E cara vou lhe dizer não me arrependo de fazer e nem de ter feito algo por ela, pois ela merece, ela me mostra que ta ali comigo e mesmo que eu não saiba o que ela sente, o que ela está pensando se é o que ela quer faço questão de lhe fazer bem, de lhe fazer sorrir e de lhe dar amor, pois existe uma conexão entre nos que nada nem ninguém consegui separar até hoje, e que eu mesmo não consigo explicar, só consigo sentir e dizer uma única coisa, esse sentimento é muito bom, o sentimento de ter alguém pra contar, pra segurar na mão ir, esse sentimento que me domina... Mesmo eu não o compreendendo..\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px; text-align: justify;\"\u003e\n\u003cspan style=\"color: #222222; font-family: arial, helvetica, sans-serif; font-weight: 700;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #222222; font-family: arial, helvetica, sans-serif; font-size: 16px;\"\u003e\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; text-align: center;\"\u003e\n\u003cdiv style=\"font-family: Roboto, sans-serif; font-size: 16px; text-align: justify;\"\u003e\n\u003cb style=\"color: #222222; font-family: arial, helvetica, sans-serif;\"\u003eThiago Augusto&nbsp;\u003c/b\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"color: #222222; font-family: arial, helvetica, sans-serif; font-weight: 700;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"color: #222222; font-family: arial, helvetica, sans-serif; font-size: 16px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cb\u003e#Amor\u003c/b\u003e\u003c/div\u003e\n\u003c/span\u003e\u003c/div\u003e\n\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"font-family: Roboto, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"color: #222222; font-family: arial, helvetica, sans-serif; font-weight: 700;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"color: #222222; font-family: arial, helvetica, sans-serif; font-weight: 700;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/span\u003e\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"font-family: Roboto, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"background-color: white; clear: both; font-family: Roboto, sans-serif; font-size: 16px; text-align: justify;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-rfSzWz5JqxQ/W5Rk1IGAnOI/AAAAAAAAu98/Eft-ZC5SeY0lWOcsSG8ZBSWCB3gVpY04ACLcBGAs/s1600/tumblr_static_tumblr_static_filename_641.jpg\" imageanchor=\"1\" style=\"background: transparent; color: black; display: inline-block; margin-left: 1em; margin-right: 1em; text-decoration-line: none;\"\u003e\u003cimg border=\"0\" data-original-height=\"360\" data-original-width=\"640\" height=\"180\" src=\"https://1.bp.blogspot.com/-rfSzWz5JqxQ/W5Rk1IGAnOI/AAAAAAAAu98/Eft-ZC5SeY0lWOcsSG8ZBSWCB3gVpY04ACLcBGAs/s320/tumblr_static_tumblr_static_filename_641.jpg\" style=\"border: 0px; height: inherit; max-width: 100%;\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-size: 16px;\"\u003eAlguém já chegou na sua vida e a mudou por completo ? Te fez sentir algo diferente... Te fez sentir completo? lhe mostrou o mundo, abriu teus olhos? Pois se não ocorreu saiba que quando acontecer você pode saber que está apaixonado, que está amando ou sendo amado, pois eu tenho uma pessoa assim, que todo dia pela manhã me faz ter um motivo pra levantar, ao longo do dia me mostra que eu sou especial, me faz sentir bem e me guia, e que no final dele, me faz sentir o melhor do mundo, me mostra que terei dia e mais dias com ela.. E apesar de não rolar nada entre a gente eu a amo como se fosse a única pessoa do mundo... E cara vou lhe dizer não me arrependo de fazer e nem de ter feito algo por ela, pois ela merece, ela me mostra que ta ali comigo e mesmo que eu não saiba o que ela sente, o que ela está pensando se é o que ela quer faço questão de lhe fazer bem, de lhe fazer sorrir e de lhe dar amor, pois existe uma conexão entre nos que nada nem ninguém consegui separar até hoje, e que eu mesmo não consigo explicar, só consigo sentir e dizer uma única coisa, esse sentimento é muito bom, o sentimento de ter alguém pra contar, pra segurar na mão ir, esse sentimento que me domina... Mesmo eu não o compreendendo..\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px; text-align: justify;\"\u003e\n\u003cspan style=\"color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-weight: 700;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-size: 16px;\"\u003e\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; text-align: center;\"\u003e\n\u003cdiv style=\"font-family: Roboto, sans-serif; font-size: 16px; text-align: justify;\"\u003e\n\u003cspan style=\"color: #222222; font-family: arial, helvetica, sans-serif;\"\u003eThiago Augusto&nbsp;\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-size: 16px;\"\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-size: 16px;\"\u003e#Amor\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-size: 16px;\"\u003e\n\u003c/span\u003e\u003c/div\u003e\n\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"font-family: &quot;roboto&quot; , sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-weight: 700;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white;\"\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-weight: 700;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/span\u003e\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"font-family: &quot;roboto&quot; , sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"background-color: white; clear: both; font-family: Roboto, sans-serif; font-size: 16px; text-align: justify;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-rfSzWz5JqxQ/W5Rk1IGAnOI/AAAAAAAAu98/Eft-ZC5SeY0lWOcsSG8ZBSWCB3gVpY04ACLcBGAs/s1600/tumblr_static_tumblr_static_filename_641.jpg\" imageanchor=\"1\" style=\"background: transparent; color: black; display: inline-block; margin-left: 1em; margin-right: 1em; text-decoration-line: none;\"\u003e\u003cimg border=\"0\" data-original-height=\"360\" data-original-width=\"640\" height=\"180\" src=\"https://1.bp.blogspot.com/-rfSzWz5JqxQ/W5Rk1IGAnOI/AAAAAAAAu98/Eft-ZC5SeY0lWOcsSG8ZBSWCB3gVpY04ACLcBGAs/s320/tumblr_static_tumblr_static_filename_641.jpg\" style=\"border: 0px; height: inherit; max-width: 100%;\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n",
    "images": [
     {
      "url": "https://1.bp.blogspot.com/-rfSzWz5JqxQ/W5Rk1IGAnOI/AAAAAAAAu98/Eft-ZC5SeY0lWOcsSG8ZBSWCB3gVpY04ACLcBGAs/s320/tumblr_static_tumblr_static_filename_641.jpg"
@@ -6139,69 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/820708388327342228/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "6233930893771770706",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-06T17:33:00-03:00",
-   "updated": "2019-05-06T17:33:49-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU3MTc0ODI5NTY1Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/ansiedade-doi.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6233930893771770706",
-   "title": "Ansiedade Dói.",
-   "content": "Sim, ansiedade dói !\n\u003cbr /\u003e\nDói quando seu coração acelera, a ponto de faltar ar nos seus pulmões.\u003cbr /\u003e\nDói quando seu emocional está descontrolado, mais você tem que aguentar firme pra não te acharem a \"louca\".\u003cbr /\u003e\nDói quando seu estômago vira do avesso, porque seu corpo pedi por um segundo de paz.\u003cbr /\u003e\nDói quando vc realmente tá cansada de sentir todos os dias a mesma coisa, e nem com remédios você se acalma.\u003cbr /\u003e\nDói quando sua pele arrepia, porque sentiu mais uma palpitação no coração.\u003cbr /\u003e\nDói quando pés e mãos estão gelados e ao mesmo tempo suando.\u003cbr /\u003e\nDói quando memórias e hiposes de coisas ruim vem na sua mente.\u003cbr /\u003e\nDói quando vem cobranças e mais cobranças de você mesma.\u003cbr /\u003e\nDói porque tudo é questão de desespero, porque você senti tudo a flor da pele.\u003cbr /\u003e\nDói quando seu coração acelera, a ponto de ficar cansada. Dói porque até sua gengiva fica dolorida.\u003cbr /\u003e\nDói quando vc luta com seu próprio emocional pra pode dormi, por conta de um ocorrido.\u003cbr /\u003e\nDói porque vc tenta aliviar balançando as pernas ou simplesmente criando\n calos nas mãos de tanto tentar aliviar essa tensão toda de alguma \nforma. Dói porque você simplesmente nunca tem descanso.\u003cbr /\u003e\n\nDói quando seu corpo quer apenas um minuto de paz, mas sempre está em constante cobranças e medos.\u003cbr /\u003e\n\nAnsiedade faz seu corpo todo sentir dores. E por mais que tente \nexplicar o que realmente é essa tal \"frescura\" nunca vou conseguir \ncolocar em palavras o que é ter ansiedade e viver com isso, literalmente\n todas as horas da sua vida !!\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza \u003cbr /\u003e\n\u003cbr /\u003e\nJulia Yolanda\u003cbr /\u003e\n\u003ca href=\"https://secure.static.tumblr.com/762b9caed3a8c0517d04bfd901a0c41e/wqjex5n/0Etnefyhu/tumblr_static_filename_640_v2.jpg\" imageanchor=\"1\" style=\"clear: left; float: left; margin-bottom: 1em; margin-right: 1em;\"\u003e\u003cimg alt=\"Resultado de imagem para dor tumblr\" border=\"0\" class=\"irc_mi\" data-iml=\"1557174777695\" height=\"206\" src=\"https://secure.static.tumblr.com/762b9caed3a8c0517d04bfd901a0c41e/wqjex5n/0Etnefyhu/tumblr_static_filename_640_v2.jpg\" style=\"cursor: move; margin-top: 87px;\" width=\"371\" /\u003e\u003c/a\u003e ",
-   "images": [
-    {
-     "url": "https://secure.static.tumblr.com/762b9caed3a8c0517d04bfd901a0c41e/wqjex5n/0Etnefyhu/tumblr_static_filename_640_v2.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6233930893771770706/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2655690570611676103",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-06T17:28:00-03:00",
-   "updated": "2019-05-06T17:28:30-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU3MTc0NTEwMTYxCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/a-saudade-de-voce.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2655690570611676103",
-   "title": "A Saudade De Você.",
-   "content": "Palavras não são capazes de poder demonstrar o amor que continuo \nsentindo por você, a saudade aperta a cada momento que se passa, cada \nsegundo dessa noite escura,n como se não tivesse fim. mesmo sabendo que \nvocê não voltará, minhas esperanças não morrem, eu permaneço pensando \nque no amanhã você chegará, mas porquê você não aparece ? por que o \namanhã não chega ? tudo fica distante, eu fico distante, meu mundo perde\n o sentido sabendo que você não está aqui, que você não pensa em mim, \nque já colocou outra em meu lugar. Por que essa saudade insiste em me \nmachucar. é eu insisto em pensar em você? mas literalmente prefiro te \nter em meu pensamento do que não te ter nunca mais em minha vida.\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\nAna Julia Lopes\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para saudade tumblr\" class=\"irc_mi\" data-iml=\"1557174494638\" height=\"265\" src=\"https://mayanaferreira2.files.wordpress.com/2013/08/tumblr_lf3bka2tro1qffgf9o1_500.jpg\" style=\"margin-top: 24px;\" width=\"400\" /\u003e ",
-   "images": [
-    {
-     "url": "https://mayanaferreira2.files.wordpress.com/2013/08/tumblr_lf3bka2tro1qffgf9o1_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2655690570611676103/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0yN1QyMDowODo0Ny42Mzla\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wNy0yOVQwMDozOToxNC44ODRa\""
 }
