@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYwNjsxaotEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYodONxqotEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "2122295630180537756",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-08-05T21:06:00-03:00",
+   "updated": "2019-08-05T21:06:47-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY1MDUwMDA3MjQwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/08/da-trabalho.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2122295630180537756",
+   "title": "Dá Trabalho.",
+   "content": "\u003cspan style=\"background-color: white; color: #444444; font-family: georgia;\"\u003eDá trabalho ter força, inspiração, coragem, alegria genuína, vontade, e repetir todos os dias. Dá trabalho dizer não e exigir respeito. Dá trabalho não mendigar amor. Dá trabalho cuidar e gostar [mesmo muito] de nós. Dá trabalho fazer escolhas e tomar decisões. Dá trabalho ser diferente, ignorar quem não sabe, e viver bem com isso. Dá trabalho ‘brilhar’. Dá trabalho ter luz própria e nunca deixar que se apague.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #444444; font-family: georgia;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #444444; font-family: georgia;\"\u003e#Reflexao\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #444444; font-family: georgia;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #444444; font-family: georgia;\"\u003eDesconhecido\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #444444; font-family: georgia;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #444444; font-family: georgia;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para cabelo tumblr\" height=\"320\" src=\"https://66.media.tumblr.com/45335039d4bd82a28bd506f1c1e6f73b/tumblr_phj77sqijT1vnmyn1_640.jpg\" width=\"256\" /\u003e",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/45335039d4bd82a28bd506f1c1e6f73b/tumblr_phj77sqijT1vnmyn1_640.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2122295630180537756/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "8376459502914381970",
@@ -6170,38 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2816692386117943621/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "9184210677054185995",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-11T18:10:00-03:00",
-   "updated": "2019-05-11T18:10:00-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU3NjA5MDAwODMwCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/solidao.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9184210677054185995",
-   "title": "Solidão",
-   "content": "As vezes,me sinto triste com sigo mesma,me sinto sozinha,sem \nninguém.Como se fosse um poço e eu estaria me afogando,é difícil \nexpressar em palavras o que eu realmente estou sentindo,é algo que \nninguém entende,e que conselhos,frases motivacionais...Não vão me \najudar,não entendem o que eu tô passando,sei lá,me sinto confusa de \npensar assim.\u003cbr /\u003e\n#Tristeza\u003cbr /\u003e\n\u003cbr /\u003e\nAutor Desconhecido\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1557572943714\" height=\"379\" src=\"https://i.pinimg.com/originals/df/41/2c/df412cf85c0b41474db25dab824c6293.jpg\" style=\"margin-top: 0px;\" width=\"268\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/df/41/2c/df412cf85c0b41474db25dab824c6293.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9184210677054185995/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOC0wNVQyMzowNjo0OS42MTFa\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOC0wNlQwMDowNjo0Ny4yNDBa\""
 }
