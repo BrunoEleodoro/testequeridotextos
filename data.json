@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYwfTQ3q0tEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYgZSEia4tEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "5832988713868622450",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-08-25T20:30:00-03:00",
+   "updated": "2019-08-25T20:30:34-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY2Nzc1ODM0MjU1Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/08/eu-quero-nos-mais-nos-grudados.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5832988713868622450",
+   "title": "Eu quero nós. Mais nós. Grudados",
+   "content": "\u003ch4\u003e\n\u003cspan style=\"background-color: white; color: #424141; font-family: &quot;georgia&quot;; font-weight: normal; text-align: justify;\"\u003eEu quero nós. Mais nós. Grudados. Enrolados. Amarrados. Jogados no tapete da sala. Nós que não atam nem desatam. Eu quero pouco e quero mais. Quero você. Quero eu. Quero domingos de manhã. Quero cama desarrumada, lençol, café e travesseiro. Quero seu beijo. Quero seu cheiro. Quero aquele olhar que não cansa.\u003c/span\u003e\u003c/h4\u003e\n\u003ch2 style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cspan style=\"font-weight: normal;\"\u003e\u003cspan style=\"font-size: small;\"\u003e–&nbsp;Caio Fernando Abreu.&nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/h2\u003e\n\u003cdiv\u003e\n\u003cspan style=\"font-weight: normal;\"\u003e\u003cspan style=\"font-size: small;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cimg alt=\"Resultado de imagem para grudados tumblr\" height=\"320\" src=\"https://static.tumblr.com/h9fg3re/BDVmaddcs/tumblr_m8beqnql0m1qdsl4lo1_400.jpg\" width=\"320\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://static.tumblr.com/h9fg3re/BDVmaddcs/tumblr_m8beqnql0m1qdsl4lo1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5832988713868622450/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4974542670798794370",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-08-25T20:29:00-03:00",
+   "updated": "2019-08-25T20:29:24-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY2Nzc1NzY0MzA1Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/08/amigos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4974542670798794370",
+   "title": "Amigos",
+   "content": "\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003eÀs vezes, por um simples erro, perdemos um amigo. Por uma mentira, perdemos totalmente a confiança de alguém. E por orgulho, deixamos o amor do lado de fora da porta, na chuva, até ele se cansar e ir embora. Somos pequenos, errados demais, sempre preferimos ter razão do que perdoar alguém. Perder do que pedir perdão. Ver todos que importam partirem, e por orgulho, não conseguir pedir para ficarem.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e#Amizade\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\nDesconhecido\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para estrelas tumblr\" height=\"240\" src=\"https://static.tumblr.com/hk0qwgg/6dFlxi6p8/tumblr_ljti946tyz1qhiltco1_r1_500.jpg\" width=\"320\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://static.tumblr.com/hk0qwgg/6dFlxi6p8/tumblr_ljti946tyz1qhiltco1_r1_500.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4974542670798794370/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3331316117414086846",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-08-25T20:27:00-03:00",
+   "updated": "2019-08-25T20:27:47-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY2Nzc1NjY3MjYzCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/08/inverno.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3331316117414086846",
+   "title": "Inverno",
+   "content": "\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003eAinda acho que precisamos conhecer o inverno para compreender o verão, assim como é necessário passar por momentos de tristeza profunda para conseguir identificar e valorizar a felicidade quando ela chegar. E não devemos, nunca, nos esquecer das pessoas que amamos.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n–&nbsp;A Cabana.&nbsp;\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para inverno tumblr\" height=\"320\" src=\"https://i.pinimg.com/originals/15/c1/ea/15c1ea0350baf1cb3f76acbab6813641.jpg\" width=\"283\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/15/c1/ea/15c1ea0350baf1cb3f76acbab6813641.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3331316117414086846/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "3047700468454217333",
@@ -6108,100 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2687072673147043868/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3720377397078102810",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-22T16:24:00-03:00",
-   "updated": "2019-05-22T16:24:16-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU4NTUzMDU2OTEzCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/vou-te-deixar.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3720377397078102810",
-   "title": "Vou Te Deixar.",
-   "content": "Aprendi a me ama sabe?\u003cbr /\u003e\nAmo você, porém me amo mais.\u003cbr /\u003e\nE por me ama acima de você,\u003cbr /\u003e\nEu vou deixar você ir\u003cbr /\u003e\nNão vou te prender a mim\u003cbr /\u003e\nNão vou atrás de você depois que você for.\u003cbr /\u003e\nPosso chora desesperadamente,\u003cbr /\u003e\nMas não vou volta atrás.\u003cbr /\u003e\nO amor não é pra machucar,\u003cbr /\u003e\nNão é pra doer,\u003cbr /\u003e\nNão é pra fazer ninguém sofrer,\u003cbr /\u003e\nO amor é pra ser um sentimento incrível,\u003cbr /\u003e\nQue vem acompanhado de carinho, prazer e felicidade.\u003cbr /\u003e\nQue traz paz e conforto.\u003cbr /\u003e\nE eu sei que o meu sentimento por você é real, mas sei também que se eu fica me amarrando a você, eu só vou me ferir mais.\u003cbr /\u003e\nE eu aprendi que tenho que me ama acima dos outros,\u003cbr /\u003e\nPois mereço mais, muito mais,\u003cbr /\u003e\nE você não está disposto a me conceder esse mais.\u003cbr /\u003e\nEntão dessa vez eu vou,\u003cbr /\u003e\nSem olha pra traz,\u003cbr /\u003e\nSem amarras que possam me fazer volta,\u003cbr /\u003e\nSem desculpas para ficar.\u003cbr /\u003e\nPorque eu me amo mais...\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor\u003cbr /\u003e\n\u003cbr /\u003e\nSilva L.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para triste neon tumblr\" class=\"irc_mi\" data-iml=\"1558553031189\" height=\"353\" src=\"https://66.media.tumblr.com/4dc338ac24a5c0511b3630d512368d0a/tumblr_p7102yVFhD1wiqljko1_400.jpg\" style=\"margin-top: 0px;\" width=\"199\" /\u003e ",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/4dc338ac24a5c0511b3630d512368d0a/tumblr_p7102yVFhD1wiqljko1_400.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3720377397078102810/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2403891865446158301",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-21T17:17:00-03:00",
-   "updated": "2019-05-21T17:17:50-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU4NDY5ODcwNzI2Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/as-coisas-mudam.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2403891865446158301",
-   "title": "As coisas mudam",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nÉ engraçado como as coisas mudam.. Tudo se transforma e muitas vezes \nvocê não consegue se inserir em um universo que um dia você viveu, em \nambientes antes frequentados, as pessoas não são as mesmas, os lugares \nnão são os mesmos. As músicas mudaram, a forma de viver a vida mudou \ntambém. É interessante analisar essas mudanças, as cenas jamais serão \nvistas novamente, a sociedade se transforma a cada dia. Os anos se \npassaram e você nem notou. Não notou porque os problemas, os corres \ncorres do dia a dia não deixasse que você percebesse. Você amadureceu, \nmudou também, se transformou em uma pessoa com aprendizados, com \nperspectivas diferentes.. Você mudou deixou aquelas velhas coisas que \nfazia que muitas vezes não lhe preenchia e trocou por algo mais sólido, \nmais concreto. Trocou as velhas palavras por palavras mais seguras, \ndeixou as reticências e em muitas coisas deu um ponto final, em muitas \nvírgulas colocou ponto final. Enfim você percebeu que finalmente você \ncresceu e amadureceu e as dúvidas que você tinha antes ah! Hoje você não\n tem mais. As perguntas finalmente hoje se tem as respostas. Bem você \ndeixou tudo que foi de ruim e ate mesmo bom para trás, deixou as \nvírgulas, as reticências, as perguntas, amores, paixões, até mesmo as \nvelhas amizades, que não eram mais que colegas, as paixões, amores, você\n percebe que foi aprendizado e outras foi perda de tempo. Foram \nfracassos, risadas, choros, sonhos interrompidos para somente hoje \nperceber que sim existiram esses momentos, amizades para reconhecer o \nvalor da vida. O valor da verdadeira amizade, e encontrar o verdadeiro \namor. Ai você olha lá atrás e diz: poxa passei por tudo isso achando que\n era feliz. Mais hoje você sorrir e pensa os melhores momentos são os \nque está vivendo no hoje. E se você conseguiu é porque Deus te sustentou\n até aqui e permitiu que você passasse por tudo isso e enfim encontrar o\n verdadeiro amor. Jesus\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Reflexao \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nMaria Margarida\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para mundo tumblr\" class=\"irc_mi\" data-iml=\"1558469801423\" height=\"353\" src=\"https://pbs.twimg.com/profile_images/918299762713128960/y-59mRYn.jpg\" style=\"margin-top: 0px;\" width=\"289\" /\u003e \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://pbs.twimg.com/profile_images/918299762713128960/y-59mRYn.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2403891865446158301/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3473441843244483124",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-21T16:18:00-03:00",
-   "updated": "2019-05-21T16:18:47-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU4NDY2MzI3MDIzCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/saudade-poesia.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3473441843244483124",
-   "title": "Saudade - Poesia",
-   "content": "Entro, da igreja esta eu,\u003cbr /\u003e\nagradecendo deus ...\u003cbr /\u003e\nmais uma vez.\u003cbr /\u003e\nno próximo domingo fui novamente,assentei-me\u003cbr /\u003e\nno mesmo lugar\u003cbr /\u003e\numa jovem bem vestida vindo aproximar\u003cbr /\u003e\nsentou-se e começou dentro dos meus olhos olhar\u003cbr /\u003e\nenxergou um eu\u003cbr /\u003e\nque não tinha em outro lugar.\u003cbr /\u003e\nao sair,\u003cbr /\u003e\nhouve mais uma troca de olhar,\u003cbr /\u003e\ndias depois,naquela moça voltei a pensar!\u003cbr /\u003e\nna terça-feira , novamente na igreja quis estar!\u003cbr /\u003e\nsentei-me ,fiquei a esperar\u003cbr /\u003e\npassaram-se minutos ...\u003cbr /\u003e\na beleza e a sorte comigo veio contar.\u003cbr /\u003e\naguardei o termino da missa\u003cbr /\u003e\nseu nome e telefone fui pegar\u003cbr /\u003e\n\u003cbr /\u003e\nPassei a semana inteira\u003cbr /\u003e\nnos conhecendo pelo celular,\u003cbr /\u003e\nmarcamos de sair\u003cbr /\u003e\nno parque municipal\u003cbr /\u003e\nfomos nos encontrar\u003cbr /\u003e\nsentamos alí\u003cbr /\u003e\ne começamos conversar,\u003cbr /\u003e\nveio aquela chuvinha para nos afugentar\u003cbr /\u003e\nestávamos tão apaixonados que nem notamos as plantas molhar\u003cbr /\u003e\nas abelhas carregando mel\u003cbr /\u003e\nos pássaros voando\u003cbr /\u003e\ncom alegria no céu\u003cbr /\u003e\nno teu olhar fixei o meu\u003cbr /\u003e\nna tua boca a minha foi beijar\u003cbr /\u003e\nviajamos no tempo e até nos abraçar\u003cbr /\u003e\n\u003cbr /\u003e\nTiramos fotos e no cinema voltamos a encontrar\u003cbr /\u003e\nestava passando um filme\u003cbr /\u003e\nque nem sei falar\u003cbr /\u003e\nti dei um beijo\u003cbr /\u003e\ne as luzes vieram apagar\u003cbr /\u003e\nnão aguentei\u003cbr /\u003e\ne ti pedir para comigo namorar.\u003cbr /\u003e\npassaram-se meses suas férias foi tirar\u003cbr /\u003e\nviajou para o interior\u003cbr /\u003e\nna casa dos seus pais\u003cbr /\u003e\nfoi estar...\u003cbr /\u003e\neu timidamente lá não conseguir ligar,\u003cbr /\u003e\nficamos distantes\u003cbr /\u003e\nque meu coração e pensamento ficavam\u003cbr /\u003e\nnos seus beijos viajar\u003cbr /\u003e\né tanta saudade\u003cbr /\u003e\nque nem sei como trabalhar\u003cbr /\u003e\nvolta logo\u003cbr /\u003e\npois\u003cbr /\u003e\nnão aguento ,\u003cbr /\u003e\nesse negócio de esperar\u003cbr /\u003e\nêh saudade!\u003cbr /\u003e\nacaba comigo não!\u003cbr /\u003e\n\u003cbr /\u003e\n\"como dói sentir saudade\u003cbr /\u003e\né uma vontade que nunca passa.\"\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para neon amarelo tumblr\" class=\"irc_mi\" data-iml=\"1558275413382\" height=\"353\" src=\"https://i.pinimg.com/originals/ed/ca/69/edca69e24dae7610589e94580ccb8401.jpg\" style=\"margin-top: 0px;\" width=\"198\" /\u003e",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/ed/ca/69/edca69e24dae7610589e94580ccb8401.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3473441843244483124/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOC0yNFQyMDo0MjozMi42NDVa\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOC0yNVQyMzozMDozNC4yNTVa\""
 }
