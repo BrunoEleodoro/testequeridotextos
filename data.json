@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYgZSEia4tEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYoICFuK4tEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "1797498744923346832",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-08-26T20:58:00-03:00",
+   "updated": "2019-08-26T20:58:50-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY2ODYzOTMwNTY4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/08/bastaria.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1797498744923346832",
+   "title": "Bastaria...",
+   "content": "\u003cbr /\u003e\n\u003cdiv class=\"pquote\" style=\"background-color: white; color: #424141; line-height: 15px; margin-top: -20px; text-align: justify;\"\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eBastaria as pessoas serem mais sinceras, honestas e humildes, que veríamos comportamentos maravilhosamente diversificados, personalidades espontaneamente interessantes, equívocos rapidamente resolvidos, decisões amplamente mais libertas, preconceitos instantaneamente eliminados e atitudes surpreendentemente menos egoístas.\u003c/span\u003e\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003eDesconhecido\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para neon tumblr\" src=\"https://66.media.tumblr.com/4554d1c7fed15497daf8cb6b5a3d922a/tumblr_os6boeZ4zO1sywtuko1_400.jpg\" /\u003e\u003cbr /\u003e\n\u003cspan style=\"font-family: Arial, Helvetica, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/4554d1c7fed15497daf8cb6b5a3d922a/tumblr_os6boeZ4zO1sywtuko1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1797498744923346832/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1699147550805727960",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-08-26T20:53:00-03:00",
+   "updated": "2019-08-26T20:53:53-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY2ODYzNjMzMjMyCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/08/pense-no-agora.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1699147550805727960",
+   "title": "Pense No Agora",
+   "content": "\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003eNão perca o agora, o hoje e tudo que está ao seu redor. Principalmente as pessoas. Pois, se não notou, é por elas que você busca grandes coisas. De todos os beijos que você dá, nunca saberá qual deles será o de despedida.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n–&nbsp;Gabito Nunes.&nbsp;\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para desafios tumblr\" src=\"https://static.tumblr.com/b855114c71a25ee1acefdef2df5be5d2/dtdrmm2/v4dnnnenx/tumblr_static_tumblr_static_filename_640.jpg\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://static.tumblr.com/b855114c71a25ee1acefdef2df5be5d2/dtdrmm2/v4dnnnenx/tumblr_static_tumblr_static_filename_640.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1699147550805727960/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "2378843709276611767",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-08-26T20:12:00-03:00",
+   "updated": "2019-08-26T20:12:25-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY2ODYxMTQ1NDM5Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/08/eu-sei-o-que-e-preciso-ser-feito.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2378843709276611767",
+   "title": "Eu Sei O Que é Preciso Ser Feito.",
+   "content": "\u003cspan style=\"background-color: white; color: #424141; font-family: &quot;georgia&quot;; text-align: justify;\"\u003eNão gosto quando alguém diz que tenho que fazer isso ou aquilo. Eu sei o que precisa ser feito, eu tenho o domínio da minha vida, eu sei o que aceito e o que não me desce pela garganta de forma alguma. Eu, eu, eu. Isso mesmo. De vez em quando a gente precisa se posicionar, encarar os fatos de frente e fazer um raio-x criterioso do que se passa lá dentro. É que ninguém enxerga o nosso avesso.\u003c/span\u003e\u003cbr /\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\nClarissa Corrêa.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" height=\"211\" src=\"https://data.whicdn.com/images/17601607/original.jpg\" width=\"320\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://data.whicdn.com/images/17601607/original.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2378843709276611767/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "5832988713868622450",
@@ -6108,100 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2323231535786316532/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2827137060660883312",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-23T16:18:00-03:00",
-   "updated": "2019-05-23T16:18:05-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU4NjM5MDg1MDk5Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/abandono.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2827137060660883312",
-   "title": "Abandono.",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nEra madrugada,o sol nem tinha surgido, a vizinhança dormindo, pois \nera feriado, estava eu alí inerte sem palavras para descrever, ouvir batendo  há porta, levantei-me para atendê-la,mas ninguém apareceu, \nencontrei apenas um cesto coberto com  lençol. Ao abrir, este cesto,só \nenxerguei um sorriso lindo e  cativante aparecer,era uma criança que \nacabará de nascer!\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nNão lembro bem,pois algo me deixou fascinado. Olhei no céu e perguntei \npara Deus:Pai, porque alguém, tão desamoroso deixa um pequeno indefeso \nassim? do céu não obtive resposta,mas dentro de mim,um sentimento maior transbordou, era Deus falando comigo! Procurei por tal pai,mas sem êxito!\u003cbr /\u003e\nnos jornais fora anunciado, rádio e até panfletos distribuídos, \ninfelizmente é a nossa realidade vivida hoje, onde o  sexo faz parte de \ntodo ser humano, mas esse acaba gerando um filho(a), e posteriormente,acaba sendo abandonado como sempre acontece.Ame o que é gerado de um casal, um filho é além de tudo parte de um amor entre dois ser que dá continuidade na geração,na história de uma família. Como será lembrado tal pai que abandonou uma preciosidade?\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\nLembre-se disso! É preciso  que essas pessoas sejam penalizadas por tal ato cometido!Não \nexiste essa de falarem não tenho capacidade de criar, se Deus te deu um fardo carregue, porque no final sempre valerá à pena.&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Reflexao&nbsp; #Artigo\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nRogério\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para criança tumblr\" class=\"irc_mi\" data-iml=\"1558638997911\" height=\"353\" src=\"https://i.pinimg.com/originals/3c/65/8b/3c658bfba9091a29200d7877cb93e7d2.jpg\" style=\"margin-top: 0px;\" width=\"280\" /\u003e \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/3c/65/8b/3c658bfba9091a29200d7877cb93e7d2.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2827137060660883312/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "992882510034371208",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-22T17:06:00-03:00",
-   "updated": "2019-05-22T17:06:19-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU4NTU1NTc5NDk2Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/nos-permitir-e-viver.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/992882510034371208",
-   "title": "Nos permitir, é viver.",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nNo fim das contas precisamos sentir amor, por mais que isso possa nos \nconsumir, consumir quem fomos um dia, ou transformar as ideias de quem \nseremos, necessitamos desse sentimento que nos mantém vivos, o amor pode\n ser dia ou noite, frio ou calor, alegria e tristeza, paz e furacão, \npois tem suas fases boas e ruins. Muitos de nós lutamos contra esse sentimento por decepções passadas, \nlutamos contra um sentimento que poderia ser recíproco por medo do que \num dia não foi, lutamos contra a ideia de ter alguém ao nosso lado para \ndividirmos uma vida, nos privando de sentir novamente algo puro e \nverdadeiro, quando amamos se magoar vem no pacote, e temos que ter \nmaturidade suficiente pra entender que é assim, quem sempre será, mas \nquando ambos querem, lutam para estar juntos. A o amor...quando sentimos nos deixa bobos, mas quando não sentimos nos \nfalta algo, um complemento no nosso dia, amor tem seus altos e baixos, \nmas as vezes precisamos sentir, para nós sentir vivos.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Reflexao\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nAnônimo.&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para triste neon tumblr\" class=\"irc_mi\" data-iml=\"1558555483712\" height=\"353\" src=\"https://i.pinimg.com/originals/1b/ab/14/1bab142cb5ada76ed7723d6f565c8871.jpg\" style=\"margin-top: 0px;\" width=\"235\" /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/1b/ab/14/1bab142cb5ada76ed7723d6f565c8871.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/992882510034371208/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2687072673147043868",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-22T17:00:00-03:00",
-   "updated": "2019-05-22T17:00:15-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU4NTU1MjE1NzAyCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/diante-do-espelho_22.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2687072673147043868",
-   "title": "Diante do Espelho.",
-   "content": " Vejo no fundo do espaço\u003cbr /\u003e\nUma imagem colorida,\u003cbr /\u003e\nrepleta de alegrias  com tamanho sorriso estampado na face.\u003cbr /\u003e\nVejo no horizonte verde\u003cbr /\u003e\nsua imagem refletindo-se no   espelho d'água\u003cbr /\u003e\nPaisagem ,obra natural ....\u003cbr /\u003e\nOlho no espelho\u003cbr /\u003e\nTambém vejo\u003cbr /\u003e\nPirilampos a brilhar\u003cbr /\u003e\nem longas noites sem luar\u003cbr /\u003e\nVejo no espelho,\u003cbr /\u003e\nUma montanha após o dia clarear\u003cbr /\u003e\nOnde esconde o sol\u003cbr /\u003e\nApós o dia acabar.\n\u003cbr /\u003e\n\u003cbr /\u003e\n\"Assim como um belo\u003cbr /\u003e\nsorriso é a noite\u003cbr /\u003e\nSe fechado estiver, ninguém da atenção!\u003cbr /\u003e\n\u003cbr /\u003e\n#Felicidade\u003cbr /\u003e\n\u003cbr /\u003e\nRogério\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para triste neon tumblr\" class=\"irc_mi\" data-iml=\"1558555171774\" height=\"267\" src=\"https://scontent-yyz1-1.cdninstagram.com/vp/7d460a737d545d8677828d1526309edf/5D9EB9A6/t51.2885-15/e35/c26.0.267.267/49312120_782944335380698_8154236400085939433_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com\" style=\"margin-top: 43px;\" width=\"267\" /\u003e \u003cbr /\u003e\n",
-   "images": [
-    {
-     "url": "https://scontent-yyz1-1.cdninstagram.com/vp/7d460a737d545d8677828d1526309edf/5D9EB9A6/t51.2885-15/e35/c26.0.267.267/49312120_782944335380698_8154236400085939433_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2687072673147043868/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOC0yNlQxOTowMjo0MS4xMzRa\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOC0yNlQyMzo1ODo1MC41Njha\""
 }
