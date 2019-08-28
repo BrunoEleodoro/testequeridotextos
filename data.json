@@ -1,7 +1,69 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYoICFuK4tEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEY4NHm264tEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "1754914042929613717",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-08-27T21:54:00-03:00",
+   "updated": "2019-08-27T21:54:48-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY2OTUzNjg4MTc1Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/08/momentos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1754914042929613717",
+   "title": "Momentos",
+   "content": "\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003eTenho a sensação de que minha vida está muito dispersa nesse momento. Como se fosse um monte de pedacinhos de papel e alguém ligasse o ventilador. Mas falar com você me faz sentir como se o ventilador tivesse sido desligado por um tempo. Como se as coisas pudessem de fato fazer algum sentido. Você junta todos os meus pedacinhos, e sou muito grato por isso.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n–&nbsp;John Green&nbsp;&nbsp;\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para momentos tumblr\" height=\"320\" src=\"https://static.tumblr.com/efcd277d1587bd99bad767afcb7e6782/srfakxm/GGFpnujgv/tumblr_static_-511797864-content_640_v2.jpg\" width=\"240\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://static.tumblr.com/efcd277d1587bd99bad767afcb7e6782/srfakxm/GGFpnujgv/tumblr_static_-511797864-content_640_v2.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1754914042929613717/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1900625887179496213",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-08-27T21:03:00-03:00",
+   "updated": "2019-08-27T21:03:42-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY2OTUwNjIyNDY0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/08/relacionamentos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1900625887179496213",
+   "title": "Relacionamentos",
+   "content": "\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003eMilhares de pessoas nascem e morrem, milhares de relacionamentos começam e terminam, um objeto que quebra, a garrafa de café quase vazia, uma amizade de anos que já não era a mesma… Tudo, do simples ao inabalável, tudo chega ao fim. E há milhares de finais acontecendo todo dia.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n–&nbsp;Tati Bernardi.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para estrelas tumblr\" height=\"320\" src=\"https://66.media.tumblr.com/a431d601ca23b99ea71edc0d02db59a1/tumblr_new8mfjmdS1sy9ip8o1_400.jpg\" width=\"213\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/a431d601ca23b99ea71edc0d02db59a1/tumblr_new8mfjmdS1sy9ip8o1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1900625887179496213/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "1797498744923346832",
@@ -6139,69 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5908938811564879415/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2954258336783401276",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-24T16:03:00-03:00",
-   "updated": "2019-05-24T16:03:27-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU4NzI0NjA3MjAwCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/um-amor-quando-vai-embora.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2954258336783401276",
-   "title": "Um Amor Quando Vai Embora. ",
-   "content": "\n\n\u003cdiv style=\"text-align: justify;\"\u003e\nO vento entrou pela janela fez uma bagunça no meu quarto touxe lembranças de quando você se foi para nunca mais voltar.lembro-me muito bem ,pois   tinha ido dormir muito tarde.O meu cansaço,não deixou que eu \ndespedice de ti, embora também não quisera  me chamar, foi indo com suas\n malas em outra  cidade morar,esqueceu de tudo que eu fiz por ti.Depois que você partiu,as flores que viviam lindas vieram a murchar \n,outras morreram e não mais quis  viver , porque me via pelos cantos \ntriste,isso afetou também. A falta que sinto todas as vezes que me  põe a\n  dormir,lembro quando  dormíamos abraços olhando as estrelas pela \njanela e conversando  dos sonhos para o futuro,mas assim,como eu nunca \nesperava você desapareceu.... fiquei a esperar,mas notei que não mais \niria voltar, então,encontrei um novo amor,casei sou feliz! Confesso que ainda lembro, pois foi amor a primeira vista! O jardim voltou a florescer e a minha paz transformou-me em um homem com mais amor próprio, Já não sofro mais,levo a vida sorrindo.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\"Quando um amor vai embora,pensamos que será impossível outro fazer tudo igual, mas depende de como procedemos  na vida a sorte vem ao nosso encontro para um melhor encontrar. Seja feliz, independente da ocasião!\"\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Amor&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nRogério&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para janela tumblr\" class=\"irc_mi\" data-iml=\"1558724557558\" height=\"353\" src=\"https://i.pinimg.com/736x/a6/77/af/a677afbf36acee4547767d4fc02694c5.jpg\" style=\"margin-top: 0px;\" width=\"268\" /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/736x/a6/77/af/a677afbf36acee4547767d4fc02694c5.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2954258336783401276/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2323231535786316532",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-23T20:23:00-03:00",
-   "updated": "2019-05-23T20:25:15-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU4NjUzOTE1NTIwCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/nem-toda-historia-de-amor-foi-feita-pra.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2323231535786316532",
-   "title": "Algumas paixões em vão...",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nNem toda história de amor foi feita pra dar certo, algumas existem \napenas pra nos deixar louco.Existem diferentes tipos de amores por aí, e\n o fim deles machucam de diversas maneiras, mas nenhum machuca tanto \nquanto o amor que era pra dar certo, mas não deu, sem explicação \nnenhuma:só não deu, o beijo encaixa, mas as palavras ditas um pro outro \nnão, a boca é doce, mas a fala é amarga, o corpo ferve quando juntos, \nmas separados o coração e a barriga congelam, o riso é fácil e isso te \nconforta, mas o choro também é fácil, e isso te desespera. todos a sua \nvolta enxergam amor em vocês, mas vocês deixaram de ver, o carinho de \nantes, agora arranha, as piadas são forçadas, e tudo é motivo pra surto e\n discussão, mesmo que não tenha motivo pra isso, aliás:nunca teve, a \ncoisa mais difícil é olhar pra trás e perceber que TODAS as brigas foram\n em vão, você lembra dos gritos, do choro, da dor no peito, você lembra \nde tudo!Menos do motivo pra tudo isso, não deveria ser assim, mas é, \nvocês são o amor da vida um do outro, mas não vão ficar juntos.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\nEntão se você quiser, foge, sim, foge, foge bem, se esconde do outro \nlado do mundo, tenta se entregar pra outros corpos, tenta dar certo com \num outro alguém, se muda pra Europa, aprende uma nova língua, corta ou \npinta o cabelo, aprende a dançar, faz uma tatuagem, muda o quanto você \nquiser, beija quantas outras bocas quiser, deite-se com quantos outros \ncorpos você quiser.\u003cbr /\u003e\nE no final você chora, se desespera, porque amor não é nada disso\u003cbr /\u003e\namor é o gosto que fica\u003cbr /\u003e\ne ele é um só...\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Amor \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nBrenda Lopes\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1558653647557\" height=\"353\" src=\"https://i.pinimg.com/originals/00/1e/1d/001e1d22463db23fc79919ea4569d180.jpg\" style=\"margin-top: 0px;\" width=\"353\" /\u003e \u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/00/1e/1d/001e1d22463db23fc79919ea4569d180.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2323231535786316532/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOC0yNlQyMzo1ODo1MC41Njha\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOC0yOFQwMDo1NDo0OC4xNzVa\""
 }
