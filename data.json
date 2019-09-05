@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEY4f-1_LAtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYoNanqLEtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "5027676356809067463",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-05T20:11:00-03:00",
+   "updated": "2019-09-05T20:11:13-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY3NzI1MDczNDI0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/sempre-serei-eu-mesma.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5027676356809067463",
+   "title": "Sempre Serei Eu Mesma .",
+   "content": "\u003cdiv class=\"pquote\" style=\"text-align: justify;\"\u003e\n\u003cdiv style=\"margin-top: 6px;\"\u003e\n\u003cspan style=\"color: #444444; font-family: muli;\"\u003e“Gosto dos venenos mais lentos, das bebidas mais amargas, das coisas mais poderosas, das idéias mais insanas, dos pensamentos mais complexos, dos sentimentos mais fortes… Tenho um apetite voraz e os delírios mais loucos.\u003c/span\u003e\u003cspan style=\"color: #444444; font-family: muli;\"\u003eVocê pode até me empurrar de um penhasco que eu vou dizer:\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"margin-top: 6px;\"\u003e\n\u003cspan style=\"color: #444444; font-family: muli;\"\u003e– E daí? Eu adoro voar!\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"margin-top: 6px;\"\u003e\n\u003cspan style=\"color: #444444; font-family: muli;\"\u003eNão me dêem fórmulas certas, por que eu não espero acertar sempre. Não me mostrem o que esperam de mim, por que vou seguir meu coração. Não me façam ser quem não sou. Não me convidem a ser igual, por que sinceramente sou diferente. Não sei amar pela metade. Não sei viver de mentira. Não sei voar de pés no chão. Sou sempre eu mesma, mas com certeza não serei a mesma pra sempre.”\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"margin-top: 6px;\"\u003e\n\u003cspan style=\"color: #444444; font-family: muli;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"margin-top: 6px;\"\u003e\n\u003cspan style=\"color: #444444; font-family: muli;\"\u003e#Felicidade\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"margin-top: 6px;\"\u003e\n\u003cspan style=\"color: #444444; font-family: muli;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"margin-top: 6px;\"\u003e\n\u003cspan style=\"color: #444444; font-family: muli;\"\u003eAlta tensão - Bruna Lombardi\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"margin-top: 6px;\"\u003e\n\u003cspan style=\"color: #444444; font-family: muli;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"margin-top: 6px;\"\u003e\n\u003cimg alt=\"Imagem relacionada\" height=\"314\" src=\"https://i.pinimg.com/originals/bd/6b/a5/bd6ba51d4a7c05facfeb111c20acf5af.jpg\" width=\"320\" /\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/bd/6b/a5/bd6ba51d4a7c05facfeb111c20acf5af.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5027676356809067463/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4060826211012492382",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-05T20:07:00-03:00",
+   "updated": "2019-09-05T20:07:03-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY3NzI0ODIzMDg3Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/ela.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4060826211012492382",
+   "title": "Ela.",
+   "content": "Ela é uma moça de poses delicadas, sorrisos discretos e olhar misterioso. Ela tem cara de menina mimada, um quê de esquisitice, uma sensibilidade de flor, um jeito encantado de ser, um toque de intuição e um tom de doçura. Ela reflete lilás, um brilho de estrela, uma inquietude, uma solidão de artista e um ar sensato de cientista. Ela é intensa e tem mania de sentir por completo, de amar por completo e de ser por completo. Dentro dela tem um coração bobo, que é sempre capaz de amar e de acreditar outra vez. Ela tem aquele gosto doce de menina romântica e aquele gosto ácido de mulher moderna.\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao\u003cbr /\u003e\n\u003cbr /\u003e\nCaio Fernando Abreu\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para mulher tumblr\" height=\"320\" src=\"https://66.media.tumblr.com/0457da216b46fc586493b79d646b3bb6/tumblr_on45m1vCKR1tegohvo1_400.jpg\" width=\"226\" /\u003e",
+   "images": [
+    {
+     "url": "https://66.media.tumblr.com/0457da216b46fc586493b79d646b3bb6/tumblr_on45m1vCKR1tegohvo1_400.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4060826211012492382/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7196945443464883506",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-05T20:03:00-03:00",
+   "updated": "2019-09-05T20:03:29-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY3NzI0NjA5OTc0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/nao-importa.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7196945443464883506",
+   "title": "Não Importa...",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"font-family: Trebuchet MS, Helvetica, Arial, serif;\"\u003e\u003cspan style=\"font-size: 12px;\"\u003e\u003cb\u003eNão importa o que os outros pensam de mim, ninguém sabe das lutas que travo comigo mesma na calada da noite, enquanto todos dormem, meu coração faz preces, peço perdão, faço votos que tudo fique bem. Sei que conseguirei remar até o fim, sem precisar ser apedrejada pelo que sou, pelo que faço. Se cometo algo errado, problema meu. Se sou ilegal com minha alma, quem um dia vai responder por isso sou eu. Então, você que espiona minha vida, que me julga, que quer ver o circo pegar fogo, por favor, se aquiete, pois aqui só canta de galo quem comigo anda. Retira o veneno da tua boca e cospe na tua mediocridade. Refaz teus conceitos, aprende a olhar pro teu próximo, sem querer vê-lo no chão, na lama. Tampa teus olhos se quer ver além da realidade e fecha a tua boca, pois só quem sabe de mim, é Deus. Ele é amor, e você não é nada, além de um espírito ruim atrás de fogo pra se queimar. Queime sozinho. Minha alma está em paz.\u003c/b\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"font-family: Trebuchet MS, Helvetica, Arial, serif;\"\u003e\u003cspan style=\"font-size: 12px;\"\u003e\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"font-family: Trebuchet MS, Helvetica, Arial, serif;\"\u003e\u003cspan style=\"font-size: 12px;\"\u003e\u003cb\u003eJu Fuzetto\u003c/b\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"font-family: Trebuchet MS, Helvetica, Arial, serif;\"\u003e\u003cspan style=\"font-size: 12px;\"\u003e\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para olhando para alguÃ©m tumblr\" height=\"215\" src=\"https://static.tumblr.com/918c12a90d5fa1e17ef0262121f9519c/vxccc2v/7Ouotxqy2/tumblr_static_filename_640_v2.png\" width=\"320\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://static.tumblr.com/918c12a90d5fa1e17ef0262121f9519c/vxccc2v/7Ouotxqy2/tumblr_static_filename_640_v2.png"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7196945443464883506/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "6973077134212733288",
@@ -6108,100 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1599793275431173758/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4782689339812800423",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-01T18:44:00-03:00",
-   "updated": "2019-06-01T18:44:05-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU5NDI1NDQ1OTkxCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/saudades.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4782689339812800423",
-   "title": "Saudades",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nAs respirações descompassadas, os olhares sem pudores, os toques \ncarregados de lascívia e os sorrisos que podiam dizer mais que mil \npalavras. Se você foi capaz de deixa-la ir, então você é capaz de deixa-la ficar, mas por razões óbvias sem liberdade o amor vira dor. Por forças do destino não foram capazes de manter o quê tinham, o amor \nnão esfriou, se manteve intacto, o quê fez desistir foi à distância \nentre seus corpos físicos, porque suas almas sempre estiveram \ninterligadas. Esse é o erro ao se apaixonar, a dependência que se cria \nao estar com o outro e o anseio pela sua presença. Como a uma droga, quando você está num estado de pura depravação, e se \ndepara com a ausência do que te trazia o êxtase, o vazio se calcula e a \nsaudade se acumula fazendo o peito doer, e os olhos ficarem marejados \npelo peso das batidas do coração, que em parte foi arrancado tão \nviolentamente pela alma que seguiu seu caminho pelo mundo, mas que os \nsentidos se perderam pela falta da presença de todos os sentidos \ndisponíveis pra ficar. Minha alma vaga como a um andarilho neste mundo esquecido por muitos, e \nse encontra em um estado deplorável de melancolia, estou penitente mas \nme encontro num estado de abulia sem avanços, foram consequências de \namar quem um dia me amou, mas não pode ficar.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;#Amor\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nA.H&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para flor pexels\" class=\"irc_mi\" data-iml=\"1559425430233\" height=\"379\" src=\"https://2.bp.blogspot.com/-sDcfyLFiqC4/WzlcZp7JfeI/AAAAAAAAB90/dTz9Cd4mn7IovFiec2P5dw4lsmdpyu4AQCLcBGAs/s1600/pexels-photo-612891.jpeg\" style=\"margin-top: 0px;\" width=\"568\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://2.bp.blogspot.com/-sDcfyLFiqC4/WzlcZp7JfeI/AAAAAAAAB90/dTz9Cd4mn7IovFiec2P5dw4lsmdpyu4AQCLcBGAs/s1600/pexels-photo-612891.jpeg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4782689339812800423/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4774895947160650288",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-31T17:30:00-03:00",
-   "updated": "2019-05-31T17:30:37-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU5MzM0NjM3OTI2Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/inconstante.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4774895947160650288",
-   "title": "Inconstante.",
-   "content": "Tem dias em que penso em como tudo poderia ter sido diferente.\u003cbr /\u003e\nTem dias que penso que tudo poderia ter sido melhor.\u003cbr /\u003e\nMas tem dias que penso que tudo poderia ser pior.\u003cbr /\u003e\nTem dias que penso que poderia estar morta.\u003cbr /\u003e\nTem dias que quero morrer mais do que tudo.\u003cbr /\u003e\nTem dias que quero que a morte nunca me leve.\u003cbr /\u003e\nInconstância vive em Mim.\u003cbr /\u003e\nInconstante é o que sou.\u003cbr /\u003e\nTem dias que quero falar até com as paredes.\u003cbr /\u003e\nTem dias que quero que o mundo fique mudo.\u003cbr /\u003e\nHá os dias em quero que nunca acabe.\u003cbr /\u003e\nHá os dias que quero que acabe logo.\u003cbr /\u003e\nTem dias bons.\u003cbr /\u003e\nTem dias ruins.\u003cbr /\u003e\nE tem dias que eu não sei o que são.\u003cbr /\u003e\nDias em que amo como se o mundo fosse acabar. Melhores dias.\u003cbr /\u003e\nDias em que quero matar alguém por qualquer coisa. Piores dias.\u003cbr /\u003e\nA inconstância é uma inimiga.\u003cbr /\u003e\nMas não se preocupe, você se acostuma, as pessoas ao redor não.\u003cbr /\u003e\nMas não se preocupe com isso também, pois só quem for eterno é que permanece.\u003cbr /\u003e\nNão tenha vergonha ou medo da sua inconstância, ela vai te custar caro Sim, mas vai te trazer muitas coisas boas.\u003cbr /\u003e\n\u003cbr /\u003e\n#Conselho\u003cbr /\u003e\n\u003cbr /\u003e\nNatD \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para menina pexels\" class=\"irc_mi\" data-iml=\"1559334606713\" height=\"379\" src=\"https://3.bp.blogspot.com/-gecvMSrbBtE/XFSv0cqhXUI/AAAAAAAAUbk/dTcnMCNHjnUTvSbfHZnqrYA-_WlXzkTsACLcBGAs/s1600/pexels-photo-1209998.jpeg\" style=\"margin-top: 0px;\" width=\"586\" /\u003e ",
-   "images": [
-    {
-     "url": "https://3.bp.blogspot.com/-gecvMSrbBtE/XFSv0cqhXUI/AAAAAAAAUbk/dTcnMCNHjnUTvSbfHZnqrYA-_WlXzkTsACLcBGAs/s1600/pexels-photo-1209998.jpeg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4774895947160650288/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "6207210417925216918",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-31T17:21:00-03:00",
-   "updated": "2019-06-01T19:04:46-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU5NDI2Njg2NjMzCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/a-ultima-vez.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6207210417925216918",
-   "title": "A Ultima Vez",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nNinguém o avisou que aquela seria a última vez... Ninguém o avisou que aquela seria a última música cantada por sua voz doce, a última melodia, a última nota; Ninguém o avisou que aquele momento simples, momento qualquer que era \nrotina na sua vida, ficaria na memória de quem ficou, como o último \nmomento ao seu lado. Ninguém o avisou quando seria sua última festa, última refeição, última \nrisada, última visita; Ninguém o avisou que tudo se acabaria em \nsegundos. Estranho como coisas ruins acontecem com pessoas boas, ele havia deixado\n sua marca no mundo, seus ensinamentos e suas conquistas, tinha tanto a \nnos mostrar, tanto a viver! Ninguém o avisou, ninguém me avisou, que aquele seria o último abraço, toque na pele, último olhar último suspiro... Com a cabeça limpa, fiquei me culpando das vezes que não vivi, não amei o\n suficiente, não me dediquei, agora eu amo, vivo, rio, tudo como se \nfosse a primeira e última vez, vivo intensamente em conjunto com quem \namo, pois em um segundo, tudo se vai junto com as últimas batidas do seu\n coração.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Conselho\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nMaria\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-dkca_cg6ZsY/XPL2dUVz0BI/AAAAAAAAwnQ/pcBEAQ00KRYhHftQMa3Tzl-LkplcS3I3ACLcBGAs/s1600/sadasd.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"467\" data-original-width=\"700\" height=\"266\" src=\"https://1.bp.blogspot.com/-dkca_cg6ZsY/XPL2dUVz0BI/AAAAAAAAwnQ/pcBEAQ00KRYhHftQMa3Tzl-LkplcS3I3ACLcBGAs/s400/sadasd.jpg\" width=\"400\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cbr /\u003e \u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://1.bp.blogspot.com/-dkca_cg6ZsY/XPL2dUVz0BI/AAAAAAAAwnQ/pcBEAQ00KRYhHftQMa3Tzl-LkplcS3I3ACLcBGAs/s400/sadasd.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6207210417925216918/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOS0wNVQwMDo0NDoxMy4yNDda\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOS0wNVQyMzoxMToxMy40MjRa\""
 }
