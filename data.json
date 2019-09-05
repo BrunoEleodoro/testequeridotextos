@@ -1,7 +1,69 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYwb2A2rAtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEY4f-1_LAtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "6973077134212733288",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-04T21:44:00-03:00",
+   "updated": "2019-09-04T21:44:13-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY3NjQ0MjUzMjQ3Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/que-gente.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6973077134212733288",
+   "title": "Que a gente...",
+   "content": "\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003eQue a gente continue a ter vontade, verdade, saudade. Que a gente continue a lutar, amar, se entregar. Que a gente aprenda a não desistir, enfraquecer e se queixar. Que a gente perceba que a poesia embeleza a vida, a alma e os olhos. Que a gente embale os versos, as frases e os sonhos.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n–&nbsp;Clarissa Corrêa.&nbsp;\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #424141; font-family: georgia; text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para bolha de sabÃ£o tumblr\" height=\"320\" src=\"https://i.pinimg.com/originals/6f/10/ed/6f10ede5f869a83fd478ae75a65ffbc2.jpg\" width=\"213\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/6f/10/ed/6f10ede5f869a83fd478ae75a65ffbc2.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6973077134212733288/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4047533823999030183",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-04T21:20:00-03:00",
+   "updated": "2019-09-04T21:20:43-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY3NjQyODQzNzM2Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/a-gente-nunca-ta-pronto.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4047533823999030183",
+   "title": "A Gente Nunca Ta Pronto",
+   "content": "\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e“a gente nunca vai tá pronto.\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nnunca vai ser a hora certa de mudar de emprego, de cidade, de amor, de qualquer coisa.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nnunca vai ser a hora certa de fazer o que a gente sempre sonhou em fazer. tá tarde demais, tá muito cedo, vai chegar um momento melhor pra isso.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nnunca seremos bons o suficiente pro novo desafio, pra aquela pessoa que a gente sempre quis conhecer, pra viajar pra algum lugar cuja língua não conhecemos ainda, pra adotar um bichinho de estimação.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nnunca vai ser a hora certa pra demonstrar os sentimentos, pra dizer que já chega, pra pedir desculpas e voltar atrás.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\na gente nunca tá pronto.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\ne tudo bem.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\na beleza disso reside em entender, aceitar e dizer “e daí?”.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\ne daí que a gente nunca tá pronto?\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nexistem coisas mais importantes que isso. existe o afeto. a vontade. o sonho. a necessidade. uma pulsação interna que manda a gente ir mesmo que não seja a hora.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\n“nunca” é uma palavra muito forte.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nnós somos mais. nós podemos burlá-la. nós podemos compreender o universo, o perigo de sair da caixa, o medo de voltar pro passado.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\no fato de não estarmos prontos não quer dizer que não podemos tentar e gritar e correr e amar e ler mais livros e adotar um doguinho e aprender uma língua nova e virar atleta amanhã e trocar de profissão e muitos outros “e”.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\na gente sempre pode fazer alguma coisa mesmo que não esteja pronto. mesmo que não seja a hora certa.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #666769; font-family: Cabin, Arial, sans-serif; font-size: 15px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nsegue teu coração.”\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Conselho\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDesconhecido\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para mala de viagem tumblr\" height=\"320\" src=\"https://i.pinimg.com/736x/da/47/f5/da47f503b47655ec8eaeb8f19c6f4b9d.jpg\" width=\"256\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/736x/da/47/f5/da47f503b47655ec8eaeb8f19c6f4b9d.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4047533823999030183/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "1263349283721573382",
@@ -6139,69 +6201,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6207210417925216918/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5220639352927982557",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-31T16:29:00-03:00",
-   "updated": "2019-05-31T16:29:12-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU5MzMwOTUyMDU5Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/topo-tudo.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5220639352927982557",
-   "title": "Topo Tudo.",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nEu topo tudo. Eu topo um encontro rapidinho numa tarde de terça-feira, \neu sei que você tem sua vida, seus afazeres e se só dá pra gente se ver \npelo menos 30 minutos, eu topo, por mim tudo bem. Tá sem dinheiro? O que\n tenho nâo é muito, mas a gente pode fazer alguma coisinha por aqui \nmesmo. Tá cansado? Posso ir na sua casa te fazer uma massagem enquanto a\n gente joga conversa fora, quem sabe até contar piada e dar boas \nrisadas. Não importa o tempo, o que importa é estar ao seu lado. Topo \nsair pra vários lugares, topo fazer faxina sexta a noite ou arrumar a \nbagunça do teu quarto numa tarde de domingo. Nem sempre nossos planos \npro fim de semana vão dar certo,  e não é porque não vai dar certo que a\n gente tem que deixar pra lá,  enquanto houver oportunidade de fazer \nqualquer coisa ao teu lado, eu farei. Afinal, quem quer dá um jeito, e \nquem não quer arruma uma desculpa.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Conselho \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nTyta\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para menina pexels\" class=\"irc_mi\" data-iml=\"1559330930152\" height=\"213\" src=\"https://www.altoastral.com.br/wp-content/uploads/2017/02/menina-preocupada-m%C3%A3o-olho.jpeg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e \u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://www.altoastral.com.br/wp-content/uploads/2017/02/menina-preocupada-m%C3%A3o-olho.jpeg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5220639352927982557/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7921624188940028721",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-05-30T21:18:00-03:00",
-   "updated": "2019-05-30T22:07:49-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU5MjY0ODY5MzY5Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/05/ressaca.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7921624188940028721",
-   "title": "Ressaca",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nÀs vezes me pergunto se realmente gosto de você, ou se o que eu não foi \napenas uma ressaca moral. Porque me entreguei tanto em alguns momentos e\n em outros neguei tanto o que eu sentia.. E dormia, sonhava e acordava pensando em você e detestava te amar tanto \nassim. Mas em outros momentos me esquecia de você, ou não sentia nada ao\n mencionar seu nome, e me sentia egoísta por te deixar morrer aos poucos\n dentro de mim.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Amor\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nKetlen Gabriele]\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para ressaca pexels\" class=\"irc_mi\" data-iml=\"1559264853477\" height=\"188\" src=\"https://www.altoastral.com.br/wp-content/uploads/2018/02/mulher-bebendo.jpg\" style=\"margin-top: 0px;\" width=\"320\" /\u003e \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://www.altoastral.com.br/wp-content/uploads/2018/02/mulher-bebendo.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7921624188940028721/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOS0wM1QxOTozMjoyNy43Mjda\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOS0wNVQwMDo0NDoxMy4yNDda\""
 }
