@@ -1,7 +1,69 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYwIS1n7ItEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYoKzHn7ItEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "269946452332681161",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-13T16:22:00-03:00",
+   "updated": "2019-09-13T16:22:36-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY4NDAyNTU2NDM1Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/ate-quando-voce-vai-chorar.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/269946452332681161",
+   "title": "Até Quando Você vai Chorar ?",
+   "content": "\u003cdiv\u003e\nAté quando você vai chorar? Até quando vai ficar parado com medo de se machucar? Eu cansei de usar o passado para tentar justificar momentos e coisas que deixei de aproveitar! Doi, mas passa no momento que você se levantar! Marca, mas o aprendizado te levará há algum lugar! Esse mundo é tão grande e você merece ser feliz nessa mesma proporção, então vamos juntas, meninas, correr na melhor direção! A caminho dos nossos sonhos.\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n- Maria Cláudia\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cimg alt=\"A dor da saudade ð\u009f\u0092\u0094ð\u009f\u0092\u0094 | Blogmaryrouse\" height=\"320\" src=\"https://i.pinimg.com/564x/04/59/96/045996026015ce762ecad5cd31b5c73b.jpg\" width=\"215\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/04/59/96/045996026015ce762ecad5cd31b5c73b.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/269946452332681161/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "5451244243986864319",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-13T15:43:00-03:00",
+   "updated": "2019-09-13T15:43:03-03:00",
+   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTY4NDAwMTgzNTg0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/onde-se-encontra-o-sol.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5451244243986864319",
+   "title": " Onde se encontra o sol?",
+   "content": "\u003cdiv id=\"qt\" style=\"background-color: white; font-family: &quot;Open Sans&quot;, sans-serif; text-align: justify;\"\u003e\nAprendi recentemente a olhar o mundo ao meu redor com outra perspectiva. O meu olhar para tudo e todos mudou, e é incrível como deixa tudo mais leve. Dias nublados sempre existirão, mas isso não quer dizer que dias ensolarados não virão até você. Eu acredito que tudo é questão do modo quão você olha para uma certa situação. Dias de chuva as vezes são necessários para você perceber que o sol está em você.\u003c/div\u003e\n\u003cdiv id=\"qt\" style=\"background-color: white; font-family: &quot;Open Sans&quot;, sans-serif; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv id=\"qt\" style=\"background-color: white; font-family: &quot;Open Sans&quot;, sans-serif; text-align: justify;\"\u003e\n#Conselho&nbsp;\u003c/div\u003e\n\u003cdiv id=\"qt\" style=\"background-color: white; font-family: &quot;Open Sans&quot;, sans-serif; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"src\" style=\"background-color: white; font-family: &quot;Open Sans&quot;, sans-serif; text-align: justify;\"\u003e\n\u003cimg alt=\"Saia na Chuva para se Molhar\" height=\"320\" src=\"https://i.pinimg.com/564x/1a/98/0f/1a980f09389dfac02b2dc81598a27273.jpg\" width=\"275\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/1a/98/0f/1a980f09389dfac02b2dc81598a27273.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5451244243986864319/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "7751000584720952842",
@@ -6134,69 +6196,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/640022782556722028/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2334668112896653985",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-04T16:19:00-03:00",
-   "updated": "2019-06-05T20:45:31-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU5Nzc4MzMxNjc3Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/amor.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2334668112896653985",
-   "title": "Amor",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nAmor é um sentimento puro, amor é saber enfrentar diferenças, \ndificuldades, brigas, e desentendimento mas ainda sim continuar ali. \nquando você ama alguém você quer ta ali com ela a todo instante é como \nse ninguém mais importasse a não ser esse amor (claro que primeiro seus \npais e depois  seu amor próprio) amor não é um mar de rosas amor tem \ndificuldade mas quando a gente ama nos damos um jeito de enfrentar \nqualquer coisa por que o importante é que no final do dia aquela pessoa \nesteja ali com você. e se você ama e se o amor for recíproco não desista\n pois você pode ter uma bela história com esse amor.\n\u003c/div\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor\u003cbr /\u003e\n\u003cbr /\u003e\nAmanda\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"me faça companhia (se quiser) | brutamor\" class=\"hCL kVc L4E MIw\" src=\"https://i.pinimg.com/564x/0b/4c/1d/0b4c1de8772e18a401de005202be77eb.jpg\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/564x/0b/4c/1d/0b4c1de8772e18a401de005202be77eb.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2334668112896653985/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5104309391652594800",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-04T16:18:00-03:00",
-   "updated": "2019-06-04T16:26:51-03:00",
-   "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/dGltZXN0YW1wOiAxNTU5Njc2NDExNjExCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/o-amor-nao-e-isso.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5104309391652594800",
-   "title": "O Amor Não É Isso",
-   "content": "O amor é uma imensa poça de indecisões, de não se sabe o certo a se \nfazer e nem quando se fazer, muitos até mesmo, nem sabem o de certo é o \namor, viveram de tudo, paixão, romance, ficadas, mas nunca o amor. O \namor não é só andar de mãos dadas e beijar aquela boquinha gostosa, o \namor não é só sexo e de sair para curtir o fim de semana, é muito  mais \nque tudo isso. O amor é você se sentir aceita do jeitinho que você é, o \namor é se olhar no espelho, e não ter que mudar alguma coisinha porque a\n outra pessoa não gosta, o amor não é só você correr atrás, só você \nmandar mensagem, não, isso não é amor. O amor é se sentir em uma \nfortaleza, que você pode sair, levar várias flechadas, mas quando \nvoltar, vai ter um porto seguro, é saber que o mundo pode te virar as \ncostas, mas sempre vai ter alguém do seu lado, te fazendo carinho. O \namor é deitar no colo da pessoa e simplesmente voar, esquecer as dores, \nas tristezas, as fofocas, e simplesmente sentir a mão da pessoa passar \npor todo o seu cabelo, aquele carinho que ninguém faz, isso é amor.\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor \u003cbr /\u003e\n\u003cbr /\u003e\nAnônimo22\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Descubra porque só mulheres LGBTs podem usar esse anel – Coisa De Viado\" class=\"hCL kVc L4E MIw\" height=\"320\" src=\"https://i.pinimg.com/564x/f8/c8/49/f8c849ac6cc92326adb62feb32226f2b.jpg\" width=\"320\" /\u003e ",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/564x/f8/c8/49/f8c849ac6cc92326adb62feb32226f2b.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5104309391652594800/comments"
-   }
   }
  ],
- "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOS0xMlQwMDowMDo0Ny44OTda\""
+ "etag": "\"NXBHOy2vAlMHFQbN3g17YG1AE10/MjAxOS0wOS0xM1QxOToyMjozNi40MzVa\""
 }
