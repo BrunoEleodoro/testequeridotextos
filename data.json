@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEY4-q1orMtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYgqaXxbMtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "2403677925487741802",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-17T19:15:00-03:00",
+   "updated": "2019-09-17T19:15:49-03:00",
+   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTY4NzU4NTQ5NTQyCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/ilusoes-do-amor.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2403677925487741802",
+   "title": "Ilusões do amor.",
+   "content": "\u003cdiv class=\"frase fr0\" id=\"MTUzNjQxNQ\" style=\"box-sizing: border-box; font-size: 1rem; line-height: 1.3; overflow-wrap: break-word; padding: 0px 0px 0px 25px; position: relative; z-index: 0;\"\u003e\n\u003cspan style=\"font-size: 1rem;\"\u003e\"Há muita ilusão quando as pessoas pensam que é preciso mostrar fotos com seus amores,mudar status de rede social,dizer \"Eu te Amo\" quando nem sentem e pensar que uma aliança é garantia de amor verdadeiro e infinito.Tudo isso é bom,mas o mais importante é poder dizer que ama com verdade do coração,criar uma aliança de corações,algo bem mais forte do que imagens,palavras e materiais.Sem o valor do sentimento tudo fica vazio,ilusório e fraco.\"\u003c/span\u003e\u003c/div\u003e\n\u003cspan class=\"autor\" style=\"box-sizing: border-box; display: block; margin-bottom: 15px; margin-top: 10px; padding-left: 25px;\"\u003eJander Korolkovas\u003c/span\u003e\u003cspan class=\"autor\" style=\"box-sizing: border-box; display: block; font-size: 0.75rem; margin-bottom: 15px; margin-top: 10px; padding-left: 25px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003cspan class=\"autor\" style=\"box-sizing: border-box; display: block; font-size: 0.75rem; margin-bottom: 15px; margin-top: 10px; padding-left: 25px;\"\u003e\u003cimg alt=\"Casal ð\u009f\u0092\u008d\" height=\"320\" src=\"https://i.pinimg.com/564x/3d/49/a7/3d49a71aba8daa0f19fc519feb659fb3.jpg\" width=\"240\" /\u003e\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/3d/49/a7/3d49a71aba8daa0f19fc519feb659fb3.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2403677925487741802/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "6153121395537510642",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-17T17:16:00-03:00",
+   "updated": "2019-09-17T17:16:09-03:00",
+   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTY4NzUxMzY5NDQxCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/tempo-de-mudanca.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6153121395537510642",
+   "title": "Tempo de Mudança.",
+   "content": "\u003cdiv class=\"frase fr0\" id=\"MjQyMzA\" style=\"box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.3; overflow-wrap: break-word; padding: 0px 0px 0px 25px; position: relative; z-index: 0;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"MjQyMzA\" style=\"box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.3; overflow-wrap: break-word; padding: 0px 0px 0px 25px; position: relative; z-index: 0;\"\u003e\nHá um tempo em que é preciso abandonar as roupas usadas, que já tem a forma do nosso corpo, e esquecer os nossos caminhos, que nos levam sempre aos mesmos lugares. É o tempo da travessia: e, se não ousarmos fazê-la, teremos ficado, para sempre, à margem de nós mesmos.&nbsp;\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"MjQyMzA\" style=\"box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.3; overflow-wrap: break-word; padding: 0px 0px 0px 25px; position: relative; z-index: 0;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"MjQyMzA\" style=\"box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.3; overflow-wrap: break-word; padding: 0px 0px 0px 25px; position: relative; z-index: 0;\"\u003e\nPor isso mude. Mude sempre!\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"MjQyMzA\" style=\"box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.3; overflow-wrap: break-word; padding: 0px 0px 0px 25px; position: relative; z-index: 0;\"\u003e\n\u003cspan style=\"font-size: 0.75rem;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv class=\"frase fr0\" id=\"MjQyMzA\" style=\"box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.3; overflow-wrap: break-word; padding: 0px 0px 0px 25px; position: relative; z-index: 0;\"\u003e\n\u003cspan style=\"font-size: 0.75rem;\"\u003eFernando Teixeira de Andrade\u003c/span\u003e\u003c/div\u003e\n\u003cspan class=\"autor\" style=\"box-sizing: border-box; color: #333333; display: block; font-family: Helvetica, Arial, sans-serif; font-size: 0.75rem; margin-bottom: 15px; margin-top: 10px; padding-left: 25px;\"\u003e\u003cimg alt=\"Saturday Drives #travel\" height=\"320\" src=\"https://i.pinimg.com/564x/ef/b6/da/efb6dacb9721eab6b593421298899a08.jpg\" width=\"224\" /\u003e\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/ef/b6/da/efb6dacb9721eab6b593421298899a08.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6153121395537510642/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "9098400687786466775",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-17T17:10:00-03:00",
+   "updated": "2019-09-17T17:10:34-03:00",
+   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTY4NzUxMDM0NzE4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/e-preciso-ir-embora.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9098400687786466775",
+   "title": "É preciso ir embora.",
+   "content": "\u003cdiv style=\"background-color: white; color: #666666; font-family: Helvetica, Arial, sans-serif; margin-bottom: 1em; margin-top: 1em; text-align: justify;\"\u003e\nIr embora é importante para que você entenda que você não é tão importante assim, que a vida segue, com ou sem você por perto. Pessoas na\u003cspan class=\"text_exposed_show\" style=\"display: inline; font-family: inherit;\"\u003escem, morrem, casam, separam e resolvem os problemas que antes você acreditava que só você podia resolver. É chocante e libertador – ninguém precisa de você pra seguir vivendo. Nem sua mãe, nem seu pai, nem seu ex-patrão, nem sua pegada, nem ninguém. Parece besteira, mas a maioria de nós tem uma noção bem distorcida da importância do próprio umbigo – novidade para quem sofre deste mal: ninguém é insubstituível ou imprescindível.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; color: #666666; font-family: Helvetica, Arial, sans-serif; margin-bottom: 1em; margin-top: 1em; text-align: justify;\"\u003e\n\u003cspan class=\"text_exposed_show\" style=\"display: inline; font-family: inherit;\"\u003eEntão vá embora. Vá embora do trabalho que te atormenta. Daquela relação que você sabe que não vai dar certo. Vá embora “da galera” que está presente quando convém. Vá embora da casa dos teus pais. Do teu país. Da sala. Vá embora. Por minutos, por anos ou pra vida. Se ausente, nem que seja pra encontrar com você mesmo. Quanto voltar – e se voltar – vai ver as coisas de outra perspectiva, lá de cima do avião.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv class=\"text_exposed_show\" style=\"background-color: white; color: #666666; display: inline; font-family: Helvetica, Arial, sans-serif;\"\u003e\n\u003cdiv style=\"font-family: inherit; margin-bottom: 1em; margin-top: 1em; text-align: justify;\"\u003e\nAs desculpas e pré-ocupações sempre vão existir. Basta você decidir encarar as mesmas como elas realmente são – do tamanho de formigas.\"\u003cbr /\u003e\n\u003cbr /\u003e\n#Conselho\u003c/div\u003e\n\u003cdiv style=\"font-family: inherit; margin-bottom: 1em; margin-top: 1em; text-align: justify;\"\u003e\nAline Mazzocchi\u003c/div\u003e\n\u003cdiv style=\"font-family: inherit; margin-bottom: 1em; margin-top: 1em; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"font-family: inherit; margin-bottom: 1em; margin-top: 1em; text-align: justify;\"\u003e\n\u003cimg alt=\"p i n k .\" height=\"320\" src=\"https://i.pinimg.com/564x/7c/de/b8/7cdeb8efcb386b3dd26fa3d212b37206.jpg\" width=\"256\" /\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/7c/de/b8/7cdeb8efcb386b3dd26fa3d212b37206.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9098400687786466775/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "3215100605385973241",
@@ -124,37 +217,6 @@
    "replies": {
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6180915141690546806/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7892681648106317809",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-09-16T15:51:00-03:00",
-   "updated": "2019-09-16T15:51:29-03:00",
-   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTY4NjU5ODg5NzM3Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/09/saude-alimentacao-saudavel.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7892681648106317809",
-   "title": "Saúde: Alimentação Saudável. ",
-   "content": "Seu organismo precisa deste tempo para processar os alimentos. Grande parte das enzimas digestivas (50%) são secretadas por estímulos sensoriais (visão, olfato, tato, paladar).\u003cbr /\u003e\n\u003cbr /\u003e\nMastigue bem os alimentos\u003cbr /\u003e\nA digestão se inicia na boca com a trituração dos alimentos e ação da salivação. A mastigação deve tornar o alimento pastoso, facilitando o processo digestivo. Quando há ansiedade, o controle da ingestão de alimentos é prejudicado e, muitas vezes, comemos mais. Quando mastigamos bem, automaticamente estamos trabalhando com a ansiedade e promovendo a saciedade fisiológica (verdadeira). Então, não coma em menos de 20 minutos cada refeição.\u003cbr /\u003e\n\u003cbr /\u003e\nLíquidos x Refeição\u003cbr /\u003e\nNão ingira líquidos junto com as refeições. O líquido faz com que você não mastigue bem os alimentos e atrapalha o processo digestivo. Procure utilizar líquidos 30 minutos antes ou 60 minutos após as refeições principais. No entanto, se a refeição estiver salgada o ideal é ingerir água durante.\u003cbr /\u003e\n\u003cbr /\u003e\nHorários para as refeições\u003cbr /\u003e\nTenha horário para suas refeições. Ele faz com que nosso organismo mantenha um ritmo, com estabilidade nutricional e hormonal.\u003cbr /\u003e\n\u003cbr /\u003e\nAlimente-se a cada 3 horas\u003cbr /\u003e\nNosso cérebro precisa de aporte constante de glicose (carboidrato). A inconstância em receber esse nutriente, traz redução da nossa disposição, além de proporcionar perda de massa muscular. Além disso, comendo de 3 em 3 horas, a fome e a voracidade se mantêm sob controle, evitando episódios de compulsão alimentar.\u003cbr /\u003e\n\u003cbr /\u003e\nAlimentos integrais\u003cbr /\u003e\nConsuma alimentos integrais. Eles contém vários nutrientes que estão na película do grão. São excelentes para manter os níveis de glicemia (açúcar no sangue), têm fibras que servirão de alimento para as bactérias benéficas do intestino, ajudam no controle do colesterol e na saciedade.\u003cbr /\u003e\n\u003cbr /\u003e\nConsuma frutas e hortaliças\u003cbr /\u003e\nIngira verduras, legumes e frutas. Eles são ótimas fontes de fibras, vitaminas e minerais. Contém também fitoquímicos (polifenóis, carotenóides, flavonóides, dentre outros) os quais são excelentes antioxidades (protetores das nossas células)\u003cbr /\u003e\n\u003cbr /\u003e\nEvite alimentos refinados\u003cbr /\u003e\nOs alimentos considerados brancos (pão, açúcar, trigo, arroz), além de não conter mais a sua película - onde estava a maioria dos nutrientes - também passam por um processo químico chamado de branqueamento. Neste processo, diversas substâncias químicas são adicionadas, com potencial efeito negativo para nosso organismo. Os alimentos refinados não alimentam nossas bactérias \"boas\". Assim, poderá favorecer o crescimento das bactérias patogênicas (ruins) e desequilibrar nossa flora intestinal.\u003cbr /\u003e\n\u003cbr /\u003e\nIngira líquido\u003cbr /\u003e\nA ingestão de líquidos durante o dia faz com que nosso corpo se mantenha bem hidratado e ajude o organismo a transportar os nutrientes que precisamos. O melhor método que temos para verificar nossa hidratação é a cor da urina, a qual deve estar amarela bem clara.\u003cbr /\u003e\n\u003cbr /\u003e\nEvite os industrializados\u003cbr /\u003e\nEvite alimentos industrializados, processados e embutidos. Estes produtos contêm inúmeras substâncias químicas que não são reconhecidas pelo nosso organismo. O consumo desses alimentos em quantidade excessiva demanda trabalho do fígado para neutralizar corantes, conservantes, etc, e depois eliminá-los, muitas vezes com auxílio dos rins. Alguns produtos com potencial efeito cancerígeno podem ser recebidos pela ingestão desses produtos ou serem produzidos no processo de desintoxicação. Pode haver comprometimento do sistema imunológico e processos alérgicos devido à ingestão de produtos estranhos ao nosso organismo.\u003cbr /\u003e\n\u003cbr /\u003e\n#Saúde\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Chicken Caesar Salad with Garlic Croutons {and Light Caesar Dressing} - LOVE this recipe! Perfect caesar salad.\" height=\"320\" src=\"https://i.pinimg.com/564x/5f/b5/8e/5fb58ecfde3e17da277191c006a14b68.jpg\" width=\"213\" /\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/564x/5f/b5/8e/5fb58ecfde3e17da277191c006a14b68.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7892681648106317809/comments"
    }
   },
   {
@@ -6134,69 +6196,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5059554671951899961/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3621294201164411586",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-07T20:40:00-03:00",
-   "updated": "2019-06-07T20:47:36-03:00",
-   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTU5OTUxMjU2MTE2Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/um-dia-sera-tudo-novo.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3621294201164411586",
-   "title": "Sem Limites",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nUm dia será tudo novo! Não haverá necessidade de relógio ou outras formas de marcar o tempo. Tudo será sem limites!O calendário? Nem precisaremos mais dele, nem falta alguma nos fará. \nEnfim, muitas coisas maravilhosas haverá quando chegar este Grande Dia, \nporém, me entristeço com um algo… Em saber que existe inúmeras pessoas que se contentam com tão pouco… \nsaber que o mais valioso é aquilo que dura anos, meses, semanas, dias… \nsaber que poucos se importam do que será daqui para frente, e com isso o\n futuro é destruído como... uma pedra por um dinamite (se assim posso \ndizer). Mas também me alegro em saber que inúmeras pessoas sentirão a \nsensação jamais sentida. Sabemos apenas teoricamente que: o nosso corpo \nfrágil será substituído por um forte como uma penha, que as nossas \nimperfeições será substituída pela tão procurada perfeição e que o \nchoro, as dores, as dificuldades, as angústias, etc… será apenas \nlembranças para dizermos: \"Obrigado Jesus\"\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\n#Reflexao\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan class=\"gmail_sendername\"\u003eMauro Ferreira\u003c/span\u003e \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Person Holding Black Canon Dslr Camera Kit\" class=\"photo-item__img\" data-big-src=\"https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;h=750&amp;w=1260\" data-image-height=\"4000\" data-image-width=\"2248\" data-large-src=\"https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;h=650&amp;w=940\" data-pin-media=\"https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800\" data-tiny-src=\"https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" data-tiny-srcset=\"https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500 1x, https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500 2x\" height=\"320\" src=\"https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" width=\"179\" /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=500"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3621294201164411586/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2871168941249114493",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-07T20:37:00-03:00",
-   "updated": "2019-06-07T20:37:40-03:00",
-   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTU5OTUwNjYwOTMyCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/e-luz-siga.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2871168941249114493",
-   "title": " É a luz, siga!",
-   "content": "Todos os dias\n\u003cbr /\u003e\ndespertamos do sono,\u003cbr /\u003e\n\nmas esquecemos de permanecer\u003cbr /\u003e\n\ncom os olhos seguindo a  luz,\u003cbr /\u003e\n\nopinamos em muitas\u003cbr /\u003e\n\ndas vezes\u003cbr /\u003e\n\napagá-la,\u003cbr /\u003e\n\ndeixar tudo no escuro.\u003cbr /\u003e\n\nQuando sair\u003cbr /\u003e\n\ndebaixo do cobertor,\u003cbr /\u003e\n\nlembre-se primeiramente:\u003cbr /\u003e\n\nO melhor caminho\u003cbr /\u003e\n\nexistente é pela luz,\u003cbr /\u003e\n\neste ti leva acima\u003cbr /\u003e\n\nde qualquer barreira,\u003cbr /\u003e\n\ndeixa-o  atento para\u003cbr /\u003e\n\nas forças negativas.\u003cbr /\u003e\n\nÉ tão bela essa vida\u003cbr /\u003e\n\nTão sorrateira que desvia olhar\u003cbr /\u003e\n\nTraduz uma dor\u003cbr /\u003e\n\nFaz lágrimas nos\u003cbr /\u003e\n\nolhos brotarem.\u003cbr /\u003e\n\nSer feliz é mais\u003cbr /\u003e\n\nque paz interior\u003cbr /\u003e\n\nÉ glória que\u003cbr /\u003e\n\ntransforma limitações!\u003cbr /\u003e\n\n\"É obra de Deus\".\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n&nbsp;#Conselho\u003cbr /\u003e\n\u003cbr /\u003e\nRogério \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Red Candle\" class=\"photo-item__img\" data-big-src=\"https://images.pexels.com/photos/220483/pexels-photo-220483.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;h=750&amp;w=1260\" data-image-height=\"5969\" data-image-width=\"4000\" data-large-src=\"https://images.pexels.com/photos/220483/pexels-photo-220483.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;h=650&amp;w=940\" data-pin-media=\"https://images.pexels.com/photos/220483/pexels-photo-220483.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800\" data-tiny-src=\"https://images.pexels.com/photos/220483/pexels-photo-220483.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" data-tiny-srcset=\"https://images.pexels.com/photos/220483/pexels-photo-220483.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500 1x, https://images.pexels.com/photos/220483/pexels-photo-220483.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500 2x\" height=\"320\" src=\"https://images.pexels.com/photos/220483/pexels-photo-220483.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" width=\"214\" /\u003e ",
-   "images": [
-    {
-     "url": "https://images.pexels.com/photos/220483/pexels-photo-220483.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=500"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2871168941249114493/comments"
-   }
   }
  ],
- "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/MjAxOS0wOS0xNlQyMDowOTo0NC45OTNa\""
+ "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/MjAxOS0wOS0xN1QyMjoxNTo0OS41NDJa\""
 }
