@@ -1,7 +1,69 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYg-nAorMtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYoJb6xbMtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "8071787951430102291",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-19T20:22:00-03:00",
+   "updated": "2019-09-19T20:22:35-03:00",
+   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTY4OTM1MzU1NzIyCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/nada-como-o-tempo.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8071787951430102291",
+   "title": "Nada como o tempo.",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nCom o tempo, você vai percebendo que para ser feliz com uma outra pessoa, você precisa, em primeiro lugar, não precisar dela. Percebe também que aquele alguém que você ama (ou acha que ama) e que não quer nada com você, definitivamente não é o \"alguém\" da sua vida. Você aprende a gostar de você, a cuidar de você e, principalmente, a gostar de quem também gosta de você. O segredo é não correr atrás das borboletas... é cuidar do jardim para que elas venham até você. No final das contas, você vai achar não quem você estava procurando, mas quem estava procurando por você!\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDesconhecido\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"red painted hands of a woman by ulaÅ\u009f kesebir &amp; merve tÃ¼rkan - Stocksy Unite\" height=\"320\" src=\"https://i.pinimg.com/564x/e7/94/43/e79443ec0315ed73ed70c17ed3f3b4a7.jpg\" width=\"213\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/e7/94/43/e79443ec0315ed73ed70c17ed3f3b4a7.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8071787951430102291/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3332735923346518338",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-19T19:45:00-03:00",
+   "updated": "2019-09-19T19:45:46-03:00",
+   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTY4OTMzMTQ2NDc2Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/somos-escolhas.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3332735923346518338",
+   "title": "Somos escolhas",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nNão culpe a Deus pelo que aconteceu na sua vida. Somos escolhas, e, mesmo que elas não partam de você, escolha seguir, virar a página e recomeçar. Não importa se você não foi escolhida para aquele trabalho ou para estar na vida daquela pessoa. Escolha tentar de novo. Acredite, quando você escolhe olhar com positivismo para a vida, ela te recompensa pela sua escolha.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Conselho\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nPoliana Chaves\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cimg alt=\"Photography by Nick Fancher\" height=\"320\" src=\"https://i.pinimg.com/564x/4a/c9/9f/4ac99f7035b880b91bbf7a32a5065c23.jpg\" width=\"261\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/4a/c9/9f/4ac99f7035b880b91bbf7a32a5065c23.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3332735923346518338/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "4686604630140574444",
@@ -6134,69 +6196,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5143949289079347392/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5059554671951899961",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-08T16:52:00-03:00",
-   "updated": "2019-06-08T16:52:45-03:00",
-   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTYwMDIzNTY1NzUxCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/amizade.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5059554671951899961",
-   "title": "Amizade",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nOlá, eu me chamo amizade. eu existo no coração de muitos. eu tenho \nvárias formas de ser demonstrada e sentida. eu tenho vários tamanhos, \nsou de várias raças... em alguns, posso ser irmão, em outros posso ser \namiga, posso ser amigo o-a ou namorada o- a. quando sou verdadeira, eu \nduro para sempre, e engana-se quem diz que o pra sempre sempre acaba. eu\n sou eterna em vários corações. eu também tenho várias idades.  posso \nnascer agora mesmo, como também posso ter nascido a meses, a semanas, a \npoucos dias ou até muitos anos. feliz daqueles que carregam-me no peito,\n pois esses costumam ter irmãos que Deus permitiu escolher, e amigos \npara tudo e para todos os momentos. sejam de felicidade ou de dor. já \nnasci em tempos felizes e em tempos de tristezas, não importa como eu \nvou surgir em sua vida, o importante é que eu seja regada de amor, \ncarinho, respeito lealdade e muitos outros sentimentos bons.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Amizade \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nVerônica Rodrigues\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Woman Between Men Facing Mountains\" class=\"photo-item__img\" data-big-src=\"https://images.pexels.com/photos/1255062/pexels-photo-1255062.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260\" data-image-height=\"3280\" data-image-width=\"4928\" data-large-src=\"https://images.pexels.com/photos/1255062/pexels-photo-1255062.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940\" data-pin-media=\"https://images.pexels.com/photos/1255062/pexels-photo-1255062.jpeg?auto=compress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800\" data-tiny-src=\"https://images.pexels.com/photos/1255062/pexels-photo-1255062.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" data-tiny-srcset=\"https://images.pexels.com/photos/1255062/pexels-photo-1255062.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500 1x, https://images.pexels.com/photos/1255062/pexels-photo-1255062.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500 2x\" height=\"213\" src=\"https://images.pexels.com/photos/1255062/pexels-photo-1255062.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" width=\"320\" /\u003e \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://images.pexels.com/photos/1255062/pexels-photo-1255062.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5059554671951899961/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3621294201164411586",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-07T20:40:00-03:00",
-   "updated": "2019-06-07T20:47:36-03:00",
-   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTU5OTUxMjU2MTE2Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/um-dia-sera-tudo-novo.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3621294201164411586",
-   "title": "Sem Limites",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nUm dia será tudo novo! Não haverá necessidade de relógio ou outras formas de marcar o tempo. Tudo será sem limites!O calendário? Nem precisaremos mais dele, nem falta alguma nos fará. \nEnfim, muitas coisas maravilhosas haverá quando chegar este Grande Dia, \nporém, me entristeço com um algo… Em saber que existe inúmeras pessoas que se contentam com tão pouco… \nsaber que o mais valioso é aquilo que dura anos, meses, semanas, dias… \nsaber que poucos se importam do que será daqui para frente, e com isso o\n futuro é destruído como... uma pedra por um dinamite (se assim posso \ndizer). Mas também me alegro em saber que inúmeras pessoas sentirão a \nsensação jamais sentida. Sabemos apenas teoricamente que: o nosso corpo \nfrágil será substituído por um forte como uma penha, que as nossas \nimperfeições será substituída pela tão procurada perfeição e que o \nchoro, as dores, as dificuldades, as angústias, etc… será apenas \nlembranças para dizermos: \"Obrigado Jesus\"\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\n#Reflexao\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan class=\"gmail_sendername\"\u003eMauro Ferreira\u003c/span\u003e \u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Person Holding Black Canon Dslr Camera Kit\" class=\"photo-item__img\" data-big-src=\"https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;h=750&amp;w=1260\" data-image-height=\"4000\" data-image-width=\"2248\" data-large-src=\"https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;h=650&amp;w=940\" data-pin-media=\"https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800\" data-tiny-src=\"https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" data-tiny-srcset=\"https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500 1x, https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500 2x\" height=\"320\" src=\"https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" width=\"179\" /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://images.pexels.com/photos/1082663/pexels-photo-1082663.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=500"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3621294201164411586/comments"
-   }
   }
  ],
- "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/MjAxOS0wOS0xOVQwMDoxMDoxNS4yODZa\""
+ "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/MjAxOS0wOS0xOVQyMzo0NTo1NC40NDha\""
 }
