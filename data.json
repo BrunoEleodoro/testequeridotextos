@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYg43AyLMtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYoIjL8rMtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "6826204028504320539",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-19T20:57:00-03:00",
+   "updated": "2019-09-19T20:59:31-03:00",
+   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTY4OTM3NTcxNzkwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/o-tempo-e-muito-lento-para-os-que.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6826204028504320539",
+   "title": "O Tempo.",
+   "content": "O tempo é muito lento para os que esperam\u003cbr /\u003e\nMuito rápido para os que têm medo\u003cbr /\u003e\nMuito longo para os que lamentam\u003cbr /\u003e\nMuito curto para os que festejam\u003cbr /\u003e\nMas, para os que amam, o tempo é eterno.\u003cbr /\u003e\n\u003cbr /\u003e\nHenry Van Dyke\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\" \" height=\"320\" src=\"https://i.pinimg.com/564x/c3/44/6f/c3446fd8e3d300bb9733785bacdb7a00.jpg\" width=\"233\" /\u003e\u003cbr /\u003e\n\u003cbr /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/c3/44/6f/c3446fd8e3d300bb9733785bacdb7a00.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6826204028504320539/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "6204781431558336896",
@@ -6165,38 +6196,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5206394927787922574/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5404451781951614404",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-08T18:48:00-03:00",
-   "updated": "2019-06-08T18:48:20-03:00",
-   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTYwMDMwNTAwNTIzCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/diferente-de-todos.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5404451781951614404",
-   "title": " Diferente de todos",
-   "content": "\u003cspan style=\"background-color: white; color: #24292e;\"\u003eEla\n sempre se sentiu diferente de todos, mas talvez ela seja, sempre se \nsentiu \"abandonada\", mas talvez ela seja, talvez ela seja tanta coisa \nque nem ela mesma saiba, ela tenta se compreender mas falhar em seu \ncaminhar, percebe que nada da certo e que a vida lhe deu uma maré de \nazar, sabe talvez a vida lhe deu mesmo essa maré de azar, mas ela se \nesqueceu que somente os fortes, os que resistem conseguem suportar todo \nesse caos, toda essa angustia, magoa, tristeza e todo esse fardo pesado \nque esta deixando ela cada vez mais cansada, todo esse problema \nemocional tem sido motivo de choro e de desistir, desistir de ser quem \nela realmente é e aos poucos vai perdendo sua essência, esse seu \njeitinho de ser com o tempo já&nbsp;não&nbsp;existe mais, o tempo passa as pessoas\n crescem e amadurecem e com isso você&nbsp;se adapta a uma nova rotina, uma \nnova forma de ver o mundo e as pessoas, mas saiba uma coisa que por mais\n difícil&nbsp;que possa estar não&nbsp;deixe que aquela frase que diz: \"Nada é tao\n ruim que não&nbsp;possa piorar\" mas lembre-se você&nbsp;é bem mais que isso, \nconfie, acredite, busque, sonhe alto que a vida lhe mostra o caminho a \nseguir e quando menos se esperar tudo isso passou e vai perceber que foi\n só&nbsp;mais uma fazer ruim como todas as outras...\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e;\"\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e#Tristeza\u003c/span\u003e \u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003eFernanda Gava\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cbr /\u003e\n\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://2.bp.blogspot.com/-wIwOLf0OEGs/XA2G7t3Z7AI/AAAAAAAAv4k/6hHrRsx98wMjGf3dWtwOxez1z1WLALzXQCLcBGAs/s1600/tumblr_opoph66Vfz1vpk2zpo1_500.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"500\" data-original-width=\"500\" height=\"320\" src=\"https://2.bp.blogspot.com/-wIwOLf0OEGs/XA2G7t3Z7AI/AAAAAAAAv4k/6hHrRsx98wMjGf3dWtwOxez1z1WLALzXQCLcBGAs/s320/tumblr_opoph66Vfz1vpk2zpo1_500.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cbr /\u003e",
-   "images": [
-    {
-     "url": "https://2.bp.blogspot.com/-wIwOLf0OEGs/XA2G7t3Z7AI/AAAAAAAAv4k/6hHrRsx98wMjGf3dWtwOxez1z1WLALzXQCLcBGAs/s320/tumblr_opoph66Vfz1vpk2zpo1_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5404451781951614404/comments"
-   }
   }
  ],
- "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/MjAxOS0wOS0xOVQyMzo0NzozMi43MDZa\""
+ "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/MjAxOS0wOS0xOVQyMzo1OTozMS43OTBa\""
 }
