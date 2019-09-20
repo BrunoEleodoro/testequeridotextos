@@ -1,7 +1,131 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYoIjL8rMtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEY4uKXnLQtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "4185946913052423459",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-20T17:06:00-03:00",
+   "updated": "2019-09-20T17:06:12-03:00",
+   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTY5MDA5OTcyNzYwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/a-dor-que-nao-me-causa.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4185946913052423459",
+   "title": "A dor que não me causa",
+   "content": "\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003ePatricia desconhecida\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nTalvez a dor que não me causa seja as suas mensagens mal respondidas, o seu medo de me apresentar para os seus amigos ou para a sua família. A dor que você talvez não devesse me causar seria as suas respostas curtas e grossas. Você me trata mal e eu já fico triste, mas não demonstrar me parece ser a melhor opção porque por mais que meu coração esteja ferido eu me importo com você, a minha vida tem virado uma montanha-russa de emoções depois que você chegou aqui, e bem provável que eu te deixe confusa agora, mas é a dor que você acha que não me causa é a que mais me machuca todos os dias.\u003c/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n#Tristeza\u003c/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cspan style=\"text-align: start;\"\u003ePatricia desconhecida\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cspan style=\"text-align: start;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"As he dresses some of music's hottest stars in his signature reconstructed denim, we speak to James Flemons about working in LA, being a black designer in a predominantly white industry, and his lack of interest in the gender binary. #WeddingPhotography\" height=\"320\" src=\"https://i.pinimg.com/564x/47/1e/85/471e8509c833f9dc370f062d8cc060ce.jpg\" width=\"213\" /\u003e\u003c/div\u003e\n\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/47/1e/85/471e8509c833f9dc370f062d8cc060ce.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4185946913052423459/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "8684881007085191478",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-20T17:00:00-03:00",
+   "updated": "2019-09-20T17:00:30-03:00",
+   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTY5MDA5NjMwMjc4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/acredite.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8684881007085191478",
+   "title": "Acredite.",
+   "content": "Acredite\u003cbr /\u003e\n\u003cbr /\u003e\nAcredite nas pessoas... Naquelas que possuem algo mais... Aquelas que, às vezes, a gente confunde com anjos e outras divindades... Digo daquelas pessoas que existem em nossas vidas e enchem nosso espaço com pequenas alegrias e grandes atitudes... Falo daquelas que te olham nos olhos quando precisam ser verdadeiras, tecendo elogios, que pedem desculpas com a simplicidade de uma criança...\u003cbr /\u003e\n\u003cbr /\u003e\nPessoas firmes... Verdadeiras, transparentes, amigas, ingênuas... Que com um sorriso, um beijos, um abraço, uma palavra de faz feliz... Aquelas que erram... Acertam... Não tem vergonha de dizer não sei... aquelas que sonham... Aquelas amigas... Aquelas que passam pela vida deixando sua marca, saudades, aquelas que fazem à diferença... Aquelas que vivem intensamente um grande amor...\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\nDesconhecido\u003c/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\n\u003cimg alt=\"Buy 'dylan deconstruct' by Loui Jover as a Women's Chiffon Top, iPhone Case, iPhone Wallet, Case/Skin for Samsung Galaxy, Poster, Throw Pillow, Tote Bag, Studio Pouch, Mug, Travel Mug, Art Print, Canvas Print, Framed Print, Photographic P...\" height=\"320\" src=\"https://i.pinimg.com/564x/8a/da/e8/8adae893099cdb3e5eb9133967768695.jpg\" width=\"224\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/8a/da/e8/8adae893099cdb3e5eb9133967768695.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8684881007085191478/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1363400964993557323",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-20T16:57:00-03:00",
+   "updated": "2019-09-20T16:57:52-03:00",
+   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTY5MDA5NDcyOTc2Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/cansei.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1363400964993557323",
+   "title": "Cansei ",
+   "content": "\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eCansei de correr atrás.\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nNão preciso disso.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nNão sou segunda opção nem de você de ninguém.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nSe me quer, você que me procure. Se sente saudades, então demonstre. Você pensa o que?\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nQue eu vou ficar disponível pra sempre? Não vou.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nUm coração não pode bater por dois.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nCansei da sua falta de carinho e atenção.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nAs suas sumidas frequentes, os seus “ois” meio sem graça, a demora em responder minhas mensagens...tudo isso só comprova que eu mereço muito mais do você pode me dar.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nO pior de tudo é que mesmo com todas as provas na mesa eu ainda insistia em nós. Sempre acreditava que você iria mudar...\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nSó que tudo não passou de meros sonhos de um coração ainda iludido, mas aos poucos foi me perdendo e nem percebeu.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nVocê podia ter feito a diferença, podia ter me mostrado que nem todos são iguais, mas foi só mais um desses meninos imaturos que acham graça em magoar. Depois de um tempo percebi que você era só uma dessas aventuras que passam pela gente e ensinam a como não ser.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nAcha mesmo que eu te amo tanto a ponto de me humilhar por migalhas da sua atenção? Deixa eu te contar um segredo...\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nNão caio mais nessa.\u003c/div\u003e\n\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nCansei.\u003c/div\u003e\n\u003c/span\u003e\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eLofiego\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"As colagens escapistas de Ben Giles â\u0080\u0093 BLCKDMNDS\" height=\"320\" src=\"https://i.pinimg.com/564x/9e/54/60/9e5460b58a09d6f00bd0a2aff4976185.jpg\" width=\"217\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/9e/54/60/9e5460b58a09d6f00bd0a2aff4976185.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1363400964993557323/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "8243153647200485637",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-09-20T16:52:00-03:00",
+   "updated": "2019-09-20T16:52:06-03:00",
+   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTY5MDA5MTI2NzQ5Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/09/reverencia-ao-destino.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8243153647200485637",
+   "title": "Reverência ao destino.",
+   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\nFalar é completamente fácil, quando se tem palavras em mente que expressem sua opinião.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é expressar por gestos e atitudes o que realmente queremos dizer, o quanto queremos dizer, antes que a pessoa se vá.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é julgar pessoas que estão sendo expostas pelas circunstâncias.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é encontrar e refletir sobre os seus erros, ou tentar fazer diferente algo que já fez muito errado.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é ser colega, fazer companhia a alguém, dizer o que ele deseja ouvir.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é ser amigo para todas as horas e dizer sempre a verdade quando for preciso.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nE com confiança no que diz.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é analisar a situação alheia e poder aconselhar sobre esta situação.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é vivenciar esta situação e saber o que fazer ou ter coragem pra fazer.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é demonstrar raiva e impaciência quando algo o deixa irritado.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é expressar o seu amor a alguém que realmente te conhece, te respeita e te entende.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nE é assim que perdemos pessoas especiais.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é mentir aos quatro ventos o que tentamos camuflar.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é mentir para o nosso coração.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é ver o que queremos enxergar.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é saber que nos iludimos com o que achávamos ter visto.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nAdmitir que nos deixamos levar, mais uma vez, isso é difícil.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é dizer \"oi\" ou \"como vai?\"\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é dizer \"adeus\", principalmente quando somos culpados pela partida de alguém de nossas vidas...\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é abraçar, apertar as mãos, beijar de olhos fechados.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é sentir a energia que é transmitida.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nAquela que toma conta do corpo como uma corrente elétrica quando tocamos a pessoa certa.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é querer ser amado.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é amar completamente só.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nAmar de verdade, sem ter medo de viver, sem ter medo do depois. Amar e se entregar, e aprender a dar valor somente a quem te ama.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é ouvir a música que toca.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é ouvir a sua consciência, acenando o tempo todo, mostrando nossas escolhas erradas.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é ditar regras.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é segui-las.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nTer a noção exata de nossas próprias vidas, ao invés de ter noção das vidas dos outros.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é perguntar o que deseja saber.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é estar preparado para escutar esta resposta ou querer entender a resposta.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é chorar ou sorrir quando der vontade.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é sorrir com vontade de chorar ou chorar de rir, de alegria.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é dar um beijo.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é entregar a alma, sinceramente, por inteiro.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é sair com várias pessoas ao longo da vida.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é entender que pouquíssimas delas vão te aceitar como você é e te fazer feliz por inteiro.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é ocupar um lugar na caderneta telefônica.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é ocupar o coração de alguém, saber que se é realmente amado.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nFácil é sonhar todas as noites.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nDifícil é lutar por um sonho.\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Reflexao\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: center;\"\u003e\nDesconhecido\u003c/div\u003e\n&nbsp; \u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Ashley Joseph Edwards\" height=\"320\" src=\"https://i.pinimg.com/564x/7f/37/a7/7f37a7190479bcd67211ff666713fb7d.jpg\" width=\"226\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/7f/37/a7/7f37a7190479bcd67211ff666713fb7d.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8243153647200485637/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "6826204028504320539",
@@ -6072,131 +6196,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7618573299207951260/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "527626373834421501",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-10T18:56:00-03:00",
-   "updated": "2019-06-10T18:56:15-03:00",
-   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTYwMjAzNzc1MDk4Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/solidao-instantanea.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/527626373834421501",
-   "title": "Solidão Instantânea",
-   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eQueria beber,mesmo sem poder a\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003efogar tudo isso que eu sinto e carreto todos os dias, todas essas dores que me cortam como facas,quero suturar logo esses cortes e esquecer as cicatrizes que vão se formar,eu só quero deitar e chorar..mas é até engraçado,nem chorar consigo mais,a única coisa que me resta são os sorrisos forçados que dou e as falsas promessas do \"Eu estou bem\". Já estou cansada de ser a menos desse grupo,quero que vocês vejam meu talento também! Porque vocês não conseguem fazer isso? Porque vocês só olham pra ela? Isso tudo,essa situação só alimenta cada vez mais a minha insegurança,cada vez mais... eu só quero sumir,afinal o que eu sou nesse mundo?\u003c/span\u003e\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e#Tristeza\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eNanda Panisset\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para bebida tumblr\" src=\"https://i.pinimg.com/originals/ef/09/e4/ef09e4a40b7ab73345196f42709e98c0.png\" /\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/ef/09/e4/ef09e4a40b7ab73345196f42709e98c0.png"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/527626373834421501/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7886311433827430982",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-09T21:12:00-03:00",
-   "updated": "2019-06-09T21:12:07-03:00",
-   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTYwMTI1NTI3MzAxCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/espelho-meu_9.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7886311433827430982",
-   "title": "Espelho Meu",
-   "content": "Você sempre vem no mesmo horário\u003cbr /\u003e\n1 ou 2 vezes na semana\u003cbr /\u003e\nJá acostumei com o barulho da porta sendo trancada\u003cbr /\u003e\nVocê tira a roupa e fica olhando pra mim\u003cbr /\u003e\nSeu confidente,seu amigo,portador de seus segredos\u003cbr /\u003e\nSeu espelho\u003cbr /\u003e\nJá faz tempo que ouço seu choro baixinho\u003cbr /\u003e\nSentada no canto da parede\u003cbr /\u003e\nVocê levanta com aquela tristeza pesada\u003cbr /\u003e\n&nbsp;e com a cara inchada\u003cbr /\u003e\nAgarra-se a uma toalha,que seca sua chuva\u003cbr /\u003e\nnos olhos\u003cbr /\u003e\nSaí como se nada tivesse acontecido\u003cbr /\u003e\nEu só queria lhe dizer\u003cbr /\u003e\nQue você é linda\u003cbr /\u003e\nDesse seu jeitinho\u003cbr /\u003e\n\u003cbr /\u003e\n#Tristeza \u003cbr /\u003e\n\u003cbr /\u003e\nNanda Panisset\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1560124927593\" height=\"379\" src=\"https://i.pinimg.com/originals/11/e5/21/11e5213658646e5ab0005332a95a43df.jpg\" style=\"margin-top: 0px;\" width=\"356\" /\u003e\u003cbr /\u003e\n\n\u003cbr /\u003e\n\u003cbr /\u003e",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/11/e5/21/11e5213658646e5ab0005332a95a43df.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7886311433827430982/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "802371998887477192",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-09T19:20:00-03:00",
-   "updated": "2019-06-09T19:20:44-03:00",
-   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTYwMTE4ODQ0NTYzCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/voce-trouxe-cor.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/802371998887477192",
-   "title": " Você Trouxe Cor.",
-   "content": "Você chegou, e com a sua chegada coloriu minha vida, tudo \nera branco e preto, ou simplesmente quase preto. Você chegou, me \nalegrou, e tem o melhor de mim, sempre terá. Você é fascinante, e tem um\n sorriso que me encanta cada vez mais que a gente se vê, obrigada por \nter aparecido na minha vida e por ter dado cor a tudo.\u003cbr /\u003e\n\u003cbr /\u003e\n#Amor\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Tilt Shift Lens Photo of Blue Flowers\" class=\"photo-item__img\" data-big-src=\"https://images.pexels.com/photos/673857/pexels-photo-673857.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;h=750&amp;w=1260\" data-image-height=\"5559\" data-image-width=\"3908\" data-large-src=\"https://images.pexels.com/photos/673857/pexels-photo-673857.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;h=650&amp;w=940\" data-pin-media=\"https://images.pexels.com/photos/673857/pexels-photo-673857.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800\" data-tiny-src=\"https://images.pexels.com/photos/673857/pexels-photo-673857.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" data-tiny-srcset=\"https://images.pexels.com/photos/673857/pexels-photo-673857.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500 1x, https://images.pexels.com/photos/673857/pexels-photo-673857.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500 2x\" src=\"https://images.pexels.com/photos/673857/pexels-photo-673857.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" /\u003e ",
-   "images": [
-    {
-     "url": "https://images.pexels.com/photos/673857/pexels-photo-673857.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=500"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/802371998887477192/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "5206394927787922574",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-09T19:19:00-03:00",
-   "updated": "2019-06-09T19:19:09-03:00",
-   "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/dGltZXN0YW1wOiAxNTYwMTE4NzQ5MzcyCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/a-nossa-amizade.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5206394927787922574",
-   "title": "A Nossa Amizade",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\n Seu sorriso eu lembro do seu último adeus era uma amizade que poderia durar séculos \nmais vc mudou de cidade no último dia de aula lembro da nossa última \nfoto eu achava que a gente ia se rever no próximo ano mais não foi assim\n não eu simplesmente tentei esquecer minha única amizade sim vc foi \núnico melhor amigo sinto sua falta meu melhor amigo\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Amizade\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nEster\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;\u003c/div\u003e\n\u003cimg alt=\"Photo of a Person Leaning on Wooden Window\" class=\"photo-item__img\" data-big-src=\"https://images.pexels.com/photos/1510149/pexels-photo-1510149.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;h=750&amp;w=1260\" data-image-height=\"4896\" data-image-width=\"3264\" data-large-src=\"https://images.pexels.com/photos/1510149/pexels-photo-1510149.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;h=650&amp;w=940\" data-pin-media=\"https://images.pexels.com/photos/1510149/pexels-photo-1510149.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;fit=crop&amp;h=1200&amp;w=800\" data-tiny-src=\"https://images.pexels.com/photos/1510149/pexels-photo-1510149.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" data-tiny-srcset=\"https://images.pexels.com/photos/1510149/pexels-photo-1510149.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500 1x, https://images.pexels.com/photos/1510149/pexels-photo-1510149.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500 2x\" src=\"https://images.pexels.com/photos/1510149/pexels-photo-1510149.jpeg?auto=format%2Ccompress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" /\u003e",
-   "images": [
-    {
-     "url": "https://images.pexels.com/photos/1510149/pexels-photo-1510149.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=500"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/5206394927787922574/comments"
-   }
   }
  ],
- "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/MjAxOS0wOS0xOVQyMzo1OTozMS43OTBa\""
+ "etag": "\"9KCnYxscaz10d-tD_QS5gx6_88g/MjAxOS0wOS0yMFQyMDowNjoxMi43NjBa\""
 }
