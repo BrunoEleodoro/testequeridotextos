@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYwKKzt7ctEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEY4Mbbt7ctEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "6498105991481503952",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-10-01T20:31:00-03:00",
+   "updated": "2019-10-01T20:31:07-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTY5OTcyNjY3MTEwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/10/ate-quando-deus-quiser.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6498105991481503952",
+   "title": "Até quando Deus quiser",
+   "content": "\u003cdiv\u003e\nA lua quando brilha\u003c/div\u003e\n\u003cdiv\u003e\nFala de amor\u003c/div\u003e\n\u003cdiv\u003e\nNo gingado desse xote\u003c/div\u003e\n\u003cdiv\u003e\nSinto o teu calor\u003c/div\u003e\n\u003cdiv\u003e\nA noite acordado\u003c/div\u003e\n\u003cdiv\u003e\nSonho com você\u003c/div\u003e\n\u003cdiv\u003e\nO som ligado\u003c/div\u003e\n\u003cdiv\u003e\nE fico perturbado\u003c/div\u003e\n\u003cdiv\u003e\nSem ter o que fazer\u003c/div\u003e\n\u003cdiv\u003e\nE tento sair dessa rotina\u003c/div\u003e\n\u003cdiv\u003e\nNão quero não\u003c/div\u003e\n\u003cdiv\u003e\nColo de mamãe\u003c/div\u003e\n\u003cdiv\u003e\nSó quero colo de menina\u003c/div\u003e\n\u003cdiv\u003e\nE pouco a pouco\u003c/div\u003e\n\u003cdiv\u003e\nConquistar o teu coração\u003c/div\u003e\n\u003cdiv\u003e\nNo outro dia agente se vê\u003c/div\u003e\n\u003cdiv\u003e\nVou pro um lugar\u003c/div\u003e\n\u003cdiv\u003e\nQue lembre do sertão\u003c/div\u003e\n\u003cdiv\u003e\nE canto um xote\u003c/div\u003e\n\u003cdiv\u003e\nPara te convencer\u003c/div\u003e\n\u003cdiv\u003e\nVou te ensinar\u003c/div\u003e\n\u003cdiv\u003e\nComo viver é bom\u003c/div\u003e\n\u003cdiv\u003e\nE amar até\u003c/div\u003e\n\u003cdiv\u003e\nAmar até\u003c/div\u003e\n\u003cdiv\u003e\nAté quando Deus quiser\u003c/div\u003e\n\u003cdiv\u003e\nE amar até\u003c/div\u003e\n\u003cdiv\u003e\nAmar até\u003c/div\u003e\n\u003cdiv\u003e\nAté quando Deus quiser\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cimg alt=\"Larissa Hofmannâ\u009d¤â\u009d¤â\u009d¤â\u009d¤ Olhos de cigana, oblÃ\u00adqua e dissimulada...\" height=\"320\" src=\"https://i.pinimg.com/564x/2e/dc/d8/2edcd8cdb094b87890dbe0cdd40b6a65.jpg\" width=\"279\" /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/2e/dc/d8/2edcd8cdb094b87890dbe0cdd40b6a65.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6498105991481503952/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "4458665000694841504",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-10-01T20:00:00-03:00",
+   "updated": "2019-10-01T20:00:32-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTY5OTcwODMyODI5Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/10/caminhos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4458665000694841504",
+   "title": "Caminhos.",
+   "content": "\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003eA vida nos propõe caminhos\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003ee não sabemos quais seguir\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003esão tantos já traçados\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003esão tantos para onde ir\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003eEntre o medo e a insegurança;\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003eentre o sim e não;\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003eQuem nos guiará,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003eo amor ou a razão?\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003eAs incertezas nos cercam,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003enos tomam conta as ansiedades,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003esão dúvidas que nos afligem,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003eSão mentiras e verdades\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003eBasta vivermos cada dia\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003epara aprendermos a lição,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003ecada um nessa vida\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003etem que cumprir sua missão\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003eÉ um fato a ser lembrado,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003eum segredo a ser escondido,\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003esão planos a serem traçados\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003ee sonhos para serem vividos.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003e#Conselhos\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cimg alt=\"ALPHAIATE\" height=\"320\" src=\"https://i.pinimg.com/564x/15/ab/30/15ab30c8e27a975ac822df90028e97de.jpg\" width=\"213\" /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/15/ab/30/15ab30c8e27a975ac822df90028e97de.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4458665000694841504/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "673184676402927933",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-10-01T19:57:00-03:00",
+   "updated": "2019-10-01T19:57:55-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTY5OTcwNjc1NDY1Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/10/incertezas.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/673184676402927933",
+   "title": "Incertezas",
+   "content": "\u003cdiv\u003e\nSe os sonhos não pudessem criar novos tempos, se a esperança não iluminasse cada amanhecer, se a cada novo dia não pudéssemos escrever uma nova história, a vida seria repleta de certezas. Mas a vida é cheia de incertezas, e é isso que nos estimula a sonhar e a depositar nossas esperanças no amanhã, sabendo que o hoje é uma fonte inesgotável de possibilidades de ser feliz.\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\nDesconhecido\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cimg alt=\"Source: nickdixy\" height=\"320\" src=\"https://i.pinimg.com/564x/ec/e2/b1/ece2b1f853b01923c653b4a96c87cffd.jpg\" width=\"213\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/ec/e2/b1/ece2b1f853b01923c653b4a96c87cffd.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/673184676402927933/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "7178816712549215713",
@@ -6098,100 +6191,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7079698056216396786/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4086194496428375525",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-20T19:11:00-03:00",
-   "updated": "2019-06-20T19:13:48-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYxMDY4ODI4NjkwCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/eu-te-amo.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4086194496428375525",
-   "title": "Eu Te Amo...",
-   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\nHá se as pessoas fossem sinceras pelo menos no \"Eu te amo\", muitas pessoas hoje não estariam sofrendo, só bastava ser sincero, e não dizer. Hoje em dia, um \" Eu te amo\" virou comum, virou um despedida, tem aparecido depois de um \"boa noite\", o amor tem ficado cliché, porque dizemos que amamos, mas no fundo, desejamos mal, fazemos fofocas, contamos mentiras, mas o \"eu te amo\" está lá, para tudo e para todos, mas na primeira oportunidade, derruba, chuta, tira foto e ainda posta que pessoa caiu, te pergunto eu, isso é amor??? O amor tem se tornado tão raro hoje em dia, que desconfiamos de tudo de todos, temos brigas e mais brigas, de religião, de política, isso cansa, esse ódio acumulado cansa, mas no meio desse ódio, no meio dessas confusões, estão o famoso \" Eu te amo\", infelizmente, na maioria das vezes, ele é falso.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n#Amor\u003cbr /\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\nIsrael Mozart\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cimg alt=\"Photo of Two Woman Wearing Rainbow Capes\" height=\"320\" src=\"https://images.pexels.com/photos/1166580/pexels-photo-1166580.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" width=\"213\" /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://images.pexels.com/photos/1166580/pexels-photo-1166580.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4086194496428375525/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4855200573638627416",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-20T19:09:00-03:00",
-   "updated": "2019-06-20T19:14:25-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYxMDY4ODY1MTU3Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/nao-se-reinvente.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4855200573638627416",
-   "title": "Não Se Reinvente...",
-   "content": "\u003cdiv dir=\"auto\" style=\"background-color: white; color: #222222; font-family: sans-serif;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"color: black; font-family: &quot;roboto&quot; , sans-serif; font-size: 16px;\"\u003e\u003cspan style=\"color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"\u003eEu me refiz pensando ser eu o problema,e me reinventei&nbsp;diversas vezes tentando me encaixar em algo que não me servia,que não era pra mim,procurando a tal felicidade. No final eu voltei a ser como eu era e quer saber... Eu fui feliz. A felicidade é questão de ser,de ser como quer ser e não como o mundo exige que você seja. O Mundo é apenas o Mundo e sua felicidade é apenas seu ser. Não se reinvente&nbsp;para se encaixar em algo que te fará feliz por um instante,a verdadeira felicidade não te molda,ela te abraça assim como você é e dura toda a eternidade.\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n#Conselho\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n\u003cb\u003eAnna Gaby\u003c/b\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\"\u003e\n\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; color: black; font-family: Roboto, sans-serif; font-size: 16px; text-align: center;\"\u003e\n\u003cimg alt=\"Person Walking while Holding Rainbow Colored Flag\" height=\"320\" src=\"https://images.pexels.com/photos/2433122/pexels-photo-2433122.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500\" width=\"213\" /\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://images.pexels.com/photos/2433122/pexels-photo-2433122.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4855200573638627416/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2785844027810100036",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-20T19:06:00-03:00",
-   "updated": "2019-06-20T19:06:05-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYxMDY4MzY1NTU4Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/medo-de-sorrisos.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2785844027810100036",
-   "title": "Medo de Sorrisos",
-   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\nSim, eu tenho medo de sorrisos, porque somente um sorriso pode esconder tantas coisas, um sorriso pode falar tantas coisas, um sorriso destrói relacionamentos, um sorriso, somente um sorriso, tem um grande poder, e isso me deixa com medo, até mesmo do meu próprio sorriso. Pessoas vivem sorrindo, mas por dentro estão chorando, por dentro estão gritando por ajuda, por dentro estão devastados, mas por fora, tem o belo e lindo sorriso. Saímos com um sorriso, mas no final estamos chorando no nosso travesseiro, então do que adianta se você sorrir, se tua alma chora?? O que adianta você sorrir, se não é isso que você realmente quer?? Palhaços tem depressão, e vivem sorrindo e fazendo outras pessoas sorrirem, ISSO É TRISTE.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n#Tristeza\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\nIsrael Mozart\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cimg alt=\"White and Black Wall Paint\" height=\"219\" src=\"https://images.pexels.com/photos/709732/pexels-photo-709732.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=750&amp;w=1260\" width=\"320\" /\u003e\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://images.pexels.com/photos/709732/pexels-photo-709732.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2785844027810100036/comments"
-   }
   }
  ],
- "etag": "\"MjAxOS0wOS0zMFQwMToxNTowOC40NTNa\""
+ "etag": "\"MjAxOS0xMC0wMVQyMzozMTowNy4xMTBa\""
 }
