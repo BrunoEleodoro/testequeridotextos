@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYorf4s7gtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYwKTb3rgtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "6710007674621645172",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-10-05T21:23:00-03:00",
+   "updated": "2019-10-05T21:23:57-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTcwMzIxNDM3MzUxCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/10/pessoas-felizes.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6710007674621645172",
+   "title": "Pessoas Felizes",
+   "content": "\u003cdiv\u003e\nAs pessoas mais felizes não têm as melhores coisas. Elas sabem fazer o melhor das oportunidades que aparecem em seus caminhos. A felicidade aparece para aqueles que choram. Para aqueles que se machucam. Para aqueles que buscam e tentam sempre.\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n#Reflexao&nbsp;\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cimg alt=\" \" src=\"https://i.pinimg.com/564x/fb/ea/9f/fbea9ff117eaa3bb8d7aa7056d15e7e9.jpg\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/fb/ea/9f/fbea9ff117eaa3bb8d7aa7056d15e7e9.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6710007674621645172/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "43979912004859041",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-10-05T21:22:00-03:00",
+   "updated": "2019-10-05T21:22:18-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTcwMzIxMzM4MTUwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/10/o-amor-e-saudade.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/43979912004859041",
+   "title": "O Amor e a Saudade",
+   "content": "\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eNão há regras...\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003enão há controle...\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eapenas acontece!\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eVocê não consegue resistir\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003epor mais que tente fugir,\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eele chega para você\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eeste amor que lhe tem de pertencer!\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eNão há distância que impeça,\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003enão há ausência que afaste,\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eapenas acontece!\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eVocê não consegue deixar de sentir\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003epor mais que tente impedir,\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eela fica em você,\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eesta saudade que faz sofrer!\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eE assim...\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eo amor e a saudade\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003evão caminhando,\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003ecrescendo... se avolumando,\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003ejuntamente com a esperança.\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eEsta esperança que faz acreditar\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003ena realização desse amor.\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eUm amor que parece\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eimpossível de acontecer,\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003emas que lhe está destinado\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eno momento certo você vai viver!\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eE a saudade??\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eJá não vai mais existir,\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003ejá não vai mais fazer sofrer...\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e#Amor\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"www.byfarshoes.com\" height=\"320\" src=\"https://i.pinimg.com/564x/45/2d/4c/452d4c6f31a17ac72a4ab974af15ce9b.jpg\" width=\"213\" /\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/45/2d/4c/452d4c6f31a17ac72a4ab974af15ce9b.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/43979912004859041/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3708497730743913032",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-10-05T21:04:00-03:00",
+   "updated": "2019-10-05T21:04:01-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTcwMzIwMjQxOTkwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/10/acredita-se-que.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3708497730743913032",
+   "title": "Acredita-se que...",
+   "content": "\u003cdiv\u003e\nAcredita-se que a alma-de-borboleta voa por aí enquanto seu dono está dormindo. Ela viaja entre o tempo e o espaço, encontrando as almas-borboletas de outras pessoas e animais, voltando quando seu dono acorda. As crianças de Myanmar ainda aprendem que nunca se acorda uma pessoa bruscamente, porque a win-laik-pya (\"alma de borboleta\") pode não conseguir voltar a tempo, o que mataria a pessoa, ou pior... ela viveria ..sem a alma.\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cimg alt=\"Borboleta\" height=\"320\" src=\"https://i.pinimg.com/564x/eb/4e/7b/eb4e7b59aed37c180e85a702afadc056.jpg\" width=\"180\" /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/eb/4e/7b/eb4e7b59aed37c180e85a702afadc056.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3708497730743913032/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "231055826117717821",
@@ -6098,100 +6191,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8355476201602121015/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "8345900815610082736",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-24T19:52:00-03:00",
-   "updated": "2019-06-24T19:52:22-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYxNDE2NzQyNDE5Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/saudades_24.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8345900815610082736",
-   "title": "Saudades ",
-   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eTenho saudades de me sentir bonita, sem precisar ouvir isso. Tenho saudades de quando tudo parecia fazer mais sentido e não estar cheia de dúvidas. Tenho saudades de me sentir mais eu. Tenho saudades de ser quem eu quero ser, sem ser que os outros me julguem ou me olhem estranho por aquilo que eu irei fazer ou fiz ou zombar e rir, saudades de algumas pessoas que saíram da minha vida e muitos vezes eu nem sei o porque e sinto falta dessas pessoas, me conectar mais com algumas pessoas. Sinto saudades de me iludir e não ser tão realista e perceber que infelizmente há muitos pessoas ruins e más no mundo e talvez muitos que querem o meu mau e o mau de muitos. Saudades de ser mais otimista com tudo. Saudades, eu...\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e#Tristeza\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003eSunflower\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para saudades tumblr\" src=\"https://pbs.twimg.com/profile_images/726804705695899648/mgxiodSk_400x400.jpg\" /\u003e",
-   "images": [
-    {
-     "url": "https://pbs.twimg.com/profile_images/726804705695899648/mgxiodSk_400x400.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8345900815610082736/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3254641066652024681",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-23T19:41:00-03:00",
-   "updated": "2019-06-23T19:41:21-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYxMzI5NjgxODk0Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/nao-desista-do-amor.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3254641066652024681",
-   "title": "Não Desista Do Amor.",
-   "content": "\u003cdiv dir=\"auto\" style=\"background-color: white; color: #222222; font-family: arial, helvetica, sans-serif; font-size: small;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nNão desista do amor. Não desista do amor só porque não souberam te amar...amor é a coisa mais complicada já vista, porque as vezes amamos o errado ou confundimos o amor ....as pessoas &nbsp;estão adoecendo por falta de amor...já outras estão sofrendo por amar...todavia ninguém é errado por amar ou culpado pelo outro não estar apto a receber tal afeto...A falta deste sentimento tão puro e genuíno nos deixou \"congelados\" e quando tal sentimento é renegado nos destruímos ,mas o amor não é errado,então não tenha medo de amar ,medo de sofrer,medo de falhar...simplesmente ame porque este sentimento é a cura...só por favor não desista do amor\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Amor\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"background-color: white; color: #222222; font-family: arial, helvetica, sans-serif; font-size: small;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://3.bp.blogspot.com/-d3B5e7lQVk4/W5mfUlw1pbI/AAAAAAAAu_U/d3evSzjVbhkbWBaDXir3DN2bkwzyNcYSQCLcBGAs/s1600/images%2B%25281%2529.jpeg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"384\" data-original-width=\"384\" height=\"320\" src=\"https://3.bp.blogspot.com/-d3B5e7lQVk4/W5mfUlw1pbI/AAAAAAAAu_U/d3evSzjVbhkbWBaDXir3DN2bkwzyNcYSQCLcBGAs/s320/images%2B%25281%2529.jpeg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://3.bp.blogspot.com/-d3B5e7lQVk4/W5mfUlw1pbI/AAAAAAAAu_U/d3evSzjVbhkbWBaDXir3DN2bkwzyNcYSQCLcBGAs/s320/images%2B%25281%2529.jpeg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3254641066652024681/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4684917092128783525",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-06-23T19:39:00-03:00",
-   "updated": "2019-06-23T19:39:51-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYxMzI5NTkxMzQ4Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/06/sobre-mim.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4684917092128783525",
-   "title": "Sobre mim",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"\u003eEu ultimamente tenho gastado as folhas do meu caderno para falar dos meus sentimentos, e acho que estou&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white; color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"\u003evirando uma pessoa meio viciada em solidão.&nbsp;&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white; color: #222222; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"\u003eOs pais vivem falando,&nbsp; \"Você não é pior do que ninguém!\",&nbsp; qual o sentido disso? Nenhum! Não é de uma hora para outra, não é por causa de uma frase, música, palavra, que vamos melhorar. Minha mente é muito vaga, e as vezes muito bipolar, mas a mente de quem não é assim? Pessoas perfeitas?Desculpe dizer, mas ela não existem!&nbsp;\u003c/span\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"background-color: white; color: #222222; font-family: arial, helvetica, sans-serif;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nA perfeição e uma maneira de falar que a pessoa é normal. Mas se por acaso quando está triste se olha no espelho e se questiona:\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"background-color: white; color: #222222; font-family: arial, helvetica, sans-serif;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nComo é que ninguém percebe?&nbsp;\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"background-color: white; color: #222222; font-family: arial, helvetica, sans-serif;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\nVocê sim e especial, não é perfeito, nem se acha o melhor, é apenas você aceitando a cruel verdade. Se você é assim, não precisa de ajuda, nem de conselhos, tem que apenas se aceitar, o mundo não é unicórnios e pandas, o mundo é escuridão e tristeza, e geralmente uma mentira, as pessoas são mentiras, e o que destoa, e deixa o mundo melhor, são pessoas assim! Que sofrem em silêncio e durante o dia colocam uma porra de sorriso no rosto!\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Conselho\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para coraÃ§Ã£o tumblr\" src=\"https://gifs.eco.br/wp-content/uploads/2017/12/Gifs-Cora%C3%A7%C3%A3o-Tumblr-300x300.gif\" /\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"background-color: white; color: #222222; font-family: arial, helvetica, sans-serif;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://gifs.eco.br/wp-content/uploads/2017/12/Gifs-Cora%C3%A7%C3%A3o-Tumblr-300x300.gif"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4684917092128783525/comments"
-   }
   }
  ],
- "etag": "\"MjAxOS0xMC0wNFQwMDoxMjowMy4yNTRa\""
+ "etag": "\"MjAxOS0xMC0wNlQwMDoyMzo1Ny4zNTFa\""
 }
