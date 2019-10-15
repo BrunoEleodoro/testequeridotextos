@@ -13,3 +13,4 @@ git config user.email "travis@travis.org"
 git config user.name "travis" # this email and name can be set anything you like
 echo "foi"
 git push https://bot-queridotextos:atualizartextos1@github.com/BrunoEleodoro/testequeridotextos/ --all
+# a
