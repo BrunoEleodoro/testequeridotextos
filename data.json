@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEY4d-4prstEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEY4eCTzrstEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "8693889888329652222",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-10-20T22:21:00-03:00",
+   "updated": "2019-10-20T22:21:04-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTcxNjIwODY0NDgwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/10/se-eu-mudei.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8693889888329652222",
+   "title": "Se eu mudei?",
+   "content": "\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003eSe eu mudei?\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003eÉ claro, hoje eu me valorizo mais. Não deixo qualquer palavra de qualquer pessoa me atingir, não choro pelo que não vale a pena, não imploro amor de ninguém, descarto falsidade e não corro mais atrás de quem eu sei que não me quer por perto.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003e#Reflexao\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cspan style=\"color: #333333; font-family: Helvetica, Arial, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cimg alt=\"By Emily Clewer.\" height=\"320\" src=\"https://i.pinimg.com/564x/05/01/58/0501582489c6dd04534b61089586c48a.jpg\" width=\"207\" /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/05/01/58/0501582489c6dd04534b61089586c48a.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/8693889888329652222/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "6717145178723156178",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-10-20T21:55:00-03:00",
+   "updated": "2019-10-20T21:55:01-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTcxNjE5MzAxNjk2Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/10/bons-dias.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6717145178723156178",
+   "title": "Bons dias",
+   "content": "\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eQue saudade daquele dia\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eEm que tudo começou\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003ePerto de mim você se assentou\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eE nossa amizade ali raiou\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eO tempo passou tão depressa\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eE nós soubemos aproveitar\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eMais uma amiga incrível\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eA vida me deu pra cuidar\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eComo era bom poder partilhar\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eMeus dias com alguém tão alegre\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eQue me fazia sorrir\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eE deixava minha vida mais leve\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003ePor fim os bons dias acabaram\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eE a distância se achegou\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eMas não, a nossa amizade\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eEla não atrapalhou\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eMeses e meses se passarão\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eAnos também virão\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eTudo poderá mudar\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eMas a nossa amizade não\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eSei que ganhei um presente\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eMinha pequena amiga\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eTe guardo em meu coração\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eE saiba que és mui querida\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Galactic. Made with PicsArt by @3lenapg\" height=\"320\" src=\"https://i.pinimg.com/564x/b0/09/c5/b009c570c7577e12e9e4e3401ca878d7.jpg\" width=\"213\" /\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/b0/09/c5/b009c570c7577e12e9e4e3401ca878d7.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6717145178723156178/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "6916137937760715469",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-10-20T20:34:00-03:00",
+   "updated": "2019-10-20T20:34:58-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTcxNjE0NDk4MjEyCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/10/avida-e-muito-curta.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6916137937760715469",
+   "title": "Avida é muito curta....",
+   "content": "\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eCuidado, a vida é muito curta para ser pequena. É preciso engrandecê-la. E, para isso, é preciso tomar cuidado com duas coisas: a primeira é que tem muita gente que cuida demais do urgente e deixa de lado o importante. Cuida da carreira, do dinheiro, do patrimônio, mas deixa o importante de lado. Depois não dá tempo.\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eA segunda grande questão é gente que se preocupa muito com o fundamental e deixa o essencial de lado. O essencial é tudo aquilo que não pode não ser: amizade, fraternidade, solidariedade, sexualidade, religiosidade, lealdade, integridade, liberdade, felicidade. Isso é essencial. Fundamental é tudo aquilo que te ajuda a chegar ao essencial. Fundamental é a tua ferramenta, como uma escada.\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eUma escada é algo que me ajuda a chegar a algum lugar. Ninguém tem uma escada para ficar nela. Dinheiro não é essencial. Dinheiro é fundamental. Sem ele, você tem problema, mas ele, em si, não resolve. Emprego é fundamental, carreira é fundamental. O essencial é o que não pode não ser. Essencial é aquilo que faz com que a vida não se apequene. Que faz com que a gente seja capaz de transbordar. Repartir vida. Repartir o essencial, a amizade, a amorosidade, a fraternidade, a lealdade. Repartir a capacidade de ter esperança e, para isso, ter coragem. Coragem não é a ausência de medo.\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eCoragem é a capacidade de enfrentar o medo. O medo, assim como a dor, é um mecanismo de proteção que a natureza coloca para nós. Se você e eu não tivermos medo nem dor, ficamos muito vulneráveis. Porque a dor é um alerta e a dor nos prepara. É preciso coragem para que a nossa obra não se apequene. E, para isso, precisamos ter esperança.\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eE, como dizia o grande Paulo Freire, “tem de ser esperança do verbo esperançar”. Tem gente que tem esperança do verbo esperar. E esperança do verbo esperar não é esperança, é espera. “Ah, eu espero que dê certo, espero que resolva, espero que funcione.” Isso não é esperança. Esperançar é ir atrás, é se juntar, é não desistir. Esperançar é achar, de fato, que a vida é muito curta para ser pequena. E precisamos pensar se estamos nos dedicando ao importante em vez de ao urgente. Tem gente que diz: “Ah, mas eu não tenho tempo”. Atenção: tempo é uma questão de prioridade, de escolha.\u003c/span\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: #fafafa; box-sizing: border-box; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eQuando eu digo que não tenho tempo para isso, estou dizendo que isso não é importante para mim. Cuidado, você já viu infartado que não tem tempo? Se ele sobreviver, ele arruma um tempo. O médico dizia “você não pode fazer isso, tem de andar todos os dias”. Se ele infartar e sobreviver, no outro dia você vai vê-lo, às 6 horas da manhã, andando. Se ele tinha tempo, que ele teve de arrumar agora, por que não fez isso antes? Você tem tempo? Se não tem, crie. Talvez precisemos rever as nossas prioridades. Será que estamos cuidando do urgente e deixando o importante de lado? Será que não estamos atrás do fundamental, em vez de ir em busca do essencial? E assim, contribuir com meu verso!\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e#Conselho\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"I love, again, the cartoony affect added onto this portrait.\" height=\"320\" src=\"https://i.pinimg.com/564x/ab/72/f8/ab72f8ed7bef4c6066aab95a01a10c1c.jpg\" width=\"227\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/ab/72/f8/ab72f8ed7bef4c6066aab95a01a10c1c.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6916137937760715469/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "3728797141792605352",
@@ -6098,100 +6191,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4706581009337190750/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "6757557279141266629",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-07-03T18:35:00-03:00",
-   "updated": "2019-07-03T18:35:11-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYyMTg5NzExMDExCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/07/lixo-colocado-para-fora.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6757557279141266629",
-   "title": "Lixo Colocado Para Fora. ",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eÀs vezes me coloco em situação tão complicadas que na maioria das vezes tento me esconder delas da forma menos dolorosa, para mim e para meus pulsos.&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eMovimentar meus dedos e escrever apenas o que vêm na cabeça, ou o que o coração vai comandando, vivi tantos transtornos, pessoas que eu confiava cortaram minhas asas e mesmo assim tenho que voar e segurar o munto todo nas minhas costas, sem me enfraquecer ou pensar em desistir (impossível) mesmo tentando o máximo, e colocando todas as minhas forças em algo simples que vira um enorme problema para minha mente já suja e composta de dor.&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white;\"\u003e\u003cspan style=\"color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003eFalar daqueles que disseram não abandonar, ou simplesmente falaram em um papo de futuro, é o pior! ter que dizer que algumas pessoas&nbsp;vêm para somar e de repente somem, e te deixam com aqueles planos todos guardados na mente e com o tempo vai tudo para o coração, causando mais feridas, tais eu tenho que lidar com elas, por não existir um meio de cicatrização e nem eliminar minha dor para não \"ferir\" o ego imundo daqueles que dizem me amar.&nbsp;\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eAnônima\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para olhando para mar  tumblr\" src=\"https://novasemente.org/wp-content/uploads/2016/09/aaa.jpg\" /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://novasemente.org/wp-content/uploads/2016/09/aaa.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6757557279141266629/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "326468279004783150",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-07-02T19:30:00-03:00",
-   "updated": "2019-07-02T19:30:57-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYyMTA2NjU3OTc4Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/07/nada-esta-perdido.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/326468279004783150",
-   "title": "Nada Está Perdido!",
-   "content": "\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; color: #222222; font-family: &quot;arial&quot; , sans-serif;\"\u003eTurbilhões de pensamentos, angústia, dor, decepção, tudo parece perdido, você não consegue mais ver a luz no fim do túnel inúmeras portas se fecharam pra você o medo de que nada vai mudar ti cercou, você não sabe pra onde ir ou para quem pedir ajuda já que você está sozinho por que todos que um dia você confio deixaram você se perder nessa escuridão, até que você vê uma pequena luz quase se apagando bem ali no final do corredor você vai em direção a ela então você sente alguém segurando sua mão e quando você chega naquela luz sente que conseguiu passar por mais um desafio e que você é capaz, pois Deus nunca vai deixar nenhuma porta se fechar para você por que ele é a luz e solução de todos os teus problemas.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"background-color: white; color: #222222; font-family: arial, sans-serif;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"background-color: white; color: #222222; font-family: arial, sans-serif;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cb\u003eMelissa Alcântara\u003c/b\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv dir=\"auto\" style=\"background-color: white; color: #222222; font-family: arial, sans-serif;\"\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cb\u003e\u003cbr /\u003e\u003c/b\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://2.bp.blogspot.com/-MGLawb0laXE/Wo2l_F19FiI/AAAAAAAAs2s/l_G_wMgXWCI_h0HJKnkYTssE656HCnOWwCLcBGAs/s1600/Nada%2Best%25C3%25A1%2Bperdido%2521.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"334\" data-original-width=\"500\" height=\"212\" src=\"https://2.bp.blogspot.com/-MGLawb0laXE/Wo2l_F19FiI/AAAAAAAAs2s/l_G_wMgXWCI_h0HJKnkYTssE656HCnOWwCLcBGAs/s320/Nada%2Best%25C3%25A1%2Bperdido%2521.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://2.bp.blogspot.com/-MGLawb0laXE/Wo2l_F19FiI/AAAAAAAAs2s/l_G_wMgXWCI_h0HJKnkYTssE656HCnOWwCLcBGAs/s320/Nada%2Best%25C3%25A1%2Bperdido%2521.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/326468279004783150/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "9029900231749541348",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-07-02T19:29:00-03:00",
-   "updated": "2019-07-02T19:29:45-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYyMTA2NTg1MzM0Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/07/conselho.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9029900231749541348",
-   "title": "Conselho.",
-   "content": "\u003cspan style=\"background-color: white; color: #222222; font-family: &quot;arial&quot; , sans-serif;\"\u003eEu sei que é muito difícil levantar a cabeça e seguir em frente com todos dizendo o que você tem que fazer e como você tem que ser. Sei também que ser julgado por todos é difícil. Mas lembre-se que você não tem que ser como eles querem que você seja, você é muito especial para seguir padrões, para ser como outras pessoas. Tudo bem se você não for padrão \"manequim\" tudo bem também se você tiver cabelos volumosos, cacheados ou até mesmo crespos. Você é linda desse jeito, você é linda do seu jeito. Nunca pense em mudar ou queira mudar seu jeito por alguém, ou por alguém que disse que você ficaria melhor de tal forma. As pessoas julgam muito, mas sabem pouco, não se reprima!! Se manifeste porque você não merece ser tratada assim, ninguém merece.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #222222; font-family: &quot;arial&quot; , sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #222222; font-family: &quot;arial&quot; , sans-serif;\"\u003e#Conselho\u003c/span\u003e\u003cbr /\u003e\n\u003cbr style=\"background-color: white; color: #222222; font-family: arial, sans-serif;\" /\u003e\n\u003cspan style=\"background-color: white; color: #222222; font-family: &quot;arial&quot; , sans-serif;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white; color: #222222; font-family: arial, sans-serif;\"\u003eMari B.\u003c/span\u003e\u003cbr /\u003e\n\u003cb style=\"background-color: white; color: #222222; font-family: arial, sans-serif;\"\u003e\u003cbr /\u003e\u003c/b\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://1.bp.blogspot.com/-0YTMniT1-NI/Wosm_kFkSZI/AAAAAAAAs2M/A67dbj46NtYIrPswA7pszPRju1cZvDrmACLcBGAs/s1600/tumblr_ltmiieGDN21r1vi5bo1_500.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"358\" data-original-width=\"500\" height=\"282\" src=\"https://1.bp.blogspot.com/-0YTMniT1-NI/Wosm_kFkSZI/AAAAAAAAs2M/A67dbj46NtYIrPswA7pszPRju1cZvDrmACLcBGAs/s400/tumblr_ltmiieGDN21r1vi5bo1_500.jpg\" width=\"400\" /\u003e\u003c/a\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://1.bp.blogspot.com/-0YTMniT1-NI/Wosm_kFkSZI/AAAAAAAAs2M/A67dbj46NtYIrPswA7pszPRju1cZvDrmACLcBGAs/s400/tumblr_ltmiieGDN21r1vi5bo1_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/9029900231749541348/comments"
-   }
   }
  ],
- "etag": "\"MjAxOS0xMC0xOFQyMDoxMzo0Mi45MjZa\""
+ "etag": "\"MjAxOS0xMC0yMVQwMToyMTowNC40ODBa\""
 }
