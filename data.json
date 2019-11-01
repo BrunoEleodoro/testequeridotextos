@@ -1,7 +1,100 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYgZ6WxL0tEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYxeKE870tEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "3009748083077290327",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-10-31T21:43:00-03:00",
+   "updated": "2019-10-31T21:43:43-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTcyNTY5MDIzNTc4Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/10/voce-e-apenas-o-passado.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3009748083077290327",
+   "title": "Você é apenas o passado.",
+   "content": "\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eEu já acreditei: Em contos de fadas, eu já acreditei que podia voar, eu já acreditei em príncipe encantando, eu já quis ser dona do mundo, eu já quis pintar o meu arco íris no céu! Mas hoje eu cresci! Troquei meus medos por conquistas, troquei meus amigos imaginários por amigos de verdade, troquei meu coração de criança; por um de menina! Ela tem estilo bonequinha, só que o problema é que não é de porcelana. Ela é\u003c/span\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003emais forte do que ferro e tem mais energia do que a mulher maravilha, você bate, xinga, mente, reclama, atropela, pisa; e ela nem liga, se levanta, sai como se nada tivesse acontecido... Você é apenas o passado\u003c/span\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eesquecido...\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e#Amor\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eDesconhecido\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"sente a brisa\" src=\"https://i.pinimg.com/564x/ad/5d/d0/ad5dd0ff3f1e148a78619345070f6165.jpg\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/ad/5d/d0/ad5dd0ff3f1e148a78619345070f6165.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3009748083077290327/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7176386131976734688",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-10-31T21:41:00-03:00",
+   "updated": "2019-10-31T21:41:22-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTcyNTY4ODgyMjQ1Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/10/a-vida-nao-e-um-placar.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7176386131976734688",
+   "title": "A vida não é um placar.",
+   "content": "\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eA vida não é um placar. O importante não é quantas pessoas telefonam para você, nem com quem você saiu ou está saindo. Também não importa se você está ou não, namorando alguém. O importante não são seus sapatos, nem seus cabelos, nem a cor da sua pele, nem onde você mora. Na vida nada disso é importante.&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eO importante na vida é quem você ama, e quem ama você.&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eÉ como você se sente em relação a você mesmo. É confiança,&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eÉ ficar do lado de amigos e substituir o ódio pelo amor. O importante na vida é evitar a inveja, não querer o mal dos outros, superar a ignorância e construir a confiança. É o que você diz e o significado de suas palavras. É gostar das pessoas pelo que elas são e não pelo que elas têm.&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eAcima de tudo, é escolher usar a sua vida para tocar a vida de outra pessoa de um jeito que a fará mais feliz. O importante na vida são as escolhas!\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\nEntão escolha ser feliz!\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n#Reflexao\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cimg alt=\" \" src=\"https://i.pinimg.com/564x/fd/39/96/fd39967a4e26d99f1f842f3551f8a19a.jpg\" /\u003e\u003c/div\u003e\n\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/fd/39/96/fd39967a4e26d99f1f842f3551f8a19a.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7176386131976734688/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7780707891086320732",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-10-31T21:32:00-03:00",
+   "updated": "2019-10-31T21:32:41-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTcyNTY4MzYxNDIyCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/10/ha-momentos-que-valem-uma-vida.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7780707891086320732",
+   "title": "Há momentos que valem uma vida…  ",
+   "content": "\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eA vida pode mudar em um instante… Podemos fazer planos e imaginar nosso futuro, mas esquecemos que esse futuro pode se alterar em um piscar de olhos… Não deixe que outras pessoas estraguem a sua vida ou destruam as suas amizades, e jamais deixe que a tristeza do passado e o medo do futuro estraguem o hoje… Pois a vida não vale um momento, mas há momentos que valem uma vida…&nbsp;&nbsp;\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003eDesconhecido\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: #fafafa; color: #333333; font-family: Helvetica, Arial, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Эстетика богем\" src=\"https://i.pinimg.com/564x/97/b6/7a/97b67a4cad03c93857521351a007c61b.jpg\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/97/b6/7a/97b67a4cad03c93857521351a007c61b.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7780707891086320732/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "1486335397978205740",
@@ -6098,100 +6191,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1930652888544121686/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "2605468083101937956",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-07-10T21:14:00-03:00",
-   "updated": "2019-07-10T21:14:20-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYyODA0MDYwODgwCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/07/lembrancas.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2605468083101937956",
-   "title": "Lembranças",
-   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; margin-bottom: 16px;\"\u003e\nToda madrugada eu lembro de nós, lembro do seu cheiro e do seu toque, me seguro pra não ver tuas fotos, e quando vejo já estou escrevendo pra você novamente, mas não te mando nada, e nunca vou mandar, você não merece minhas palavras, muito menos minhas lágrimas, mas eu choro, não por você ter sido filho da puta e ter estragado tudo, choro por não saber oque fazer com a parte de mim que não entende, porque chegamos aonde chegamos e porque chegamos, e como chegamos, choro por ter que fingir esquecimento de todos nossos momentos lindos, choro pelo \"nós dois \" que hoje se tornou impossível.\u003cbr /\u003e\n\u003cbr /\u003e\n#Reflexao\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; margin-bottom: 16px;\"\u003e\nThalia Rangel\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://2.bp.blogspot.com/-ZjsNZ4cQVPw/XCAXp1RBqXI/AAAAAAAAwDc/r1iLz8GrjOwY7jYDjSuTH7x40X88cFZ1wCLcBGAs/s1600/2911-3.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"379\" data-original-width=\"500\" height=\"241\" src=\"https://2.bp.blogspot.com/-ZjsNZ4cQVPw/XCAXp1RBqXI/AAAAAAAAwDc/r1iLz8GrjOwY7jYDjSuTH7x40X88cFZ1wCLcBGAs/s320/2911-3.jpg\" width=\"320\" /\u003e\u003c/a\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://2.bp.blogspot.com/-ZjsNZ4cQVPw/XCAXp1RBqXI/AAAAAAAAwDc/r1iLz8GrjOwY7jYDjSuTH7x40X88cFZ1wCLcBGAs/s320/2911-3.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/2605468083101937956/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "4517055876573848113",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-07-10T21:14:00-03:00",
-   "updated": "2019-07-10T21:14:07-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYyODA0MDQ3Nzc1Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/07/sentimentos.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4517055876573848113",
-   "title": "Sentimentos ",
-   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eAs vezes eu me pego pensando, como pode eu, não conseguir administrar os meus próprios sentimentos? é tudo bem confuso e difícil, nunca consigo saber, de quem eu gosto ou do que eu gosto ou não, não consigo me expressar pra ninguém! Isso até que é meio ruim, tento falar do meu sentimento para alguém, mesmo ser for bom ou ruim eu não consigo, parece que fica preso na minha garganta e eu não consigo colocar pra fora.. é ruim pois fico com raiva de mim por não conseguir me expressar e fico com raiva da pessoa por não entender o que eu não consegui falar. É horrível.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003eDesconhecido\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot; , &quot;segoe ui symbol&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cdiv class=\"separator\" style=\"clear: both; text-align: center;\"\u003e\n\u003ca href=\"https://4.bp.blogspot.com/-qpPAFt8Ah20/XBwcnBJiRuI/AAAAAAAAwAg/ucL_VlXjEGU2pCTDKCfcGxsoEvmb0W4zACLcBGAs/s1600/170c0740176cad727c1355362b87a0ce.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"\u003e\u003cimg border=\"0\" data-original-height=\"700\" data-original-width=\"399\" height=\"320\" src=\"https://4.bp.blogspot.com/-qpPAFt8Ah20/XBwcnBJiRuI/AAAAAAAAwAg/ucL_VlXjEGU2pCTDKCfcGxsoEvmb0W4zACLcBGAs/s320/170c0740176cad727c1355362b87a0ce.jpg\" width=\"181\" /\u003e\u003c/a\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://4.bp.blogspot.com/-qpPAFt8Ah20/XBwcnBJiRuI/AAAAAAAAwAg/ucL_VlXjEGU2pCTDKCfcGxsoEvmb0W4zACLcBGAs/s320/170c0740176cad727c1355362b87a0ce.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/4517055876573848113/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "6262858715457763757",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-07-09T17:56:00-03:00",
-   "updated": "2019-07-09T18:01:17-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYyNzA2MDc3MDg4Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/07/se-for-saudade.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6262858715457763757",
-   "title": "Se for Saudade.",
-   "content": "Às vezes penso em ti, fico com o coração em disparada, talvez seja amor, talvez quem sabe, ternura, felicidade, exaltação ou bastante saudade. Se for saudade, os meus momentos, as noites mal dormidas, fantasias, os dias, meses, anos, minhas poesias, madrugadas, sonhos, as lembranças, os desencontros, meu grito, minha espera, solidão, o meu sol, a lua... Estão tomados de saudade tua.\u003cbr /\u003e\n\u003cbr /\u003e\nCamilly Santos\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cimg alt=\"Resultado de imagem para saudade tumblr\" height=\"242\" src=\"https://i.pinimg.com/236x/82/9d/fd/829dfd76457893cf5856320228a01137--portuguese-i-miss-you.jpg\" width=\"320\" /\u003e",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/236x/82/9d/fd/829dfd76457893cf5856320228a01137--portuguese-i-miss-you.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/6262858715457763757/comments"
-   }
   }
  ],
- "etag": "\"MjAxOS0xMC0yOVQwMDozMDoyMC44ODBa\""
+ "etag": "\"MjAxOS0xMS0wMVQwMDo0Mzo0My41Nzha\""
 }
