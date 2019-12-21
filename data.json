@@ -1,7 +1,131 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYwsbP4sAtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYgIeC3cEtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "368410134639871719",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-12-21T17:35:00-03:00",
+   "updated": "2019-12-21T17:35:02-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTc2OTYwNTAyNjA0Cm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/12/a-lua-e-dos-romanticos.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/368410134639871719",
+   "title": "A lua é dos românticos",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003eTalvez ninguém realmente me entenda. Quando eu olho para o céu eu não vejo estrelas. Eu vejo a tentativa de me fazer apaixonada. É assim... Deus fez a lua para os apaixonados. Mas tem gente que ainda acha que ela é dos Estados Unidos...\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan class=\"css-truncate-target\" style=\"box-sizing: border-box; display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; vertical-align: top; white-space: nowrap;\"\u003e#Amor\u003c/span\u003e\u003cbr /\u003e\n\u003cspan class=\"css-truncate-target\" style=\"box-sizing: border-box; display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; vertical-align: top; white-space: nowrap;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan class=\"css-truncate-target\" style=\"box-sizing: border-box; display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; vertical-align: top; white-space: nowrap;\"\u003e\u003cimg alt=\"Os galhos secos da árvore parecem estar segurando a lua, num cenário típicamente africano.\" src=\"https://i.pinimg.com/564x/db/f8/7f/dbf87fb19d6829bd9063ba83d4110613.jpg\" /\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan class=\"css-truncate-target\" style=\"box-sizing: border-box; display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; vertical-align: top; white-space: nowrap;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan class=\"css-truncate-target\" style=\"box-sizing: border-box; display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; vertical-align: top; white-space: nowrap;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/db/f8/7f/dbf87fb19d6829bd9063ba83d4110613.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/368410134639871719/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "1363127882022133729",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-12-21T17:31:00-03:00",
+   "updated": "2019-12-21T17:31:41-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTc2OTYwMzAxMjQxCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/12/reviver.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1363127882022133729",
+   "title": "Reviver.",
+   "content": "\u003cspan style=\"background-color: white; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cspan style=\"color: #444444;\"\u003eQuem diria que minha alegria eu encontraria no fundo dos seus olhos, e do seu beijo nasceria o desejo que reviver minha vida, e nos seus braços estaria minha paz a tempos perdida.\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cspan style=\"color: #444444;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cspan class=\"css-truncate-target\" style=\"box-sizing: border-box; display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; vertical-align: top; white-space: nowrap;\"\u003e\u003cspan style=\"color: #444444;\"\u003e#Amor\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cspan style=\"color: #444444;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cspan style=\"color: #444444;\"\u003eWagner Lopes\u003c/span\u003e\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cspan style=\"color: #444444;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cimg alt=\"Occhi che riflettono il mondo nella street art di My Dog Sighs\" height=\"320\" src=\"https://i.pinimg.com/564x/9e/e5/f6/9ee5f60b7e76b0ea54573706100102d7.jpg\" width=\"256\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/9e/e5/f6/9ee5f60b7e76b0ea54573706100102d7.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1363127882022133729/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "479957906563716150",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-12-21T17:20:00-03:00",
+   "updated": "2019-12-21T17:20:46-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTc2OTU5NjQ2MjQzCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/12/bem-querer.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/479957906563716150",
+   "title": "Bem Querer.",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot;; font-size: 14px;\"\u003eEstou aqui ouvindo uma musica, curtindo a melhor companhia, a minha e esse incrível app, nele tem muitas palavras boas para serem lidas, serem expressadas, serem colocadas em prática partir da possibilidade, é quase uma terapia já instalei, já li, já estou escrevendo e esperando que muitas pessoas sintam-se felizes com essa grandiosidade que é o pensar o descrever na forma escrita o amor que todos devemos sentir a plenitude de amar o que somos e melhorar pra somar com outros alguéns, e nessa soma tudo que sobressai é o bem querer.\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot;; font-size: 14px;\"\u003e#Conselho\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot;; font-size: 14px;\"\u003eRasb\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: , &quot;blinkmacsystemfont&quot; , &quot;segoe ui&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif , &quot;apple color emoji&quot; , &quot;segoe ui emoji&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003cimg alt=\"Photography Artistic Vintage 44 Ideas For 2019 #photography\" src=\"https://i.pinimg.com/564x/1d/c5/e7/1dc5e736091ec642ba4bfd31c6556959.jpg\" /\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/1d/c5/e7/1dc5e736091ec642ba4bfd31c6556959.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/479957906563716150/comments"
+   }
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3519850111254103531",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2019-12-21T17:18:00-03:00",
+   "updated": "2019-12-21T17:18:51-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTc2OTU5NTMxNTQwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2019/12/me-pertenco.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3519850111254103531",
+   "title": "Me Pertenço.",
+   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-size: 14px; margin-bottom: 16px;\"\u003e\nÉ difícil o ser humano cair na real para perceber que a vida não é só sobre ter, mas sim sobre pertencer.Pertencer no lar que é o lugar onde o nosso coração está gravado,existem pessoas que tem de um tudo material ,mas acabam por não ter o essencial, aquilo que o dinheiro não compra e que o homem não vende,a incrível sensação de pertencimento,sempre me deparo com dilemas do meu dia a dia e reconheço que também observei algumas pessoas nos seus conflitos mais íntimos e vi o quão vazias suas vidas podem ser ,para as pessoas que sempre estão em busca de mais,em busca de riquezas, isso vai exigir um sacrifício maior que qualquer retorno e vai destruir aquilo que elas tem e não deram o devido valor,lembre-se não é possível ter tudo sem não perder nada,a vida é muito complicada e sempre nos complicamos ainda mais com ela,ser feliz nunca será fácil,mas valorizando o que você já tem, focando no agora é possível você ter e pertencer.\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-size: 14px; margin-bottom: 16px;\"\u003e\n#Reflexao\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-size: 14px; margin-bottom: 16px;\"\u003e\nVittor\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-size: 14px; margin-bottom: 16px;\"\u003e\n\u003cimg alt=\"Não queria falar nada mas... Eu já não tenho mais controle.\" src=\"https://i.pinimg.com/564x/ca/e5/40/cae5403d4118ce576c8c357f05af9b5b.jpg\" /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-size: 14px; margin-bottom: 16px;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/ca/e5/40/cae5403d4118ce576c8c357f05af9b5b.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3519850111254103531/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "93217010592987973",
@@ -6067,131 +6191,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/1960243856084092115/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7385967305062190875",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-07-20T20:51:00-03:00",
-   "updated": "2019-07-20T20:51:49-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYzNjY2NzA5NDU4Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/07/saudade-das-partes.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7385967305062190875",
-   "title": "Saudade Das Partes ",
-   "content": "\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\nEu sinto saudade, não é de você por inteiro, mas das tuas partes... Sinto falta das tuas pernas, que ao se movimentar te traziam a 30cm de mim. E deitados na cama eram enroladas nas minhas. Sinto falta dos teus braços, que guiando tuas mãos encontravam meu pescoço e massageavam meu rosto inteiro. E em um abraço, os benditos braços me prendiam inteira. Sinto falta do teu peito, que servia de travesseiro, que servia de sinfonia pois encostada nele eu ouvia teu coração e sabia que a cada pulso você teria mais minutos comigo. Mas de todas as tuas partes... a que eu mais sinto falta, são seus olhos, aqueles malditos, porem belos, olhos... De uma cor que somente a natureza primaveril conseguiria reproduzir, onde eu me perdia e me encontrava, onde eu queria nadar e morar... que escondia todos os sentimentos, mas que eu amaria desvendar... Sinto falta dos teus olhos principalmente por eles serem seus, por serem sua marca registrada, por entre um milhão de pessoas ser somente você... sinto falta das suas partes... pois as partes fazem um todo... Não sinto falta de você inteiro, pois você não está completo, você não percebeu, mas te falta uma parte... o seu amor, que sou eu! Sinta minha falta...\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; margin-bottom: 16px; text-align: justify;\"\u003e\n#Amor\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\nHemy Morena\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cbr /\u003e\u003c/div\u003e\n\u003cdiv style=\"background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 14px; text-align: justify;\"\u003e\n\u003cimg alt=\"Resultado de imagem para deitado na rede TUMBLR\" src=\"https://i.pinimg.com/originals/cc/de/cd/ccdecd79ec3b10f33cdbe7112ca6c215.jpg\" /\u003e\u003c/div\u003e\n",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/cc/de/cd/ccdecd79ec3b10f33cdbe7112ca6c215.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7385967305062190875/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "219372364514085875",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-07-19T19:44:00-03:00",
-   "updated": "2019-07-19T19:44:30-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYzNTc2MjcwMzQwCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/07/os-dias.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/219372364514085875",
-   "title": "Os Dias",
-   "content": "\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eOlhei pela janela, chovia entre a parte aberta\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003ePingos sentia em minhas mãos\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eum sorriso em mim criava\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eA calma da chuva\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eConsequentemente me acalmava\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eA Ansiedade cessará\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eEu que estava tão inquieta\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eA mexer as pernas e os braços\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eNão via um descanso e em fim achará\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eA chuva veio limpar o que me fez refém\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eA chuva me levou pra longe&nbsp;\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003edo que me fez ser ninguém\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eEm tantos pensamentos\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eA procura de alguém que&nbsp;\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003ese perderá com um tempo\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eEncontrei ela de volta em um&nbsp;\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003esimples chuvisqueiro\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eAlgo tão simples e verdadeiro&nbsp;\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eque nós faz fazer descaso.\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eEsquecendo que a vida\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003esó tem graça no que é calmo.\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e#Reflexao\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"Resultado de imagem para Fim de tarde tumblr\" src=\"https://4.bp.blogspot.com/-ThFJu3_qx4M/TWUTUBES3GI/AAAAAAAAAB8/aKEIxtR4mKk/s1600/tumblr_l3fecoewij1qzxvjgo1_500_large.jpg\" /\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
-   "images": [
-    {
-     "url": "https://4.bp.blogspot.com/-ThFJu3_qx4M/TWUTUBES3GI/AAAAAAAAAB8/aKEIxtR4mKk/s1600/tumblr_l3fecoewij1qzxvjgo1_500_large.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/219372364514085875/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "95951964284803997",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-07-19T19:25:00-03:00",
-   "updated": "2019-07-19T19:25:56-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYzNTc1MTU2MDQ3Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/07/amigas-distancia.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/95951964284803997",
-   "title": "Amigas á Distância",
-   "content": "\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eNão vou mentir sempre achei que amizade a distância não dava certo, mas por ironia desse destino, eu tive que me mudar de cidade e não queria deixar minha melhor amiga para trás, e nos duas pensávamos que cm o tempo nossa amizade iria acabar, e olha foi tudo ao contrário, mostramos para todos que amizade é bem mais do que conviver cm a pessoa todos os dias, e sair pros rolês aleatórios, mas sim está ali realmente quando ela precisar, é saber quando um oi é diferente, é ter aquela vontade de abraçar ela mais não pode porque a distância impede, é valorizar cada abraço, cada sorriso, cada palavra, é compreender que a distância é tão pequena perto do amor, é brigar mesmo de longe, é contar sobre tudo de novo que está acontecendo, é dar aqueles puxões de orelha quando faz algo errado, é saber que as brigas nos une cada vez mais, não é fácil pois a saudade as vezes bate forte, e é querer ter a pessoa por perto Mas saber que isso não é possível, mas tudo isso vale a pena, quando chega o dia de ir visitar tu, o abraço é tão apertado, chega a rolar até lágrimas, é rir uma da outra, e ver só uma coisa mudou, o amor q sentimos uma pela outra cresce a cada dia, é ter aquele ciúme uma da outra, é saber que sempre uma vai fecha com a outra, isso sim é amizade a distância, e sério não trocaria ela por ninguém. TE amo minha menina.\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"font-family: Roboto, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\n#Amizade\u003c/div\u003e\n\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eEvelyn karen&nbsp;\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cimg alt=\"Imagem relacionada\" class=\"irc_mi\" data-iml=\"1551481898871\" height=\"408\" src=\"https://i.pinimg.com/originals/c1/b5/b6/c1b5b6137f996ac9d496db6a6688b3da.jpg\" style=\"background-color: white; border: 0px; font-family: Roboto, sans-serif; font-size: 16px; height: inherit; margin-top: 0px; max-width: 100%;\" width=\"408\" /\u003e",
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/c1/b5/b6/c1b5b6137f996ac9d496db6a6688b3da.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/95951964284803997/comments"
-   }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "3172484344420637235",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-07-19T19:22:00-03:00",
-   "updated": "2019-07-19T19:22:46-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTYzNTc0OTY2NzQ0Cm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/07/gosto-do-amor.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3172484344420637235",
-   "title": "Gosto Do Amor",
-   "content": "\u003cbr /\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eEu quis tentar.&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eEu até insistir em ti amar e você tão natural e friamente, fez de mim uma palavra qualquer em meio ao dicionário que você já tinha escrito.&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eEnquanto eu fiz de você inspiração para todos os meus textos e frases, você era a predominância de tudo ao meu redor.&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eAgora me questiono intensamente&nbsp;\u003c/span\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003eNo começo oferece a você uma doçura semelhante ao mel, para enfim apresentar-te algo tão amargo quanto o fel. Seria esse o gosto do AMOR?\u003c/span\u003e\u003c/div\u003e\n\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"font-family: Roboto, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e\u003cdiv style=\"text-align: justify;\"\u003e\n&nbsp;Rany Sofia\u003c/div\u003e\n\u003c/span\u003e\u003cdiv style=\"text-align: justify;\"\u003e\n\u003cspan style=\"font-family: Roboto, sans-serif;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/div\u003e\n\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e&nbsp;\u003c/span\u003e\u003cimg alt=\"\" class=\"main_photo\" height=\"320\" src=\"https://66.media.tumblr.com/8114191c53937622b53b43b828b760b7/tumblr_pdw1qoTAU51u3u3h0o1_500.jpg\" style=\"background-color: white; border: 0px; font-family: Roboto, sans-serif; font-size: 16px; height: inherit; max-width: 100%;\" width=\"320\" /\u003e",
-   "images": [
-    {
-     "url": "https://66.media.tumblr.com/8114191c53937622b53b43b828b760b7/tumblr_pdw1qoTAU51u3u3h0o1_500.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3172484344420637235/comments"
-   }
   }
  ],
- "etag": "\"MjAxOS0xMi0xOFQyMTozMzoyMC42NTBa\""
+ "etag": "\"MjAxOS0xMi0yMVQyMDozNTowMi42MDRa\""
 }
