@@ -1,7 +1,38 @@
 {
  "kind": "blogger#postList",
- "nextPageToken": "CgoIyAEYofad0MQtEIDgusHtsZq7Jg",
+ "nextPageToken": "CgoIyAEYw_So0MQtEIDgusHtsZq7Jg",
  "items": [
+  {
+   "kind": "blogger#post",
+   "id": "206631794337526311",
+   "blog": {
+    "id": "2771518682926329856"
+   },
+   "published": "2020-01-05T22:22:00-03:00",
+   "updated": "2020-01-05T22:22:47-03:00",
+   "etag": "\"dGltZXN0YW1wOiAxNTc4MjczNzY3NzMwCm9mZnNldDogLTEwODAwMDAwCg\"",
+   "url": "http://queridotextos.blogspot.com/2020/01/era-uma-vez.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/206631794337526311",
+   "title": "Era uma vez.",
+   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003eEu costumava ser aquele tipo de garota que acreditava que contos de fadas era real, mesmo as pessoas dizendo que isso era fantasia,mas mesmo assim no fundo eu ainda achava que o príncipe da minha vida iria aparecer galopando um cavalo branco lindo e eu iria montar e nos dois iriamos ver o sol se por.mas hoje vejo que isso só foi nada mais nada menos do que uma bela ilusão.mas no fundo eu acho que criei essa ilusão para esquecer dos problemas reais que existe. E\u003c/span\u003e\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003eu costumo dizer uma frase que me faz sentir bem é assim.\" melhor viver em uma ilusão mesmo sendo mentira do que numa realidade infeliz\".\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan class=\"css-truncate-target\" style=\"box-sizing: border-box; display: inline-block; max-width: 100%; overflow: hidden; text-overflow: ellipsis; vertical-align: top; white-space: nowrap;\"\u003e#Reflexão\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003eFenix001\u003c/span\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cimg alt=\"eva*\" src=\"https://i.pinimg.com/564x/8b/d9/f3/8bd9f350c122be6ae09c2421278530ce.jpg\" /\u003e\u003cbr /\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\n\u003cspan style=\"background-color: white; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e",
+   "images": [
+    {
+     "url": "https://i.pinimg.com/564x/8b/d9/f3/8bd9f350c122be6ae09c2421278530ce.jpg"
+    }
+   ],
+   "author": {
+    "id": "12342349784980677998",
+    "displayName": "queridotextos",
+    "url": "https://www.blogger.com/profile/12342349784980677998",
+    "image": {
+     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
+    }
+   },
+   "replies": {
+    "totalItems": "0",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/206631794337526311/comments"
+   }
+  },
   {
    "kind": "blogger#post",
    "id": "5936419261224681690",
@@ -6160,38 +6191,7 @@
     "totalItems": "0",
     "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/3939489715030428929/comments"
    }
-  },
-  {
-   "kind": "blogger#post",
-   "id": "7029418905347110371",
-   "blog": {
-    "id": "2771518682926329856"
-   },
-   "published": "2019-07-31T18:55:00-03:00",
-   "updated": "2019-07-31T18:55:11-03:00",
-   "etag": "\"dGltZXN0YW1wOiAxNTY0NjEwMTExNzMzCm9mZnNldDogLTEwODAwMDAwCg\"",
-   "url": "http://queridotextos.blogspot.com/2019/07/borboletas.html",
-   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7029418905347110371",
-   "title": "Borboletas",
-   "content": "\u003cspan style=\"background-color: white; color: #24292e; font-family: Roboto, sans-serif; font-size: 14px;\"\u003eEi, t\u003c/span\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e\u003cspan style=\"color: #24292e;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003ealvez tenha sido apenas a curiosidade que tenha juntado vocês dois . Nenhum se conhecia , e você era colecionadora de casos novos , você queria saber mais sobre ele , você foi atrás. É , um dia você decidiu mandar um \"oi\" o problema que era pequeno foi aumentando , aumentando . Ele ganhou espaço nos dias chuvosos e nas tardes de filme , você apresentou ele aos seus sonhos e aos seus ídolos , sua realidade . Ele te mostrou os sonhos dele , as músicas favoritas, as fotos de família, as artes que tanto o fascinavam . Você se fascinou com o novo , até que um novo dia nasceu e você que era uma borboleta voou de suas mãos para longe , pois ele sabia que não&nbsp;podia te prender para sempre aquela realidade .\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e\u003cspan style=\"color: #24292e;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e\u003cspan style=\"color: #24292e;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e#Conselho\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cbr style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\" /\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e\u003cspan style=\"color: #24292e;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\u003cbr /\u003eDesconhecida\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e\u003cspan style=\"color: #24292e;\"\u003e\u003cspan style=\"font-size: 14px;\"\u003e\u003cbr /\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"background-color: white; font-family: Roboto, sans-serif; font-size: 16px;\"\u003e\u003c/span\u003e\u003cimg alt=\"Imagem relacionada\" height=\"213\" src=\"https://data.whicdn.com/images/20404714/tumblr_lwxoqeVoIg1qjuevro1_500_large.jpg\" style=\"background-color: white; border: 0px; font-family: Roboto, sans-serif; font-size: 16px; height: inherit; max-width: 100%;\" width=\"320\" /\u003e",
-   "images": [
-    {
-     "url": "https://data.whicdn.com/images/20404714/tumblr_lwxoqeVoIg1qjuevro1_500_large.jpg"
-    }
-   ],
-   "author": {
-    "id": "12342349784980677998",
-    "displayName": "queridotextos",
-    "url": "https://www.blogger.com/profile/12342349784980677998",
-    "image": {
-     "url": "//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35"
-    }
-   },
-   "replies": {
-    "totalItems": "0",
-    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2771518682926329856/posts/7029418905347110371/comments"
-   }
   }
  ],
- "etag": "\"MjAyMC0wMS0wNFQwMTowOToxMS40OTFa\""
+ "etag": "\"MjAyMC0wMS0wNlQwMToyNDowNy40ODFa\""
 }
